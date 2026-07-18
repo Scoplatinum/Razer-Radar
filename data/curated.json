@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T01:20:00+08:00",
-  "notice": "One-off verified first edition published before the regular 08:00 schedule.",
+  "generated_at": "2026-07-19T02:10:00+08:00",
+  "notice": "Full-standard interim edition with region coverage and expanded pathways.",
   "items": [
     {
       "id": "sussex-ccn-2026",
@@ -22,7 +22,8 @@
         "国际申请",
         "跨专业可说明"
       ],
-      "source_url": "https://www.sussex.ac.uk/study/masters/courses/cognitive-and-clinical-neuroscience-msc"
+      "source_url": "https://www.sussex.ac.uk/study/masters/courses/cognitive-and-clinical-neuroscience-msc",
+      "section": "神经与认知项目"
     },
     {
       "id": "sheffield-ccn-2026",
@@ -44,7 +45,8 @@
         "计算建模",
         "研究项目"
       ],
-      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-and-computational-neuroscience-msc"
+      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-and-computational-neuroscience-msc",
+      "section": "神经与认知项目"
     },
     {
       "id": "york-cns-2026",
@@ -66,7 +68,8 @@
         "神经影像",
         "实验项目"
       ],
-      "source_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cognitive-neuroscience/"
+      "source_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cognitive-neuroscience/",
+      "section": "神经与认知项目"
     },
     {
       "id": "sheffield-neuroimaging-2026",
@@ -88,7 +91,8 @@
         "fMRI／EEG／TMS",
         "备选项目"
       ],
-      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-neuroscience-and-human-neuroimaging-msc"
+      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-neuroscience-and-human-neuroimaging-msc",
+      "section": "神经与认知项目"
     },
     {
       "id": "cambridge-cbu-2027",
@@ -110,7 +114,8 @@
         "9月10日开放",
         "提前准备"
       ],
-      "source_url": "https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-cognitive-neuroscience/"
+      "source_url": "https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-cognitive-neuroscience/",
+      "section": "神经与认知项目"
     },
     {
       "id": "elife-tms-memory-meta-2026",
@@ -132,7 +137,178 @@
         "海马网络",
         "TMS"
       ],
-      "source_url": "https://elifesciences.org/articles/108934"
+      "source_url": "https://elifesciences.org/articles/108934",
+      "section": "研究动态"
+    },
+    {
+      "id": "uva-is-ds-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "信息研究硕士：数据科学方向",
+      "title_en": "MSc Information Studies: Data Science",
+      "organization": "University of Amsterdam",
+      "location": "荷兰・阿姆斯特丹",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 77,
+      "verification_status": "verified",
+      "summary": "英文授课的跨学科数据科学方向，强调数据在商业、科学与社会中的解释与应用；2027 申请时间需继续跟踪。",
+      "summary_en": "An English-taught interdisciplinary Data Science track focused on extracting meaning from data across business, science and society; the 2027 timeline remains under watch.",
+      "relevance": "欧洲大陆中兼顾跨学科背景与数据应用的高质量观察项目。",
+      "tags": [
+        "欧洲大陆",
+        "跨学科",
+        "2027观察"
+      ],
+      "source_url": "https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html"
+    },
+    {
+      "id": "utokyo-cs-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "计算机科学硕士／博士 2027 招生",
+      "title_en": "Computer Science Master's and Doctoral Admissions — AY 2027",
+      "organization": "The University of Tokyo",
+      "location": "日本・东京",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 82,
+      "verification_status": "verified",
+      "summary": "信息理工研究科已发布 2027 学年计算机科学硕博招生指南入口；TOEFL 替代英语考试，多数研究科课程自 2026 年 4 月起以英语授课。",
+      "summary_en": "The graduate school has published its AY 2027 admissions route; TOEFL replaces the English exam and most graduate lectures moved to English from April 2026.",
+      "relevance": "亚洲地区当前可核验的 2027 招生节点；需细查数学考试与研究室要求。",
+      "tags": [
+        "日本",
+        "2027招生",
+        "需查考试要求"
+      ],
+      "source_url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/admission_e.shtml"
+    },
+    {
+      "id": "neu-align-cs",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "计算机科学 Align 硕士",
+      "title_en": "Align MS in Computer Science",
+      "organization": "Northeastern University · Khoury College",
+      "location": "美国／加拿大多校区",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 86,
+      "verification_status": "verified",
+      "summary": "专为非计算机背景申请者设计，前两个学期补足计算机基础，再进入 AI、人机交互、网络安全等方向；官网当前提供申请入口。",
+      "summary_en": "Designed for applicants without a CS background, with two foundation semesters before specialisations including AI, HCI and cybersecurity.",
+      "relevance": "跨专业转向计算机的明确桥梁项目；需重点评估总学费、校区与就业签证。",
+      "tags": [
+        "北美",
+        "跨专业",
+        "桥梁课程"
+      ],
+      "source_url": "https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/"
+    },
+    {
+      "id": "neu-align-ai",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "人工智能 Align 硕士",
+      "title_en": "Align MS in Artificial Intelligence",
+      "organization": "Northeastern University · Khoury College",
+      "location": "美国",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 84,
+      "verification_status": "verified",
+      "summary": "面向非计算机专业申请者，通过学术桥梁课程达到研究生层级的计算机与 AI 基础。",
+      "summary_en": "An AI master's built for non-CS majors, using an academic bridge before graduate-level computer science and AI study.",
+      "relevance": "比通用 CS 更直接指向算法与 AI，但应比较课程深度、成本及入门岗位门槛。",
+      "tags": [
+        "北美",
+        "跨专业",
+        "人工智能"
+      ],
+      "source_url": "https://www.khoury.northeastern.edu/programs/align-ms-in-artificial-intelligence/"
+    },
+    {
+      "id": "unimelb-mds",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "数据科学硕士",
+      "title_en": "Master of Data Science",
+      "organization": "University of Melbourne",
+      "location": "澳大利亚・墨尔本",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 78,
+      "verification_status": "verified",
+      "summary": "项目允许不同背景通过先修课路径进入，但要求大学层级编程、微积分与线性代数等基础。",
+      "summary_en": "The programme offers flexible entry from different backgrounds, subject to university-level prerequisites in programming, calculus and linear algebra.",
+      "relevance": "可作为澳洲跨方向选项；资格取决于既有课程能否满足三类先修要求。",
+      "tags": [
+        "澳大利亚",
+        "灵活入学",
+        "有先修要求"
+      ],
+      "source_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/"
+    },
+    {
+      "id": "tencent-campus-ai-data",
+      "category": "求职",
+      "section": "算法与AI岗位",
+      "title": "腾讯 2026 校园招聘：AI 数据、数据工程等岗位簇",
+      "title_en": "",
+      "organization": "腾讯校园招聘",
+      "location": "中国・多地",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 80,
+      "verification_status": "verified",
+      "summary": "腾讯官方校招岗位页当前显示搜索／推荐／模型应用、AI 基础设施、AI 数据、数据工程与高性能计算等技术方向；具体岗位需逐项核对城市与任职条件。",
+      "summary_en": "",
+      "relevance": "提供初级算法、AI 数据与数据工程的官方入口；后续只收录符合应届或低经验要求的具体岗位。",
+      "tags": [
+        "中国大厂",
+        "校招",
+        "AI数据／数据工程"
+      ],
+      "source_url": "https://join.qq.com/post.html?pid=2"
+    }
+  ],
+  "coverage": [
+    {
+      "region": "英国与爱尔兰",
+      "status": "scanned",
+      "note": "5 条项目机会；Sussex 截止时间最紧。"
+    },
+    {
+      "region": "欧洲大陆",
+      "status": "scanned",
+      "note": "新增 UvA 数据科学观察项目；ETH 2026 国际申请已关闭。"
+    },
+    {
+      "region": "香港与新加坡",
+      "status": "scanned_no_high_quality_new",
+      "note": "本轮未发现仍开放且满足跨专业标准的高质量新增；继续监测 2027 轮次。"
+    },
+    {
+      "region": "日本与韩国",
+      "status": "scanned",
+      "note": "新增东京大学 2027 信息理工招生入口；韩国本轮无高质量新增。"
+    },
+    {
+      "region": "美国与加拿大",
+      "status": "scanned",
+      "note": "新增 Northeastern Align CS／AI 两个跨专业桥梁项目。"
+    },
+    {
+      "region": "澳大利亚",
+      "status": "scanned",
+      "note": "新增墨尔本大学数据科学硕士，需满足编程与数学先修。"
     }
   ]
 }
