@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-07-19T08:00:00+08:00",
+  "notice": "These are layout samples and must be replaced by verified daily results.",
+  "items": [
+    {"id":"sample-msc","category":"升学","title":"认知神经科学硕士（版式示例）","title_en":"MSc Cognitive Neuroscience — layout sample","organization":"示例院校・并非真实招生更新","location":"欧洲","published_at":"2026-07-19","updated_at":"2026-07-19","deadline":"","priority":40,"verification_status":"sample","summary":"此条仅用于确认双语项目摘要、申请要求和截止日期的排版。","summary_en":"Layout sample for bilingual programme summaries and application details.","relevance":"自动流程接通后，替换为已核验且当前开放的真实项目。","tags":["示例数据","硕士"],"source_url":"https://github.com/Scoplatinum/Razer-Radar"},
+    {"id":"sample-research","category":"研究","title":"海马与情景记忆研究更新（版式示例）","title_en":"Hippocampus and episodic memory — layout sample","organization":"示例期刊来源","location":"系统神经科学","published_at":"2026-07-19","updated_at":"2026-07-19","deadline":"","priority":35,"verification_status":"sample","summary":"用于测试研究问题、方法、发现、局限与关联说明的显示层级。","summary_en":"Tests the display hierarchy for question, methods, findings and limitations.","relevance":"正式数据将优先匹配 CA1、空间导航、学习记忆和神经数据分析。","tags":["示例数据","论文"],"source_url":"https://github.com/Scoplatinum/Razer-Radar"}
+  ]
+}
