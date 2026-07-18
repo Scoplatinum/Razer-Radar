@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-07-19T08:00:00+08:00",
-  "notice": "These are layout samples and must be replaced by verified daily results.",
+  "generated_at": "2026-07-19T01:20:00+08:00",
+  "notice": "One-off verified first edition published before the regular 08:00 schedule.",
   "items": [
-    {"id":"sample-msc","category":"升学","title":"认知神经科学硕士（版式示例）","title_en":"MSc Cognitive Neuroscience — layout sample","organization":"示例院校・并非真实招生更新","location":"欧洲","published_at":"2026-07-19","updated_at":"2026-07-19","deadline":"","priority":40,"verification_status":"sample","summary":"此条仅用于确认双语项目摘要、申请要求和截止日期的排版。","summary_en":"Layout sample for bilingual programme summaries and application details.","relevance":"自动流程接通后，替换为已核验且当前开放的真实项目。","tags":["示例数据","硕士"],"source_url":"https://github.com/Scoplatinum/Razer-Radar"},
-    {"id":"sample-research","category":"研究","title":"海马与情景记忆研究更新（版式示例）","title_en":"Hippocampus and episodic memory — layout sample","organization":"示例期刊来源","location":"系统神经科学","published_at":"2026-07-19","updated_at":"2026-07-19","deadline":"","priority":35,"verification_status":"sample","summary":"用于测试研究问题、方法、发现、局限与关联说明的显示层级。","summary_en":"Tests the display hierarchy for question, methods, findings and limitations.","relevance":"正式数据将优先匹配 CA1、空间导航、学习记忆和神经数据分析。","tags":["示例数据","论文"],"source_url":"https://github.com/Scoplatinum/Razer-Radar"}
+    {
+      "id": "sussex-ccn-2026",
+      "category": "升学",
+      "title": "认知与临床神经科学硕士",
+      "title_en": "MSc Cognitive and Clinical Neuroscience",
+      "organization": "University of Sussex",
+      "location": "英国・布莱顿",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "2026-08-01",
+      "priority": 96,
+      "verification_status": "verified",
+      "summary": "2026 年 9 月入学、全日制一年。国际申请截止 8 月 1 日；非心理学背景可通过个人陈述说明兴趣与可迁移能力。",
+      "summary_en": "A one-year MSc starting in September 2026. The international deadline is 1 August; applicants from other disciplines may evidence relevant interest and transferable skills.",
+      "relevance": "截止时间临近；应优先核对语言、推荐信、成绩单和签证办理周期。",
+      "tags": [
+        "需尽快行动",
+        "国际申请",
+        "跨专业可说明"
+      ],
+      "source_url": "https://www.sussex.ac.uk/study/masters/courses/cognitive-and-clinical-neuroscience-msc"
+    },
+    {
+      "id": "sheffield-ccn-2026",
+      "category": "升学",
+      "title": "认知与计算神经科学硕士",
+      "title_en": "MSc Cognitive and Computational Neuroscience",
+      "organization": "University of Sheffield",
+      "location": "英国・谢菲尔德",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 84,
+      "verification_status": "verified",
+      "summary": "官网显示 2026 入学申请开放。课程包含计算建模、数据分析、神经影像与 AI，并以研究项目收束。",
+      "summary_en": "Applications are open for 2026 entry. The programme covers computational modelling, data analysis, neuroimaging and AI, culminating in a research project.",
+      "relevance": "同时覆盖神经科学与计算方法，是本期方向匹配度较高的项目；需确认剩余名额与国际申请周期。",
+      "tags": [
+        "申请开放",
+        "计算建模",
+        "研究项目"
+      ],
+      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-and-computational-neuroscience-msc"
+    },
+    {
+      "id": "york-cns-2026",
+      "category": "升学",
+      "title": "认知神经科学硕士",
+      "title_en": "MSc Cognitive Neuroscience",
+      "organization": "University of York",
+      "location": "英国・约克",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 79,
+      "verification_status": "verified",
+      "summary": "2026 年 9 月入学、全日制一年，官网提供申请入口。训练覆盖 fMRI、MEG、EEG、TMS、编程与数据分析。",
+      "summary_en": "A one-year MSc starting in September 2026. Training includes fMRI, MEG, EEG, TMS, programming, data analysis and an empirical project.",
+      "relevance": "方法训练覆盖面完整；官网未明确展示本次检索所需的国际生截止日，申请前需向校方核验。",
+      "tags": [
+        "可申请",
+        "神经影像",
+        "实验项目"
+      ],
+      "source_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cognitive-neuroscience/"
+    },
+    {
+      "id": "sheffield-neuroimaging-2026",
+      "category": "升学",
+      "title": "认知神经科学与人类神经影像硕士",
+      "title_en": "MSc Cognitive Neuroscience and Human Neuroimaging",
+      "organization": "University of Sheffield",
+      "location": "英国・谢菲尔德",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 75,
+      "verification_status": "verified",
+      "summary": "官网显示 2026 入学申请开放，重点训练 fMRI、EEG、TMS 和神经生理数据分析，并安排独立研究项目。",
+      "summary_en": "Applications are open for 2026 entry, with training in fMRI, EEG, TMS, neurophysiological data analysis and an independent project.",
+      "relevance": "偏重影像与实验方法，可与同校计算神经科学项目并行比较课程模块及职业出口。",
+      "tags": [
+        "申请开放",
+        "fMRI／EEG／TMS",
+        "备选项目"
+      ],
+      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-neuroscience-and-human-neuroimaging-msc"
+    },
+    {
+      "id": "cambridge-cbu-2027",
+      "category": "升学",
+      "title": "认知神经科学哲学硕士（2027 入学观察）",
+      "title_en": "MPhil in Cognitive Neurosciences — 2027 watch",
+      "organization": "University of Cambridge · MRC CBU",
+      "location": "英国・剑桥",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "2026-12-02",
+      "priority": 64,
+      "verification_status": "verified",
+      "summary": "2026 入学已关闭。官网暂定 2027 入学于 9 月 10 日开放；美国申请人 Gates 节点为 10 月 15 日，其他资助申请节点为 12 月 2 日。",
+      "summary_en": "The 2026 cycle is closed. Draft dates for 2027 entry indicate opening on 10 September, a 15 October Gates deadline for US applicants and a 2 December funding deadline for others.",
+      "relevance": "不是今日可提交项目，但可提前准备官网要求的 300 字个人陈述、推荐人与研究匹配说明。",
+      "tags": [
+        "2027 入学",
+        "9月10日开放",
+        "提前准备"
+      ],
+      "source_url": "https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-cognitive-neuroscience/"
+    },
+    {
+      "id": "elife-tms-memory-meta-2026",
+      "category": "研究",
+      "title": "靶向海马网络的 TMS 或可选择性改善情景记忆：元分析",
+      "title_en": "A meta-analysis suggests that TMS targeting the hippocampal network selectively improves episodic memory",
+      "organization": "eLife · Version of Record",
+      "location": "记忆／神经调控",
+      "published_at": "2026-05-14",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 68,
+      "verification_status": "verified",
+      "summary": "元分析报告间接靶向海马网络的重复经颅磁刺激可能选择性改善情景记忆、尤其回想成分；作者同时提示异质性与发表偏倚。",
+      "summary_en": "The meta-analysis reports selective improvement in episodic memory—particularly recollection—while noting heterogeneity and signals of publication bias.",
+      "relevance": "与海马网络、情景记忆和因果神经调控主题直接相关；适合作为研究线索，而非临床效果的确定结论。",
+      "tags": [
+        "元分析",
+        "海马网络",
+        "TMS"
+      ],
+      "source_url": "https://elifesciences.org/articles/108934"
+    }
   ]
 }
