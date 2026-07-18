@@ -1,0 +1,7 @@
+{
+  "feeds": [
+    {"name":"bioRxiv neuroscience","url":"https://connect.biorxiv.org/biorxiv_xml.php?subject=neuroscience","category":"研究","enabled":true},
+    {"name":"Nature Neuroscience","url":"https://www.nature.com/neuro.rss","category":"研究","enabled":true}
+  ],
+  "keywords": ["hippocamp", "entorhinal", "episodic memory", "spatial navigation", "place cell", "grid cell", "time cell", "computational cognition", "electrophysiology"]
+}
