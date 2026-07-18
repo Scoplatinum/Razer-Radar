@@ -2,3 +2,6 @@
 @media(max-width:900px){.shell{grid-template-columns:1fr}aside{position:static;height:auto;border:0;border-bottom:1px solid var(--rule);padding:20px}nav{display:flex;overflow:auto}nav button{white-space:nowrap}.private{margin-top:15px}main{padding:21px}.summary{grid-template-columns:1fr}.toolbar{flex-direction:column}.toolbar label input{flex:1;width:auto}.details-grid{grid-template-columns:1fr;gap:10px}.details-grid>div+div{border-left:0;border-top:1px solid var(--rule);padding:10px 0 0}}
 @media(max-width:560px){#tabs{overflow:auto}.summary dl div{min-width:82px}article{grid-template-columns:28px 1fr}.foot{flex-wrap:wrap}.tags{width:100%}.dates{margin-right:auto}#updated{display:none}}
 :root{--paper:#fff;--surface:#fff;--rule:#e2e5e9;--accent:#315b82;--sage:#5f7867}body{background:#fff}aside{background:#fafbfc}nav button.active{background:#edf2f6}#tabs button,.tags span{background:#fff}.notes{background:#f4f6f8}
+
+/* Vivid accents are reserved for time-sensitive action states. */
+.summary .urgent dd{color:#e5482d}.cat.urgent{color:#e5482d;border-color:#e5482d;background:#fff4ef;font-weight:700}.dates strong{color:#e5482d}
