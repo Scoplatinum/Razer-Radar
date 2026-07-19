@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T02:10:00+08:00",
-  "notice": "Full-standard interim edition with region coverage and expanded pathways.",
+  "generated_at": "2026-07-19T08:46:00+08:00",
+  "notice": "Daily verified edition. Official sources only; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
       "id": "sussex-ccn-2026",
@@ -26,165 +26,53 @@
       "section": "神经与认知项目"
     },
     {
-      "id": "sheffield-ccn-2026",
-      "category": "升学",
-      "title": "认知与计算神经科学硕士",
-      "title_en": "MSc Cognitive and Computational Neuroscience",
-      "organization": "University of Sheffield",
-      "location": "英国・谢菲尔德",
-      "published_at": "2026-07-19",
+      "id": "hku-slr-ra2-536602",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学言语、语言与阅读实验室全职科研助理 II",
+      "title_en": "Full-time Research Assistant II — Speech, Language and Reading Lab",
+      "organization": "The University of Hong Kong",
+      "location": "中国香港",
+      "published_at": "2026-06-15",
       "updated_at": "2026-07-19",
-      "deadline": "",
-      "priority": 84,
+      "deadline": "2026-08-31",
+      "priority": 92,
       "verification_status": "verified",
-      "summary": "官网显示 2026 入学申请开放。课程包含计算建模、数据分析、神经影像与 AI，并以研究项目收束。",
-      "summary_en": "Applications are open for 2026 entry. The programme covers computational modelling, data analysis, neuroimaging and AI, culminating in a research project.",
-      "relevance": "同时覆盖神经科学与计算方法，是本期方向匹配度较高的项目；需确认剩余名额与国际申请周期。",
+      "summary": "一年期全职科研助理，可续约。研究结合心理学、认知神经科学、AI、语言学与计算建模，工作涉及儿童心理语言与认知评估、行为干预以及统计／计算分析。要求相关专业本科及以上、粤英双语、行为实验与数据分析经验；Python、R、MATLAB 或 Praat 为加分项。",
+      "summary_en": "A one-year, renewable RA II role spanning psychology, cognitive neuroscience, AI, linguistics and computational modelling. Work includes child psycholinguistic/cognitive assessment, behavioural intervention and advanced quantitative analysis. A relevant bachelor's degree, Cantonese-English bilingual proficiency and behavioural/data-analysis experience are required; Python, R, MATLAB or Praat are advantageous.",
+      "relevance": "主题和工具匹配度高，也明确适合考虑后续研究生学习的人；但粤语能力是实质门槛，应先据此决定是否投递。",
       "tags": [
-        "申请开放",
-        "计算建模",
-        "研究项目"
+        "需尽快行动",
+        "科研助理",
+        "认知神经科学",
+        "AI／计算建模",
+        "粤语要求"
       ],
-      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-and-computational-neuroscience-msc",
-      "section": "神经与认知项目"
+      "source_url": "https://jobs.hku.hk/en/job/536602/fulltime-research-assistant-ii-at-the-speech-language-and-reading-lab-in-the-faculty-of-education"
     },
     {
-      "id": "york-cns-2026",
-      "category": "升学",
-      "title": "认知神经科学硕士",
-      "title_en": "MSc Cognitive Neuroscience",
-      "organization": "University of York",
-      "location": "英国・约克",
-      "published_at": "2026-07-19",
+      "id": "hku-brain-stim-ra2-536751",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学脑刺激与吞咽障碍全职科研助理 II",
+      "title_en": "Full-time Research Assistant II — Brain Stimulation and Swallowing Disorders",
+      "organization": "The University of Hong Kong",
+      "location": "中国香港",
+      "published_at": "2026-07-03",
       "updated_at": "2026-07-19",
-      "deadline": "",
-      "priority": 79,
+      "deadline": "2026-08-31",
+      "priority": 87,
       "verification_status": "verified",
-      "summary": "2026 年 9 月入学、全日制一年，官网提供申请入口。训练覆盖 fMRI、MEG、EEG、TMS、编程与数据分析。",
-      "summary_en": "A one-year MSc starting in September 2026. Training includes fMRI, MEG, EEG, TMS, programming, data analysis and an empirical project.",
-      "relevance": "方法训练覆盖面完整；官网未明确展示本次检索所需的国际生截止日，申请前需向校方核验。",
+      "summary": "一年期全职岗位，协助脑刺激与吞咽障碍研究，包括文献检索、受试者招募、数据采集分析与报告。接受神经科学、生物科学等相关本科背景，明确欢迎应届毕业生；要求中英文及粤语、统计分析和较强组织沟通能力。",
+      "summary_en": "A one-year full-time role supporting research on brain stimulation and swallowing disorders through literature review, recruitment, data collection, analysis and reporting. Relevant bachelor's graduates are eligible and fresh graduates are explicitly welcome; Chinese, English and spoken Cantonese are required.",
+      "relevance": "层级合适且明确欢迎应届生；核心障碍仍是粤语和临床受试者协调工作占比。",
       "tags": [
-        "可申请",
-        "神经影像",
-        "实验项目"
+        "科研助理",
+        "脑刺激",
+        "欢迎应届生",
+        "粤语要求"
       ],
-      "source_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cognitive-neuroscience/",
-      "section": "神经与认知项目"
-    },
-    {
-      "id": "sheffield-neuroimaging-2026",
-      "category": "升学",
-      "title": "认知神经科学与人类神经影像硕士",
-      "title_en": "MSc Cognitive Neuroscience and Human Neuroimaging",
-      "organization": "University of Sheffield",
-      "location": "英国・谢菲尔德",
-      "published_at": "2026-07-19",
-      "updated_at": "2026-07-19",
-      "deadline": "",
-      "priority": 75,
-      "verification_status": "verified",
-      "summary": "官网显示 2026 入学申请开放，重点训练 fMRI、EEG、TMS 和神经生理数据分析，并安排独立研究项目。",
-      "summary_en": "Applications are open for 2026 entry, with training in fMRI, EEG, TMS, neurophysiological data analysis and an independent project.",
-      "relevance": "偏重影像与实验方法，可与同校计算神经科学项目并行比较课程模块及职业出口。",
-      "tags": [
-        "申请开放",
-        "fMRI／EEG／TMS",
-        "备选项目"
-      ],
-      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-neuroscience-and-human-neuroimaging-msc",
-      "section": "神经与认知项目"
-    },
-    {
-      "id": "cambridge-cbu-2027",
-      "category": "升学",
-      "title": "认知神经科学哲学硕士（2027 入学观察）",
-      "title_en": "MPhil in Cognitive Neurosciences — 2027 watch",
-      "organization": "University of Cambridge · MRC CBU",
-      "location": "英国・剑桥",
-      "published_at": "2026-07-19",
-      "updated_at": "2026-07-19",
-      "deadline": "2026-12-02",
-      "priority": 64,
-      "verification_status": "verified",
-      "summary": "2026 入学已关闭。官网暂定 2027 入学于 9 月 10 日开放；美国申请人 Gates 节点为 10 月 15 日，其他资助申请节点为 12 月 2 日。",
-      "summary_en": "The 2026 cycle is closed. Draft dates for 2027 entry indicate opening on 10 September, a 15 October Gates deadline for US applicants and a 2 December funding deadline for others.",
-      "relevance": "不是今日可提交项目，但可提前准备官网要求的 300 字个人陈述、推荐人与研究匹配说明。",
-      "tags": [
-        "2027 入学",
-        "9月10日开放",
-        "提前准备"
-      ],
-      "source_url": "https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-cognitive-neuroscience/",
-      "section": "神经与认知项目"
-    },
-    {
-      "id": "elife-tms-memory-meta-2026",
-      "category": "研究",
-      "title": "靶向海马网络的 TMS 或可选择性改善情景记忆：元分析",
-      "title_en": "A meta-analysis suggests that TMS targeting the hippocampal network selectively improves episodic memory",
-      "organization": "eLife · Version of Record",
-      "location": "记忆／神经调控",
-      "published_at": "2026-05-14",
-      "updated_at": "2026-07-19",
-      "deadline": "",
-      "priority": 68,
-      "verification_status": "verified",
-      "summary": "元分析报告间接靶向海马网络的重复经颅磁刺激可能选择性改善情景记忆、尤其回想成分；作者同时提示异质性与发表偏倚。",
-      "summary_en": "The meta-analysis reports selective improvement in episodic memory—particularly recollection—while noting heterogeneity and signals of publication bias.",
-      "relevance": "与海马网络、情景记忆和因果神经调控主题直接相关；适合作为研究线索，而非临床效果的确定结论。",
-      "tags": [
-        "元分析",
-        "海马网络",
-        "TMS"
-      ],
-      "source_url": "https://elifesciences.org/articles/108934",
-      "section": "研究动态"
-    },
-    {
-      "id": "uva-is-ds-2027",
-      "category": "升学",
-      "section": "数据／计算／AI项目",
-      "title": "信息研究硕士：数据科学方向",
-      "title_en": "MSc Information Studies: Data Science",
-      "organization": "University of Amsterdam",
-      "location": "荷兰・阿姆斯特丹",
-      "published_at": "2026-07-19",
-      "updated_at": "2026-07-19",
-      "deadline": "",
-      "priority": 77,
-      "verification_status": "verified",
-      "summary": "英文授课的跨学科数据科学方向，强调数据在商业、科学与社会中的解释与应用；2027 申请时间需继续跟踪。",
-      "summary_en": "An English-taught interdisciplinary Data Science track focused on extracting meaning from data across business, science and society; the 2027 timeline remains under watch.",
-      "relevance": "欧洲大陆中兼顾跨学科背景与数据应用的高质量观察项目。",
-      "tags": [
-        "欧洲大陆",
-        "跨学科",
-        "2027观察"
-      ],
-      "source_url": "https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html"
-    },
-    {
-      "id": "utokyo-cs-2027",
-      "category": "升学",
-      "section": "数据／计算／AI项目",
-      "title": "计算机科学硕士／博士 2027 招生",
-      "title_en": "Computer Science Master's and Doctoral Admissions — AY 2027",
-      "organization": "The University of Tokyo",
-      "location": "日本・东京",
-      "published_at": "2026-07-19",
-      "updated_at": "2026-07-19",
-      "deadline": "",
-      "priority": 82,
-      "verification_status": "verified",
-      "summary": "信息理工研究科已发布 2027 学年计算机科学硕博招生指南入口；TOEFL 替代英语考试，多数研究科课程自 2026 年 4 月起以英语授课。",
-      "summary_en": "The graduate school has published its AY 2027 admissions route; TOEFL replaces the English exam and most graduate lectures moved to English from April 2026.",
-      "relevance": "亚洲地区当前可核验的 2027 招生节点；需细查数学考试与研究室要求。",
-      "tags": [
-        "日本",
-        "2027招生",
-        "需查考试要求"
-      ],
-      "source_url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/admission_e.shtml"
+      "source_url": "https://jobs.hku.hk/en/job/536751/fulltime-research-assistant-ii"
     },
     {
       "id": "neu-align-cs",
@@ -210,6 +98,29 @@
       "source_url": "https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/"
     },
     {
+      "id": "sheffield-ccn-2026",
+      "category": "升学",
+      "title": "认知与计算神经科学硕士",
+      "title_en": "MSc Cognitive and Computational Neuroscience",
+      "organization": "University of Sheffield",
+      "location": "英国・谢菲尔德",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 84,
+      "verification_status": "verified",
+      "summary": "官网显示 2026 入学申请开放。课程包含计算建模、数据分析、神经影像与 AI，并以研究项目收束。",
+      "summary_en": "Applications are open for 2026 entry. The programme covers computational modelling, data analysis, neuroimaging and AI, culminating in a research project.",
+      "relevance": "同时覆盖神经科学与计算方法，是本期方向匹配度较高的项目；需确认剩余名额与国际申请周期。",
+      "tags": [
+        "申请开放",
+        "计算建模",
+        "研究项目"
+      ],
+      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-and-computational-neuroscience-msc",
+      "section": "神经与认知项目"
+    },
+    {
       "id": "neu-align-ai",
       "category": "升学",
       "section": "数据／计算／AI项目",
@@ -231,6 +142,100 @@
         "人工智能"
       ],
       "source_url": "https://www.khoury.northeastern.edu/programs/align-ms-in-artificial-intelligence/"
+    },
+    {
+      "id": "utokyo-cs-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "计算机科学硕士／博士 2027 招生",
+      "title_en": "Computer Science Master's and Doctoral Admissions — AY 2027",
+      "organization": "The University of Tokyo",
+      "location": "日本・东京",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 82,
+      "verification_status": "verified",
+      "summary": "信息理工研究科已发布 2027 学年计算机科学硕博招生指南入口；TOEFL 替代英语考试，多数研究科课程自 2026 年 4 月起以英语授课。",
+      "summary_en": "The graduate school has published its AY 2027 admissions route; TOEFL replaces the English exam and most graduate lectures moved to English from April 2026.",
+      "relevance": "亚洲地区当前可核验的 2027 招生节点；需细查数学考试与研究室要求。",
+      "tags": [
+        "日本",
+        "2027招生",
+        "需查考试要求"
+      ],
+      "source_url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/admission_e.shtml"
+    },
+    {
+      "id": "natcom-cortical-layers-prediction-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "深浅皮层在声音预测、比较与适应中承担不同角色",
+      "title_en": "Distinct Roles of Deep and Superficial Cortical Layers in Tone Prediction, Comparison, and Adaptation in Human Auditory Cortices",
+      "organization": "Nature Communications",
+      "location": "认知神经科学／7T fMRI",
+      "published_at": "2026-07-17",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 82,
+      "verification_status": "verified",
+      "summary": "研究让参与者聆听可预测性与重复结构不同的随机音调序列，并用 7T fMRI 将反应拆分到深、中、浅三个皮层深度。深层最突出地携带预期相关信号，浅层更体现刺激偏好与预期的共同解释量，而重复抑制在各深度较均一。限制是期刊当前提供的是尚未完成文字编辑的早期公开版本，且层析 fMRI 的推断仍依赖深度分箱和血流信号。",
+      "summary_en": "Using 7T fMRI during stochastic tone sequences, the study separated expectation, stimulus-preference and repetition-suppression variance across cortical depth. Deep layers most strongly carried expectation signals, superficial layers reflected prediction-input alignment, and repetition suppression was depth-invariant. The current public manuscript is unedited, and laminar-fMRI inference remains dependent on depth binning and haemodynamic signals.",
+      "relevance": "对预测编码、皮层层级计算和高场神经影像方法都有直接参考价值。",
+      "tags": [
+        "7T fMRI",
+        "预测编码",
+        "皮层层析",
+        "新论文"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75662-w"
+    },
+    {
+      "id": "natcom-compressive-learning-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "“压缩式学习”利用高阶网络结构促进知识获取",
+      "title_en": "Compressive learning scaffolds higher-order network structure to enhance human knowledge acquisition",
+      "organization": "Nature Communications",
+      "location": "计算认知／MEG",
+      "published_at": "2026-07-17",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 80,
+      "verification_status": "verified",
+      "summary": "研究提出压缩式学习框架：在正式学习前，让路径突出网络节点度的不均一结构。行为、MEG 与两阶段计算模型共同显示，这种预学习可形成便于吸收新输入的网络“骨架”，并增强背侧前扣带皮层中的结构化表征。限制是任务采用人工网络结构，向现实学习材料的迁移仍需进一步验证。",
+      "summary_en": "The study introduces compressive learning: pre-learning trajectories highlight degree inhomogeneity before new material is acquired. Behaviour, MEG and two-stage modelling suggest this builds a network skeleton that facilitates later learning and strengthens structured representations in dorsal ACC. Generalisation from artificial networks to real-world learning remains to be tested.",
+      "relevance": "连接网络科学、计算模型、MEG 与知识学习，是计算认知方向较强的新结果。",
+      "tags": [
+        "计算认知",
+        "MEG",
+        "网络学习",
+        "新论文"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75843-7"
+    },
+    {
+      "id": "york-cns-2026",
+      "category": "升学",
+      "title": "认知神经科学硕士",
+      "title_en": "MSc Cognitive Neuroscience",
+      "organization": "University of York",
+      "location": "英国・约克",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 79,
+      "verification_status": "verified",
+      "summary": "2026 年 9 月入学、全日制一年，官网提供申请入口。训练覆盖 fMRI、MEG、EEG、TMS、编程与数据分析。",
+      "summary_en": "A one-year MSc starting in September 2026. Training includes fMRI, MEG, EEG, TMS, programming, data analysis and an empirical project.",
+      "relevance": "方法训练覆盖面完整；官网未明确展示本次检索所需的国际生截止日，申请前需向校方核验。",
+      "tags": [
+        "可申请",
+        "神经影像",
+        "实验项目"
+      ],
+      "source_url": "https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cognitive-neuroscience/",
+      "section": "神经与认知项目"
     },
     {
       "id": "unimelb-mds",
@@ -256,59 +261,234 @@
       "source_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/"
     },
     {
-      "id": "tencent-campus-ai-data",
-      "category": "求职",
-      "section": "算法与AI岗位",
-      "title": "腾讯 2026 校园招聘：AI 数据、数据工程等岗位簇",
-      "title_en": "",
-      "organization": "腾讯校园招聘",
-      "location": "中国・多地",
+      "id": "elife-event-segmentation-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "人脑可能以部分重叠的机制响应预测误差与预测不确定性，从而切分连续事件",
+      "title_en": "Multiple event segmentation mechanisms in the human brain",
+      "organization": "eLife · Version of Record",
+      "location": "自然情境 fMRI／计算模型",
+      "published_at": "2026-07-07",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 78,
+      "verification_status": "verified",
+      "summary": "研究用能够预测人类行为的模型分析观看自然电影时的多变量神经模式变化，比较预测误差与预测不确定性对事件边界的作用。结果支持两种信号对应相互重叠但部分不同的脑动态。eLife 评价为“有价值、证据扎实”；局限在于结论依赖模型定义与自然电影范式，尚不能等同于真实生活中的全部事件分割。",
+      "summary_en": "Validated behavioural models were used to analyse multivariate neural-pattern changes during naturalistic movie viewing, testing prediction error versus prediction uncertainty as event-boundary signals. The results support overlapping but partly distinct brain dynamics. eLife rates the work valuable with solid evidence; conclusions still depend on model definitions and the movie-viewing paradigm.",
+      "relevance": "与情景记忆、时间结构、自然情境认知和计算建模高度相关。",
+      "tags": [
+        "事件分割",
+        "自然情境fMRI",
+        "预测误差",
+        "计算模型"
+      ],
+      "source_url": "https://elifesciences.org/articles/107955"
+    },
+    {
+      "id": "uva-is-ds-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "信息研究硕士：数据科学方向",
+      "title_en": "MSc Information Studies: Data Science",
+      "organization": "University of Amsterdam",
+      "location": "荷兰・阿姆斯特丹",
       "published_at": "2026-07-19",
       "updated_at": "2026-07-19",
       "deadline": "",
-      "priority": 80,
+      "priority": 77,
       "verification_status": "verified",
-      "summary": "腾讯官方校招岗位页当前显示搜索／推荐／模型应用、AI 基础设施、AI 数据、数据工程与高性能计算等技术方向；具体岗位需逐项核对城市与任职条件。",
-      "summary_en": "",
-      "relevance": "提供初级算法、AI 数据与数据工程的官方入口；后续只收录符合应届或低经验要求的具体岗位。",
+      "summary": "英文授课的跨学科数据科学方向，强调数据在商业、科学与社会中的解释与应用；2027 申请时间需继续跟踪。",
+      "summary_en": "An English-taught interdisciplinary Data Science track focused on extracting meaning from data across business, science and society; the 2027 timeline remains under watch.",
+      "relevance": "欧洲大陆中兼顾跨学科背景与数据应用的高质量观察项目。",
       "tags": [
-        "中国大厂",
-        "校招",
-        "AI数据／数据工程"
+        "欧洲大陆",
+        "跨学科",
+        "2027观察"
       ],
-      "source_url": "https://join.qq.com/post.html?pid=2"
+      "source_url": "https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html"
+    },
+    {
+      "id": "elife-vwm-rhythmic-attention-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "视觉工作记忆以节律方式引导注意：额叶 theta—枕叶 alpha 耦合",
+      "title_en": "Visual working memory guides attention rhythmically in humans",
+      "organization": "eLife · Version of Record",
+      "location": "工作记忆／EEG",
+      "published_at": "2026-07-08",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 76,
+      "verification_status": "verified",
+      "summary": "三项实验显示，两个工作记忆项目对注意的引导在约 4–8 Hz theta 节律上交替占优；EEG 提示额叶 theta 相位领先并与枕叶 alpha 耦合。作者据此提出节律项目模板假说，以调和单项目与多项目模板理论。eLife 评价其证据扎实；效应仍需在更多刺激类型和任务中重复。",
+      "summary_en": "Across three experiments, two visual-working-memory items alternated in attentional dominance at theta frequency. EEG linked this to frontal-theta phase leading and coupling with occipital alpha. The rhythmic-item-template account reconciles single- and multiple-template theories. eLife rates the evidence solid, though replication across other stimuli and tasks is still needed.",
+      "relevance": "直接涉及 theta、alpha、跨频耦合、工作记忆与注意的动态资源分配。",
+      "tags": [
+        "EEG",
+        "theta—alpha耦合",
+        "工作记忆",
+        "新论文"
+      ],
+      "source_url": "https://elifesciences.org/articles/108017"
+    },
+    {
+      "id": "sheffield-neuroimaging-2026",
+      "category": "升学",
+      "title": "认知神经科学与人类神经影像硕士",
+      "title_en": "MSc Cognitive Neuroscience and Human Neuroimaging",
+      "organization": "University of Sheffield",
+      "location": "英国・谢菲尔德",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 75,
+      "verification_status": "verified",
+      "summary": "官网显示 2026 入学申请开放，重点训练 fMRI、EEG、TMS 和神经生理数据分析，并安排独立研究项目。",
+      "summary_en": "Applications are open for 2026 entry, with training in fMRI, EEG, TMS, neurophysiological data analysis and an independent project.",
+      "relevance": "偏重影像与实验方法，可与同校计算神经科学项目并行比较课程模块及职业出口。",
+      "tags": [
+        "申请开放",
+        "fMRI／EEG／TMS",
+        "备选项目"
+      ],
+      "source_url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/cognitive-neuroscience-and-human-neuroimaging-msc",
+      "section": "神经与认知项目"
+    },
+    {
+      "id": "hku-smartrehab-dev-536820",
+      "category": "求职",
+      "section": "科研／医疗／生信岗位",
+      "title": "香港大学 SmartRehab 全栈开发／软件工程师（多个岗位）",
+      "title_en": "Full Stack Developer / Software Engineer — SmartRehab",
+      "organization": "The University of Hong Kong · Department of Medicine",
+      "location": "中国香港",
+      "published_at": "2026-07-16",
+      "updated_at": "2026-07-19",
+      "deadline": "2026-08-16",
+      "priority": 72,
+      "verification_status": "verified",
+      "summary": "为 AI 远程康复平台 SmartRehab 招聘全栈或软件工程人员。技术栈分别偏 PHP/Laravel、React、PostgreSQL、Docker/AWS，或 Swift/iOS、移动 Web 与计算机视觉；经验不足者可按 Research Assistant I/II 考虑。",
+      "summary_en": "Several engineering roles for the AI-powered SmartRehab telerehabilitation platform. Tracks cover PHP/Laravel, React, PostgreSQL and Docker/AWS, or Swift/iOS, mobile web and computer vision. Candidates with less experience may be considered at Research Assistant I/II level.",
+      "relevance": "这是医疗科技与软件工程的桥接机会，但当前技术栈要求明显高于纯数据分析入门岗，适合作为能力差距参照或在具备作品后申请。",
+      "tags": [
+        "医疗科技",
+        "软件工程",
+        "AI康复",
+        "经验不足可降级考虑"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536820/full-stack-developersoftware-engineer-several-posts-in-the-department-of-medicine"
+    },
+    {
+      "id": "elife-tms-memory-meta-2026",
+      "category": "研究",
+      "title": "靶向海马网络的 TMS 或可选择性改善情景记忆：元分析",
+      "title_en": "A meta-analysis suggests that TMS targeting the hippocampal network selectively improves episodic memory",
+      "organization": "eLife · Version of Record",
+      "location": "记忆／神经调控",
+      "published_at": "2026-05-14",
+      "updated_at": "2026-07-19",
+      "deadline": "",
+      "priority": 68,
+      "verification_status": "verified",
+      "summary": "元分析报告间接靶向海马网络的重复经颅磁刺激可能选择性改善情景记忆、尤其回想成分；作者同时提示异质性与发表偏倚。",
+      "summary_en": "The meta-analysis reports selective improvement in episodic memory—particularly recollection—while noting heterogeneity and signals of publication bias.",
+      "relevance": "与海马网络、情景记忆和因果神经调控主题直接相关；适合作为研究线索，而非临床效果的确定结论。",
+      "tags": [
+        "元分析",
+        "海马网络",
+        "TMS"
+      ],
+      "source_url": "https://elifesciences.org/articles/108934",
+      "section": "研究动态"
+    },
+    {
+      "id": "cambridge-cbu-2027",
+      "category": "升学",
+      "title": "认知神经科学哲学硕士（2027 入学观察）",
+      "title_en": "MPhil in Cognitive Neurosciences — 2027 watch",
+      "organization": "University of Cambridge · MRC CBU",
+      "location": "英国・剑桥",
+      "published_at": "2026-07-19",
+      "updated_at": "2026-07-19",
+      "deadline": "2026-12-02",
+      "priority": 64,
+      "verification_status": "verified",
+      "summary": "2026 入学已关闭。官网暂定 2027 入学于 9 月 10 日开放；美国申请人 Gates 节点为 10 月 15 日，其他资助申请节点为 12 月 2 日。",
+      "summary_en": "The 2026 cycle is closed. Draft dates for 2027 entry indicate opening on 10 September, a 15 October Gates deadline for US applicants and a 2 December funding deadline for others.",
+      "relevance": "不是今日可提交项目，但可提前准备官网要求的 300 字个人陈述、推荐人与研究匹配说明。",
+      "tags": [
+        "2027 入学",
+        "9月10日开放",
+        "提前准备"
+      ],
+      "source_url": "https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-cognitive-neuroscience/",
+      "section": "神经与认知项目"
     }
   ],
   "coverage": [
     {
       "region": "英国与爱尔兰",
       "status": "scanned",
-      "note": "5 条项目机会；Sussex 截止时间最紧。"
+      "note": "已复核现有 2026/2027 项目；今天没有比现有条目更高质量的新开放项目。Sussex 国际申请仍以 2026-08-01 为最紧节点。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned",
-      "note": "新增 UvA 数据科学观察项目；ETH 2026 国际申请已关闭。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧主要项目；今日无新的高质量开放条目，保留 UvA 观察项。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "本轮未发现仍开放且满足跨专业标准的高质量新增；继续监测 2027 轮次。"
+      "status": "scanned",
+      "note": "新增香港大学 2 个科研助理及 1 个医疗科技软件岗位；新加坡项目与科研招聘今日无同等质量新增。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned",
-      "note": "新增东京大学 2027 信息理工招生入口；韩国本轮无高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已扫描主要英文项目与研究入口；今日无高质量新增，东京大学 2027 招生入口继续保留。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned",
-      "note": "新增 Northeastern Align CS／AI 两个跨专业桥梁项目。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已复核跨专业计算／AI项目；今日无新的高质量开放条目，Northeastern Align 项目继续保留。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned",
-      "note": "新增墨尔本大学数据科学硕士，需满足编程与数学先修。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已复核主要数据／AI项目；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
     }
-  ]
+  ],
+  "source_coverage": {
+    "checked_at": "2026-07-19T08:46:00+08:00",
+    "employers": [
+      {
+        "source": "中国大厂官方招聘",
+        "status": "scanned_no_eligible_new",
+        "note": "腾讯、字节等官方页面出现的新增校招/实习岗位主要限定 2027/2028 届；与当前毕业年份不符，未发布。社招 AI 岗位普遍要求成熟工程能力，未作为初级机会收录。"
+      },
+      {
+        "source": "外企中国区 Careers",
+        "status": "scanned_no_verified_match",
+        "note": "扫描 SAP、Microsoft、Apple、Roche、Siemens、IBM 等官方入口；未核验到今天新增且符合低经验要求的中国区岗位。Roche 搜索命中的若干旧职位已下线。"
+      },
+      {
+        "source": "高校／医疗科技招聘",
+        "status": "scanned",
+        "note": "新增香港大学 3 条官方职位；其中两条科研助理层级可触及，一条软件岗位作为能力差距参照。"
+      },
+      {
+        "source": "LinkedIn 等聚合线索",
+        "status": "discovery_only",
+        "note": "仅用于发现线索；没有官方页面复核的条目未发布。"
+      }
+    ]
+  },
+  "run_summary": {
+    "new_items": 7,
+    "urgent_items": 2,
+    "excluded_expired_or_ineligible": [
+      "腾讯/字节限定2027或2028届的校招与实习",
+      "已下线的Roche职位",
+      "无官方职位页的聚合平台线索"
+    ]
+  }
 }
