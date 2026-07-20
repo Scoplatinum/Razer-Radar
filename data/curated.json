@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T08:46:00+08:00",
-  "notice": "Daily verified edition. Official sources only; expired or eligibility-mismatched listings are excluded.",
+  "generated_at": "2026-07-20T08:40:00+08:00",
+  "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
       "id": "sussex-ccn-2026",
@@ -49,6 +49,33 @@
         "粤语要求"
       ],
       "source_url": "https://jobs.hku.hk/en/job/536602/fulltime-research-assistant-ii-at-the-speech-language-and-reading-lab-in-the-faculty-of-education"
+    },
+    {
+      "id": "hku-education-ra2-536886",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学教育学院全职科研助理 II（儿童言语／语言与数据分析）",
+      "title_en": "Full-Time Research Assistant II — Child Speech, Language and Data Analysis",
+      "organization": "The University of Hong Kong · Faculty of Education",
+      "location": "中国香港",
+      "published_at": "2026-07-17",
+      "first_seen_at": "2026-07-20",
+      "updated_at": "2026-07-20",
+      "deadline": "2026-08-10",
+      "discovery_status": "historical_backfill",
+      "priority": 90,
+      "verification_status": "verified",
+      "summary": "3 或 6 个月临时全职岗位，表现合格可续约。接受任何专业本科；要求粤语及英语，并具备儿童言语／语言工作、文献综述、英文校对、粤语语音转写或 Praat、SPSS、R 数据分析中的一项或多项能力。工作包括资料检索、访谈、数据收集分析、转写与翻译；经验为加分项但并非必需。",
+      "summary_en": "A three- or six-month full-time temporary RA II role, renewable subject to performance. Applicants may hold a bachelor's degree in any discipline and should have Cantonese and English plus capability in one or more of: work with children with speech/language disorders, literature review, English proofreading, Cantonese phonetic transcription, or data analysis with Praat, SPSS and R. Experience is advantageous but not required.",
+      "relevance": "层级和技能要求较适合入门申请，且明确不强制既往经验；粤语是实质门槛。申请收到即审、招满即止，虽属历史补录仍应尽快判断。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "经验非必需",
+        "R／Praat",
+        "粤语要求"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536886/fulltime-research-assistant-ii-in-the-faculty-of-education"
     },
     {
       "id": "hku-brain-stim-ra2-536751",
@@ -189,6 +216,33 @@
         "新论文"
       ],
       "source_url": "https://www.nature.com/articles/s41467-026-75662-w"
+    },
+    {
+      "id": "radboud-cns-research-2027-watch",
+      "category": "升学",
+      "section": "神经与认知项目",
+      "title": "认知神经科学研究型硕士（2027 入学观察）",
+      "title_en": "Research Master's in Cognitive Neuroscience — 2027 Entry Watch",
+      "organization": "Radboud University · Donders Institute",
+      "location": "荷兰・奈梅亨",
+      "published_at": "",
+      "first_seen_at": "2026-07-20",
+      "updated_at": "2026-07-20",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 81,
+      "verification_status": "verified",
+      "summary": "两年制、全英文、选择性研究型硕士，设语言与交流、知觉／行动／决策、发展与终身可塑性、自然计算与神经技术四个方向。国际申请接受生物学、自然科学、AI、医学等研究型大学本科背景；项目建议具备微积分、统计及 MATLAB/Python。2026 非欧盟轮次已结束，下一学年申请通常自 10 月 1 日开放，2027 截止日仍待官网确认。",
+      "summary_en": "A selective two-year English-taught research master's at the Donders Institute, with tracks in Language and Communication; Perception, Action and Decision-making; Development and Lifelong Plasticity; and Natural Computing and Neurotechnology. International applicants from biology, natural sciences, AI, medicine and related research-university degrees may enter the selection procedure; calculus, statistics and MATLAB/Python are recommended. The 2026 non-EU cycle is closed, and applications for the following academic year normally open on 1 October; the 2027 deadline is not yet confirmed.",
+      "relevance": "Donders Institute 的认知神经科学训练和研究设施较强，且官网明确接受生物学／自然科学背景；属于 2027 准备项，不是当前可提交项目。不同方向的数学、物理和认知课程门槛差异较大，需按成绩单逐项核对。",
+      "tags": [
+        "历史补录",
+        "2027观察",
+        "欧洲大陆",
+        "研究型硕士",
+        "自然科学背景可申请"
+      ],
+      "source_url": "https://www.ru.nl/en/education/masters/cognitive-neuroscience-research/admission-and-application"
     },
     {
       "id": "natcom-compressive-learning-2026",
@@ -355,6 +409,33 @@
       "section": "神经与认知项目"
     },
     {
+      "id": "elife-physical-activity-brainage-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "人群队列未发现体力活动对海马体积、脑龄或认知的一致正向作用",
+      "title_en": "The effect of physical activity on brain structure and cognitive function in the population-based LIFE-Adult cohort",
+      "organization": "eLife · Version of Record",
+      "location": "脑龄／海马／认知老化",
+      "published_at": "2026-07-15",
+      "first_seen_at": "2026-07-20",
+      "updated_at": "2026-07-20",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 74,
+      "verification_status": "verified",
+      "summary": "研究在 LIFE-Adult 人群队列中分析 2,576 人的自报体力活动、海马体积、BrainAGE 及执行功能／处理速度，并在 227 人子样本中加入加速度计数据，结合横断面回归和纵向路径分析。结果没有显示体力活动对这些脑结构或认知指标的一致正向作用；相反，基线脑龄偏高与后续体能较低相关，提示可能存在“脑健康影响活动水平”的反向因果。限制包括自报活动的年龄偏差、客观测量及纵向子样本较小、观察性设计、交叉滞后模型局限，以及脑结局指标范围有限。",
+      "summary_en": "Using the population-based LIFE-Adult cohort, the study analysed self-reported physical activity, hippocampal volume, BrainAGE and processing-speed/executive outcomes in 2,576 participants, with accelerometry in a 227-person subset and longitudinal path analyses. It found no consistent positive association between activity and the selected brain or cognitive outcomes; higher baseline BrainAGE instead predicted lower later physical capacity, suggesting possible reverse causation. Limitations include age-related self-report bias, smaller objective and longitudinal subsamples, observational and cross-lagged design constraints, and a limited set of brain outcomes.",
+      "relevance": "这是脑龄机器学习指标、海马结构和因果方向判断的高质量反例，可用于避免把“运动与脑健康相关”直接解释为单向保护效应。eLife 评价为“有价值、证据令人信服”。",
+      "tags": [
+        "历史补录",
+        "eLife",
+        "BrainAGE",
+        "海马",
+        "因果方向"
+      ],
+      "source_url": "https://elifesciences.org/articles/109461"
+    },
+    {
       "id": "hku-smartrehab-dev-536820",
       "category": "求职",
       "section": "科研／医疗／生信岗位",
@@ -428,67 +509,79 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned",
-      "note": "已复核现有 2026/2027 项目；今天没有比现有条目更高质量的新开放项目。Sussex 国际申请仍以 2026-08-01 为最紧节点。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已复核主要认知神经科学、计算神经科学及跨专业数据／AI项目入口；今日无新的高质量开放条目。Oxford、UCL 等 2026 轮次已关闭或截止，Sussex 2026-08-01 节点仍最紧。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧主要项目；今日无新的高质量开放条目，保留 UvA 观察项。"
+      "status": "scanned",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧方向；今日补录 Radboud／Donders 认知神经科学研究型硕士作为 2027 观察项。该项目不是今日新开放，2026 非欧盟轮次已结束。"
     },
     {
       "region": "香港与新加坡",
       "status": "scanned",
-      "note": "新增香港大学 2 个科研助理及 1 个医疗科技软件岗位；新加坡项目与科研招聘今日无同等质量新增。"
+      "note": "已直接检查高校官方招聘列表；补录 HKU 7 月 17 日发布的教育学院 RA II。该岗位接受任何本科专业且经验非必需，但要求粤语。新加坡今日无同等质量、可由官方页面核验的新增。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描主要英文项目与研究入口；今日无高质量新增，东京大学 2027 招生入口继续保留。"
+      "note": "已复核主要英文授课项目和研究入口；今日无高质量新增，东京大学 2027 招生入口继续保留。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核跨专业计算／AI项目；今日无新的高质量开放条目，Northeastern Align 项目继续保留。"
+      "status": "scanned_no_eligible_new",
+      "note": "已扫描高校官方研究岗位和跨专业项目。Harvard 多个 RA I/II 层级匹配，但官方明确不提供签证担保，因可达性不足未收录；今日无其他高质量可核验新增。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI项目；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
+      "note": "已复核主要数据／AI与神经相关项目；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-19T08:46:00+08:00",
+    "checked_at": "2026-07-20T08:40:00+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_eligible_new",
-        "note": "腾讯、字节等官方页面出现的新增校招/实习岗位主要限定 2027/2028 届；与当前毕业年份不符，未发布。社招 AI 岗位普遍要求成熟工程能力，未作为初级机会收录。"
+        "note": "已检查腾讯、字节、阿里、京东等官方入口和近期职位。新近岗位多为有经验社招、产品／运营或限定后续届别的校招实习；未发现今天发布且符合低经验、方向与毕业资格的可核验岗位。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "扫描 SAP、Microsoft、Apple、Roche、Siemens、IBM 等官方入口；未核验到今天新增且符合低经验要求的中国区岗位。Roche 搜索命中的若干旧职位已下线。"
+        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等中国区官方招聘入口；今日无同时满足中国区、低经验、方向匹配且仍可申请的新岗位。"
       },
       {
-        "source": "高校／医疗科技招聘",
+        "source": "高校／科研／医疗科技招聘",
         "status": "scanned",
-        "note": "新增香港大学 3 条官方职位；其中两条科研助理层级可触及，一条软件岗位作为能力差距参照。"
+        "note": "补录 HKU 教育学院 RA II；排除要求至少 2 年软件开发的 HKU Analyst Programmer、偏协调且经验要求高的临床岗位，以及不提供签证担保的美国 RA。"
       },
       {
         "source": "LinkedIn 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现线索；没有官方页面复核的条目未发布。"
+        "note": "仅作线索发现；没有回到学校、实验室或雇主官方页面核验的条目未发布。"
       }
     ]
   },
   "run_summary": {
-    "new_items": 7,
-    "urgent_items": 2,
+    "newly_published_today": 0,
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 3,
+    "status_changes": 0,
+    "still_open_urgent_items": 2,
+    "database_items_total": 21,
     "excluded_expired_or_ineligible": [
-      "腾讯/字节限定2027或2028届的校招与实习",
-      "已下线的Roche职位",
+      "要求至少2年软件开发经验且限定计算机相关学位的HKU Analyst Programmer",
+      "要求较高临床研究经验或以高频协调为主的岗位",
+      "Harvard等明确不提供签证担保的美国科研助理",
+      "限定2027/2028届的中国大厂校招与实习",
       "无官方职位页的聚合平台线索"
     ]
+  },
+  "change_legend": {
+    "newly_published_today": "官方发布日期为今日或上次扫描后",
+    "historical_backfill": "较早发布、今日首次发现并补录",
+    "still_open": "既有条目，今日复核仍开放",
+    "status_change": "既有条目的截止日、开放状态或资格条件发生变化"
   }
 }
