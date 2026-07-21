@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T08:40:00+08:00",
+  "generated_at": "2026-07-21T08:31:00+08:00",
   "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -10,7 +10,7 @@
       "organization": "University of Sussex",
       "location": "英国・布莱顿",
       "published_at": "2026-07-19",
-      "updated_at": "2026-07-19",
+      "updated_at": "2026-07-21",
       "deadline": "2026-08-01",
       "priority": 96,
       "verification_status": "verified",
@@ -34,7 +34,7 @@
       "organization": "The University of Hong Kong",
       "location": "中国香港",
       "published_at": "2026-06-15",
-      "updated_at": "2026-07-19",
+      "updated_at": "2026-07-21",
       "deadline": "2026-08-31",
       "priority": 92,
       "verification_status": "verified",
@@ -60,7 +60,7 @@
       "location": "中国香港",
       "published_at": "2026-07-17",
       "first_seen_at": "2026-07-20",
-      "updated_at": "2026-07-20",
+      "updated_at": "2026-07-21",
       "deadline": "2026-08-10",
       "discovery_status": "historical_backfill",
       "priority": 90,
@@ -86,7 +86,7 @@
       "organization": "The University of Hong Kong",
       "location": "中国香港",
       "published_at": "2026-07-03",
-      "updated_at": "2026-07-19",
+      "updated_at": "2026-07-21",
       "deadline": "2026-08-31",
       "priority": 87,
       "verification_status": "verified",
@@ -123,6 +123,33 @@
         "桥梁课程"
       ],
       "source_url": "https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/"
+    },
+    {
+      "id": "nmi-free-recall-multiple-strategies-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "神经网络自由回忆模型自发学出多种记忆策略",
+      "title_en": "A neural network model of free recall learns multiple memory strategies",
+      "organization": "Nature Machine Intelligence",
+      "location": "计算认知／记忆模型",
+      "published_at": "2026-07-20",
+      "first_seen_at": "2026-07-21",
+      "updated_at": "2026-07-21",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 86,
+      "verification_status": "verified",
+      "summary": "研究训练神经网络执行自由回忆任务，发现模型可形成多种检索机制，并非都依赖经典的“时间情境”。表现最佳的模型形成了与刺激身份无关、强调项目学习位置的索引编码，建立类似“记忆宫殿”的顺序检索支架；当训练目标要求尽量回忆全部项目、且不能依赖近因效应时，这类策略更容易出现。局限是这是优化模型而非对人脑机制的直接测量；模型与人类行为模式相似，不能单独证明人脑采用同一表征。",
+      "summary_en": "Neural networks optimized for free recall developed multiple retrieval strategies rather than a single temporal-context mechanism. The best-performing models learned a stimulus-invariant index code for studied position, creating a sequential scaffold analogous to a memory palace; this strategy emerged more often when training rewarded recalling all items and blocked reliance on recency. The main limitation is that optimized model representations are not direct evidence of the mechanism used by the human brain.",
+      "relevance": "同时连接自由回忆、计算建模、表征学习与认知启发式 AI，是本轮与计算认知最直接的新论文。",
+      "tags": [
+        "上次扫描后新发布",
+        "自由回忆",
+        "神经网络模型",
+        "计算认知",
+        "代码公开"
+      ],
+      "source_url": "https://www.nature.com/articles/s42256-026-01274-0"
     },
     {
       "id": "sheffield-ccn-2026",
@@ -169,6 +196,33 @@
         "人工智能"
       ],
       "source_url": "https://www.khoury.northeastern.edu/programs/align-ms-in-artificial-intelligence/"
+    },
+    {
+      "id": "natneuro-adolescent-psychedelic-vhpc-ofc-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "青春期迷幻剂暴露通过海马—前额叶同步紊乱造成持续竞争回避",
+      "title_en": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal–prefrontal synchrony",
+      "organization": "Nature Neuroscience",
+      "location": "系统神经科学／社会行为",
+      "published_at": "2026-07-20",
+      "first_seen_at": "2026-07-21",
+      "updated_at": "2026-07-21",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 84,
+      "verification_status": "verified",
+      "summary": "雄性大鼠在青春期反复接触 25C-NBOMe 后，成年期出现持续的竞争回避；成年期暴露没有同样效应，变化也不能由一般社交性或支配地位解释。多位点记录显示腹侧海马—眶额皮层 theta 相干性下降最能预测该行为；化学遗传学激活该投射可纠正回避，抑制则可在对照动物中诱发回避。局限是仅研究雄性大鼠和一种特定药物／暴露方案，不能直接外推到人类青少年或其他迷幻剂。",
+      "summary_en": "Repeated adolescent—but not adult—25C-NBOMe exposure in male rats produced lasting competitive avoidance that was not explained by general sociability or dominance. Multisite recordings identified reduced ventral-hippocampus–orbitofrontal theta coherence as the strongest circuit correlate; chemogenetic activation normalized avoidance, while inhibition induced it in controls. Translation is limited by the male-rat model, one compound and one repeated-exposure regime.",
+      "relevance": "将发育阶段、社会行为、默认网络同步、theta 节律和投射因果操控连接起来，方法链完整。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Neuroscience",
+        "theta同步",
+        "海马—前额叶",
+        "动物模型"
+      ],
+      "source_url": "https://www.nature.com/articles/s41593-026-02369-y"
     },
     {
       "id": "utokyo-cs-2027",
@@ -267,6 +321,33 @@
         "新论文"
       ],
       "source_url": "https://www.nature.com/articles/s41467-026-75843-7"
+    },
+    {
+      "id": "elife-face-view-tolerance-horizontal-info-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "跨视角人脸身份识别主要依赖稳定的水平信息",
+      "title_en": "The view tolerance of human identity recognition depends on horizontal face information",
+      "organization": "eLife · Version of Record",
+      "location": "视觉认知／心理物理与观察者模型",
+      "published_at": "2026-07-20",
+      "first_seen_at": "2026-07-21",
+      "updated_at": "2026-07-21",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 80,
+      "verification_status": "verified",
+      "summary": "研究让 22 名年轻成人识别不同偏航角、并经方向滤波的人脸，再用图像观察者模型区分“同视角最有诊断性的信息”和“跨视角最稳定的信息”。同视角诊断线索会从正脸的水平信息逐渐转向侧脸的垂直信息，但人类表现仍主要依赖水平成分；跨视角模型也显示水平信息最稳定。eLife 评价为“重要、证据令人信服”。局限包括样本较小，刺激为受控的灰度白人中性脸，真实场景、光照变化及生物实现仍待验证。",
+      "summary_en": "Twenty-two young adults recognized identities across yaw angles using orientation-filtered faces, while image-based observer models separated view-selective diagnostic cues from view-tolerant stable cues. Diagnostic information shifted from horizontal in frontal faces toward vertical in profile views, yet human recognition remained primarily tuned to horizontal content; the view-tolerant model likewise found horizontal cues most stable. eLife rates the study important with convincing evidence. Limits include the small sample and controlled grayscale neutral-face stimuli, leaving ecological generalization and biological implementation open.",
+      "relevance": "对视觉表征不变性、人脸识别与计算模型约束有直接意义，也适合连接认知科学与计算机视觉。",
+      "tags": [
+        "上次扫描后新发布",
+        "eLife",
+        "视觉认知",
+        "人脸识别",
+        "计算模型"
+      ],
+      "source_url": "https://elifesciences.org/articles/108495"
     },
     {
       "id": "york-cns-2026",
@@ -510,17 +591,17 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要认知神经科学、计算神经科学及跨专业数据／AI项目入口；今日无新的高质量开放条目。Oxford、UCL 等 2026 轮次已关闭或截止，Sussex 2026-08-01 节点仍最紧。"
+      "note": "已复核主要认知／计算神经科学及跨专业数据／AI项目入口；今日无新的高质量开放条目。Sussex 国际申请截止仍为 2026-08-01，官方页面今日复核仍开放。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧方向；今日补录 Radboud／Donders 认知神经科学研究型硕士作为 2027 观察项。该项目不是今日新开放，2026 非欧盟轮次已结束。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧方向；今日无高质量新增。Radboud／Donders 2027 观察项继续保留，下一轮日期仍待官方发布。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned",
-      "note": "已直接检查高校官方招聘列表；补录 HKU 7 月 17 日发布的教育学院 RA II。该岗位接受任何本科专业且经验非必需，但要求粤语。新加坡今日无同等质量、可由官方页面核验的新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已直接检查高校官方招聘列表及既有 HKU 条目；今日没有新的层级匹配公告。三项 HKU RA 官方页面仍开放；新加坡未核验到同等质量新增。"
     },
     {
       "region": "日本与韩国",
@@ -530,58 +611,64 @@
     {
       "region": "美国与加拿大",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描高校官方研究岗位和跨专业项目。Harvard 多个 RA I/II 层级匹配，但官方明确不提供签证担保，因可达性不足未收录；今日无其他高质量可核验新增。"
+      "note": "已扫描高校研究岗位及跨专业项目；今日无同时满足层级、时效与可达性的官方新增。明确不提供签证担保的 RA 未收录。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI与神经相关项目；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
+      "note": "已复核主要数据／AI及神经相关项目；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-20T08:40:00+08:00",
+    "checked_at": "2026-07-21T08:31:00+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_eligible_new",
-        "note": "已检查腾讯、字节、阿里、京东等官方入口和近期职位。新近岗位多为有经验社招、产品／运营或限定后续届别的校招实习；未发现今天发布且符合低经验、方向与毕业资格的可核验岗位。"
+        "note": "已检查腾讯、字节、阿里、京东等官方入口。近期算法／数据岗位仍以多年经验社招或限定在校／后续届别实习为主；今日没有通过低经验、方向和毕业资格筛选的新职位。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等中国区官方招聘入口；今日无同时满足中国区、低经验、方向匹配且仍可申请的新岗位。"
+        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等中国区官方入口；未发现今日新增且同时满足中国区、低经验、方向匹配和仍可申请的岗位。Microsoft 大中华区实习仍要求在校且至少剩余一学期，不作为当前转职机会发布。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
+        "status": "scanned_no_high_quality_new",
+        "note": "已检查香港、新加坡及其他地区的高校官方招聘入口；既有 HKU 入门 RA 仍开放，今日没有新的高质量层级匹配公告。"
+      },
+      {
+        "source": "期刊／出版平台",
         "status": "scanned",
-        "note": "补录 HKU 教育学院 RA II；排除要求至少 2 年软件开发的 HKU Analyst Programmer、偏协调且经验要求高的临床岗位，以及不提供签证担保的美国 RA。"
+        "note": "已核验 Nature Machine Intelligence、Nature Neuroscience、eLife、Nature Communications、Current Biology 等官方更新；收录 3 篇 7 月 20 日正式发表且质量、方向匹配度较高的论文。"
       },
       {
         "source": "LinkedIn 等聚合线索",
         "status": "discovery_only",
-        "note": "仅作线索发现；没有回到学校、实验室或雇主官方页面核验的条目未发布。"
+        "note": "仅作线索发现；没有回到学校、实验室、期刊或雇主官方页面核验的条目未发布。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 3,
+    "newly_published_since_last_scan": 3,
+    "historical_backfills_added": 0,
     "status_changes": 0,
-    "still_open_urgent_items": 2,
-    "database_items_total": 21,
+    "still_open_urgent_items": 3,
+    "database_items_total": 24,
     "excluded_expired_or_ineligible": [
-      "要求至少2年软件开发经验且限定计算机相关学位的HKU Analyst Programmer",
-      "要求较高临床研究经验或以高频协调为主的岗位",
-      "Harvard等明确不提供签证担保的美国科研助理",
-      "限定2027/2028届的中国大厂校招与实习",
-      "无官方职位页的聚合平台线索"
+      "要求多年经验的中国大厂算法／数据社招",
+      "限定在校身份、后续届别或毕业前剩余学期的实习",
+      "无中国区低经验匹配项的外企岗位",
+      "明确不提供签证担保、可达性不足的海外科研助理",
+      "无法回到官方页面核验的聚合平台线索"
     ]
   },
   "change_legend": {
     "newly_published_today": "官方发布日期为今日或上次扫描后",
     "historical_backfill": "较早发布、今日首次发现并补录",
     "still_open": "既有条目，今日复核仍开放",
-    "status_change": "既有条目的截止日、开放状态或资格条件发生变化"
+    "status_change": "既有条目的截止日、开放状态或资格条件发生变化",
+    "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   }
 }
