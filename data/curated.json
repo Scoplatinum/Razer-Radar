@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:31:00+08:00",
+  "generated_at": "2026-07-22T08:15:00+08:00",
   "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -10,7 +10,7 @@
       "organization": "University of Sussex",
       "location": "英国・布莱顿",
       "published_at": "2026-07-19",
-      "updated_at": "2026-07-21",
+      "updated_at": "2026-07-22",
       "deadline": "2026-08-01",
       "priority": 96,
       "verification_status": "verified",
@@ -34,7 +34,7 @@
       "organization": "The University of Hong Kong",
       "location": "中国香港",
       "published_at": "2026-06-15",
-      "updated_at": "2026-07-21",
+      "updated_at": "2026-07-22",
       "deadline": "2026-08-31",
       "priority": 92,
       "verification_status": "verified",
@@ -51,6 +51,34 @@
       "source_url": "https://jobs.hku.hk/en/job/536602/fulltime-research-assistant-ii-at-the-speech-language-and-reading-lab-in-the-faculty-of-education"
     },
     {
+      "id": "hku-hearing-health-ra1-536914",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学教育学院听力健康管理全职科研助理 I（2 名）",
+      "title_en": "Full-time Research Assistant I — Hearing Health Management (2 posts)",
+      "organization": "The University of Hong Kong · Faculty of Education",
+      "location": "中国香港",
+      "published_at": "2026-07-21",
+      "first_seen_at": "2026-07-22",
+      "updated_at": "2026-07-22",
+      "deadline": "2026-08-31",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 91,
+      "verification_status": "verified",
+      "summary": "一年期全职科研助理，2026 年 11 月 1 日开始，可续约。接受任何专业本科，经验为加分项但并非必需；申请者需在 Python 软件工程、文献综述、英文校对、SPSS 统计或 NVivo/SPSS 数据分析中至少具备一项能力。工作包括资料检索、访谈、数据收集分析和转写。要求英语及熟练粤语，申请收到即审、招满即止。",
+      "summary_en": "A one-year, renewable RA I appointment starting 1 November 2026. Any bachelor's discipline is accepted and prior experience is advantageous but not required. Applicants should offer at least one of: Python software engineering, literature review, English proofreading, SPSS statistics, or NVivo/SPSS data analysis. Duties include searches, interviews, data collection/analysis and transcription. English and proficient Cantonese are required; applications are reviewed on receipt.",
+      "relevance": "层级、专业限制和经验要求都较友好，并连接 Python、统计与医疗研究；粤语是决定能否投递的实质门槛。",
+      "tags": [
+        "需尽快行动",
+        "上次扫描后新发布",
+        "经验非必需",
+        "本科专业不限",
+        "Python／SPSS",
+        "粤语要求"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536914/fulltime-research-assistant-i-2-posts-in-the-faculty-of-education"
+    },
+    {
       "id": "hku-education-ra2-536886",
       "category": "实验室",
       "section": "实验室机会",
@@ -60,7 +88,7 @@
       "location": "中国香港",
       "published_at": "2026-07-17",
       "first_seen_at": "2026-07-20",
-      "updated_at": "2026-07-21",
+      "updated_at": "2026-07-22",
       "deadline": "2026-08-10",
       "discovery_status": "historical_backfill",
       "priority": 90,
@@ -78,6 +106,34 @@
       "source_url": "https://jobs.hku.hk/en/job/536886/fulltime-research-assistant-ii-in-the-faculty-of-education"
     },
     {
+      "id": "nmi-cognitive-map-neural-sampling-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "从认知地图进行神经采样，可生成面向目标的想象与规划",
+      "title_en": "Neural sampling from cognitive maps enables goal-directed imagination and planning",
+      "organization": "Nature Machine Intelligence",
+      "location": "计算认知／脑启发式 AI",
+      "published_at": "2026-07-21",
+      "first_seen_at": "2026-07-22",
+      "updated_at": "2026-07-22",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 88,
+      "verification_status": "verified",
+      "summary": "研究把认知地图、随机采样和组合编码整合成透明的神经网络模型。模型通过局部、自监督的突触可塑性在线学习正向与逆向映射，无需反向传播；它能在二维空间、抽象图和组合轮廓任务中生成多条接近最优的目标路径，并对未经历状态和新障碍进行泛化。局限是主要证据来自计算模拟，与啮齿动物海马回放的对应多为定性，尚未直接验证大脑是否采用该算法。",
+      "summary_en": "The study combines cognitive maps, stochastic sampling and compositional coding in a transparent neural network that learns forward and inverse mappings online through local self-supervised plasticity without backpropagation. It generates diverse near-optimal goal paths in spatial, abstract-graph and compositional tasks, including unseen states and new barriers. The main limitation is that evidence is computational and correspondence with hippocampal replay is largely qualitative rather than a direct test of the brain's algorithm.",
+      "relevance": "直接连接 grid/place-cell 认知地图、海马回放、规划、组合泛化和低功耗脑启发式 AI，是本轮方向匹配度最高的研究。",
+      "tags": [
+        "上次扫描后新发布",
+        "认知地图",
+        "海马回放",
+        "规划",
+        "脑启发式AI",
+        "开放获取"
+      ],
+      "source_url": "https://www.nature.com/articles/s42256-026-01254-4"
+    },
+    {
       "id": "hku-brain-stim-ra2-536751",
       "category": "实验室",
       "section": "实验室机会",
@@ -86,7 +142,7 @@
       "organization": "The University of Hong Kong",
       "location": "中国香港",
       "published_at": "2026-07-03",
-      "updated_at": "2026-07-21",
+      "updated_at": "2026-07-22",
       "deadline": "2026-08-31",
       "priority": 87,
       "verification_status": "verified",
@@ -150,6 +206,34 @@
         "代码公开"
       ],
       "source_url": "https://www.nature.com/articles/s42256-026-01274-0"
+    },
+    {
+      "id": "natcom-tfus-primate-thalamus-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "经颅聚焦超声在灵长类丘脑中同时调节放电、LFP 与 BOLD",
+      "title_en": "Transcranial focused ultrasound modulates spiking, LFP, and BOLD activity in the primate thalamus",
+      "organization": "Nature Communications",
+      "location": "神经调控／灵长类电生理与 fMRI",
+      "published_at": "2026-07-21",
+      "first_seen_at": "2026-07-22",
+      "updated_at": "2026-07-22",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 85,
+      "verification_status": "verified",
+      "summary": "研究在猕猴丘脑与岛叶系统中结合单单位放电、局部场电位和 fMRI，发现低强度聚焦超声可产生局部 BOLD 增强，并优先改变丘脑 VPL 的 delta、theta、alpha 活动及放电；从岛叶远程刺激也能调节丘脑。三类信号的空间变化高度对应，超声反应峰值比振动触觉刺激更慢。局限包括非人灵长类样本与特定参数范围，机制和临床有效性仍不能由本研究单独确定；部分作者持有相关专利申请。",
+      "summary_en": "In macaque thalamus–insula circuits, simultaneous single-unit, LFP and fMRI measurements showed that low-intensity focused ultrasound elicited localized BOLD increases and preferentially modulated delta, theta and alpha LFPs plus VPL spiking; remote insular stimulation also affected thalamus. Spatial changes aligned across modalities and peaked more slowly than vibrotactile responses. Limits include the non-human-primate model, a specific parameter range and unresolved clinical efficacy; several authors are co-inventors on a related patent application.",
+      "relevance": "为深部非侵入神经调控提供跨尺度验证，尤其适合关注神经刺激、电生理与成像信号关系的方向。",
+      "tags": [
+        "上次扫描后新发布",
+        "聚焦超声",
+        "灵长类",
+        "LFP",
+        "fMRI",
+        "神经调控"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75826-8"
     },
     {
       "id": "sheffield-ccn-2026",
@@ -297,6 +381,33 @@
         "自然科学背景可申请"
       ],
       "source_url": "https://www.ru.nl/en/education/masters/cognitive-neuroscience-research/admission-and-application"
+    },
+    {
+      "id": "commbio-repetition-suppression-oscillations-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "重复加工的行为促进可能由更早结束、功率增强的神经振荡支持",
+      "title_en": "Repetition-related reductions in neural activity support improved behavior through increases in oscillatory power",
+      "organization": "Communications Biology",
+      "location": "认知神经科学／同步 EEG-fMRI",
+      "published_at": "2026-07-21",
+      "first_seen_at": "2026-07-22",
+      "updated_at": "2026-07-22",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 81,
+      "verification_status": "verified",
+      "summary": "研究在人类物体命名任务中同步采集 EEG 与 fMRI。重复出现后，额叶和枕颞叶的刺激诱发振荡从 gamma 到 theta 均表现为功率增加并更早结束，而同一区域的 BOLD 活动呈重复抑制；gamma 功率变化还与行为启动效应及左额叶 fMRI 抑制相关。作者据此提出同步与促进模型的混合解释。局限是相关关系不能单独确立振荡变化对行为改善的因果性，任务与刺激范围也较窄。",
+      "summary_en": "During human object naming with simultaneous EEG-fMRI, repetition increased stimulus-driven oscillatory power from gamma to theta and caused it to resolve earlier in frontal and occipitotemporal regions that showed fMRI repetition suppression. Gamma changes correlated with behavioral priming and left-frontal BOLD suppression, supporting a mixture of Synchrony and Facilitation accounts. The correlational design does not establish that oscillatory changes cause behavioral improvement, and the task/stimulus domain is limited.",
+      "relevance": "把重复抑制、行为启动、跨频振荡与同步 EEG-fMRI 统一到同一实验中，方法和理论均与认知神经科学高度相关。",
+      "tags": [
+        "上次扫描后新发布",
+        "同步EEG-fMRI",
+        "重复抑制",
+        "gamma／theta",
+        "行为启动"
+      ],
+      "source_url": "https://www.nature.com/articles/s42003-026-10668-0"
     },
     {
       "id": "natcom-compressive-learning-2026",
@@ -467,6 +578,34 @@
       "source_url": "https://elifesciences.org/articles/108017"
     },
     {
+      "id": "hku-hiebs-ra12-536920",
+      "category": "求职",
+      "section": "数据分析岗位",
+      "title": "香港大学经济与商业策略研究所科研助理 I/II（多个岗位）",
+      "title_en": "Research Assistant I/II — Hong Kong Institute of Economics and Business Strategy",
+      "organization": "The University of Hong Kong · HIEBS",
+      "location": "中国香港",
+      "published_at": "2026-07-21",
+      "first_seen_at": "2026-07-22",
+      "updated_at": "2026-07-22",
+      "deadline": "2026-08-21",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 76,
+      "verification_status": "verified",
+      "summary": "一年期全职科研助理，可续约，负责香港及大湾区的产业多元化、知识产权金融与贸易、结构整合宏观影响等学术和政策研究。接受经济学、公共政策或相关领域本科／硕士，硕士强烈优先；要求中英文书面与口头表达，以及定量、定性研究和编程能力。收到申请即审、招满即止。",
+      "summary_en": "A one-year, renewable RA I/II role conducting academic and policy research on Hong Kong and the Greater Bay Area, including economic diversification, IP finance/trade and macroeconomic effects of structural integration. Applicants should have an undergraduate or preferably master's degree in economics, public policy or a related field, with Chinese/English communication, analytical, programming, quantitative and qualitative research skills. Review is rolling.",
+      "relevance": "属于低年限数据与政策研究入口，但学科偏好和中英文沟通要求较强，适配度低于技术型科研助理；应先按课程与研究经历判断“相关领域”资格。",
+      "tags": [
+        "需尽快行动",
+        "上次扫描后新发布",
+        "数据研究",
+        "政策研究",
+        "编程",
+        "专业相关性需核对"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536920/research-assistant-iii"
+    },
+    {
       "id": "sheffield-neuroimaging-2026",
       "category": "升学",
       "title": "认知神经科学与人类神经影像硕士",
@@ -591,77 +730,77 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要认知／计算神经科学及跨专业数据／AI项目入口；今日无新的高质量开放条目。Sussex 国际申请截止仍为 2026-08-01，官方页面今日复核仍开放。"
+      "note": "已复核主要认知／计算神经科学、神经影像及跨专业数据／AI项目和入门研究岗位；今日无新的高质量开放条目。Sussex 国际申请截止 2026-08-01，今日复核仍是最紧节点。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧方向；今日无高质量新增。Radboud／Donders 2027 观察项继续保留，下一轮日期仍待官方发布。"
+      "status": "scanned_no_eligible_new",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧的博士、硕士和研究岗位。若干聚合线索已过期或属于博士后；KTH 脑启发式机器智能博士官方页面已下线，因此未发布。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "已直接检查高校官方招聘列表及既有 HKU 条目；今日没有新的层级匹配公告。三项 HKU RA 官方页面仍开放；新加坡未核验到同等质量新增。"
+      "status": "scanned",
+      "note": "已直接检查高校官方招聘列表；新增 HKU 听力健康 RA I 和 HIEBS RA I/II。另有 HKU 数据科学／数据协调职位因明确要求 3–5 年建模经验或成熟数据治理经验而排除。新加坡今日无同等质量新增。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要英文授课项目和研究入口；今日无高质量新增，东京大学 2027 招生入口继续保留。"
+      "note": "已复核主要英文授课项目、研究生入口和研究岗位；今日无高质量新增，东京大学 2027 招生入口继续保留。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描高校研究岗位及跨专业项目；今日无同时满足层级、时效与可达性的官方新增。明确不提供签证担保的 RA 未收录。"
+      "note": "已扫描高校研究岗位及跨专业项目；今日无同时满足层级、官方开放状态与国际可达性的新增。明确不提供签证担保的 RA 继续不收录。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI及神经相关项目；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
+      "note": "已复核主要数据／AI及神经相关项目和研究入口；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-21T08:31:00+08:00",
+    "checked_at": "2026-07-22T08:15:00+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_eligible_new",
-        "note": "已检查腾讯、字节、阿里、京东等官方入口。近期算法／数据岗位仍以多年经验社招或限定在校／后续届别实习为主；今日没有通过低经验、方向和毕业资格筛选的新职位。"
+        "note": "已检查腾讯、字节、阿里、京东等官方入口。腾讯当前校招／实习主要面向 2026–2027 届或在校生，字节数据分析线索也属于校园招聘；未作为当前低经验社会招聘发布。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等中国区官方入口；未发现今日新增且同时满足中国区、低经验、方向匹配和仍可申请的岗位。Microsoft 大中华区实习仍要求在校且至少剩余一学期，不作为当前转职机会发布。"
+        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口。SAP 上海 Graduate Associate Consultant 官方页已显示职位招满；其余匹配线索多要求在校身份、限定毕业时间或多年经验，今日无可发布新增。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_no_high_quality_new",
-        "note": "已检查香港、新加坡及其他地区的高校官方招聘入口；既有 HKU 入门 RA 仍开放，今日没有新的高质量层级匹配公告。"
+        "status": "scanned",
+        "note": "新增两项 7 月 21 日发布的 HKU RA；排除 HKU 要求硕士及 3–5 年建模经验的数据科学职位、成熟数据治理职位和高级研究职位。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned",
-        "note": "已核验 Nature Machine Intelligence、Nature Neuroscience、eLife、Nature Communications、Current Biology 等官方更新；收录 3 篇 7 月 20 日正式发表且质量、方向匹配度较高的论文。"
+        "note": "已核验 Nature Machine Intelligence、Nature Communications、Communications Biology、Molecular Psychiatry、eLife、Current Biology 等官方更新；收录 3 篇 7 月 21 日正式发表且方向和研究质量较高的论文。"
       },
       {
-        "source": "LinkedIn 等聚合线索",
+        "source": "LinkedIn／Academic Positions 等聚合线索",
         "status": "discovery_only",
-        "note": "仅作线索发现；没有回到学校、实验室、期刊或雇主官方页面核验的条目未发布。"
+        "note": "仅用于发现候选条目；过期、层级不符或无法回到学校／雇主／期刊官方页面确认的线索均未发布。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 3,
+    "newly_published_since_last_scan": 5,
     "historical_backfills_added": 0,
     "status_changes": 0,
-    "still_open_urgent_items": 3,
-    "database_items_total": 24,
+    "still_open_urgent_items": 5,
+    "database_items_total": 29,
     "excluded_expired_or_ineligible": [
-      "要求多年经验的中国大厂算法／数据社招",
-      "限定在校身份、后续届别或毕业前剩余学期的实习",
-      "无中国区低经验匹配项的外企岗位",
-      "明确不提供签证担保、可达性不足的海外科研助理",
-      "无法回到官方页面核验的聚合平台线索"
+      "HKU 要求硕士及 3–5 年数学建模／统计推断经验的数据科学职位",
+      "HKU 要求成熟数据治理、跨团队工作流经验的数据协调职位",
+      "已显示招满的 SAP 上海 Graduate Associate Consultant",
+      "限定在校身份或 2026–2027 届的中国大厂／外企实习与校招",
+      "已过期、博士后或无法回到官方页面核验的聚合平台线索"
     ]
   },
   "change_legend": {
