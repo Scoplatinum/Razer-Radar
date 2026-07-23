@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:15:00+08:00",
+  "generated_at": "2026-07-23T08:50:00+08:00",
   "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -24,6 +24,35 @@
       ],
       "source_url": "https://www.sussex.ac.uk/study/masters/courses/cognitive-and-clinical-neuroscience-msc",
       "section": "神经与认知项目"
+    },
+    {
+      "id": "hku-contemplative-neuroimaging-ra-536870",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学禅修／正念神经影像与大数据实验室科研助理 I/II",
+      "title_en": "Research Assistant I/II — Contemplative Neuroimaging and Big Data",
+      "organization": "The University of Hong Kong · Centre of Buddhist Studies",
+      "location": "中国香港",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "2026-09-30",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 94,
+      "verification_status": "verified",
+      "summary": "一年期全职岗位，可续约；研究禅修、正念、注意和情绪调节的神经机制。工作包括建立数据分析管线、统计／大数据分析、数据管理，以及 EEG、fNIRS、ECG、PPG 等多模态信号的采集、预处理和分析。要求心理学、神经科学、生物医学工程或相关本科及以上，Python、R 或 MATLAB 编程，以及神经影像／生理数据处理经验；资历或经验较低者可按 RA I/II 考虑。中英文（含粤语、普通话）为“优先”而非明确硬性要求。申请滚动审查，招满即止。",
+      "summary_en": "A one-year, renewable full-time role studying neural correlates of meditation, mindfulness, attention and emotion regulation. Work spans analysis-pipeline development, statistics/big-data analysis, data management, and collection/preprocessing/analysis of EEG, fNIRS, ECG and PPG. A bachelor's degree in psychology, neuroscience, biomedical engineering or a related field, Python/R/MATLAB skills and hands-on multimodal-data experience are sought; candidates with lower qualifications or less experience may be appointed at RA I/II level. Chinese including Cantonese and Putonghua is preferred rather than stated as mandatory. Review is rolling until filled.",
+      "relevance": "与计算神经科学、神经影像、编程和注意／情绪研究高度贴合；真正门槛是已有多模态数据处理经历，语言要求比多数 HKU 教育学院岗位更柔性，值得优先核对。",
+      "tags": [
+        "需尽快行动",
+        "今日新发布",
+        "科研助理",
+        "神经影像",
+        "Python／R／MATLAB",
+        "EEG／fNIRS",
+        "滚动审查"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536870/senior-research-assistantresearch-assistant-iresearch-assistant-ii-in-lab-of-the-centre-of-buddhist-studies"
     },
     {
       "id": "hku-slr-ra2-536602",
@@ -79,6 +108,34 @@
       "source_url": "https://jobs.hku.hk/en/job/536914/fulltime-research-assistant-i-2-posts-in-the-faculty-of-education"
     },
     {
+      "id": "natcom-concept2brain-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "Concept2Brain：从文字或图片生成可复现的合成 EEG 反应",
+      "title_en": "Concept2Brain: an AI model for predicting neurophysiological responses to text and pictures",
+      "organization": "Nature Communications",
+      "location": "计算神经科学／生成式神经建模",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 91,
+      "verification_status": "verified",
+      "summary": "研究提出深度网络 Concept2Brain，利用 CLIP 等模型把文字或图片的语义／情绪表征映射到电生理潜在空间，从而预测与实测相似的 EEG 反应；作者同时开放网页工具，用于生成可复现的合成 EEG 数据。其价值在于连接多模态 AI、刺激表征和神经编码。局限是“像真实 EEG”并不等于模型复现了大脑的因果机制；对训练分布外概念、人群差异和下游科学结论的可靠性仍需独立验证。",
+      "summary_en": "Concept2Brain uses a deep network, including CLIP-derived stimulus representations, to map semantic and emotional information from text or pictures into an electrophysiological latent space and generate EEG-like responses. An open web service supports reproducible synthetic datasets. Its main limitation is that resemblance to recorded EEG does not establish a causal model of the brain; out-of-distribution concepts, individual variability and downstream scientific validity require independent testing.",
+      "relevance": "这是 AI 与计算神经科学交叉度最高的新论文之一，也可作为神经数据生成、表征学习和科研工程方向的项目线索。",
+      "tags": [
+        "今日新发布",
+        "AI／神经科学",
+        "EEG",
+        "CLIP",
+        "生成模型",
+        "开放工具"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75653-x"
+    },
+    {
       "id": "hku-education-ra2-536886",
       "category": "实验室",
       "section": "实验室机会",
@@ -104,6 +161,34 @@
         "粤语要求"
       ],
       "source_url": "https://jobs.hku.hk/en/job/536886/fulltime-research-assistant-ii-in-the-faculty-of-education"
+    },
+    {
+      "id": "natcom-semantic-distance-retrieval-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "语言模型语义距离揭示知识检索困难时三类脑网络的协同",
+      "title_en": "Model-based semantic distance reveals adaptive coordination of distinct cognitive systems in flexible knowledge retrieval",
+      "organization": "Nature Communications",
+      "location": "语义记忆／fMRI／语言模型",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 89,
+      "verification_status": "verified",
+      "summary": "研究用 AI 语言模型量化概念间的语义距离，并结合脑成像追踪知识检索难度；结果显示一个神经指标随相关概念的可检索性变化，且检索越困难，三个认知系统之间的协同越强。方法把现代语义嵌入与记忆检索机制连接起来。局限是结论依赖所用语言模型和任务对“语义距离”的定义，fMRI 网络协同主要是相关证据，是否能泛化到开放式现实知识检索仍待检验。",
+      "summary_en": "AI language models were used to quantify semantic distance between concepts and link it to neuroimaging during flexible knowledge retrieval. A neural signature tracked retrieval ease, while three cognitive systems coordinated more strongly as retrieval became demanding. Limits include dependence on the chosen embedding/model and task definition, correlational fMRI evidence, and uncertain generalisation to open-ended real-world retrieval.",
+      "relevance": "直接连接语义记忆、计算表征、语言模型与大尺度网络协作，适合计算认知路线。",
+      "tags": [
+        "上次扫描后新发布",
+        "语义记忆",
+        "语言模型",
+        "fMRI",
+        "网络协同",
+        "开放获取"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75841-9"
     },
     {
       "id": "nmi-cognitive-map-neural-sampling-2026",
@@ -132,6 +217,34 @@
         "开放获取"
       ],
       "source_url": "https://www.nature.com/articles/s42256-026-01254-4"
+    },
+    {
+      "id": "elife-learning-rate-timescales-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "人类学习率同时在快、慢两个时间尺度上适应",
+      "title_en": "Two time scales of adaptation in human learning rates",
+      "organization": "eLife · Version of Record",
+      "location": "强化学习／元学习／fMRI",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 88,
+      "verification_status": "verified",
+      "summary": "两项实验让参与者在六种统计环境中完成连续估计任务，并用计算模型分离区块内快速学习率调整与环境特异的慢速元学习。再次进入某环境时，首个试次就保留相应学习率；fMRI 表征相似性分析显示中央眶额皮层模式与这种全局学习率相关，预测误差信号则分布于包括腹侧纹状体在内的网络。局限是人工任务的生态效度有限，OFC 表征属于相关性证据而非因果检验。eLife 评价为“有价值、证据令人信服”。",
+      "summary_en": "Across two experiments, participants performed a continuous-estimation task in six statistical environments. Computational modelling separated fast within-block learning-rate adjustment from slower environment-specific meta-learning; the first trial on returning to an environment retained its global rate. fMRI representational similarity linked central orbitofrontal patterns to these rates, with prediction-error signals distributed across a network including ventral striatum. Limits are the artificial task and correlational rather than causal OFC evidence. eLife rates the work valuable with convincing evidence.",
+      "relevance": "与强化学习、元学习、预测误差、OFC 和计算建模高度相关。",
+      "tags": [
+        "上次扫描后新发布",
+        "强化学习",
+        "元学习",
+        "OFC",
+        "fMRI",
+        "eLife"
+      ],
+      "source_url": "https://elifesciences.org/articles/108223"
     },
     {
       "id": "hku-brain-stim-ra2-536751",
@@ -208,6 +321,34 @@
       "source_url": "https://www.nature.com/articles/s42256-026-01274-0"
     },
     {
+      "id": "natcom-infant-neural-coupling-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "成人到婴儿的单向神经耦合中介了选择性社会学习",
+      "title_en": "Adult-to-infant unidirectional neural coupling mediates selective social learning in infants from the United Kingdom and Singapore",
+      "organization": "Nature Communications",
+      "location": "发展认知神经科学／跨文化社会学习",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 86,
+      "verification_status": "verified",
+      "summary": "英国与新加坡婴儿队列学习人工语言时，成人说话者的眼神接触调节了“成人→婴儿”的单向神经耦合；该耦合中介了完整眼神接触条件下的选择性学习，而且比婴儿自身神经活动更能预测学习结果。跨地区重复提高了稳健性。局限是人工语言与受控眼神范式未必覆盖真实互动，耦合和中介分析也不能单独证明神经因果传递；当前公开稿仍为未完成文字编辑的早期版本。",
+      "summary_en": "In infant cohorts from the UK and Singapore learning an artificial language, speaker eye contact modulated unidirectional adult-to-infant neural coupling. This coupling mediated selective learning under full eye contact and predicted learning better than infant neural activity alone. Cross-site replication strengthens the result. Limits include the artificial-language and controlled-gaze paradigms, the non-causal nature of coupling/mediation analyses, and the currently unedited early public version.",
+      "relevance": "连接发展神经科学、社会注意、语言学习、跨脑耦合与跨文化重复。",
+      "tags": [
+        "上次扫描后新发布",
+        "婴儿学习",
+        "跨脑耦合",
+        "眼神接触",
+        "跨文化",
+        "开放获取"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75831-x"
+    },
+    {
       "id": "natcom-tfus-primate-thalamus-2026",
       "category": "研究",
       "section": "研究动态",
@@ -234,6 +375,34 @@
         "神经调控"
       ],
       "source_url": "https://www.nature.com/articles/s41467-026-75826-8"
+    },
+    {
+      "id": "natcom-sleep-deprivation-signature-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "跨数据集机器学习识别睡眠剥夺的脑连接特征",
+      "title_en": "A neural signature of sleep deprivation in the human brain",
+      "organization": "Nature Communications",
+      "location": "睡眠／连接组／机器学习",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 85,
+      "verification_status": "verified",
+      "summary": "研究用机器学习和大型神经影像数据建立睡眠剥夺脑特征，并在多个独立、包含实验与现实情境的数据集中验证。该特征能检测一晚恢复睡眠后的残留扰动、部分睡眠剥夺及普通人群自然睡眠时长差异，并定位较易受影响或较快恢复的分布式连接模式。局限是预测标记不等同于机制，数据集与扫描条件差异、潜在混杂及个体层面的临床可用性仍需进一步检验；公开稿尚未完成文字编辑。",
+      "summary_en": "Machine learning on large neuroimaging datasets produced a connectivity signature that generalised across independent experimental and real-world samples. It detected residual effects after one recovery night, partial deprivation and natural sleep-duration variation, while highlighting vulnerable and rapidly normalising networks. A predictive marker is not a mechanism, and dataset/scanner heterogeneity, confounding and individual clinical utility remain open; the public version is not yet copy-edited.",
+      "relevance": "是神经影像机器学习、跨数据集验证和可泛化生物标记设计的实用案例。",
+      "tags": [
+        "上次扫描后新发布",
+        "睡眠剥夺",
+        "机器学习",
+        "连接组",
+        "跨数据集验证",
+        "开放获取"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75661-x"
     },
     {
       "id": "sheffield-ccn-2026",
@@ -307,6 +476,34 @@
         "动物模型"
       ],
       "source_url": "https://www.nature.com/articles/s41593-026-02369-y"
+    },
+    {
+      "id": "elife-apkc-ltp-memory-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "双敲除显示非典型 PKC 对海马长期增强和空间长时记忆的维持至关重要",
+      "title_en": "PKMζ-PKCι/λ double-knockout demonstrates atypical PKC is crucial for the persistence of hippocampal LTP and spatial memory",
+      "organization": "eLife · Version of Record",
+      "location": "突触可塑性／长期记忆／小鼠遗传学",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-07-23",
+      "updated_at": "2026-07-23",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 83,
+      "verification_status": "verified",
+      "summary": "研究解决 PKMζ 敲除小鼠仍保留海马 LTP 与空间记忆的补偿争议：PKCι/λ 在 PKMζ 缺失时持续上调；同时删除两种非典型 PKC 后，海马晚期 LTP 和空间长时记忆消失，而短时记忆相对保留，支持两者可互相补偿并共同维持长期可塑性。局限是小鼠遗传敲除可能引入发育／补偿效应，不能直接外推到正常人类记忆维持。eLife 评价为“重要、证据令人信服”。",
+      "summary_en": "The study addresses why PKMζ-knockout mice retain hippocampal LTP and spatial memory: PKCι/λ becomes persistently upregulated when PKMζ is absent. Removing both atypical PKCs abolishes late hippocampal LTP and spatial long-term memory while relatively sparing short-term memory, supporting mutual compensation in persistent plasticity. Mouse genetic knockouts may introduce developmental or compensatory effects and cannot be directly extrapolated to normal human memory. eLife rates the study important with convincing evidence.",
+      "relevance": "为长期记忆的分子维持机制和遗传补偿问题提供关键证据。",
+      "tags": [
+        "上次扫描后新发布",
+        "LTP",
+        "长期记忆",
+        "海马",
+        "小鼠遗传学",
+        "eLife"
+      ],
+      "source_url": "https://elifesciences.org/articles/110499"
     },
     {
       "id": "utokyo-cs-2027",
@@ -730,77 +927,77 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要认知／计算神经科学、神经影像及跨专业数据／AI项目和入门研究岗位；今日无新的高质量开放条目。Sussex 国际申请截止 2026-08-01，今日复核仍是最紧节点。"
+      "note": "已复核认知／计算神经科学、神经影像、跨专业数据／AI 项目及入门研究岗位；今日无新的高质量开放机会。Sussex 国际申请截止 2026-08-01，仍是最紧节点。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧的博士、硕士和研究岗位。若干聚合线索已过期或属于博士后；KTH 脑启发式机器智能博士官方页面已下线，因此未发布。"
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧的硕士、博士和入门研究岗位；检索线索以过期或博士后层级为主，今日无经学校官方页面确认且资格适合的新增。"
     },
     {
       "region": "香港与新加坡",
       "status": "scanned",
-      "note": "已直接检查高校官方招聘列表；新增 HKU 听力健康 RA I 和 HIEBS RA I/II。另有 HKU 数据科学／数据协调职位因明确要求 3–5 年建模经验或成熟数据治理经验而排除。新加坡今日无同等质量新增。"
+      "note": "HKU 7 月 22 日发布一项禅修／正念神经影像与大数据岗位，低资历者可按 RA I/II 考虑，已作为今日新机会收录。新加坡高校入口今日未见同等质量的新岗位；研究部分收录 NTU 参与的跨文化婴儿神经耦合论文。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要英文授课项目、研究生入口和研究岗位；今日无高质量新增，东京大学 2027 招生入口继续保留。"
+      "note": "已复核英文授课项目、研究生入口和研究岗位；今日无高质量新增，东京大学 2027 招生入口继续保留。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描高校研究岗位及跨专业项目；今日无同时满足层级、官方开放状态与国际可达性的新增。明确不提供签证担保的 RA 继续不收录。"
+      "note": "已扫描高校研究岗位及跨专业项目；今日没有同时满足低经验、开放状态与国际可达性的新增机会。研究更新包含美国团队的 Concept2Brain、睡眠剥夺连接组标记和记忆分子机制论文。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI及神经相关项目和研究入口；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
+      "note": "已复核主要数据／AI及神经相关项目和研究入口；今日无高质量机会新增，墨尔本大学数据科学项目继续保留。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-22T08:15:00+08:00",
+    "checked_at": "2026-07-23T08:50:00+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_eligible_new",
-        "note": "已检查腾讯、字节、阿里、京东等官方入口。腾讯当前校招／实习主要面向 2026–2027 届或在校生，字节数据分析线索也属于校园招聘；未作为当前低经验社会招聘发布。"
+        "note": "已检查腾讯、字节、阿里、京东等官方入口。可见的数据／AI职位多要求至少 1 年以上直接经验、成熟项目经历，或限定在校生／特定毕业届别；本轮没有新增同时满足低经验、资格适用和官方开放的岗位。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口。SAP 上海 Graduate Associate Consultant 官方页已显示职位招满；其余匹配线索多要求在校身份、限定毕业时间或多年经验，今日无可发布新增。"
+        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口；今日未发现同时满足中国区、低经验、方向匹配且官方页面开放的新岗位。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
         "status": "scanned",
-        "note": "新增两项 7 月 21 日发布的 HKU RA；排除 HKU 要求硕士及 3–5 年建模经验的数据科学职位、成熟数据治理职位和高级研究职位。"
+        "note": "收录 HKU 7 月 22 日发布的禅修／正念神经影像与大数据 RA；排除要求 8 年实验室经验的高级技术岗、3 年以上项目管理岗、博士后及其他明显层级不符岗位。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned",
-        "note": "已核验 Nature Machine Intelligence、Nature Communications、Communications Biology、Molecular Psychiatry、eLife、Current Biology 等官方更新；收录 3 篇 7 月 21 日正式发表且方向和研究质量较高的论文。"
+        "note": "已核验 Nature Communications 与 eLife 官方更新；收录 6 篇 7 月 22–23 日正式发表且与计算认知、神经影像、学习、记忆或 AI 神经建模高度相关的论文。"
       },
       {
-        "source": "LinkedIn／Academic Positions 等聚合线索",
+        "source": "LinkedIn／Academic Positions／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现候选条目；过期、层级不符或无法回到学校／雇主／期刊官方页面确认的线索均未发布。"
+        "note": "仅用于发现候选条目；过期、博士后、签证或层级不符，以及无法回到学校／雇主／期刊官方页面确认的线索均未发布。"
       }
     ]
   },
   "run_summary": {
-    "newly_published_today": 0,
-    "newly_published_since_last_scan": 5,
+    "newly_published_today": 1,
+    "newly_published_since_last_scan": 7,
     "historical_backfills_added": 0,
     "status_changes": 0,
-    "still_open_urgent_items": 5,
-    "database_items_total": 29,
+    "still_open_urgent_items": 6,
+    "database_items_total": 36,
     "excluded_expired_or_ineligible": [
-      "HKU 要求硕士及 3–5 年数学建模／统计推断经验的数据科学职位",
-      "HKU 要求成熟数据治理、跨团队工作流经验的数据协调职位",
-      "已显示招满的 SAP 上海 Graduate Associate Consultant",
-      "限定在校身份或 2026–2027 届的中国大厂／外企实习与校招",
-      "已过期、博士后或无法回到官方页面核验的聚合平台线索"
+      "HKU 要求 8 年实验室经验的 Senior Technical Officer",
+      "要求至少 3 年项目管理或高级研究资历的岗位",
+      "限定在校身份或特定毕业届别的实习与校招",
+      "中国大厂要求成熟项目经历或多年经验的数据／算法社招",
+      "过期、博士后或无法回到官方页面核验的聚合平台线索"
     ]
   },
   "change_legend": {
