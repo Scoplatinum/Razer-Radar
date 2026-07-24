@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:50:00+08:00",
+  "generated_at": "2026-07-24T08:44:00+08:00",
   "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -10,7 +10,7 @@
       "organization": "University of Sussex",
       "location": "英国・布莱顿",
       "published_at": "2026-07-19",
-      "updated_at": "2026-07-22",
+      "updated_at": "2026-07-24",
       "deadline": "2026-08-01",
       "priority": 96,
       "verification_status": "verified",
@@ -35,7 +35,7 @@
       "location": "中国香港",
       "published_at": "2026-07-22",
       "first_seen_at": "2026-07-23",
-      "updated_at": "2026-07-23",
+      "updated_at": "2026-07-24",
       "deadline": "2026-09-30",
       "discovery_status": "newly_published_since_last_scan",
       "priority": 94,
@@ -63,7 +63,7 @@
       "organization": "The University of Hong Kong",
       "location": "中国香港",
       "published_at": "2026-06-15",
-      "updated_at": "2026-07-22",
+      "updated_at": "2026-07-24",
       "deadline": "2026-08-31",
       "priority": 92,
       "verification_status": "verified",
@@ -89,7 +89,7 @@
       "location": "中国香港",
       "published_at": "2026-07-21",
       "first_seen_at": "2026-07-22",
-      "updated_at": "2026-07-22",
+      "updated_at": "2026-07-24",
       "deadline": "2026-08-31",
       "discovery_status": "newly_published_since_last_scan",
       "priority": 91,
@@ -145,7 +145,7 @@
       "location": "中国香港",
       "published_at": "2026-07-17",
       "first_seen_at": "2026-07-20",
-      "updated_at": "2026-07-22",
+      "updated_at": "2026-07-24",
       "deadline": "2026-08-10",
       "discovery_status": "historical_backfill",
       "priority": 90,
@@ -189,6 +189,36 @@
         "开放获取"
       ],
       "source_url": "https://www.nature.com/articles/s41467-026-75841-9"
+    },
+    {
+      "id": "hku-sph-lab-ra12-536904",
+      "category": "求职",
+      "section": "科研／医疗／生信岗位",
+      "title": "香港大学公共卫生实验室科学科研助理 I/II（多个岗位）",
+      "title_en": "Research Assistant I/II — Public Health Laboratory Sciences (several posts)",
+      "organization": "The University of Hong Kong · School of Public Health",
+      "location": "中国香港",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-24",
+      "updated_at": "2026-07-24",
+      "deadline": "2026-08-31",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 89,
+      "verification_status": "verified",
+      "summary": "一年期全职岗位，可续约。接受细胞／分子生物学、基因组学、生命科学、生物技术等本科或硕士；病毒学、免疫学、分子克隆、细胞实验及组学数据生物信息分析经验均为加分项。工作同时包含实验、数据分析解释、记录和实验室运营支持。申请滚动审查、招满即止。",
+      "summary_en": "A one-year, renewable RA I/II appointment for bachelor's or master's graduates in cell/molecular biology, genomics, life sciences, biotechnology or related fields. Experience in virology, immunology, cloning, cell assays and bioinformatics analysis of omics data is advantageous. Duties combine bench experiments, analysis and interpretation, record keeping and basic laboratory operations. Applications are reviewed on a rolling basis until filled.",
+      "relevance": "层级和生命科学背景要求较可达，并包含组学分析入口；但主体仍是病毒学／细胞分子湿实验，不能当作纯生物信息岗位。应在确有实验基础或愿意回到湿实验时优先考虑。",
+      "tags": [
+        "需尽快行动",
+        "上次扫描后新发布",
+        "RA I/II",
+        "生物信息",
+        "组学",
+        "病毒学",
+        "湿实验",
+        "滚动审查"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536904/research-assistant-iii-several-posts-in-the-division-of-public-health-laboratory-sciences"
     },
     {
       "id": "nmi-cognitive-map-neural-sampling-2026",
@@ -245,6 +275,35 @@
         "eLife"
       ],
       "source_url": "https://elifesciences.org/articles/108223"
+    },
+    {
+      "id": "elife-stroke-muscle-networks-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "功能肌肉网络可区分卒中运动损伤程度和康复响应",
+      "title_en": "Functional muscle networks as biomarkers of post-stroke motor impairment and therapeutic responsiveness",
+      "organization": "eLife · Version of Record",
+      "location": "运动神经科学／sEMG／康复数据分析",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-24",
+      "updated_at": "2026-07-24",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 88,
+      "verification_status": "verified",
+      "summary": "研究分析 42 名卒中患者在 20 次上肢训练前后的 16 肌肉 sEMG，用网络信息框架、互信息、社区检测、非负矩阵分解和聚类区分冗余与协同肌肉网络。网络特征可分层运动损伤和治疗响应；从冗余转向协同与较好恢复相关。局限包括样本较小、VR 与常规治疗组严重不平衡、主要依据粗大运动量表，且缺少独立外部验证。eLife 评价为“重要、证据扎实”。",
+      "summary_en": "The study analysed 16-muscle sEMG from 42 stroke survivors before and after 20 upper-limb training sessions. A network-information framework combining mutual information, community detection, non-negative matrix factorisation and clustering separated redundant from synergistic muscle networks and stratified impairment and treatment response. A redundancy-to-synergy shift marked better recovery. Limits include the small sample, strongly imbalanced VR versus conventional-therapy groups, reliance on gross motor outcomes and no independent external validation. eLife rates the work important with solid evidence.",
+      "relevance": "直接连接时序生理数据、网络分析、康复评估和医疗科技，是从科研分析走向临床算法应用的良好案例。",
+      "tags": [
+        "上次扫描后新发布",
+        "卒中康复",
+        "sEMG",
+        "网络分析",
+        "聚类",
+        "医疗科技",
+        "eLife"
+      ],
+      "source_url": "https://elifesciences.org/articles/108509"
     },
     {
       "id": "hku-brain-stim-ra2-536751",
@@ -347,6 +406,34 @@
         "开放获取"
       ],
       "source_url": "https://www.nature.com/articles/s41467-026-75831-x"
+    },
+    {
+      "id": "molpsych-psychosis-subtypes-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "数据驱动分型揭示精神病性障碍相反的皮层与细胞特征",
+      "title_en": "Subtyping psychotic disorders using a data-driven approach reveals divergent cortical and cellular signatures",
+      "organization": "Molecular Psychiatry",
+      "location": "精神病学／结构 MRI／数据驱动分型",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-24",
+      "updated_at": "2026-07-24",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 86,
+      "verification_status": "verified",
+      "summary": "研究对 381 名精神病性障碍患者的结构 MRI 使用相似性网络融合，得到跨诊断的两种亚型：一型表现为额顶叶表面积和背侧纹状体体积中度增大，另一型则在额颞叶及海马、杏仁核、丘脑和纹状体明显减小，且负性症状与认知受损更重。作者再将影像空间模式与 Allen 脑图谱推断的细胞类型分布关联。局限是亚型来自单一总体、效应与健康人仍大量重叠，细胞结果是空间推断而非患者组织测量，外部稳定性和临床效用尚未证实。",
+      "summary_en": "Similarity network fusion of structural MRI from 381 people with psychotic disorders identified two transdiagnostic subtypes: one with moderately enlarged frontoparietal surface area and dorsal striatum, and another with smaller frontotemporal surface area plus hippocampal, amygdala, thalamic and striatal volumes and worse negative/cognitive symptoms. Imaging maps were related to cell-type distributions imputed from the Allen Human Brain Atlas. Limits include derivation in one broad cohort, substantial overlap with controls, spatially inferred rather than patient-measured cellular signals, and unproven external stability or clinical utility.",
+      "relevance": "展示了结构影像、无监督分型、跨诊断精神病学和转录组空间映射的完整计算路线。",
+      "tags": [
+        "上次扫描后新发布",
+        "结构MRI",
+        "无监督分型",
+        "相似性网络融合",
+        "精神病学",
+        "细胞图谱"
+      ],
+      "source_url": "https://www.nature.com/articles/s41380-026-03774-2"
     },
     {
       "id": "natcom-tfus-primate-thalamus-2026",
@@ -553,6 +640,35 @@
       "source_url": "https://www.nature.com/articles/s41467-026-75662-w"
     },
     {
+      "id": "hku-microbiology-ra1-536936",
+      "category": "求职",
+      "section": "科研／医疗／生信岗位",
+      "title": "香港大学微生物学系科研助理 I（分子诊断与 NGS）",
+      "title_en": "Research Assistant I — Molecular Diagnostics and NGS",
+      "organization": "The University of Hong Kong · Department of Microbiology",
+      "location": "中国香港",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-24",
+      "updated_at": "2026-07-24",
+      "deadline": "2026-10-31",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 82,
+      "verification_status": "verified",
+      "summary": "两年期全职岗位，可续约；研究病毒、细菌和真菌诊断及新发传染病。接受生物／生物医学科学、生物技术或相关本科；分子诊断和 NGS 文库制备经验为加分项，但岗位明确要求能够排查分子检测及文库制备问题。要求粤语、英语和普通话沟通能力。",
+      "summary_en": "A two-year, renewable RA I role on viral, bacterial and fungal diagnostics and emerging infectious diseases. A bachelor's degree in biological/biomedical sciences, biotechnology or a related field is accepted. Molecular-diagnostics and NGS-library experience is advantageous, but the appointee must be able to troubleshoot molecular assays and library preparation. Cantonese, English and Mandarin communication are required.",
+      "relevance": "是分子诊断、NGS 与感染病研发入口，但并非零经验生信岗；实验故障排查和粤语构成实际门槛，适配度低于公共卫生 RA I/II。",
+      "tags": [
+        "上次扫描后新发布",
+        "RA I",
+        "分子诊断",
+        "NGS",
+        "感染病",
+        "粤语要求",
+        "湿实验"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536936/research-assistant-i"
+    },
+    {
       "id": "radboud-cns-research-2027-watch",
       "category": "升学",
       "section": "神经与认知项目",
@@ -658,6 +774,34 @@
       "source_url": "https://elifesciences.org/articles/108495"
     },
     {
+      "id": "sci-rep-cogscreen-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "社区认知障碍筛查可按主观、数字测试与血液标志物分层",
+      "title_en": "Adaptive pathways for multimodal community-based detection of cognitive impairment: the CogScreen I study",
+      "organization": "Scientific Reports",
+      "location": "认知老化／数字健康／血液标志物",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-24",
+      "updated_at": "2026-07-24",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 80,
+      "verification_status": "verified",
+      "summary": "慕尼黑社区中心的整群随机研究纳入 473 名有主观认知担忧的 60 岁以上成人，比较问卷、数字认知测试及加入 Aβ、pTau181、GFAP、NfL 血液标志物的分层流程。三种方式总体可行且可接受，数字测试与生物标志物提供不同潜在维度，探索性聚类产生低、中、高风险画像。局限是样本教育程度较高且为主动参与者、家庭医生参与不足、分层模型仍属假设生成，未验证长期诊断或预防效果。",
+      "summary_en": "A cluster-randomised community study enrolled 473 adults aged 60+ with subjective cognitive concerns and compared questionnaire-only screening, digital cognitive testing and additional blood biomarkers including Aβ, pTau181, GFAP and NfL. Feasibility and acceptability were high, while digital and biological measures captured distinct dimensions and exploratory clustering suggested low-, intermediate- and high-risk profiles. Limits include a highly educated self-selected sample, limited GP engagement, a hypothesis-generating tier model and no validation of long-term diagnostic or preventive outcomes.",
+      "relevance": "连接数字认知测评、血液标志物、聚类和社区医疗实施；更适合作为数字健康产品设计案例，而非成熟诊断算法。",
+      "tags": [
+        "上次扫描后新发布",
+        "认知筛查",
+        "数字健康",
+        "血液标志物",
+        "聚类",
+        "老龄化"
+      ],
+      "source_url": "https://www.nature.com/articles/s41598-026-61868-x"
+    },
+    {
       "id": "york-cns-2026",
       "category": "升学",
       "title": "认知神经科学硕士",
@@ -728,6 +872,35 @@
       "source_url": "https://elifesciences.org/articles/107955"
     },
     {
+      "id": "hku-obgyn-ra1-536947",
+      "category": "求职",
+      "section": "科研／医疗／生信岗位",
+      "title": "香港大学妇产科学系科研助理 I（生育力与体外受精）",
+      "title_en": "Research Assistant I — Fertility and Clinical IVF Research",
+      "organization": "The University of Hong Kong · Department of Obstetrics and Gynaecology",
+      "location": "中国香港",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-24",
+      "updated_at": "2026-07-24",
+      "deadline": "2026-08-15",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 78,
+      "verification_status": "verified",
+      "summary": "一年期全职岗位，可续约；参与精子生育力、受精和临床体外受精研究。优先生物学、生物医学或健康科学本科，未列出明确工作年限；要求英语及中文（包括粤语），并强调沟通、人际协作和独立工作能力。官方写明 8 月 10 日开始审查，8 月 15 日截止或招满即止。",
+      "summary_en": "A one-year, renewable RA I role supporting sperm-fertility, fertilisation and clinical-IVF research. A bachelor's degree, preferably in biology, biomedical science or health science, is requested with no explicit years-of-experience threshold. English and Chinese including Cantonese, communication and independent/team working skills are required. Review begins 10 August and closes 15 August or earlier if filled.",
+      "relevance": "学历层级可达且截止较近，但方向偏生殖医学湿实验，粤语与临床团队沟通要求明显；仅作为低优先级生命科学入口，不视为数据／计算路线。",
+      "tags": [
+        "需尽快行动",
+        "上次扫描后新发布",
+        "RA I",
+        "生殖医学",
+        "临床研究",
+        "粤语要求",
+        "湿实验"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536947/research-assistant-i"
+    },
+    {
       "id": "uva-is-ds-2027",
       "category": "升学",
       "section": "数据／计算／AI项目",
@@ -784,7 +957,7 @@
       "location": "中国香港",
       "published_at": "2026-07-21",
       "first_seen_at": "2026-07-22",
-      "updated_at": "2026-07-22",
+      "updated_at": "2026-07-24",
       "deadline": "2026-08-21",
       "discovery_status": "newly_published_since_last_scan",
       "priority": 76,
@@ -927,77 +1100,77 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核认知／计算神经科学、神经影像、跨专业数据／AI 项目及入门研究岗位；今日无新的高质量开放机会。Sussex 国际申请截止 2026-08-01，仍是最紧节点。"
+      "note": "已复核认知／计算神经科学、神经影像、跨专业数据／AI 项目和入门研究岗位。今日无新的高质量机会；Sussex 国际申请截止仍为 2026-08-01，官方页面显示课程与申请节点仍有效。研究部分新增英国／爱尔兰团队参与的卒中肌肉网络论文。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧的硕士、博士和入门研究岗位；检索线索以过期或博士后层级为主，今日无经学校官方页面确认且资格适合的新增。"
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS 新发布机会。7 月 23 日结果以教职、项目管理、过期或高学历岗位为主；西班牙神经外科研究支持岗要求硕士且截止 7 月 27 日，未作为可达新增发布。"
     },
     {
       "region": "香港与新加坡",
       "status": "scanned",
-      "note": "HKU 7 月 22 日发布一项禅修／正念神经影像与大数据岗位，低资历者可按 RA I/II 考虑，已作为今日新机会收录。新加坡高校入口今日未见同等质量的新岗位；研究部分收录 NTU 参与的跨文化婴儿神经耦合论文。"
+      "note": "HKU 7 月 23 日新增三项本科层级 RA：公共卫生实验室 RA I/II、微生物分子诊断／NGS RA I、生殖医学 RA I。均已写明湿实验与粤语门槛；新加坡今日无同等质量机会新增。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核英文授课项目、研究生入口和研究岗位；今日无高质量新增，东京大学 2027 招生入口继续保留。"
+      "note": "已复核英文授课项目、研究生入口及研究岗位；今日无官方确认的高质量新增，东京大学 2027 招生入口继续保留。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描高校研究岗位及跨专业项目；今日没有同时满足低经验、开放状态与国际可达性的新增机会。研究更新包含美国团队的 Concept2Brain、睡眠剥夺连接组标记和记忆分子机制论文。"
+      "note": "已检查高校研究岗位、跨专业项目及国际可达性；今日无新的可达机会。研究部分新增美国团队的精神病结构影像数据驱动分型。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI及神经相关项目和研究入口；今日无高质量机会新增，墨尔本大学数据科学项目继续保留。"
+      "note": "已复核主要数据／AI、神经科学项目及研究岗位入口；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-23T08:50:00+08:00",
+    "checked_at": "2026-07-24T08:44:00+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_eligible_new",
-        "note": "已检查腾讯、字节、阿里、京东等官方入口。可见的数据／AI职位多要求至少 1 年以上直接经验、成熟项目经历，或限定在校生／特定毕业届别；本轮没有新增同时满足低经验、资格适用和官方开放的岗位。"
+        "note": "已检查腾讯、字节、阿里、京东等官方入口。腾讯 7 月 23 日更新中可见的大模型、DataOps、全栈等职位经打开具体岗位后多为 2–5 年以上经验或成熟训练／工程能力；相关职位推荐列表中的“1 年以上”并非当前页面本身，未误收录。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口；今日未发现同时满足中国区、低经验、方向匹配且官方页面开放的新岗位。"
+        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口；今日未核验到同时满足中国区、低经验、方向匹配且官方页面开放的新岗位。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
         "status": "scanned",
-        "note": "收录 HKU 7 月 22 日发布的禅修／正念神经影像与大数据 RA；排除要求 8 年实验室经验的高级技术岗、3 年以上项目管理岗、博士后及其他明显层级不符岗位。"
+        "note": "收录 HKU 7 月 23 日发布的三项本科层级 RA；排除要求硕士、博士、教职或多年项目管理经验，以及与方向明显无关的职位。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned",
-        "note": "已核验 Nature Communications 与 eLife 官方更新；收录 6 篇 7 月 22–23 日正式发表且与计算认知、神经影像、学习、记忆或 AI 神经建模高度相关的论文。"
+        "note": "已核验 eLife、Molecular Psychiatry、Scientific Reports、Nature Communications、Nature Neuroscience 等官方更新；收录 3 篇 7 月 23 日正式发表、方法和主题匹配度较高的论文。"
       },
       {
-        "source": "LinkedIn／Academic Positions／jobs.ac.uk／EURAXESS 等聚合线索",
+        "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现候选条目；过期、博士后、签证或层级不符，以及无法回到学校／雇主／期刊官方页面确认的线索均未发布。"
+        "note": "仅用于发现候选条目；所有最终发布项均回到高校、雇主或期刊官方页面核验。过期、博士后、签证／学历不符和无法官方确认的线索未发布。"
       }
     ]
   },
   "run_summary": {
-    "newly_published_today": 1,
-    "newly_published_since_last_scan": 7,
+    "newly_published_today": 0,
+    "newly_published_since_last_scan": 6,
     "historical_backfills_added": 0,
     "status_changes": 0,
-    "still_open_urgent_items": 6,
-    "database_items_total": 36,
+    "still_open_urgent_items": 8,
+    "database_items_total": 42,
     "excluded_expired_or_ineligible": [
-      "HKU 要求 8 年实验室经验的 Senior Technical Officer",
-      "要求至少 3 年项目管理或高级研究资历的岗位",
-      "限定在校身份或特定毕业届别的实习与校招",
-      "中国大厂要求成熟项目经历或多年经验的数据／算法社招",
-      "过期、博士后或无法回到官方页面核验的聚合平台线索"
+      "EURAXESS 中要求硕士且 7 月 27 日截止的西班牙神经外科研究支持岗",
+      "腾讯具体岗位页面要求 2–5 年以上经验的大模型、DataOps 与开发职位",
+      "限定在校身份或特定毕业届别的实习和校招",
+      "外企中国区无法同时满足低经验、方向匹配与官方开放状态的线索",
+      "博士后、教职、高级项目管理及无法回到官方页面核验的聚合线索"
     ]
   },
   "change_legend": {
