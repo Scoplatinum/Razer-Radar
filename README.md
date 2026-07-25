@@ -2,6 +2,10 @@
 
 一个面向个人筛选主题的正式日报界面，当前栏目包括升学项目、实验室机会、神经科学与计算认知研究更新，以及适合转行的招聘信息。
 
+Visit the live website:
+[https://scoplatinum.github.io/Razer-Radar/](https://scoplatinum.github.io/Razer-Radar/)
+
+
 ## 数据边界
 
 - `data/curated.json`：经过核验和个性化整理的内容。
