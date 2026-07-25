@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:55:00+08:00",
+  "generated_at": "2026-07-25T23:27:37+08:00",
   "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -1184,77 +1184,76 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核认知／计算神经科学、神经影像、跨专业数据／AI 项目与入门研究岗位。今日无官方确认的高质量新增；Sussex 国际申请截止 2026-08-01，仍是最迫近节点。"
+      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_eligible_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS。周末新增以博士后、教职、在读学生岗位或需当地工作权利的职位为主，未发现层级与国际可达性同时匹配的新机会。"
+      "status": "scanned_no_high_quality_new",
+      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
     },
     {
       "region": "香港与新加坡",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核 HKU、NUS 等官方入口；今日没有上次扫描后发布且达到收录标准的新机会。既有 HKU 滚动审查 RA 继续保留，粤语、湿实验或已有多模态数据经验门槛已明确标注。"
+      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核英文授课硕士、研究生入口与科研岗位；今日无官方确认的高质量新增。"
+      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_no_eligible_new",
-      "note": "已检查高校研究岗位、跨专业项目与国际可达性；未发现新的可达入门机会。研究部分补录美国团队发布的跨物种分层共同脑图谱。"
+      "status": "scanned_no_high_quality_new",
+      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI、神经科学项目与研究岗位入口；今日无高质量新增。"
+      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-25T08:55:00+08:00",
+    "checked_at": "2026-07-25T23:27:37+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
-        "status": "scanned",
-        "note": "已检查腾讯、字节、阿里、京东等官方入口。补录腾讯 7 月 20 日更新的游戏数据分析岗位：官方明确优秀应届生及泛校招候选人亦可考虑。另有 1 年以上数据科学／AI 岗，但工作经验为明确要求，暂未收录。"
+        "status": "scanned_no_verified_match",
+        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口；未核验到同时满足中国区、低经验、方向匹配且官方页面开放的新岗位。Microsoft 大中华区实习仍要求在读及实习后至少一学期，不适用于当前脱产求职。"
+        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_no_eligible_new",
-        "note": "已检查 HKU、NUS、jobs.ac.uk、EURAXESS 及澳洲高校入口；没有上次扫描后发布且层级、资格和国际可达性同时匹配的新岗位。"
+        "status": "scanned_no_verified_match",
+        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned",
-        "note": "已核验 Nature Communications、Scientific Reports、eLife、Nature Neuroscience 等官方更新。收录 1 篇 7 月 24 日正式发表的 taVNS/fNIRS 随机试验，并补录 1 篇 7 月 23 日高匹配跨物种脑图谱论文；小样本运动储备与脑萎缩研究因证据较弱未为凑数收录。"
+        "status": "scanned_no_verified_match",
+        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现候选条目；最终发布均回到雇主、学校或期刊官方页面核验。无法确认、过期、博士后、硬性多年经验或在读身份不符的线索未发布。"
+        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 1,
-    "historical_backfills_added": 2,
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 0,
     "status_changes": 0,
     "still_open_urgent_items": 8,
     "database_items_total": 45,
     "excluded_expired_or_ineligible": [
-      "腾讯要求 1 年以上数据科学／商业分析／AI 经验的岗位（经验为明确门槛）",
-      "腾讯数据智能体岗位（偏好从 0 到 1 平台、Text2SQL／知识图谱及模型微调等成熟经历）",
-      "Microsoft 大中华区要求在读且实习后至少保留一学期的大学实习",
-      "欧洲大陆要求博士、博士后、当地工作权利或当前在读身份的岗位",
-      "7 月 24 日小样本横断面运动储备—脑萎缩研究（证据不足，不为凑数收录）"
+      "腾讯 2026 校招与实习入口（毕业届别或在读身份不符）",
+      "欧洲来源中的博士后、教职、博士学位或本地工作权利硬门槛岗位",
+      "搜索摘要存在但无法回到官方页面确认开放状态的职位",
+      "本轮发现的较早论文线索（并非上次扫描后新发布，且数据库已有更高匹配度研究）"
     ]
   },
   "change_legend": {
@@ -1263,5 +1262,12 @@
     "still_open": "既有条目，今日复核仍开放",
     "status_change": "既有条目的截止日、开放状态或资格条件发生变化",
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
+  },
+  "last_run_receipt": {
+    "executed_at_beijing": "2026-07-25T23:27:37+08:00",
+    "result": "completed_no_high_quality_new",
+    "repository_write": "completed",
+    "public_site_verification": "pending_after_commit",
+    "note": "本轮没有新增条目；更新扫描时间、来源覆盖状态和回执统计。"
   }
 }
