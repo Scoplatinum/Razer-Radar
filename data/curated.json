@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:44:00+08:00",
+  "generated_at": "2026-07-25T08:55:00+08:00",
   "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -163,6 +163,34 @@
       "source_url": "https://jobs.hku.hk/en/job/536886/fulltime-research-assistant-ii-in-the-faculty-of-education"
     },
     {
+      "id": "tencent-game-data-analysis-2079118278302806016",
+      "category": "求职",
+      "section": "数据分析岗位",
+      "title": "腾讯游戏数据分析岗位（优秀应届生／泛校招可考虑）",
+      "title_en": "",
+      "organization": "腾讯",
+      "location": "中国（工作地点见官方岗位页）",
+      "published_at": "2026-07-20",
+      "first_seen_at": "2026-07-25",
+      "updated_at": "2026-07-25",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 90,
+      "verification_status": "verified",
+      "summary": "腾讯官方岗位支持游戏策划与运营的数据分析，围绕用户回流与流失、活动效果、商业化表现、玩法参与和系统调优开展监测与专题分析，并参与数据分析体系建设。要求本科及以上，偏好游戏数据分析、用户研究、市场研究或游戏运营经历；虽然写有“3 年工作经验优先”，但同时明确“优秀应届生及泛校招候选人亦可考虑”，因此与此前被排除的硬性多年经验岗位不同。",
+      "summary_en": "",
+      "relevance": "这是当前少见的官方明确接受优秀应届生／泛校招的中国大厂数据分析入口。岗位并非零门槛：游戏行业理解、SQL／统计分析和能证明业务洞察的项目仍会决定竞争力；适合作为优先核对并据作品匹配度投递的转行岗位。",
+      "tags": [
+        "历史补录",
+        "优秀应届生可考虑",
+        "泛校招",
+        "数据分析",
+        "游戏业务",
+        "官方核验"
+      ],
+      "source_url": "https://careers.tencent.com/jobdesc.html?postId=2079118278302806016"
+    },
+    {
       "id": "natcom-semantic-distance-retrieval-2026",
       "category": "研究",
       "section": "研究动态",
@@ -306,6 +334,34 @@
       "source_url": "https://elifesciences.org/articles/108509"
     },
     {
+      "id": "sci-rep-tavns-psd-fnirs-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "耳迷走神经刺激改善卒中后抑郁并改变执行控制网络：随机假刺激 fNIRS 试验",
+      "title_en": "Effects of transcutaneous auricular vagus nerve stimulation on depressive symptoms and executive function in post-stroke depression: a pilot randomized sham-controlled fNIRS study",
+      "organization": "Scientific Reports",
+      "location": "神经调控／卒中康复／fNIRS",
+      "published_at": "2026-07-24",
+      "first_seen_at": "2026-07-25",
+      "updated_at": "2026-07-25",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 88,
+      "verification_status": "verified",
+      "summary": "32 名卒中后抑郁患者被随机分配至主动或假刺激组，在常规康复基础上接受 4 周经皮耳迷走神经刺激。主动组抑郁评分下降更多；fNIRS 显示左侧背外侧前额叶和前辅助运动区活动以及额叶—运动网络连接发生变化。不过 Stroop 执行功能指标和日常功能没有显著组间改善，影像—症状相关只见于探索性组内分析。局限是样本极小、单中心、疗程短，且为未经文字编辑的早期公开版本；只能视为机制与可行性信号。",
+      "summary_en": "In a 32-patient assessor-blinded randomized pilot, four weeks of active versus sham transcutaneous auricular vagus-nerve stimulation was added to usual rehabilitation. Active stimulation produced a larger reduction in depressive symptoms and altered left DLPFC/pre-SMA activity and frontal–motor connectivity on fNIRS. However, no significant group-by-time benefit appeared for Stroop executive-function indices or daily function, and imaging–symptom associations were exploratory within-group findings. The small single-centre sample, short follow-up and unedited early version make this preliminary mechanistic evidence rather than a clinical efficacy conclusion.",
+      "relevance": "连接非侵入神经调控、执行控制网络、fNIRS 与医疗康复；方法上也适合观察小样本随机试验如何区分临床结局与探索性神经影像指标。",
+      "tags": [
+        "上次扫描后新发布",
+        "随机假刺激试验",
+        "taVNS",
+        "fNIRS",
+        "卒中后抑郁",
+        "小样本"
+      ],
+      "source_url": "https://www.nature.com/articles/s41598-026-61616-1"
+    },
+    {
       "id": "hku-brain-stim-ra2-536751",
       "category": "实验室",
       "section": "实验室机会",
@@ -328,6 +384,34 @@
         "粤语要求"
       ],
       "source_url": "https://jobs.hku.hk/en/job/536751/fulltime-research-assistant-ii"
+    },
+    {
+      "id": "natcom-cross-species-hierarchical-atlas-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "跨小鼠、大鼠、灵长类与人类的皮层—皮层下灰质分层共同图谱",
+      "title_en": "A hierarchical framework for cortical and subcortical gray-matter parcellation across rodents, primates, and humans",
+      "organization": "Nature Communications",
+      "location": "比较神经科学／神经信息学／脑图谱",
+      "published_at": "2026-07-23",
+      "first_seen_at": "2026-07-25",
+      "updated_at": "2026-07-25",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 87,
+      "verification_status": "verified",
+      "summary": "研究建立覆盖小鼠、大鼠、狨猴、猕猴和人类的分层共同脑图谱，以群体平均最小形变模板和统一组织分割定义同源的皮层及皮层下灰质区域。作者用既有图谱 Dice 相似度、跨尺度包含关系、跨物种几何一致性及独立示踪连接四种方式验证，并为每个区域提供同源置信指数。结果显示感觉运动连接较保守，联合区连接随物种逐步分化。局限在于跨物种“同源”仍依赖层级定义、配准与专家假设；共同坐标系便于比较，但不能消除物种特异功能差异。",
+      "summary_en": "The study builds a hierarchical common atlas of homologous cortical and subcortical grey-matter regions across mouse, rat, marmoset, rhesus macaque and human using population-averaged minimal-deformation templates and uniform tissue segmentation. Validation combines Dice overlap with established atlases, cross-scale containment, geometric consistency and independent tracer connectivity, with a region-level homology confidence index. Sensorimotor connections were more conserved while association connections progressively diverged. Limits remain in registration, hierarchy choices and assumptions about homology; a shared coordinate system does not erase species-specific function.",
+      "relevance": "这是神经影像、脑图谱、跨物种转化和科研数据工程的基础设施型工作，适合计算神经科学与神经信息学路线。",
+      "tags": [
+        "历史补录",
+        "Nature Communications",
+        "脑图谱",
+        "跨物种",
+        "神经信息学",
+        "开放资源"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75837-5"
     },
     {
       "id": "neu-align-cs",
@@ -1100,77 +1184,77 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核认知／计算神经科学、神经影像、跨专业数据／AI 项目和入门研究岗位。今日无新的高质量机会；Sussex 国际申请截止仍为 2026-08-01，官方页面显示课程与申请节点仍有效。研究部分新增英国／爱尔兰团队参与的卒中肌肉网络论文。"
+      "note": "已复核认知／计算神经科学、神经影像、跨专业数据／AI 项目与入门研究岗位。今日无官方确认的高质量新增；Sussex 国际申请截止 2026-08-01，仍是最迫近节点。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_eligible_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS 新发布机会。7 月 23 日结果以教职、项目管理、过期或高学历岗位为主；西班牙神经外科研究支持岗要求硕士且截止 7 月 27 日，未作为可达新增发布。"
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS。周末新增以博士后、教职、在读学生岗位或需当地工作权利的职位为主，未发现层级与国际可达性同时匹配的新机会。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned",
-      "note": "HKU 7 月 23 日新增三项本科层级 RA：公共卫生实验室 RA I/II、微生物分子诊断／NGS RA I、生殖医学 RA I。均已写明湿实验与粤语门槛；新加坡今日无同等质量机会新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已复核 HKU、NUS 等官方入口；今日没有上次扫描后发布且达到收录标准的新机会。既有 HKU 滚动审查 RA 继续保留，粤语、湿实验或已有多模态数据经验门槛已明确标注。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核英文授课项目、研究生入口及研究岗位；今日无官方确认的高质量新增，东京大学 2027 招生入口继续保留。"
+      "note": "已复核英文授课硕士、研究生入口与科研岗位；今日无官方确认的高质量新增。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_eligible_new",
-      "note": "已检查高校研究岗位、跨专业项目及国际可达性；今日无新的可达机会。研究部分新增美国团队的精神病结构影像数据驱动分型。"
+      "note": "已检查高校研究岗位、跨专业项目与国际可达性；未发现新的可达入门机会。研究部分补录美国团队发布的跨物种分层共同脑图谱。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已复核主要数据／AI、神经科学项目及研究岗位入口；今日无高质量新增，墨尔本大学数据科学项目继续保留。"
+      "note": "已复核主要数据／AI、神经科学项目与研究岗位入口；今日无高质量新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-24T08:44:00+08:00",
+    "checked_at": "2026-07-25T08:55:00+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
-        "status": "scanned_no_eligible_new",
-        "note": "已检查腾讯、字节、阿里、京东等官方入口。腾讯 7 月 23 日更新中可见的大模型、DataOps、全栈等职位经打开具体岗位后多为 2–5 年以上经验或成熟训练／工程能力；相关职位推荐列表中的“1 年以上”并非当前页面本身，未误收录。"
+        "status": "scanned",
+        "note": "已检查腾讯、字节、阿里、京东等官方入口。补录腾讯 7 月 20 日更新的游戏数据分析岗位：官方明确优秀应届生及泛校招候选人亦可考虑。另有 1 年以上数据科学／AI 岗，但工作经验为明确要求，暂未收录。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口；今日未核验到同时满足中国区、低经验、方向匹配且官方页面开放的新岗位。"
+        "note": "已复核 Microsoft、SAP、Siemens、Roche、IBM、Apple 等官方入口；未核验到同时满足中国区、低经验、方向匹配且官方页面开放的新岗位。Microsoft 大中华区实习仍要求在读及实习后至少一学期，不适用于当前脱产求职。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned",
-        "note": "收录 HKU 7 月 23 日发布的三项本科层级 RA；排除要求硕士、博士、教职或多年项目管理经验，以及与方向明显无关的职位。"
+        "status": "scanned_no_eligible_new",
+        "note": "已检查 HKU、NUS、jobs.ac.uk、EURAXESS 及澳洲高校入口；没有上次扫描后发布且层级、资格和国际可达性同时匹配的新岗位。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned",
-        "note": "已核验 eLife、Molecular Psychiatry、Scientific Reports、Nature Communications、Nature Neuroscience 等官方更新；收录 3 篇 7 月 23 日正式发表、方法和主题匹配度较高的论文。"
+        "note": "已核验 Nature Communications、Scientific Reports、eLife、Nature Neuroscience 等官方更新。收录 1 篇 7 月 24 日正式发表的 taVNS/fNIRS 随机试验，并补录 1 篇 7 月 23 日高匹配跨物种脑图谱论文；小样本运动储备与脑萎缩研究因证据较弱未为凑数收录。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现候选条目；所有最终发布项均回到高校、雇主或期刊官方页面核验。过期、博士后、签证／学历不符和无法官方确认的线索未发布。"
+        "note": "仅用于发现候选条目；最终发布均回到雇主、学校或期刊官方页面核验。无法确认、过期、博士后、硬性多年经验或在读身份不符的线索未发布。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 6,
-    "historical_backfills_added": 0,
+    "newly_published_since_last_scan": 1,
+    "historical_backfills_added": 2,
     "status_changes": 0,
     "still_open_urgent_items": 8,
-    "database_items_total": 42,
+    "database_items_total": 45,
     "excluded_expired_or_ineligible": [
-      "EURAXESS 中要求硕士且 7 月 27 日截止的西班牙神经外科研究支持岗",
-      "腾讯具体岗位页面要求 2–5 年以上经验的大模型、DataOps 与开发职位",
-      "限定在校身份或特定毕业届别的实习和校招",
-      "外企中国区无法同时满足低经验、方向匹配与官方开放状态的线索",
-      "博士后、教职、高级项目管理及无法回到官方页面核验的聚合线索"
+      "腾讯要求 1 年以上数据科学／商业分析／AI 经验的岗位（经验为明确门槛）",
+      "腾讯数据智能体岗位（偏好从 0 到 1 平台、Text2SQL／知识图谱及模型微调等成熟经历）",
+      "Microsoft 大中华区要求在读且实习后至少保留一学期的大学实习",
+      "欧洲大陆要求博士、博士后、当地工作权利或当前在读身份的岗位",
+      "7 月 24 日小样本横断面运动储备—脑萎缩研究（证据不足，不为凑数收录）"
     ]
   },
   "change_legend": {
