@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T23:27:37+08:00",
-  "notice": "Daily verified edition. Official sources only. 'Newly published today' is separated from 'historical backfill / first discovered today'; expired or eligibility-mismatched listings are excluded.",
+  "generated_at": "2026-07-28T08:00:16+08:00",
+  "notice": "Daily verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated programme pages are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
       "id": "sussex-ccn-2026",
@@ -24,6 +24,35 @@
       ],
       "source_url": "https://www.sussex.ac.uk/study/masters/courses/cognitive-and-clinical-neuroscience-msc",
       "section": "神经与认知项目"
+    },
+    {
+      "id": "leeds-neuroscience-mres-2026",
+      "category": "升学",
+      "section": "神经与认知项目",
+      "title": "利兹大学神经科学研究型硕士（MRes）",
+      "title_en": "MRes Neuroscience",
+      "organization": "University of Leeds",
+      "location": "英国・利兹",
+      "published_at": "",
+      "first_seen_at": "2026-07-28",
+      "updated_at": "2026-07-28",
+      "deadline": "2026-07-31",
+      "discovery_status": "historical_backfill",
+      "priority": 95,
+      "verification_status": "verified",
+      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 7 月 31 日。课程以 120 学分研究项目为主体，配有高级数据分析，并覆盖 circuits, systems and computations 等方向。通常要求相关科学学科 2:1；生物/生物医学最直接，自然科学或工程背景若能证明相应生物知识也可考虑。IELTS 6.5（单项不低于 6.0）。完整申请还要求在 supporting statement 中明确神经科学知识、职业目标、时间安排和资金路径，并通常安排面试。",
+      "summary_en": "A 12-month, research-intensive MRes starting in September 2026, with an international deadline of 31 July. The 120-credit research project is paired with advanced data analysis and options spanning circuits, systems and computations. A 2:1 in a relevant scientific discipline is normally required; natural-science or engineering graduates may be considered with adequate biological knowledge. IELTS 6.5 overall with no component below 6.0 is required. The supporting statement must evidence neuroscience knowledge, career goals, schedule and funding route, and applicants are normally interviewed.",
+      "relevance": "研究项目占比高、涵盖数据分析与系统/计算神经科学，适合希望用硕士补足独立研究训练的人；最大风险是截止仅剩数日、语言与资金材料必须已经接近齐备。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "国际截止7月31日",
+        "研究型硕士",
+        "数据分析",
+        "系统与计算神经科学",
+        "发布日期未确认"
+      ],
+      "source_url": "https://courses.leeds.ac.uk/i920/neuroscience-mres"
     },
     {
       "id": "hku-contemplative-neuroimaging-ra-536870",
@@ -249,6 +278,35 @@
       "source_url": "https://jobs.hku.hk/en/job/536904/research-assistant-iii-several-posts-in-the-division-of-public-health-laboratory-sciences"
     },
     {
+      "id": "communbiol-rem-energy-paradox-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "REM 睡眠的能量悖论：血容量与星形胶质细胞丙酮酸升高，但神经元 ATP 下降",
+      "title_en": "Energy paradox in REM sleep: balancing supply and consumption in brain metabolism",
+      "organization": "Communications Biology",
+      "location": "睡眠／神经代谢／神经血管耦合",
+      "published_at": "2026-07-27",
+      "first_seen_at": "2026-07-28",
+      "updated_at": "2026-07-28",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 89,
+      "verification_status": "verified",
+      "summary": "研究在自然睡眠小鼠中经完整颅骨进行宽场荧光成像，同时监测脑血容量、星形胶质细胞丙酮酸、神经元 ATP 与 ECoG。NREM 中 theta 活动可预测随后血容量变化，并出现较快的前向后血管波；REM 中血容量显著升高并从后部缓慢传播，星形胶质细胞丙酮酸上升，但神经元 ATP 反而快速下降。结果提示不同睡眠状态采用不同的能量供需组织方式。局限是小鼠、皮层宽场指标和荧光传感器不能直接覆盖人类深部脑区；ATP 下降与具体计算过程之间仍属机制推断。",
+      "summary_en": "Using wide-field fluorescence imaging through the intact skull in naturally sleeping mice, the study simultaneously tracked brain blood volume, astrocytic pyruvate, neuronal ATP and ECoG. During NREM, theta activity predicted subsequent blood-volume changes and rapid anterior-to-posterior vascular waves. REM instead showed a large, slowly propagating posterior-origin increase in blood volume and higher astrocytic pyruvate, while neuronal ATP fell sharply. The results suggest state-specific energy-allocation strategies. Limits include the mouse model, cortex-weighted wide-field measures and fluorescent sensors, limited access to deep human brain processes, and an inferential link between ATP decline and computation.",
+      "relevance": "把 theta、睡眠状态、星形胶质细胞和神经血管耦合放进同一动态框架，适合作为神经振荡与代谢约束交叉方向的高质量更新。",
+      "tags": [
+        "上次扫描后新发布",
+        "2026-07-27",
+        "REM睡眠",
+        "theta",
+        "神经代谢",
+        "星形胶质细胞",
+        "宽场成像"
+      ],
+      "source_url": "https://www.nature.com/articles/s42003-026-10646-6"
+    },
+    {
       "id": "nmi-cognitive-map-neural-sampling-2026",
       "category": "研究",
       "section": "研究动态",
@@ -360,6 +418,35 @@
         "小样本"
       ],
       "source_url": "https://www.nature.com/articles/s41598-026-61616-1"
+    },
+    {
+      "id": "glasgow-integrative-neuroscience-msc-2026",
+      "category": "升学",
+      "section": "神经与认知项目",
+      "title": "格拉斯哥大学整合神经科学硕士",
+      "title_en": "MSc Integrative Neuroscience",
+      "organization": "University of Glasgow",
+      "location": "英国・格拉斯哥",
+      "published_at": "",
+      "first_seen_at": "2026-07-28",
+      "updated_at": "2026-07-28",
+      "deadline": "2026-08-24",
+      "discovery_status": "historical_backfill",
+      "priority": 88,
+      "verification_status": "verified",
+      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。",
+      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required.",
+      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较“广义整合神经科学”与更聚焦计算/认知项目。风险是学费、语言成绩有效期和短时间内签证可行性仍需单独核验。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "国际截止8月24日",
+        "跨生物科学",
+        "统计要求",
+        "fMRI／EEG／TMS",
+        "发布日期未确认"
+      ],
+      "source_url": "https://www.gla.ac.uk/postgraduate/taught/integrative-neuroscience/"
     },
     {
       "id": "hku-brain-stim-ra2-536751",
@@ -985,6 +1072,35 @@
       "source_url": "https://jobs.hku.hk/en/job/536947/research-assistant-i"
     },
     {
+      "id": "hku-brain-stimulation-swallowing-ra2-536751",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学脑刺激与吞咽障碍全职科研助理 II",
+      "title_en": "Full-time Research Assistant II — Brain Stimulation and Swallowing Disorders",
+      "organization": "The University of Hong Kong",
+      "location": "中国香港",
+      "published_at": "2026-07-03",
+      "first_seen_at": "2026-07-28",
+      "updated_at": "2026-07-28",
+      "deadline": "2026-08-31",
+      "discovery_status": "historical_backfill",
+      "priority": 78,
+      "verification_status": "verified",
+      "summary": "协助脑刺激与吞咽障碍临床研究，包括文献综述、受试者招募、数据采集与分析、报告撰写及项目后勤协调。接受言语语言病理、神经科学、生物科学、护理或相关本科；临床研究经验为偏好而非硬性年限，且官网明确欢迎应届生。要求英语、中文和粤语，熟悉 SPSS 与办公软件。滚动审查至 8 月 31 日或招满。",
+      "summary_en": "The role supports clinical research on brain stimulation and swallowing disorders through literature review, participant recruitment, data collection and analysis, report preparation and project logistics. A bachelor's degree in speech-language pathology, neuroscience, biological science, nursing or a related discipline is accepted; clinical-research experience is preferred, while fresh graduates are explicitly welcome. English, Chinese including Cantonese, SPSS familiarity and office software are required. Review is rolling until 31 August or until filled.",
+      "relevance": "层级与学科门槛友好，并直接涉及脑刺激和数据分析；主要限制是粤语、临床受试者协调和高频沟通占比，只有这些工作形态可接受时才值得投入。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "应届生可申请",
+        "脑刺激",
+        "临床研究",
+        "SPSS",
+        "粤语要求"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536751/fulltime-research-assistant-ii"
+    },
+    {
       "id": "uva-is-ds-2027",
       "category": "升学",
       "section": "数据／计算／AI项目",
@@ -1183,77 +1299,77 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_no_high_quality_new",
-      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
+      "status": "scanned_with_historical_backfill",
+      "note": "北京时间 2026-07-28 08:00：本轮核验到 2 条仍开放的历史补录：Leeds Neuroscience MRes（国际截止 7 月 31 日）与 Glasgow Integrative Neuroscience MSc（截止 8 月 24 日）。其余新近线索未发现满足质量、资格与开放状态要求的新增。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
+      "note": "北京时间 2026-07-28 08:00：已主动复核德国、荷兰、瑞士、法国、比利时及北欧相关官方项目与近期招聘线索；未确认上次扫描后发布且仍开放、层级匹配的高质量新增，既有观察项目继续保留。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
+      "status": "scanned_with_historical_backfill",
+      "note": "北京时间 2026-07-28 08:00：本轮历史补录 1 条 HKU 脑刺激与吞咽障碍 RA II；官网明确欢迎应届生，但粤语与临床协调是实质门槛。NUS/HKU 研究生项目与近期职位线索未发现其他通过资格核验的新条目。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
+      "note": "北京时间 2026-07-28 08:00：已复核东京大学 2027 招生入口、KAIST 脑与认知/AI 等官方入口；未确认上次扫描后新发布且当前可直接行动的高质量新增。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_high_quality_new",
-      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
+      "note": "北京时间 2026-07-28 08:00：已复核多伦多大学等官方研究生项目与近期实验室/岗位线索；未确认上次扫描后发布且同时满足国际可达、低经验与开放状态要求的新条目。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "本轮于北京时间 2026-07-25 23:27 复核官方来源及近期公开线索；未确认到上次扫描（08:55）后发布、且同时满足质量、资格与开放状态要求的新条目。既有开放机会继续保留。"
+      "note": "北京时间 2026-07-28 08:00：已复核墨尔本大学等官方授课型/研究型项目入口与近期线索；未确认上次扫描后发布且符合跨专业或神经方向标准的高质量新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-25T23:27:37+08:00",
+    "checked_at": "2026-07-28T08:00:16+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
+        "note": "复核腾讯、字节跳动等官方招聘入口；新近数据/算法结果主要为硬性经验社招、限定在校生，或无法核验官方发布日期，未新增。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
+        "note": "复核 Microsoft、Apple、IBM、SAP 等中国区及毕业生入口；未确认上次扫描后新增且同时满足低经验、专业匹配与开放状态的职位。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_no_verified_match",
-        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
+        "status": "scanned_with_backfill",
+        "note": "补录 HKU 脑刺激与吞咽障碍 RA II；同时复核 HKU/NUS 及其他高校近期入口，排除博士后、教职和硬性多年经验岗位。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_no_verified_match",
-        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
+        "status": "scanned_with_new",
+        "note": "新增 Communications Biology 7 月 27 日正式发表的 REM 睡眠神经代谢研究；Nature Neuroscience、Nature Communications、eLife 等其余线索按正式发布日期、相关性与证据质量筛选。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "北京时间 2026-07-25 23:27 完成本轮复核；未确认上次扫描后出现且通过官方来源、资格、经验与开放状态核验的新条目。聚合线索未直接入库。"
+        "note": "仅用于发现线索；所有入库条目均已回到学校、雇主或期刊官方页面核验。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 0,
+    "newly_published_since_last_scan": 1,
+    "historical_backfills_added": 3,
     "status_changes": 0,
-    "still_open_urgent_items": 8,
-    "database_items_total": 45,
+    "still_open_urgent_items": 11,
+    "database_items_total": 49,
     "excluded_expired_or_ineligible": [
-      "腾讯 2026 校招与实习入口（毕业届别或在读身份不符）",
-      "欧洲来源中的博士后、教职、博士学位或本地工作权利硬门槛岗位",
-      "搜索摘要存在但无法回到官方页面确认开放状态的职位",
-      "本轮发现的较早论文线索（并非上次扫描后新发布，且数据库已有更高匹配度研究）"
+      "仅限在校生、预毕业年级或指定毕业届别的实习／校招职位",
+      "博士后、教职、研究员及硬性多年独立项目经验岗位",
+      "搜索摘要存在但无法回到官方页面确认发布日期或开放状态的职位",
+      "虽为新近版本更新但官方首次发表日期早于上次扫描、且相关性不足以补录的论文"
     ]
   },
   "change_legend": {
@@ -1264,10 +1380,10 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-07-25T23:27:37+08:00",
-    "result": "completed_no_high_quality_new",
+    "executed_at_beijing": "2026-07-28T08:00:16+08:00",
+    "result": "completed_with_verified_updates",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "本轮没有新增条目；更新扫描时间、来源覆盖状态和回执统计。"
+    "note": "本轮新增 4 条：1 条上次扫描后正式发表的研究、3 条历史补录；已更新地区和来源覆盖状态。"
   }
 }
