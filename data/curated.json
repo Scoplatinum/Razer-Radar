@@ -457,7 +457,7 @@
       "organization": "The University of Hong Kong",
       "location": "中国香港",
       "published_at": "2026-07-03",
-      "updated_at": "2026-07-22",
+      "updated_at": "2026-07-28",
       "deadline": "2026-08-31",
       "priority": 87,
       "verification_status": "verified",
@@ -1072,35 +1072,6 @@
       "source_url": "https://jobs.hku.hk/en/job/536947/research-assistant-i"
     },
     {
-      "id": "hku-brain-stimulation-swallowing-ra2-536751",
-      "category": "实验室",
-      "section": "实验室机会",
-      "title": "香港大学脑刺激与吞咽障碍全职科研助理 II",
-      "title_en": "Full-time Research Assistant II — Brain Stimulation and Swallowing Disorders",
-      "organization": "The University of Hong Kong",
-      "location": "中国香港",
-      "published_at": "2026-07-03",
-      "first_seen_at": "2026-07-28",
-      "updated_at": "2026-07-28",
-      "deadline": "2026-08-31",
-      "discovery_status": "historical_backfill",
-      "priority": 78,
-      "verification_status": "verified",
-      "summary": "协助脑刺激与吞咽障碍临床研究，包括文献综述、受试者招募、数据采集与分析、报告撰写及项目后勤协调。接受言语语言病理、神经科学、生物科学、护理或相关本科；临床研究经验为偏好而非硬性年限，且官网明确欢迎应届生。要求英语、中文和粤语，熟悉 SPSS 与办公软件。滚动审查至 8 月 31 日或招满。",
-      "summary_en": "The role supports clinical research on brain stimulation and swallowing disorders through literature review, participant recruitment, data collection and analysis, report preparation and project logistics. A bachelor's degree in speech-language pathology, neuroscience, biological science, nursing or a related discipline is accepted; clinical-research experience is preferred, while fresh graduates are explicitly welcome. English, Chinese including Cantonese, SPSS familiarity and office software are required. Review is rolling until 31 August or until filled.",
-      "relevance": "层级与学科门槛友好，并直接涉及脑刺激和数据分析；主要限制是粤语、临床受试者协调和高频沟通占比，只有这些工作形态可接受时才值得投入。",
-      "tags": [
-        "历史补录",
-        "需尽快行动",
-        "应届生可申请",
-        "脑刺激",
-        "临床研究",
-        "SPSS",
-        "粤语要求"
-      ],
-      "source_url": "https://jobs.hku.hk/en/job/536751/fulltime-research-assistant-ii"
-    },
-    {
       "id": "uva-is-ds-2027",
       "category": "升学",
       "section": "数据／计算／AI项目",
@@ -1309,8 +1280,8 @@
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_historical_backfill",
-      "note": "北京时间 2026-07-28 08:00：本轮历史补录 1 条 HKU 脑刺激与吞咽障碍 RA II；官网明确欢迎应届生，但粤语与临床协调是实质门槛。NUS/HKU 研究生项目与近期职位线索未发现其他通过资格核验的新条目。"
+      "status": "scanned_no_high_quality_new",
+      "note": "北京时间 2026-07-28 08:00：已复核 HKU/NUS 官方项目与近期科研职位；脑刺激与吞咽障碍 RA II 属既有条目，本轮确认仍开放但不是新增。未发现其他通过资格、层级与开放状态核验的新条目。"
     },
     {
       "region": "日本与韩国",
@@ -1343,8 +1314,8 @@
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_with_backfill",
-        "note": "补录 HKU 脑刺激与吞咽障碍 RA II；同时复核 HKU/NUS 及其他高校近期入口，排除博士后、教职和硬性多年经验岗位。"
+        "status": "scanned_no_verified_new",
+        "note": "复核 HKU、NUS 及其他高校近期入口；HKU 脑刺激与吞咽障碍 RA II 为既有条目且仍开放，本轮没有新增高校岗位；排除博士后、教职和硬性多年经验岗位。"
       },
       {
         "source": "期刊／出版平台",
@@ -1361,10 +1332,10 @@
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 1,
-    "historical_backfills_added": 3,
+    "historical_backfills_added": 2,
     "status_changes": 0,
-    "still_open_urgent_items": 11,
-    "database_items_total": 49,
+    "still_open_urgent_items": 10,
+    "database_items_total": 48,
     "excluded_expired_or_ineligible": [
       "仅限在校生、预毕业年级或指定毕业届别的实习／校招职位",
       "博士后、教职、研究员及硬性多年独立项目经验岗位",
@@ -1384,6 +1355,6 @@
     "result": "completed_with_verified_updates",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "本轮新增 4 条：1 条上次扫描后正式发表的研究、3 条历史补录；已更新地区和来源覆盖状态。"
+    "note": "本轮新增 3 条：1 条上次扫描后正式发表的研究、2 条历史补录；已更新地区和来源覆盖状态，并完成重复项复核。"
   }
 }
