@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:00:16+08:00",
+  "generated_at": "2026-07-29T08:03:28+08:00",
   "notice": "Daily verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated programme pages are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -10,7 +10,7 @@
       "organization": "University of Sussex",
       "location": "英国・布莱顿",
       "published_at": "2026-07-19",
-      "updated_at": "2026-07-24",
+      "updated_at": "2026-07-29",
       "deadline": "2026-08-01",
       "priority": 96,
       "verification_status": "verified",
@@ -35,7 +35,7 @@
       "location": "英国・利兹",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-07-28",
+      "updated_at": "2026-07-29",
       "deadline": "2026-07-31",
       "discovery_status": "historical_backfill",
       "priority": 95,
@@ -429,7 +429,7 @@
       "location": "英国・格拉斯哥",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-07-28",
+      "updated_at": "2026-07-29",
       "deadline": "2026-08-24",
       "discovery_status": "historical_backfill",
       "priority": 88,
@@ -1265,82 +1265,253 @@
       ],
       "source_url": "https://www.mrc-cbu.cam.ac.uk/study-with-us/masters-in-cognitive-neuroscience/",
       "section": "神经与认知项目"
+    },
+    {
+      "id": "liverpool-neuroscience-msc-2026",
+      "category": "升学",
+      "section": "神经与认知项目",
+      "title": "利物浦大学神经科学硕士",
+      "title_en": "MSc Neuroscience",
+      "organization": "University of Liverpool",
+      "location": "英国・利物浦",
+      "published_at": "",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "2026-08-21",
+      "discovery_status": "historical_backfill",
+      "priority": 89,
+      "verification_status": "verified",
+      "summary": "2026 年 9 月入学、全日制 12 个月；国际申请截止 8 月 21 日。接受心理学、生物科学、物理、药理、影像及其他相关背景，最低通常为英国 2:2；官网明确不要求既往神经科学经验。课程覆盖 EEG、电生理、MRI、TMS、编程、神经影像分析、混合模型、贝叶斯统计和研究项目。国际学费为 £32,000；IELTS 6.5，单项不低于 6.0。",
+      "summary_en": "A 12-month MSc starting in September 2026, with an international deadline of 21 August. Applicants normally need at least a UK 2:2 equivalent in a relevant subject such as psychology, biosciences, physics, pharmacology or radiography; prior neuroscience experience is explicitly not required. Training covers EEG, electrophysiology, MRI, TMS, programming, neuroimaging analysis, mixed models, Bayesian statistics and a supervised research project. International tuition is £32,000 and IELTS 6.5 overall with no component below 6.0 is required.",
+      "relevance": "跨专业入口清晰，统计、编程和神经影像训练比多数泛神经科学硕士更具体；申请前应把学费、语言和签证办理周期作为首要可行性检查。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "国际截止8月21日",
+        "跨专业友好",
+        "EEG／MRI／TMS",
+        "编程与统计",
+        "发布日期未确认"
+      ],
+      "source_url": "https://www.liverpool.ac.uk/courses/neuroscience-msc"
+    },
+    {
+      "id": "hku-digital-maxillofacial-ra-536877",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学数字颌面外科科研助理 I/II",
+      "title_en": "Research Assistant I/II — Digital Maxillofacial Surgery",
+      "organization": "The University of Hong Kong · Faculty of Dentistry",
+      "location": "中国香港",
+      "published_at": "2026-07-16",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "2026-12-31",
+      "discovery_status": "historical_backfill",
+      "priority": 84,
+      "verification_status": "verified",
+      "summary": "6 个月或 1 年全职岗位，可续约。接受牙科、医学、计算机科学或相关专业本科及以上；工作包括临床研究数据收集、管理与分析、文献综述、研究摘要和论文/汇报支持。未写硬性工作年限，资历或经验较高者可按 RA I 聘用；粤语仅为加分项而非必需。申请滚动审查、招满即止。",
+      "summary_en": "A six-month or one-year renewable full-time role in digital maxillofacial surgery. A bachelor's degree or above in dentistry, medicine, computer science or a related discipline is accepted. Duties include clinical-study data collection, management and analysis, literature reviews, research summaries, and manuscript/presentation support. No mandatory experience duration is stated; Cantonese is advantageous but not required. Applications are reviewed until filled.",
+      "relevance": "这是计算机／数据能力进入医疗研究的低经验桥接岗位，且粤语不是硬门槛；临床研究协调和跨方沟通占一定比重，需要与纯分析岗位区分。",
+      "tags": [
+        "历史补录",
+        "科研助理",
+        "数字医疗",
+        "数据分析",
+        "本科可申请",
+        "粤语非必需",
+        "滚动审查"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536877/fulltime-research-assistant-iii-in-the-division-of-oral-maxillofacial-surgery"
+    },
+    {
+      "id": "hku-clinical-trials-associate-536939",
+      "category": "求职",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "香港大学临床研究助理／临床研究专员",
+      "title_en": "Clinical Research Associate — Technical Officer / Research Assistant I/II",
+      "organization": "The University of Hong Kong · Clinical Trials Centre",
+      "location": "中国香港",
+      "published_at": "2026-07-27",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "2026-08-26",
+      "discovery_status": "historical_backfill",
+      "priority": 82,
+      "verification_status": "verified",
+      "summary": "1 年临时或 2 年定期岗位，参与药物、医疗器械和医疗技术临床试验的规划、启动、监测、伦理/监管审批及跨方协调。官网明确提供全面在职培训，并写明应届毕业生也会被考虑。8 月 10 日开始审查，8 月 26 日截止，或招满即止。",
+      "summary_en": "A one-year temporary or two-year fixed-term clinical-research role supporting planning, initiation and monitoring of trials involving drugs, medical devices and medical technologies, including ethics/regulatory work and stakeholder coordination. The official page states that comprehensive on-the-job training is provided and fresh graduates will be considered. Review starts on 10 August and closes on 26 August, or earlier if filled.",
+      "relevance": "属于医疗科技和临床研究运营入口，经验门槛友好；核心是项目管理、合规与沟通，不是算法或纯数据分析岗位。",
+      "tags": [
+        "历史补录",
+        "应届生可考虑",
+        "在职培训",
+        "临床试验",
+        "医疗科技",
+        "项目协调"
+      ],
+      "source_url": "https://jobs.hku.hk/cw/en/job/536939/clinical-research-associate-at-the-rank-of-technical-officerresearch-assistant-iii"
+    },
+    {
+      "id": "natcom-ssm-neural-dynamics-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "数据驱动的神经动力学降维建模",
+      "title_en": "Data-driven reduced modeling of neural dynamics",
+      "organization": "Nature Communications",
+      "location": "计算神经科学／动力系统",
+      "published_at": "2026-07-28",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 94,
+      "verification_status": "verified",
+      "summary": "研究将谱子流形（SSM）方法用于多种当代神经 ODE/RNN，从数据中识别低维吸引不变流形，把高维网络降至低维非线性模型，并为决策和工作记忆中常用的线吸引子、环吸引子给出更精确的数学定义。价值在于把可解释动力系统与神经网络行为连接起来。局限是证据主要来自训练后的计算网络及其动力学结构；SSM 的适用条件和模型选择会影响结果，也不能据此证明生物神经回路采用相同机制。",
+      "summary_en": "The study applies spectral-submanifold methods to contemporary neural ODEs/RNNs, identifying low-dimensional attracting invariant manifolds from data and reducing high-dimensional networks to interpretable nonlinear models. It provides mathematically precise descriptions of line and ring attractors used in decision-making and working-memory theories. The main limitation is that the evidence concerns trained computational networks under SSM assumptions; it does not establish that biological circuits implement the same mechanisms.",
+      "relevance": "与计算神经科学、RNN 可解释性、工作记忆和动力系统建模高度相关，也提供可转化为代码复现项目的方法线索。",
+      "tags": [
+        "上次扫描后新发布",
+        "计算神经科学",
+        "神经动力学",
+        "RNN",
+        "降维",
+        "可解释模型"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75924-7"
+    },
+    {
+      "id": "natcom-deadline-effort-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "截止压力如何改变努力决策的神经计算机制",
+      "title_en": "Neural and computational mechanisms of effort under the pressure of a deadline",
+      "organization": "Nature Communications",
+      "location": "计算认知／动机神经科学",
+      "published_at": "2026-07-28",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 92,
+      "verification_status": "verified",
+      "summary": "四项研究用计算模型分析在截止期限前通过体力努力推进目标的选择，并结合超高场 fMRI。结果显示“剩余工作量／剩余时间”形成的截止压力会使人从回避努力转向追求努力带来的进展；相互连接的壳核与中扣带皮层亚区表征并更新这种压力，另一些前扣带与壳核亚区处理努力成本。局限是任务聚焦体力努力和实验性截止期限，fMRI 结果仍属相关证据，尚不能直接外推到长期学习、工作目标或证明这些脑区具有因果作用。",
+      "summary_en": "Across four studies, computational models examined choices in which physical effort advanced goals before a deadline, alongside ultra-high-field fMRI. Deadline pressure—work remaining divided by time remaining—shifted participants from effort avoidance toward valuing progress. Connected putamen and midcingulate subregions tracked and updated deadline pressure, while other cingulate/putamen regions represented effort. The paradigm centres on physical effort and laboratory deadlines, and the fMRI evidence is correlational rather than causal.",
+      "relevance": "将行为建模、动机决策与高场脑成像结合，是计算认知和认知神经科学方法上高度匹配的研究。",
+      "tags": [
+        "上次扫描后新发布",
+        "计算认知",
+        "动机",
+        "决策",
+        "超高场fMRI",
+        "计算建模"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75987-6"
+    },
+    {
+      "id": "natcom-cortical-cofluctuations-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "人类皮层动态共波动沿感觉运动—联想轴组织",
+      "title_en": "Human cortex organizes dynamic co-fluctuations along the sensorimotor-association axis",
+      "organization": "Nature Communications",
+      "location": "认知神经科学／动态脑网络",
+      "published_at": "2026-07-28",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 91,
+      "verification_status": "verified",
+      "summary": "研究分析四个独立 fMRI 数据集（含 7T 数据），按共波动幅度分层后发现：高幅状态偏向感觉运动网络，中等幅状态偏向联想系统，低幅状态更偏向边缘系统；该层级从儿童期到成年逐步精炼，并会在自然刺激下重构。局限是共波动来自 BOLD 信号和分析分层，仍不能直接代表神经元尺度的因果通信；幅度阈值、预处理和运动/生理噪声处理可能影响动态图结论。",
+      "summary_en": "Across four independent fMRI datasets, including 7T data, amplitude-stratified co-fluctuations followed the sensorimotor–association axis: high amplitudes emphasized sensorimotor networks, intermediate amplitudes associative systems, and low amplitudes limbic systems. This hierarchy refined from childhood to adulthood and reconfigured under naturalistic stimulation. Because the analysis relies on BOLD co-fluctuations and amplitude bins, it does not directly establish neuronal-scale causal communication and remains sensitive to preprocessing and physiological/motion confounds.",
+      "relevance": "为动态功能连接、发展神经影像和自然情境 fMRI 提供新的统一框架，方法价值高于单一脑区相关结果。",
+      "tags": [
+        "上次扫描后新发布",
+        "认知神经科学",
+        "动态网络",
+        "fMRI",
+        "7T",
+        "发展神经影像"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-76011-7"
     }
   ],
   "coverage": [
     {
       "region": "英国与爱尔兰",
       "status": "scanned_with_historical_backfill",
-      "note": "北京时间 2026-07-28 08:00：本轮核验到 2 条仍开放的历史补录：Leeds Neuroscience MRes（国际截止 7 月 31 日）与 Glasgow Integrative Neuroscience MSc（截止 8 月 24 日）。其余新近线索未发现满足质量、资格与开放状态要求的新增。"
+      "note": "北京时间 2026-07-29：已复核官方硕士页面和近期高校招聘。新增 1 条历史补录：Liverpool Neuroscience MSc（国际截止 8 月 21 日）；Leeds、Sussex、Glasgow 既有项目仍开放。其余线索无符合资格与开放状态的高质量新增。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-28 08:00：已主动复核德国、荷兰、瑞士、法国、比利时及北欧相关官方项目与近期招聘线索；未确认上次扫描后发布且仍开放、层级匹配的高质量新增，既有观察项目继续保留。"
+      "note": "北京时间 2026-07-29：已主动复核德国、荷兰、瑞士、法国、比利时及北欧的神经/认知、数据/AI 项目和 EURAXESS 线索，并回到官方页核验；未确认上次扫描后新发布且当前可行动的高质量机会。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-28 08:00：已复核 HKU/NUS 官方项目与近期科研职位；脑刺激与吞咽障碍 RA II 属既有条目，本轮确认仍开放但不是新增。未发现其他通过资格、层级与开放状态核验的新条目。"
+      "status": "scanned_with_historical_backfill",
+      "note": "北京时间 2026-07-29：已复核 HKU 与 NUS 官方入口。新增 2 条历史补录：HKU 数字颌面外科 RA I/II、HKU 临床研究助理/专员；其余新近职位主要因粤语硬门槛、重湿实验、硕士要求或方向偏离而未收录。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-28 08:00：已复核东京大学 2027 招生入口、KAIST 脑与认知/AI 等官方入口；未确认上次扫描后新发布且当前可直接行动的高质量新增。"
+      "note": "北京时间 2026-07-29：已复核日本、韩国重点大学的神经/认知与 AI 项目、实验室和近期招聘入口；未确认上次扫描后发布且国际可达、层级匹配的高质量新增。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-28 08:00：已复核多伦多大学等官方研究生项目与近期实验室/岗位线索；未确认上次扫描后发布且同时满足国际可达、低经验与开放状态要求的新条目。"
+      "note": "北京时间 2026-07-29：已复核重点院校项目和近期实验室/初级研究岗位线索；未确认同时满足低经验、国际可达、官方开放状态的高质量新增，明确不提供签证或要求更高资历的岗位未收录。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-28 08:00：已复核墨尔本大学等官方授课型/研究型项目入口与近期线索；未确认上次扫描后发布且符合跨专业或神经方向标准的高质量新增。"
+      "note": "北京时间 2026-07-29：已复核重点大学项目、研究助理和毕业生入口；未确认符合跨专业/神经方向且对国际候选人可达的新条目，要求澳新公民、永居或无限制工作权的 Graduate 项目未收录。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-28T08:00:16+08:00",
+    "checked_at": "2026-07-29T08:03:28+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "复核腾讯、字节跳动等官方招聘入口；新近数据/算法结果主要为硬性经验社招、限定在校生，或无法核验官方发布日期，未新增。"
+        "note": "复核腾讯、字节跳动等官方校招/社招入口；当前校招与实习主要限定 2026–2027 届或在校生，社招新近结果未出现同时满足低经验、方向匹配和开放状态的新增。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "复核 Microsoft、Apple、IBM、SAP 等中国区及毕业生入口；未确认上次扫描后新增且同时满足低经验、专业匹配与开放状态的职位。"
+        "note": "复核 SAP、Microsoft、Apple、IBM、Siemens 等中国区入口；SAP 上海检索到的 Graduate Associate Consultant 官方页已显示招满，其余未确认合格新增。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_no_verified_new",
-        "note": "复核 HKU、NUS 及其他高校近期入口；HKU 脑刺激与吞咽障碍 RA II 为既有条目且仍开放，本轮没有新增高校岗位；排除博士后、教职和硬性多年经验岗位。"
+        "status": "scanned_with_historical_backfill",
+        "note": "复核 HKU、NUS、jobs.ac.uk 和其他官方高校入口；新增 HKU 数字颌面外科 RA 与临床研究助理两条历史补录。排除博士后、教职、硕士硬门槛、粤语硬门槛或重湿实验且关联较低岗位。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned_with_new",
-        "note": "新增 Communications Biology 7 月 27 日正式发表的 REM 睡眠神经代谢研究；Nature Neuroscience、Nature Communications、eLife 等其余线索按正式发布日期、相关性与证据质量筛选。"
+        "note": "核验 Nature Communications、Nature Neuroscience、eLife、Communications Biology 等官方页面；新增 3 篇 7 月 28 日正式发表的高相关研究，均保留方法、发现与局限。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现线索；所有入库条目均已回到学校、雇主或期刊官方页面核验。"
+        "note": "仅用于发现；本轮所有入库条目均已回到大学、雇主或期刊官方原始页面核验。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 1,
-    "historical_backfills_added": 2,
+    "newly_published_since_last_scan": 3,
+    "historical_backfills_added": 3,
     "status_changes": 0,
-    "still_open_urgent_items": 10,
-    "database_items_total": 48,
+    "still_open_urgent_items": 11,
+    "database_items_total": 54,
     "excluded_expired_or_ineligible": [
-      "仅限在校生、预毕业年级或指定毕业届别的实习／校招职位",
+      "腾讯、字节等仅限指定毕业届别或在校生的校招／实习岗位",
+      "SAP 上海 Graduate Associate Consultant：官方页面显示岗位已招满",
       "博士后、教职、研究员及硬性多年独立项目经验岗位",
-      "搜索摘要存在但无法回到官方页面确认发布日期或开放状态的职位",
-      "虽为新近版本更新但官方首次发表日期早于上次扫描、且相关性不足以补录的论文"
+      "要求硕士而当前层级不匹配、粤语为硬门槛或以重湿实验为主且关联较弱的岗位",
+      "无法回到官方页面确认开放状态、发布日期或完整资格要求的搜索结果"
     ]
   },
   "change_legend": {
@@ -1351,10 +1522,10 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-07-28T08:00:16+08:00",
+    "executed_at_beijing": "2026-07-29T08:03:28+08:00",
     "result": "completed_with_verified_updates",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "本轮新增 3 条：1 条上次扫描后正式发表的研究、2 条历史补录；已更新地区和来源覆盖状态，并完成重复项复核。"
+    "note": "本轮新增 6 条：3 篇上次扫描后正式发表的研究、3 条历史补录；完成地区、来源、截止项和重复项复核。"
   }
 }
