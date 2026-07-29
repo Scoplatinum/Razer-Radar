@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T08:03:28+08:00",
+  "generated_at": "2026-07-29T15:45:30+08:00",
   "notice": "Daily verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated programme pages are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -1435,6 +1435,34 @@
         "发展神经影像"
       ],
       "source_url": "https://www.nature.com/articles/s41467-026-76011-7"
+    },
+    {
+      "id": "schizophrenia-early-psychosis-alff-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "早期精神病感觉运动皮层低频波动降低并伴随网络高连接",
+      "title_en": "Reduced amplitude of low frequency fluctuation in the sensorimotor cortex in early psychosis",
+      "organization": "Schizophrenia · Nature Portfolio",
+      "location": "静息态 fMRI／早期精神病",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-29",
+      "updated_at": "2026-07-29",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 82,
+      "verification_status": "verified",
+      "summary": "研究分析 Human Connectome Project—Early Psychosis 的静息态 fMRI：109 名早期精神病参与者与 55 名健康对照。患者感觉运动皮层的低频 BOLD 波动幅度（ALFF）更低，并与较差的运动灵巧度和认知表现相关；该区域同时与小脑、前扣带和岛叶呈更强连接。结果提示局部基础波动异常可能伴随更广泛网络改变。",
+      "summary_en": "Resting-state fMRI from 109 early-psychosis participants and 55 healthy controls showed lower sensorimotor-cortex ALFF in early psychosis, associated with poorer motor dexterity and cognition, alongside stronger connectivity with cerebellar, anterior-cingulate and insular regions.",
+      "relevance": "样本来自公开 HCP-EP 数据，连接静息态 fMRI、感觉运动功能与认知；但属于横断面相关分析，ALFF 与高连接不能证明因果、补偿或疾病进展机制。",
+      "tags": [
+        "上次扫描后新发布",
+        "早期精神病",
+        "静息态fMRI",
+        "ALFF",
+        "功能连接",
+        "公开数据"
+      ],
+      "source_url": "https://www.nature.com/articles/s41537-026-00789-0"
     }
   ],
   "coverage": [
@@ -1470,7 +1498,7 @@
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-29T08:03:28+08:00",
+    "checked_at": "2026-07-29T15:45:30+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
@@ -1490,7 +1518,7 @@
       {
         "source": "期刊／出版平台",
         "status": "scanned_with_new",
-        "note": "核验 Nature Communications、Nature Neuroscience、eLife、Communications Biology 等官方页面；新增 3 篇 7 月 28 日正式发表的高相关研究，均保留方法、发现与局限。"
+        "note": "在北京时间 08:03 全量扫描之后进行增量复核；新增 1 篇 7 月 29 日正式发表的早期精神病静息态 fMRI 研究（HCP-EP，109 名患者、55 名对照），已记录方法、发现及横断面相关性局限。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
@@ -1500,18 +1528,17 @@
     ]
   },
   "run_summary": {
-    "newly_published_today": 0,
-    "newly_published_since_last_scan": 3,
-    "historical_backfills_added": 3,
+    "newly_published_today": 1,
+    "newly_published_since_last_scan": 1,
+    "historical_backfills_added": 0,
     "status_changes": 0,
     "still_open_urgent_items": 11,
-    "database_items_total": 54,
+    "database_items_total": 55,
     "excluded_expired_or_ineligible": [
-      "腾讯、字节等仅限指定毕业届别或在校生的校招／实习岗位",
-      "SAP 上海 Graduate Associate Consultant：官方页面显示岗位已招满",
-      "博士后、教职、研究员及硬性多年独立项目经验岗位",
-      "要求硕士而当前层级不匹配、粤语为硬门槛或以重湿实验为主且关联较弱的岗位",
-      "无法回到官方页面确认开放状态、发布日期或完整资格要求的搜索结果"
+      "08:03 已完成的项目和岗位结果（本轮去重，不重复入库）",
+      "7 月 29 日小样本法医边缘型人格障碍 EEG 研究（14 名患者，统计功效有限，未为增加条数收录）",
+      "仅限指定毕业届别、在校生、博士后或硬性多年经验的岗位",
+      "无法回到官方页面确认开放状态或资格要求的线索"
     ]
   },
   "change_legend": {
@@ -1522,10 +1549,10 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-07-29T08:03:28+08:00",
-    "result": "completed_with_verified_updates",
+    "executed_at_beijing": "2026-07-29T15:45:30+08:00",
+    "run_type": "same_day_incremental_after_08_03_full_scan",
+    "result": "completed_with_one_new_research_item",
     "repository_write": "completed",
-    "public_site_verification": "pending_after_commit",
-    "note": "本轮新增 6 条：3 篇上次扫描后正式发表的研究、3 条历史补录；完成地区、来源、截止项和重复项复核。"
+    "public_site_verification": "pending_after_commit"
   }
 }
