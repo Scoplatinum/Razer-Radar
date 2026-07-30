@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T15:45:30+08:00",
+  "generated_at": "2026-07-30T08:00:31+08:00",
   "notice": "Daily verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated programme pages are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -10,7 +10,7 @@
       "organization": "University of Sussex",
       "location": "英国・布莱顿",
       "published_at": "2026-07-19",
-      "updated_at": "2026-07-29",
+      "updated_at": "2026-07-30",
       "deadline": "2026-08-01",
       "priority": 96,
       "verification_status": "verified",
@@ -35,7 +35,7 @@
       "location": "英国・利兹",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-07-29",
+      "updated_at": "2026-07-30",
       "deadline": "2026-07-31",
       "discovery_status": "historical_backfill",
       "priority": 95,
@@ -429,7 +429,7 @@
       "location": "英国・格拉斯哥",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-07-29",
+      "updated_at": "2026-07-30",
       "deadline": "2026-08-24",
       "discovery_status": "historical_backfill",
       "priority": 88,
@@ -1276,7 +1276,7 @@
       "location": "英国・利物浦",
       "published_at": "",
       "first_seen_at": "2026-07-29",
-      "updated_at": "2026-07-29",
+      "updated_at": "2026-07-30",
       "deadline": "2026-08-21",
       "discovery_status": "historical_backfill",
       "priority": 89,
@@ -1463,82 +1463,257 @@
         "公开数据"
       ],
       "source_url": "https://www.nature.com/articles/s41537-026-00789-0"
+    },
+    {
+      "id": "hku-epi-biostat-ra-536941",
+      "category": "实验室",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "香港大学流行病学与生物统计科研助理 I/II",
+      "title_en": "Research Assistant I/II — Epidemiology and Biostatistics",
+      "organization": "The University of Hong Kong · School of Public Health",
+      "location": "中国香港",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-30",
+      "updated_at": "2026-07-30",
+      "deadline": "2026-09-30",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 95,
+      "verification_status": "verified",
+      "summary": "一年期全职岗位，可续约；申请滚动审查至 9 月 30 日或招满即止。接受本科及以上，优先流行病学、公共卫生、生物统计、统计、数学、计算机科学、计算生物学或相关方向。核心工作是传染病流行病学与建模，包括统计分析、agent-based modelling、机器学习、模拟、文献综述和数据清洗；定量与统计能力为必需，R、C++、MATLAB 或 Python 为明确加分项。要求良好英文及中文。",
+      "summary_en": "A one-year renewable full-time role in infectious-disease epidemiology and modelling, reviewed on a rolling basis until 30 September or until filled. A bachelor's degree or above is accepted, preferably in epidemiology, public health, biostatistics, statistics, mathematics, computer science, computational biology or a related field. Work includes statistical analysis, agent-based modelling, machine learning, simulations, literature review and data cleaning. Quantitative/statistical skills are essential, with R, C++, MATLAB or Python strongly preferred; good English and Chinese are required.",
+      "relevance": "本轮岗位中匹配度最高：本科层级、编程与统计要求明确，并把生命科学、计算建模、机器学习和公共卫生数据连接在同一岗位。中文能力写为要求，但未单独注明粤语，仍应在投递前确认口语标准。",
+      "tags": [
+        "上次扫描后新发布",
+        "需尽快行动",
+        "科研助理",
+        "本科可申请",
+        "R／Python／MATLAB",
+        "机器学习",
+        "Agent-based modelling",
+        "滚动审查"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536941/research-assistant-iii-in-the-division-of-epidemiology-and-biostatistics"
+    },
+    {
+      "id": "natneuro-macaque-memory-traces-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "经验重组猕猴中按内容区分的记忆痕迹",
+      "title_en": "Experience reorganizes content-specific memory traces in macaques",
+      "organization": "Nature Neuroscience",
+      "location": "海马／记忆巩固／非人灵长类",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-30",
+      "updated_at": "2026-07-30",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 99,
+      "verification_status": "verified",
+      "summary": "研究在自由活动猕猴回忆当天、新近一天前及两周以上的物品序列时，记录海马及相关脑区的神经群体活动，并比较任务与随后睡眠中的细胞集合。偏向旧序列的集合漂移更少、网络连接更强、睡眠重激活更明显；旧记忆与近期记忆集合会形成持续的任务—睡眠耦合“元集合”，而新记忆较少。CA1 浅层与深层锥体细胞整合进共同集合的倾向随记忆年龄增加。",
+      "summary_en": "Neural ensembles were recorded from hippocampal and associated regions in freely moving macaques recalling item sequences learned that day, one day earlier or more than two weeks earlier, with task-to-sleep assembly dynamics compared. Old-memory-biased assemblies drifted less, were more connected and reactivated more strongly during sleep; old and recent assemblies formed persistent task-to-sleep 'metassemblies'. Integration of superficial and deep CA1 pyramidal cells increased with memory age.",
+      "relevance": "与情景/序列记忆、海马细胞集合、睡眠重放和记忆整合高度相关。主要局限是动物数量与单元采样受非人灵长类实验条件限制，集合识别依赖分析阈值；观察到的耦合仍不能独立证明睡眠重激活造成记忆稳定。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Neuroscience",
+        "海马",
+        "序列记忆",
+        "睡眠重放",
+        "细胞集合",
+        "猕猴"
+      ],
+      "source_url": "https://www.nature.com/articles/s41593-026-02357-2"
+    },
+    {
+      "id": "commsbio-tavrnn-neural-graphs-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "用动态图表示学习连接神经元动力学与行为",
+      "title_en": "Graph-based representation learning of neuronal dynamics and behavior",
+      "organization": "Communications Biology",
+      "location": "计算神经科学／图神经网络",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-30",
+      "updated_at": "2026-07-30",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 95,
+      "verification_status": "verified",
+      "summary": "研究提出带时间注意力的变分图循环网络 TAVRNN，以概率图学习表示随时间变化的神经元连接，同时保留单神经元潜在动力学和可解释的群体表征。模型在自由活动大鼠电生理、灵长类体感皮层伸手任务和 DishBrain 神经元—虚拟游戏三类数据上验证，在分类、聚类及动态嵌入基准中表现更好，并识别行为适应与网络拓扑变化的关联。",
+      "summary_en": "TAVRNN combines probabilistic graph learning, recurrent modelling and temporal attention to represent time-varying neuronal connectivity while retaining single-unit latent dynamics and interpretable population structure. It was evaluated on freely moving rat electrophysiology, primate somatosensory recordings during reaching, and DishBrain neurons interacting with a virtual game, outperforming dynamic-embedding baselines in classification and clustering.",
+      "relevance": "直接连接电生理、行为分类、动态图和深度学习，适合作为计算神经/RSE 方向的代码复现线索。局限是三个数据集规模、任务和监督方式差异很大，统一性能指标未必等同于对各系统机制的解释；DishBrain 相关作者存在商业利益披露。",
+      "tags": [
+        "上次扫描后新发布",
+        "计算神经科学",
+        "电生理",
+        "图神经网络",
+        "时间注意力",
+        "行为解码",
+        "开放获取"
+      ],
+      "source_url": "https://www.nature.com/articles/s42003-026-10721-y"
+    },
+    {
+      "id": "commsbio-subject-manifold-fmri-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "面向个体差异的可扩展神经影像流形学习",
+      "title_en": "A scalable subject-specific manifold learning framework for neuroimaging data",
+      "organization": "Communications Biology",
+      "location": "计算神经影像／个体化建模",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-30",
+      "updated_at": "2026-07-30",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 93,
+      "verification_status": "verified",
+      "summary": "研究提出两种个体化流形学习模块，以个体空间权重保留不同受试者的神经影像几何结构，并提供降低计算成本的高效版本。模拟显示群体对齐会扭曲个体流形；在电影观看 fMRI 中，新方法改善行为标签恢复和重建，在临床静息态 fMRI 中识别个体化感觉运动、学习和情绪相关空间模式，并在独立数据集达到 95% 重测身份识别率。",
+      "summary_en": "Two subject-specific manifold-learning modules use individualized spatial weights to preserve person-level neuroimaging geometry, including an efficient lower-cost variant. Simulations indicated that population alignment can distort individual manifolds. The framework improved behavioural-label recovery and reconstruction in movie fMRI, identified individualized clinical resting-state patterns, and achieved 95% test-retest identification accuracy in an independent dataset.",
+      "relevance": "与个体化 fMRI、临床计算神经科学和高维数据降维高度相关。局限是身份识别和重建性能不等于临床预测有效性；模型对扫描协议、预处理和训练样本分布的迁移仍需更广泛外部验证。",
+      "tags": [
+        "上次扫描后新发布",
+        "计算神经影像",
+        "流形学习",
+        "fMRI",
+        "个体差异",
+        "可扩展模型"
+      ],
+      "source_url": "https://www.nature.com/articles/s42003-026-10666-2"
+    },
+    {
+      "id": "natcom-higher-order-brain-models-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "超越成对连接的高阶脑功能模型比较",
+      "title_en": "Charting higher-order models of brain function beyond pairwise interactions",
+      "organization": "Nature Communications",
+      "location": "脑网络／高阶相互作用",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-30",
+      "updated_at": "2026-07-30",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 92,
+      "verification_status": "verified",
+      "summary": "研究用 Human Connectome Project 的 100 名无亲缘受试者静息态和任务 fMRI，系统比较十类信息论与拓扑高阶相互作用指标。指标可归为冗余、协同和拓扑三类，均沿感觉运动—联想层级组织，但呈现不同分子关联；高阶指标在脑指纹识别上优于成对连接，成对模型在任务解码上仍具竞争力，拓扑描述符与行为差异联系较强。",
+      "summary_en": "Ten information-theoretic and topological higher-order interaction metrics were benchmarked on resting-state and task fMRI from 100 unrelated Human Connectome Project participants. Metrics formed redundant, synergistic and topological families aligned with the sensorimotor–association hierarchy. Higher-order metrics improved brain fingerprinting, while pairwise connectivity remained competitive for task decoding; topological descriptors linked strongly to behavioural variability.",
+      "relevance": "为选择多脑区网络方法提供系统基准，适合脑连接和复杂系统分析。局限是样本仅 100 人且来自单一高质量 HCP 数据源；脑指纹优势不自动转化为认知解释、临床效用或因果机制。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Communications",
+        "高阶网络",
+        "fMRI",
+        "HCP",
+        "脑指纹",
+        "拓扑分析"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75959-w"
+    },
+    {
+      "id": "npjdm-tau-multilayer-diffusion-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "结构—功能多层网络模型解释 tau 蛋白传播",
+      "title_en": "Structural and functional connectivity in tau propagation through multilayer modelling",
+      "organization": "npj Digital Medicine",
+      "location": "数字医疗／阿尔茨海默病网络建模",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-07-30",
+      "updated_at": "2026-07-30",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 89,
+      "verification_status": "verified",
+      "summary": "研究利用纵向神经影像建立结构连接与功能连接的多层图扩散模型。结果显示早期 tau 传播更受功能连接主导，随疾病进展逐步转向结构连接约束；不同脑区呈不对称模式，并与 AD 相关基因表达、APOE 基因型及生物学性别相关。结果在独立队列中得到一致验证。",
+      "summary_en": "A multilayer graph-diffusion model combined longitudinal structural and functional neuroimaging to study tau spread. Functional connectivity dominated earlier propagation in several subcortical and frontotemporal regions, while structural constraints became more prominent as disease advanced. Patterns were associated with AD-related gene expression, APOE genotype and sex, and were replicated in an independent cohort.",
+      "relevance": "连接纵向影像、图模型、精准分层和临床试验设计，属于医疗 AI/数字医疗的高质量方法案例。局限是“传播”仍来自影像模型推断，连接—tau 关联不能单独证明真实分子传播路径；个体预测的临床增益仍需前瞻性验证。",
+      "tags": [
+        "上次扫描后新发布",
+        "数字医疗",
+        "阿尔茨海默病",
+        "tau",
+        "图扩散",
+        "纵向影像",
+        "独立验证"
+      ],
+      "source_url": "https://www.nature.com/articles/s41746-026-03057-8"
     }
   ],
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_with_historical_backfill",
-      "note": "北京时间 2026-07-29：已复核官方硕士页面和近期高校招聘。新增 1 条历史补录：Liverpool Neuroscience MSc（国际截止 8 月 21 日）；Leeds、Sussex、Glasgow 既有项目仍开放。其余线索无符合资格与开放状态的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "北京时间 2026-07-30：已复核官方硕士页面与近期高校招聘。Leeds Neuroscience MRes（7 月 31 日）和 Sussex Cognitive and Clinical Neuroscience MSc（8 月 1 日）仍显示可申请；Glasgow、Liverpool 既有条目仍开放。未确认上次扫描后发布且层级匹配的新机会。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-29：已主动复核德国、荷兰、瑞士、法国、比利时及北欧的神经/认知、数据/AI 项目和 EURAXESS 线索，并回到官方页核验；未确认上次扫描后新发布且当前可行动的高质量机会。"
+      "note": "北京时间 2026-07-30：已主动复核德国、荷兰、瑞士、法国、比利时与北欧的官方神经/认知、数据/AI 项目及 EURAXESS 线索；未确认新发布且当前可行动的高质量机会。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_historical_backfill",
-      "note": "北京时间 2026-07-29：已复核 HKU 与 NUS 官方入口。新增 2 条历史补录：HKU 数字颌面外科 RA I/II、HKU 临床研究助理/专员；其余新近职位主要因粤语硬门槛、重湿实验、硕士要求或方向偏离而未收录。"
+      "status": "scanned_with_new",
+      "note": "北京时间 2026-07-30：已复核 HKU、NUS 官方入口。新增 HKU 流行病学与生物统计 RA I/II（7 月 29 日公告）；其他新近 HKU 结果因要求硕士/博士、带队经验、粤语硬门槛或方向偏离而未收录。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-29：已复核日本、韩国重点大学的神经/认知与 AI 项目、实验室和近期招聘入口；未确认上次扫描后发布且国际可达、层级匹配的高质量新增。"
+      "note": "北京时间 2026-07-30：已复核日本与韩国重点大学的神经/认知、AI 项目和近期研究岗位入口；未确认国际可达、层级匹配的新条目。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-29：已复核重点院校项目和近期实验室/初级研究岗位线索；未确认同时满足低经验、国际可达、官方开放状态的高质量新增，明确不提供签证或要求更高资历的岗位未收录。"
+      "note": "北京时间 2026-07-30：已复核重点院校项目、实验室和初级数据/研究岗位线索；未确认同时满足低经验、签证可达和官方开放状态的新机会。SAP 美国新 AI Research 实习限定当前学生或毕业六个月内，未收录。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-07-29：已复核重点大学项目、研究助理和毕业生入口；未确认符合跨专业/神经方向且对国际候选人可达的新条目，要求澳新公民、永居或无限制工作权的 Graduate 项目未收录。"
+      "note": "北京时间 2026-07-30：已复核重点大学研究岗位、数据/AI 项目与 Graduate 入口；未确认对国际候选人可达且层级匹配的新机会，要求澳新公民、永居或无限制工作权的项目未收录。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-07-29T15:45:30+08:00",
+    "checked_at": "2026-07-30T08:00:31+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "复核腾讯、字节跳动等官方校招/社招入口；当前校招与实习主要限定 2026–2027 届或在校生，社招新近结果未出现同时满足低经验、方向匹配和开放状态的新增。"
+        "note": "复核腾讯、字节跳动等官方校招、实习和低经验社招入口；校招仍主要限定特定毕业届别，在校实习及硬性多年经验岗位未收录。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "复核 SAP、Microsoft、Apple、IBM、Siemens 等中国区入口；SAP 上海检索到的 Graduate Associate Consultant 官方页已显示招满，其余未确认合格新增。"
+        "note": "复核 SAP、Microsoft、Apple、IBM、Siemens 等中国区入口；未确认上次扫描后新发布且同时满足低经验、专业匹配和开放状态的岗位。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_with_historical_backfill",
-        "note": "复核 HKU、NUS、jobs.ac.uk 和其他官方高校入口；新增 HKU 数字颌面外科 RA 与临床研究助理两条历史补录。排除博士后、教职、硕士硬门槛、粤语硬门槛或重湿实验且关联较低岗位。"
+        "status": "scanned_with_new",
+        "note": "新增 HKU 流行病学与生物统计 RA I/II；本科可申请，包含统计分析、agent-based modelling、机器学习、模拟及 R/Python/MATLAB。排除 HKU 要求 MPhil/PhD 和团队管理的心理学项目经理、较高层级 Senior RA 及关联较弱岗位。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned_with_new",
-        "note": "在北京时间 08:03 全量扫描之后进行增量复核；新增 1 篇 7 月 29 日正式发表的早期精神病静息态 fMRI 研究（HCP-EP，109 名患者、55 名对照），已记录方法、发现及横断面相关性局限。"
+        "note": "新增 5 篇 7 月 29 日正式发表的高相关研究，覆盖灵长类记忆痕迹、动态图神经表示、个体化 fMRI 流形、高阶脑网络和 tau 多层扩散建模；均记录方法、发现和局限。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现；本轮所有入库条目均已回到大学、雇主或期刊官方原始页面核验。"
+        "note": "仅用于发现；所有入库条目均回到雇主、学校或期刊官方原始页面核验。"
       }
     ]
   },
   "run_summary": {
-    "newly_published_today": 1,
-    "newly_published_since_last_scan": 1,
+    "newly_published_today": 0,
+    "newly_published_since_last_scan": 6,
     "historical_backfills_added": 0,
     "status_changes": 0,
-    "still_open_urgent_items": 11,
-    "database_items_total": 55,
+    "still_open_urgent_items": 12,
+    "database_items_total": 61,
     "excluded_expired_or_ineligible": [
-      "08:03 已完成的项目和岗位结果（本轮去重，不重复入库）",
-      "7 月 29 日小样本法医边缘型人格障碍 EEG 研究（14 名患者，统计功效有限，未为增加条数收录）",
-      "仅限指定毕业届别、在校生、博士后或硬性多年经验的岗位",
-      "无法回到官方页面确认开放状态或资格要求的线索"
+      "HKU Psychology Research Officer/Project Manager：要求 MPhil/PhD、监督和带队经验",
+      "HKU Senior Research Assistant：层级与专业匹配度较低",
+      "腾讯、字节等仅限指定毕业届别或在校生的校招／实习岗位",
+      "SAP 美国 AI Research 实习：限定当前学生或毕业六个月内且偏高阶 AI 研究",
+      "博士后、教职、研究员、硬性多年经验及无法核验官方开放状态的线索"
     ]
   },
   "change_legend": {
@@ -1549,10 +1724,11 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-07-29T15:45:30+08:00",
-    "run_type": "same_day_incremental_after_08_03_full_scan",
-    "result": "completed_with_one_new_research_item",
+    "executed_at_beijing": "2026-07-30T08:00:31+08:00",
+    "run_type": "daily_full_scan",
+    "result": "completed_with_verified_updates",
     "repository_write": "completed",
-    "public_site_verification": "pending_after_commit"
+    "public_site_verification": "pending_after_commit",
+    "note": "本轮新增 6 条：1 个上次扫描后新发布岗位、5 篇 7 月 29 日正式发表研究；无历史补录或状态变化。"
   }
 }
