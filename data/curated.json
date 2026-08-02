@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:40:24+08:00",
+  "generated_at": "2026-08-02T08:03:21+08:00",
   "notice": "Daily verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated programme pages are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -10,22 +10,21 @@
       "organization": "University of Sussex",
       "location": "英国・布莱顿",
       "published_at": "2026-07-19",
-      "updated_at": "2026-08-01",
+      "updated_at": "2026-08-02",
       "deadline": "2026-08-01",
       "priority": 96,
-      "verification_status": "verified",
-      "summary": "2026 年 9 月入学、全日制一年。国际申请截止 8 月 1 日；非心理学背景可通过个人陈述说明兴趣与可迁移能力。",
-      "summary_en": "A one-year MSc starting in September 2026. The international deadline is 1 August; applicants from other disciplines may evidence relevant interest and transferable skills.",
-      "relevance": "截止时间临近；应优先核对语言、推荐信、成绩单和签证办理周期。",
+      "verification_status": "expired_for_2026_international",
+      "summary": "2026 年 9 月入学、全日制一年。官网列明国际申请截止为 2026 年 8 月 1 日，该日期现已过去；英国本土申请截止仍为 9 月 1 日。非心理学背景可通过个人陈述说明兴趣与可迁移能力。",
+      "summary_en": "A one-year MSc starting in September 2026. The official international deadline of 1 August 2026 has passed; the UK-home deadline remains 1 September. Applicants from other disciplines may evidence relevant interest and transferable skills.",
+      "relevance": "2026 国际申请截止日已过，现不再作为国际申请者的可行动机会；保留为历史条目，并观察后续入学轮次。",
       "tags": [
-        "需尽快行动",
         "国际申请",
         "跨专业可说明",
-        "今日截止"
+        "国际轮次已截止"
       ],
       "source_url": "https://www.sussex.ac.uk/study/masters/courses/cognitive-and-clinical-neuroscience-msc",
       "section": "神经与认知项目",
-      "current_status": "open_deadline_today"
+      "current_status": "closed_for_2026_international_by_deadline"
     },
     {
       "id": "leeds-neuroscience-mres-2026",
@@ -1853,66 +1852,66 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_with_status_change",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核官方课程与高校招聘；边界后无高质量新增。Leeds Neuroscience MRes 的 2026 国际轮次已于 7 月 31 日截止；Sussex Cognitive and Clinical Neuroscience MSc 官方仍列国际截止为今日 8 月 1 日，需立即行动。"
+      "note": "北京时间 2026-08-02 08:03 完整复核官方课程与高校招聘。Sussex Cognitive and Clinical Neuroscience MSc 的 2026 国际申请截止日 8 月 1 日已过，未见延期公告；其余未发现层级、资格与开放状态均匹配的高质量新增。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核德国、荷兰、瑞士、法国、比利时、北欧官方招聘与 EURAXESS 线索；边界后无可确认、国际可达且层级匹配的高质量新增。"
+      "note": "已复核德国、荷兰、瑞士、法国、比利时、北欧等地的官方招聘和 EURAXESS 线索；无国际可达且层级匹配的高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_backfill",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核 HKU、NUS、NTU、SMU 官方入口；边界后无高质量新增。今日早间历史补录的 HKU 传染病生物信息与 AI 建模 RA I/II 仍滚动开放。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已复核 HKU、NUS、NTU、SMU 等官方入口；无上次扫描后发布且符合层级与资格的新条目，既有滚动审查岗位仍保留。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核重点大学神经／认知、计算／AI 项目与研究岗位入口；边界后无国际可达、层级匹配且官方开放的新条目。"
+      "note": "已复核重点大学神经／认知、计算／AI 项目与研究岗位入口；无国际可达、层级匹配且官方开放的新条目。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核重点院校、医院和研究入口；边界后结果仍以高资历、临床资格或工作权受限岗位为主，无适合低经验国际候选人的高质量新增。"
+      "note": "已复核重点院校、医院和研究入口；结果仍以高资历、临床资格或工作权受限岗位为主，无适合低经验国际候选人的高质量新增。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核重点大学研究招聘、神经科学以及数据／AI 项目；边界后无国际可达且层级匹配的高质量新增。"
+      "note": "已复核重点大学研究招聘、神经科学及数据／AI 项目；无国际可达且层级匹配的高质量新增。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "北京时间 2026-08-01 19:40 增量补扫（边界 08:04:53）：复核中国大厂、外企中国区、高校科研、医疗科技与生物信息官方入口；边界后无同时满足 2024 届可申请、低经验、方向匹配与开放状态的新条目。"
+      "note": "已复核中国大厂、外企中国区、高校科研、医疗科技与生物信息官方入口；无同时满足 2024 届可申请、低经验、方向匹配与开放状态的新条目。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-01T19:40:24+08:00",
+    "checked_at": "2026-08-02T08:03:21+08:00",
     "employers": [
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "北京时间 19:40 增量补扫：复核腾讯、字节、阿里、百度、华为、京东、美团、网易、哔哩哔哩和小米官方入口；边界后无适合 2024 届低经验候选人的合格新增。仅限 2026/2027 届或在校生的校招／实习继续排除。"
+        "note": "复核腾讯、字节、阿里、百度、华为、京东、美团、网易、哔哩哔哩和小米官方入口；未发现适合 2024 届低经验候选人的合格新增。仅限 2026/2027 届或在校生的校招／实习继续排除。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "北京时间 19:40 增量补扫：复核 Microsoft、Apple、IBM、SAP、Siemens、Roche、Novartis、AstraZeneca 等中国区官方入口；边界后无同时满足低经验、方向匹配与开放状态的新岗位。"
+        "note": "复核 Microsoft、Apple、IBM、SAP、Siemens、Roche、Novartis、AstraZeneca 等中国区官方入口；未发现同时满足低经验、方向匹配与开放状态的新岗位。"
       },
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_with_backfill",
-        "note": "北京时间 19:40 增量补扫：复核各地区高校、实验室、医院与研究入口；边界后无合格新增。今日早间历史补录的 HKU 传染病生物信息与 AI 建模 RA I/II 仍滚动开放。"
+        "status": "scanned_no_verified_match",
+        "note": "复核各地区高校、实验室、医院与研究入口；周末新结果主要为博士后、研究员、不相关专业或资格不匹配岗位，无合格新增。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned_no_high_quality_new",
-        "note": "北京时间 19:40 增量补扫：复核 Nature、eLife、Scientific Data、NeuroImage 等官方出版页。检索到若干标注 8 月 1 日卷期日期的 NeuroImage 论文，但其在线公开时间早于本轮边界（例如一篇 5 月 19 日已 online），不作为边界后新发布入库，避免把卷期日期误当首次发布。"
+        "note": "复核 Nature 系列、eLife、Scientific Data、NeuroImage 等官方出版页；未发现 8 月 1 日正式在线发表且同时达到相关性与证据门槛的新论文，未为增加数量收录弱证据结果。"
       },
       {
         "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅作发现线索；本轮边界后没有需要回到官方来源并新增入库的合格条目。"
+        "note": "仅作发现线索；所有候选均回到官方来源核验，本轮没有合格新增。"
       }
     ]
   },
@@ -1920,8 +1919,8 @@
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
     "historical_backfills_added": 0,
-    "status_changes": 0,
-    "still_open_urgent_items": 13,
+    "status_changes": 1,
+    "still_open_urgent_items": 12,
     "database_items_total": 68,
     "category_counts": {
       "升学": 0,
@@ -1929,16 +1928,12 @@
       "实验室": 0,
       "求职": 0
     },
-    "daily_cumulative_before_incremental": {
-      "historical_backfills_added": 1,
-      "status_changes": 1
-    },
     "excluded_expired_or_ineligible": [
-      "NeuroImage 2026-08-01 卷期论文：在线公开时间早于本轮 08:04:53 边界，不误标为边界后新发布",
-      "Leeds Neuroscience MRes：2026 国际截止日已过，保留历史关闭状态",
-      "HKU 同期 Student RA：仅限当前在校生",
+      "Sussex Cognitive and Clinical Neuroscience MSc：2026 国际截止日 8 月 1 日已过，转为历史关闭状态",
+      "周末高校结果中的博士后、Research Fellow／Research Associate 及不相关专业岗位",
       "中国大厂仅限 2026/2027 届或在校生的校招与实习岗位",
-      "硬性多年经验、要求 PhD／成熟临床资历、已下线或无法确认开放的岗位"
+      "外企中国区硬性多年经验、管理层级或在校生限定岗位",
+      "8 月 1 日未发现达到相关性与证据门槛的正式研究论文"
     ]
   },
   "change_legend": {
@@ -1949,12 +1944,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-01T19:40:24+08:00",
-    "increment_boundary": "2026-08-01T08:04:53+08:00",
-    "run_type": "same_day_incremental_scan",
-    "result": "completed_no_qualified_incremental",
+    "executed_at_beijing": "2026-08-02T08:03:21+08:00",
+    "increment_boundary": "2026-08-01T19:40:24+08:00",
+    "run_type": "full_daily_scan",
+    "result": "completed_with_status_change",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "当天全量扫描已于 08:04:53 完成；本轮仅补扫其后增量。四类均为 0 条新增，未重复入库；仍开放紧急项 13 条。"
+    "note": "完整扫描完成；无合格新增或历史补录，记录 1 项状态变化。Sussex 2026 国际轮次截止，仍开放紧急项 12 条。"
   }
 }
