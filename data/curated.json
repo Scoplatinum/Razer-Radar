@@ -1,7 +1,41 @@
 {
-  "generated_at": "2026-08-03T08:03:16+08:00",
-  "notice": "Daily verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated programme pages are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
+  "generated_at": "2026-08-03T17:00:37+08:00",
+  "notice": "Same-day incremental verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated listings are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
+    {
+      "id": "ntu-psychology-neuroai-ra-r00023799",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "南洋理工大学心理学神经影像与脑科学机器学习科研助理",
+      "title_en": "Research Assistant (Psychology) — Neuroimaging and Brain-based Machine Learning",
+      "organization": "Nanyang Technological University · School of Physical and Mathematical Sciences",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-03",
+      "updated_at": "2026-08-03",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 97,
+      "verification_status": "verified_open_official_listing",
+      "summary": "全职科研助理，加入心理学与数理学院交叉的 Science of Learning 团队，用脑科学机器学习模型识别幼儿及小学低年级数学学习困难。接受实验心理学、生物心理学、认知心理学、教育神经科学、NeuroAI、神经心理学、认知神经科学、AI 教育、深度学习、生物医学工程、计算机等相关本科背景。工作覆盖神经影像研究协调、数据采集与管理、分析管线、R／MATLAB／Python、统计和机器学习；fMRI、儿童研究、项目管理与深度学习经验均写为优先或加分。官方页面当前显示 Apply，但未列固定截止日与明确发布日期；招聘页也未承诺工作签证支持，国际申请者应在投递前向 NTU 确认 Employment Pass／S Pass 可行性。",
+      "summary_en": "A full-time RA role in an interdisciplinary Psychology and SPMS Science of Learning team developing brain-based machine-learning models for early identification of mathematical learning difficulties. Relevant bachelor's backgrounds include experimental/cognitive psychology, educational neuroscience, NeuroAI, cognitive neuroscience, AI in education, deep learning, biomedical engineering and computer science. Duties span neuroimaging-study coordination, data collection and management, analysis pipelines, statistics, R/MATLAB/Python and machine learning. fMRI, child-research, project-management and deep-learning experience are preferred rather than uniformly stated as mandatory. The official listing currently shows Apply, but gives no fixed closing date or confirmed publication date and does not promise work-pass sponsorship; international candidates should confirm Employment Pass/S Pass feasibility with NTU.",
+      "relevance": "与计算认知、神经影像、机器学习和科研工程高度贴合，本科层级可申请，是本轮最值得关注的机会；申请材料应重点证明 R／Python／MATLAB、统计、神经影像或儿童研究中的真实项目经验。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "科研助理",
+        "认知神经科学",
+        "神经影像／fMRI",
+        "机器学习／NeuroAI",
+        "R／Python／MATLAB",
+        "本科可申请",
+        "发布日期未确认",
+        "截止日未列明",
+        "签证需确认"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Psychology-_R00023799",
+      "current_status": "open_no_deadline_listed"
+    },
     {
       "id": "hku-ophthalmology-ai-ra2-537031",
       "category": "实验室",
@@ -1911,89 +1945,89 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核官方硕士项目、高校招聘及 jobs.ac.uk 线索；未发现上次扫描后发布且层级、资格与开放状态均匹配的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_with_new_research",
-      "note": "已复核德国、荷兰、瑞士、法国、比利时、北欧等官方入口及 EURAXESS 线索。法国 NeuroSpin／Université Paris-Saclay 团队于 8 月 2 日正式发表一项情景记忆时间压缩研究；招聘与升学无合格新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_backfill",
-      "note": "已复核 HKU、NUS、NTU、SMU 等官方入口。历史补录 HKU 眼科学系青光眼 AI 与眼部影像 RA II；7 月 31 日公告、今日首次发现，截止 8 月 27 日并滚动审查。"
+      "status": "incremental_scanned_with_backfill",
+      "note": "本轮自 08:03 全量扫描后做同日增量复核；历史补录 NTU 心理学／数理学院神经影像与脑科学机器学习 RA。官方页仍可申请，但发布日期、固定截止日与签证承诺未列明。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核重点大学神经／认知、计算／AI 项目及研究岗位入口；无国际可达、层级匹配且官方开放的新条目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核重点院校、医院和研究入口；最新结果以教职、临床执照、高资历或工作权受限岗位为主，无适合低经验国际候选人的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核重点大学研究招聘、神经科学及数据／AI 项目；无国际可达且层级匹配的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核中国大厂、外企中国区、高校科研、医疗科技与生物信息官方入口；无同时满足 2024 届可申请、低经验、方向匹配与开放状态的新条目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-03T08:03:16+08:00",
+    "checked_at": "2026-08-03T17:00:37+08:00",
     "employers": [
       {
+        "source": "高校／科研／医疗科技招聘",
+        "status": "incremental_scanned_with_backfill",
+        "note": "NTU 官方 Workday 页核验后历史补录心理学神经影像与脑科学机器学习 RA；本科层级可申请，页面仍显示 Apply。发布日期、固定截止日和签证支持未明示，已逐项标注。"
+      },
+      {
         "source": "中国大厂官方招聘",
-        "status": "scanned_no_verified_match",
-        "note": "复核腾讯、字节、阿里、百度、华为、京东、美团、网易、哔哩哔哩和小米官方入口；新近 AI／数据岗位仍以丰富工程经验、特定毕业届别或在校生身份为主，无合格新增。"
+        "status": "incremental_scanned_no_verified_match",
+        "note": "复核腾讯、字节等官方入口；2024 届不符合 2026 校招毕业届别，日常实习又要求在校身份；未发现低经验且开放的新社招匹配。"
       },
       {
         "source": "外企中国区 Careers",
-        "status": "scanned_no_verified_match",
-        "note": "复核 Microsoft、Apple、IBM、SAP、Siemens、Roche、Novartis、AstraZeneca 等中国区官方入口；未发现同时满足低经验、方向匹配与开放状态的新岗位。"
-      },
-      {
-        "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_with_backfill",
-        "note": "HKU 眼科学系 RA II 经官方页面核验后作为历史补录入库；另排除 2 年行政经验优先的项目助理、Senior RA／Research Manager、博士后与教职。"
+        "status": "incremental_scanned_no_verified_match",
+        "note": "复核 Microsoft 等官方早期职业与职位入口；未发现同日增量中满足地区、经验和开放状态的新增。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_with_new_research",
-        "note": "复核 Nature 系列、eLife、Scientific Data、NeuroImage 等官方出版页；收录 8 月 2 日正式发表的嵌套情境与情景记忆时间压缩研究。8 月 1 日其他结果因证据较弱或方向关联不足未收录。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "复核 Nature 系列及相关正式出版入口；未发现 08:03 后正式发布且与神经、认知或计算认知高度相关的合格新增。"
       },
       {
-        "source": "LinkedIn／jobs.ac.uk／EURAXESS 等聚合线索",
+        "source": "jobs.ac.uk／EURAXESS 等聚合线索",
         "status": "discovery_only",
-        "note": "仅作发现线索；候选均回到雇主、学校或期刊官方页面核验。"
+        "note": "只作线索发现；检出的岗位或已截止、层级过高，或未能回到官方页面确认本轮增量发布。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 1,
+    "newly_published_since_last_scan": 0,
     "historical_backfills_added": 1,
     "status_changes": 0,
-    "still_open_urgent_items": 13,
-    "database_items_total": 70,
+    "still_open_urgent_items": 14,
+    "database_items_total": 71,
     "category_counts": {
       "升学": 0,
-      "研究": 1,
+      "研究": 0,
       "实验室": 1,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "HKU 牙学院 Project Assistant／RA I：主体为招生、会务和行政支持，并优先至少 2 年相关经验",
-      "HKU Senior RA／Research Manager、博士后、Research Fellow／Research Associate 和教职",
-      "中国大厂仅限特定毕业届别或在校生的校招与实习岗位",
-      "字节 AI Agent 开发等要求丰富工程经验的社招岗位",
-      "8 月 1 日证据较弱或仅以“认知神经科学启发”为工程包装的 Scientific Reports 论文"
+      "字节跳动 2026 校招：要求 2025 年 9 月至 2026 年 8 月毕业，2024 届不符",
+      "腾讯 2026 校招：面向 2026 应届毕业生；实习岗位要求在校生",
+      "英国 jobs.ac.uk 检索到的 Cambridge 计算基因组岗位：7 月 19 日已截止且主体为博士后层级",
+      "加拿大检索到的神经／数字健康职位：临床执照、教职或 Research Associate 高资历岗位",
+      "日本检索到的 2027 入学项目：本轮检索到的申请期已结束或需既有研究生身份，未作为新增入库"
     ]
   },
   "change_legend": {
@@ -2004,12 +2038,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-03T08:03:16+08:00",
-    "increment_boundary": "2026-08-02T08:03:21+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_new_items",
+    "executed_at_beijing": "2026-08-03T17:00:37+08:00",
+    "increment_boundary": "2026-08-03T08:03:16+08:00",
+    "run_type": "same_day_incremental_scan",
+    "result": "completed_with_historical_backfill",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "完整扫描完成；新增正式研究 1 条、历史补录 1 条、状态变化 0 条；仍开放紧急项 13 条。"
+    "note": "同日增量扫描完成；新发布 0 条、历史补录 1 条、状态变化 0 条；仍开放紧急项 14 条。"
   }
 }
