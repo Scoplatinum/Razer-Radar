@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T17:00:37+08:00",
+  "generated_at": "2026-08-04T08:03:37+08:00",
   "notice": "Same-day incremental verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated listings are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
     {
@@ -270,7 +270,7 @@
       "location": "中国香港",
       "published_at": "2026-07-17",
       "first_seen_at": "2026-07-20",
-      "updated_at": "2026-07-24",
+      "updated_at": "2026-08-04",
       "deadline": "2026-08-10",
       "discovery_status": "historical_backfill",
       "priority": 90,
@@ -525,17 +525,18 @@
       "location": "英国・格拉斯哥",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-07-30",
+      "updated_at": "2026-08-04",
       "deadline": "2026-08-24",
       "discovery_status": "historical_backfill",
       "priority": 88,
       "verification_status": "verified",
-      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。",
-      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required.",
-      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较“广义整合神经科学”与更聚焦计算/认知项目。风险是学费、语言成绩有效期和短时间内签证可行性仍需单独核验。",
+      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。 同一官方页面列出的 Global Leadership Scholarship 最晚申请时间为英国时间 2026 年 8 月 4 日 11:59；这是奖学金节点，不改变课程本身 8 月 24 日的申请截止日。",
+      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. The same official page lists 11:59 a.m. UK time on 4 August 2026 as the latest application time for the Global Leadership Scholarship; this funding deadline does not change the programme deadline of 24 August.",
+      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较“广义整合神经科学”与更聚焦计算/认知项目。风险是学费、语言成绩有效期和短时间内签证可行性仍需单独核验。 若拟申请该奖学金，8 月 4 日英国时间 11:59 是当日紧急节点。",
       "tags": [
         "历史补录",
         "需尽快行动",
+        "奖学金截止8月4日11:59英国时间",
         "国际截止8月24日",
         "跨生物科学",
         "统计要求",
@@ -1148,7 +1149,7 @@
       "location": "中国香港",
       "published_at": "2026-07-23",
       "first_seen_at": "2026-07-24",
-      "updated_at": "2026-07-24",
+      "updated_at": "2026-08-04",
       "deadline": "2026-08-15",
       "discovery_status": "newly_published_since_last_scan",
       "priority": 78,
@@ -1372,7 +1373,7 @@
       "location": "英国・利物浦",
       "published_at": "",
       "first_seen_at": "2026-07-29",
-      "updated_at": "2026-07-30",
+      "updated_at": "2026-08-04",
       "deadline": "2026-08-21",
       "discovery_status": "historical_backfill",
       "priority": 89,
@@ -1744,7 +1745,7 @@
       "location": "英国・布里斯托",
       "published_at": "",
       "first_seen_at": "2026-07-31",
-      "updated_at": "2026-07-31",
+      "updated_at": "2026-08-04",
       "deadline": "2026-08-13",
       "discovery_status": "historical_backfill",
       "priority": 89,
@@ -1945,89 +1946,89 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
+      "status": "scanned_with_actionable_deadline_update",
+      "note": "已核验高校项目与 jobs.ac.uk 官方落地页；无合格新项目或岗位。格拉斯哥 Integrative Neuroscience MSc 仍开放至 8 月 24 日，但其 Global Leadership Scholarship 最晚申请时间为英国时间 8 月 4 日 11:59，已补充到既有条目。Bristol、Liverpool 项目官方页仍开放。"
     },
     {
       "region": "欧洲大陆",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已主动检查德国、荷兰、瑞士、法国、比利时与北欧相关官方／EURAXESS 线索；未发现上次扫描后发布、层级匹配且仍可申请的高质量新增。Radboud 好奇心认知神经科学博士虽高度相关，但官方截止日 8 月 3 日已过，未作为有效新增入库。"
     },
     {
       "region": "香港与新加坡",
-      "status": "incremental_scanned_with_backfill",
-      "note": "本轮自 08:03 全量扫描后做同日增量复核；历史补录 NTU 心理学／数理学院神经影像与脑科学机器学习 RA。官方页仍可申请，但发布日期、固定截止日与签证承诺未列明。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查 HKU、NUS、NTU 等官方招聘入口；未发现上次扫描后新发布且资格匹配的新增。HKU 儿童言语 RA II（8 月 10 日）与妇产科学 RA I（8 月 15 日）官方页仍显示 Apply。"
     },
     {
       "region": "日本与韩国",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查相关高校／研究机构官方招聘与项目线索；未发现层级、国际资格与开放状态均可确认的高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查高校、实验室与医疗数据相关官方入口；检出结果主要为教职、临床执照岗位、Research Associate 高资历岗位或已截止职位，无合格新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查主要高校官方招聘入口；当前相关结果多为 Research Associate／Research Fellow 层级并要求成熟研究履历，无符合初级层级的新机会。"
     },
     {
       "region": "中国大陆",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "本轮自 08:03 全量扫描后复核官方入口及新索引结果；未发现该边界后发布、资格匹配且可确认开放的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已复核腾讯、字节、百度、华为等官方招聘及外企中国区 Careers；校招／实习仍主要限制特定毕业届别或在校身份，社招结果多要求专业对口或成熟工程经验，无合格新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-03T17:00:37+08:00",
+    "checked_at": "2026-08-04T08:03:37+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "incremental_scanned_with_backfill",
-        "note": "NTU 官方 Workday 页核验后历史补录心理学神经影像与脑科学机器学习 RA；本科层级可申请，页面仍显示 Apply。发布日期、固定截止日和签证支持未明示，已逐项标注。"
+        "status": "scanned_no_verified_new_match",
+        "note": "核验 HKU、NTU/NUS、英国高校、欧洲大陆及北美／澳洲高校官方入口；无上次扫描后发布且层级、资格、开放状态均匹配的新岗位。"
       },
       {
         "source": "中国大厂官方招聘",
-        "status": "incremental_scanned_no_verified_match",
-        "note": "复核腾讯、字节等官方入口；2024 届不符合 2026 校招毕业届别，日常实习又要求在校身份；未发现低经验且开放的新社招匹配。"
+        "status": "scanned_no_verified_match",
+        "note": "复核腾讯、字节、百度、华为等官方入口；2024 届不符合多数当前校招／实习资格，低经验社招未发现可确认新增。"
       },
       {
         "source": "外企中国区 Careers",
-        "status": "incremental_scanned_no_verified_match",
-        "note": "复核 Microsoft 等官方早期职业与职位入口；未发现同日增量中满足地区、经验和开放状态的新增。"
+        "status": "scanned_no_verified_match",
+        "note": "复核 Microsoft、SAP、Roche、AstraZeneca 等官方 Careers；检出结果或限定学生身份、要求较高经验，或不在中国大陆，无合格新增。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "incremental_scanned_no_high_quality_new",
-        "note": "复核 Nature 系列及相关正式出版入口；未发现 08:03 后正式发布且与神经、认知或计算认知高度相关的合格新增。"
+        "status": "scanned_no_high_quality_new",
+        "note": "复核 Nature Neuroscience、Nature Communications、Communications Biology、eLife 等正式出版入口；未发现上次扫描边界后正式发表且达到相关性与证据门槛的新研究。"
       },
       {
-        "source": "jobs.ac.uk／EURAXESS 等聚合线索",
+        "source": "jobs.ac.uk／EURAXESS／Academic Positions 等聚合线索",
         "status": "discovery_only",
-        "note": "只作线索发现；检出的岗位或已截止、层级过高，或未能回到官方页面确认本轮增量发布。"
+        "note": "仅用于发现线索；检出结果经官方页面复核后，或已截止、层级过高、资格受限，未作为有效新增入库。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 1,
+    "historical_backfills_added": 0,
     "status_changes": 0,
     "still_open_urgent_items": 14,
     "database_items_total": 71,
     "category_counts": {
       "升学": 0,
       "研究": 0,
-      "实验室": 1,
+      "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "字节跳动 2026 校招：要求 2025 年 9 月至 2026 年 8 月毕业，2024 届不符",
-      "腾讯 2026 校招：面向 2026 应届毕业生；实习岗位要求在校生",
-      "英国 jobs.ac.uk 检索到的 Cambridge 计算基因组岗位：7 月 19 日已截止且主体为博士后层级",
-      "加拿大检索到的神经／数字健康职位：临床执照、教职或 Research Associate 高资历岗位",
-      "日本检索到的 2027 入学项目：本轮检索到的申请期已结束或需既有研究生身份，未作为新增入库"
+      "Radboud University 好奇心认知神经科学博士：方向高度相关，但官方截止日为 2026 年 8 月 3 日，本轮已过期",
+      "UNSW Psychology Research Associate／Senior Research Associate：Level A/B 研究职位，要求成熟研究履历并承担项目主导，不符合初级层级",
+      "百度及华为近期校招／实习结果：要求在校生或特定毕业届别，2024 届不符",
+      "北美检索结果：主要为教职、临床执照或高资历 Research Associate 岗位",
+      "Nature/eLife 等 8 月 3 日检索结果：未发现同时满足正式发表日期、方向相关性和证据质量门槛的新论文"
     ]
   },
   "change_legend": {
@@ -2038,12 +2039,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-03T17:00:37+08:00",
-    "increment_boundary": "2026-08-03T08:03:16+08:00",
-    "run_type": "same_day_incremental_scan",
-    "result": "completed_with_historical_backfill",
+    "executed_at_beijing": "2026-08-04T08:03:37+08:00",
+    "increment_boundary": "2026-08-03T17:00:37+08:00",
+    "run_type": "full_daily_scan",
+    "result": "completed_with_actionable_deadline_update",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "同日增量扫描完成；新发布 0 条、历史补录 1 条、状态变化 0 条；仍开放紧急项 14 条。"
+    "note": "完整扫描完成；新发布 0 条、历史补录 0 条、状态变化 0 条。既有格拉斯哥项目补充 8 月 4 日英国时间 11:59 的奖学金紧急节点；数据库 71 条，仍开放紧急项 14 条。"
   }
 }
