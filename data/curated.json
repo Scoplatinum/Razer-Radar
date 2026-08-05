@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-08-05T08:02:07+08:00",
-  "notice": "Same-day incremental verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated listings are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
+  "generated_at": "2026-08-05T14:54:55+08:00",
+  "notice": "Same-day incremental verified edition following the 08:02 full scan. Five historical backfills were added from official sources; none is mislabeled as published today. Exact publication dates remain blank where official pages expose only relative posting ages.",
   "items": [
+    {
+      "id": "sap-associate-data-scientist-mt-457229",
+      "category": "求职",
+      "section": "低经验求职机会",
+      "title": "SAP 机器翻译初级数据科学家（六个月合同）",
+      "title_en": "Associate Data Scientist for Machine Translation — Limited Employment",
+      "organization": "SAP",
+      "location": "德国・St. Leon-Rot",
+      "published_at": "2026-07-22",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 88,
+      "verification_status": "verified_open_official_listing",
+      "summary": "SAP 官方职位，Graduate 职级、最长六个月的有限期全职合同。工作包括机器翻译数据采集与清洗、自动化数据管线、Hugging Face／vLLM、LLM-as-a-Judge 评估、云或集群部署、Jenkins／Docker 与监控。接受计算机、计算语言学、AI、NLP 等相关本科毕业生；Python 和 NLP 实操是核心要求，Linux／Shell 与 Java 为加分。职位未要求固定多年经验，但合同短且官方页未承诺签证或搬迁支持；非欧盟申请者应先确认德国工作许可及合同是否满足签证条件。",
+      "summary_en": "An official SAP graduate-level, limited full-time role for up to six months. Work includes machine-translation data preparation, automated pipelines, Hugging Face/vLLM, LLM-as-a-Judge evaluation, cloud or cluster deployment, Jenkins/Docker and monitoring. Bachelor's graduates in computer science, computational linguistics, AI, NLP or related fields are accepted; practical Python and NLP skills are central, with Linux/shell and Java advantageous. No fixed years of experience are required, but the short contract and absence of stated visa or relocation support materially limit accessibility for non-EU applicants.",
+      "relevance": "与 NLP、LLM 评估和数据工程高度匹配，Graduate 层级明确；但六个月合同与签证不确定性使其更适合作为已有德国／欧盟工作权候选人的优先机会。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "Graduate职级",
+        "数据科学",
+        "NLP／机器翻译",
+        "LLM评估",
+        "Python",
+        "Docker／CI-CD",
+        "六个月合同",
+        "签证需确认"
+      ],
+      "source_url": "https://jobs.sap.com/job/St_-Leon-Rot-Limited-employment-up-to-6-months-%28fmd%29-Associate-Data-Scientist-for-Machine-Translation-68789/1417727633/",
+      "current_status": "open"
+    },
+    {
+      "id": "ntu-ai-medicine-data-analytics-ra-r00024634",
+      "category": "实验室",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "南洋理工大学医疗 AI 与数据分析科研助理",
+      "title_en": "Research Assistant — AI / Medicine / Data Analytics",
+      "organization": "Nanyang Technological University · Nanyang Business School",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 96,
+      "verification_status": "verified_open_official_listing",
+      "summary": "全职科研助理，面向医疗场景的数据准备、清洗与分析。工作覆盖电子病历、系统日志、问卷等多源数据，Python／SQL 管线，结构化与文本、影像、语音等非结构化数据，以及机器学习、NLP、特征工程和统计建模。接受数据科学、计算机、统计、信息系统、生物医学信息等相关本科，硕士仅为加分；要求相关数据分析或科研支持经验但未规定固定年限。官方 Workday 当前显示 Apply，未列精确发布日期、截止日或签证支持，国际申请者需确认工作准证。",
+      "summary_en": "A full-time RA role supporting healthcare research through data preparation, cleaning and analysis. Work spans EHRs, system logs, surveys and other multi-source data; Python/SQL pipelines; structured and unstructured text, image and audio data; machine learning, NLP, feature engineering and statistical modelling. A bachelor's degree in data science, computer science, statistics, information systems, biomedical informatics or a related quantitative discipline is accepted, with a master's only advantageous. Relevant analytics or research-support experience is requested but no fixed years are stated. The official page shows Apply but no exact publication date, deadline or work-pass support.",
+      "relevance": "医疗数据、Python／SQL、机器学习和多模态非结构化数据高度匹配，是本轮最值得关注的计算型科研岗位之一；需用可复现项目证明管线与分析能力。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "科研助理",
+        "医疗AI",
+        "数据分析",
+        "Python／SQL",
+        "机器学习／NLP",
+        "本科可申请",
+        "发布日期未确认",
+        "签证需确认"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant--AI-Medicine-Data-Analytics-_R00024634",
+      "current_status": "open_no_deadline_listed"
+    },
+    {
+      "id": "ntu-cradle-cognitive-neuroscience-ra-r00024945",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "南洋理工大学认知神经科学与教育研究科研助理",
+      "title_en": "Research Assistant — Psychology / Cognitive Neuroscience",
+      "organization": "Nanyang Technological University · CRADLE",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 95,
+      "verification_status": "verified_open_official_listing",
+      "summary": "全职科研助理，支持学习科学、心理学与认知神经科学项目。工作包括心理／神经影像研究设计与执行、MRI／fNIRS 数据采集、统计分析、数据管理、伦理文件、报告和跨机构协调。要求心理学、认知神经科学或相关本科；SPSS／R 与分析能力是明确技能，神经影像和既往科研经历为优先而非固定年限硬门槛。官方 Workday 当前显示 Apply，但仅给出相对发布时间，故发布日期不作精确推定；未列固定截止日或工作签证支持，国际申请者应尽快确认 Employment Pass／S Pass 可行性。",
+      "summary_en": "A full-time RA role supporting learning-science, psychology and cognitive-neuroscience research. Duties include psychological and neuroimaging study implementation, MRI/fNIRS data collection, statistical analysis, data management, ethics documentation, reporting and partner coordination. A bachelor's degree in psychology, cognitive neuroscience or a related field is required; SPSS/R and analytical ability are explicit skills, while neuroimaging and prior research experience are preferred without a fixed-years threshold. The official Workday page currently shows Apply but provides only a relative posting age, so no exact publication date is assigned. No closing date or work-pass sponsorship is stated.",
+      "relevance": "本科层级、认知神经科学方向直接匹配，且影像经验为加分项；适合用 R／统计、实验设计和研究协调经历切入，但岗位行政协调比重不低。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "科研助理",
+        "认知神经科学",
+        "MRI／fNIRS",
+        "SPSS／R",
+        "本科可申请",
+        "经验优先非硬门槛",
+        "发布日期未确认",
+        "签证需确认"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant--Psychology---Cognitive-Neuroscience-_R00024945",
+      "current_status": "open_no_deadline_listed"
+    },
+    {
+      "id": "uconn-pnb-graduate-2027",
+      "category": "升学",
+      "section": "升学项目",
+      "title": "康涅狄格大学生理与神经生物学 PhD／MS（2027 秋季）",
+      "title_en": "University of Connecticut Physiology and Neurobiology PhD/MS — Fall 2027",
+      "organization": "University of Connecticut · Department of Physiology and Neurobiology",
+      "location": "美国・康涅狄格州",
+      "published_at": "",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "2026-12-01",
+      "discovery_status": "historical_backfill",
+      "priority": 91,
+      "verification_status": "verified_open_official_program_page",
+      "summary": "2027 秋季申请当前开放。PhD 建议在 2026 年 12 月 1 日前提交，之后仅滚动考虑且录取受实验室名额影响；研究型 Plan A MS 建议 2027 年 2 月 1 日前申请，课程型 Plan B MS 建议 4 月 1 日前申请。PhD 与 Plan A 需在个人陈述中说明既有科研经历和目标实验室；Plan A 几乎都需提前找到愿意接收的导师。材料包括成绩单、个人陈述和 3 封推荐信，GRE 可选。非英语为主要语言者无论签证状态均须提供英语能力证明；具体分数与国际学历材料按研究生院最新规则执行。官方页未给出明确发布日期。",
+      "summary_en": "Fall 2027 applications are open. PhD applicants are encouraged to apply by 1 December 2026; later applications are considered on a rolling basis and admission depends partly on laboratory capacity. Research Plan A MS applicants are encouraged to apply by 1 February 2027 and coursework Plan B MS applicants by 1 April. PhD and Plan A candidates must explain prior research and faculty fit; Plan A admission almost always follows identification of a willing research adviser. The application requires transcripts, a statement and three references; GRE is optional. Applicants whose primary language is not English must document proficiency regardless of visa status. The official page does not state a publication date.",
+      "relevance": "同时提供研究型和课程型路径，适合作为神经生物学／生理学深造候选；研究型路径的导师匹配与实验室名额是关键约束，跨专业申请者需用课程和科研经历证明生物学基础。",
+      "tags": [
+        "历史补录",
+        "申请已开放",
+        "神经生物学",
+        "PhD／MS",
+        "导师匹配",
+        "研究经历",
+        "GRE可选",
+        "英语成绩要求",
+        "国际申请",
+        "发布日期未确认"
+      ],
+      "source_url": "https://pnb.uconn.edu/graduate/graduate-application-and-admission-information/",
+      "current_status": "open"
+    },
+    {
+      "id": "uw-neuroscience-phd-2027",
+      "category": "升学",
+      "section": "升学项目",
+      "title": "华盛顿大学神经科学博士项目（2027 秋季入学）",
+      "title_en": "University of Washington Graduate Program in Neuroscience PhD — Autumn 2027",
+      "organization": "University of Washington · Graduate Program in Neuroscience",
+      "location": "美国・西雅图",
+      "published_at": "2026-08-01",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "2026-11-12",
+      "discovery_status": "historical_backfill",
+      "priority": 94,
+      "verification_status": "verified_open_official_program_page",
+      "summary": "2027 秋季申请已于 8 月 1 日开放，11 月 12 日 23:59（美国太平洋时间）截止。接受神经科学、生物、数学、物理、计算机和工程等广泛本科／硕士背景；建议学过微积分，GRE 不接受。项目原则上要求申请时累计 2,080 小时（约 12 个月）全职等量科研经历；不足 12 个月仅在有会议、报告或论文等突出研究成果并用可选短文解释时才会考虑。最低 GPA 通常为 3.0；非英语母语申请者须达到 UW Graduate School 的推荐英语成绩。需列出至少 5 位感兴趣导师并提交 2 封必需推荐信。",
+      "summary_en": "Applications for Autumn 2027 opened on 1 August and close on 12 November 2026 at 11:59 p.m. Pacific Time. Applicants from neuroscience, biology, mathematics, physics, computer science, engineering and related backgrounds are encouraged; calculus is recommended and GRE scores are not accepted. The program normally requires 2,080 hours, or about 12 months full-time-equivalent, of research experience at application. Applicants below that threshold are considered only when they explain exceptional outputs such as conferences, presentations or publications in the optional essay. A 3.0-equivalent GPA and the UW recommended English-proficiency score apply. Applicants must identify at least five faculty interests and provide two required recommendations.",
+      "relevance": "计算／认知神经科学方向覆盖强、跨专业背景明确，但 12 个月科研经历是实质门槛；若科研时数不足且没有可验证成果，不应作为主申项目。",
+      "tags": [
+        "历史补录",
+        "申请已开放",
+        "神经科学PhD",
+        "计算／理论神经科学",
+        "认知功能",
+        "跨专业可申请",
+        "12个月科研硬门槛",
+        "微积分建议",
+        "英语成绩要求",
+        "国际申请"
+      ],
+      "source_url": "https://gpneuro.uw.edu/prospective-students/admissions/",
+      "current_status": "open"
+    },
     {
       "id": "hku-surgery-clinical-trials-ra2-537054",
       "category": "实验室",
@@ -2100,89 +2265,95 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_with_status_change",
-      "note": "已核验高校项目、jobs.ac.uk 线索及官方落地页；无合格新项目或岗位。格拉斯哥 Integrative Neuroscience MSc 的 Global Leadership Scholarship 8 月 4 日节点已过，但课程本身仍开放至 8 月 24 日；Bristol、Liverpool 官方页仍开放。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "08:02 全量扫描后复核官方项目与岗位入口；无新发布、历史补录或状态变化。既有开放项目状态未见变化。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已主动检查德国、荷兰、瑞士、法国、比利时与北欧相关高校、研究机构及 EURAXESS 线索；未发现上次扫描后发布、层级匹配且仍可申请的高质量新增。"
+      "status": "incremental_scanned_with_historical_backfill",
+      "note": "补录 SAP 德国机器翻译 Associate Data Scientist：Graduate 层级、2026-07-22 发布、官方页仍开放；六个月合同且签证未承诺。其余欧洲大陆入口无合格增量。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_new",
-      "note": "已检查 HKU、NUS、NTU 等官方招聘和项目入口；HKU 外科学系 8 月 4 日新发布的临床试验与医学统计 RA II 通过本科层级与开放状态核验。另一个同期分析化学岗位因明显偏湿实验／分析化学而排除。"
+      "status": "incremental_scanned_with_historical_backfills",
+      "note": "补录 NTU 认知神经科学 RA 与医疗 AI／数据分析 RA，两者官方 Workday 均显示 Apply、本科可申请、无固定截止日；发布日期仅显示相对时间，故未写成今日发布。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查相关高校与研究机构官方招聘／项目线索；未发现层级、国际资格与开放状态均可确认的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "复核高校与研究机构官方入口；检出结果为已过期、助理教授等更高层级或资格无法确认，未入库。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_with_research_updates",
-      "note": "已检查高校、实验室与医疗数据相关官方入口，未发现合格新机会；HCP 自然情境 fMRI 遗传性研究等正式发表成果已纳入研究动态。"
+      "status": "incremental_scanned_with_historical_backfills",
+      "note": "补录 UW 2027 神经科学 PhD 与 UConn 2027 生理／神经生物学 PhD／MS 官方开放申请；加拿大检出的志愿 RA 或已结束岗位因非可达正式低经验机会而排除。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查主要高校官方招聘与项目入口；相关新结果多为 Research Associate／Fellow 等更高层级，未发现符合初级资格的新增。"
+      "status": "incremental_scanned_no_eligible_new",
+      "note": "复核高校官方入口；悉尼大学神经科学奖学金要求已持无条件 PhD offer 或当前在读，不符合独立申请入口条件，未入库。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_with_research_update_no_job_match",
-      "note": "已复核中国大厂官方招聘与外企中国区 Careers；校招／实习仍主要受在校身份或毕业届别限制，低经验社招未发现合格新增。中国团队主导的 XunZi AI 生物学家研究已纳入研究动态。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "复核中国大厂与外企中国区官方 Careers；未发现 08:02 后发布且对 2024 届、低经验申请者明确开放的合格新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-05T08:02:07+08:00",
+    "checked_at": "2026-08-05T14:54:55+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_with_verified_new_match",
-        "note": "核验 HKU、NTU/NUS、英国高校、欧洲大陆及北美／澳洲高校官方入口；新增 HKU 外科学系临床试验与医学统计 RA II。"
+        "status": "incremental_scanned_with_verified_backfills",
+        "note": "官方核验并补录 NTU 两个本科层级 RA；其余固定地区未发现同日新发布的合格岗位。"
+      },
+      {
+        "source": "升学项目官方页",
+        "status": "incremental_scanned_with_verified_backfills",
+        "note": "补录 UW 与 UConn 2027 秋季开放项目，分别核验科研时数、导师匹配、英语与截止日期。"
       },
       {
         "source": "中国大厂官方招聘",
-        "status": "scanned_no_verified_match",
-        "note": "复核腾讯、字节、百度、华为等官方入口；多数校招／实习限制在校身份或特定毕业届别，低经验社招未发现可确认新增。"
+        "status": "incremental_scanned_no_verified_match",
+        "note": "校招／实习仍以在校或特定届别为主；未发现适配 2024 届的低经验新增。"
       },
       {
-        "source": "外企中国区 Careers",
-        "status": "scanned_no_verified_match",
-        "note": "复核 Microsoft、SAP、Roche、AstraZeneca 等官方 Careers；检出结果主要要求学生身份、专业执照或较高经验，无合格新增。"
+        "source": "外企 Careers",
+        "status": "incremental_scanned_with_one_verified_backfill",
+        "note": "补录 SAP 德国 Graduate Associate Data Scientist；明确标注六个月合同和签证未承诺。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_with_high_quality_new",
-        "note": "复核 Nature Neuroscience、Nature Biomedical Engineering、eLife 等正式出版入口；收录 4 项 8 月 4 日正式发表的高相关研究，其中组合性文章明确标为 Perspective。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "08:02 后未发现达到收录阈值并可确认正式发布日期的神经科学／计算认知／AI 生物医学研究新增。"
       },
       {
-        "source": "jobs.ac.uk／EURAXESS／Academic Positions 等聚合线索",
+        "source": "聚合平台",
         "status": "discovery_only",
-        "note": "仅用于发现；所有候选均回到雇主或学校官方页核验，未将已过期、层级过高或资格不明线索作为有效新增。"
+        "note": "仅作线索；所有入库条目均回到大学或公司官方页面核验。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 5,
-    "historical_backfills_added": 0,
-    "status_changes": 1,
-    "still_open_urgent_items": 15,
-    "database_items_total": 76,
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 5,
+    "status_changes": 0,
+    "still_open_urgent_items": 18,
+    "database_items_total": 81,
     "category_counts": {
-      "升学": 0,
-      "研究": 4,
-      "实验室": 1,
-      "求职": 0
+      "升学": 2,
+      "研究": 0,
+      "实验室": 2,
+      "求职": 1
     },
     "excluded_expired_or_ineligible": [
-      "HKU 分析化学／化学生物相关 RA：同期新发布但专业与工作主体明显偏分析化学和湿实验，不作为数据／计算桥接机会",
-      "NTU 2027 年数据科学／信号处理／AI 项目：发现申请期线索，但本轮未能在官方项目页确认跨专业资格，因此未入库",
-      "EURAXESS 8 月 4 日新结果：主要为抗菌耐药、化学或更高层级研究岗位，与目标方向或层级不匹配",
-      "中国大厂近期校招／实习：多数要求在校生或特定毕业届别，资格不符",
-      "Scientific Reports 等较弱或关联度较低的 8 月 4 日论文：未为增加条数收录"
+      "悉尼大学 R A Money 神经科学奖学金：要求已持无条件 PhD offer 或当前在读，不能作为独立升学入口",
+      "UBC TRACER 志愿科研助理：无薪志愿岗位，不作为正式低经验就业机会",
+      "日本／韩国检出结果：主要为已过期、助理教授等更高层级或国际资格无法确认",
+      "中国大厂与外企中国区结果：在校生／届别限制、硬性经验或开放状态不明",
+      "SAP 德国专家级 Data Scientist：要求 6 年以上经验，明确排除",
+      "低关联或仅聚合页可见的线索：未回到官方开放页确认，不入库"
     ]
   },
   "change_legend": {
@@ -2193,12 +2364,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-05T08:02:07+08:00",
-    "increment_boundary": "2026-08-04T08:03:37+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_new_items_and_status_change",
+    "executed_at_beijing": "2026-08-05T14:54:55+08:00",
+    "increment_boundary": "2026-08-05T08:02:07+08:00",
+    "run_type": "same_day_incremental_scan",
+    "result": "completed_with_historical_backfills",
     "repository_write": "completed",
     "public_site_verification": "pending_after_commit",
-    "note": "完整扫描完成；上次扫描后新发布 5 条、历史补录 0 条、状态变化 1 条。数据库 76 条，仍开放紧急项 15 条；仓库写入已完成，公开 Pages 尚未独立核验。"
+    "note": "同日增量扫描完成；新发布 0、历史补录 5、状态变化 0。数据库共 81 条；四类增量为升学 2、研究 0、实验室 2、求职 1。"
   }
 }
