@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-08-04T08:03:37+08:00",
+  "generated_at": "2026-08-05T08:02:07+08:00",
   "notice": "Same-day incremental verified edition. Official sources only. Official publication dates are separated from first-discovery dates; undated listings are marked publication date unconfirmed. Expired or eligibility-mismatched listings are excluded.",
   "items": [
+    {
+      "id": "hku-surgery-clinical-trials-ra2-537054",
+      "category": "实验室",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "香港大学外科学系临床试验与医学统计科研助理 II",
+      "title_en": "Research Assistant II — Clinical Trials and Medical Statistics",
+      "organization": "The University of Hong Kong · Department of Surgery, School of Clinical Medicine",
+      "location": "中国香港",
+      "published_at": "2026-08-04",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "2026-09-04",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 91,
+      "verification_status": "verified_open_official_listing",
+      "summary": "两年期全职 RA II，可续约。岗位参与临床试验与临床研究，工作涉及患者接触、研究数据库管理、医学统计分析及研究执行，并有机会参与论文署名。官网要求本科，未规定固定工作年限；患者接触、数据库管理和深入医学统计能力属于优先条件。申请滚动审查，最迟至 9 月 4 日或招满即止。官方页面未列明粤语或其他具体语言要求，涉及患者沟通的实际语言门槛应在投递前确认。",
+      "summary_en": "A two-year, renewable full-time RA II role supporting clinical trials and clinical research. Duties include patient contact, research-database management, in-depth medical statistics and study execution, with potential authorship opportunities. A bachelor's degree is required, with no fixed years-of-experience threshold; patient-facing experience, database management and stronger medical-statistics skills are prioritized. Applications are reviewed rolling until 4 September or until filled. The official listing does not specify Cantonese or another language requirement, so the practical language needs for patient contact should be confirmed before applying.",
+      "relevance": "本科层级、无硬性多年经验，是连接生命科学、临床研究、数据库管理与医学统计的可达入口；但岗位并非纯数据分析，患者沟通和项目协调占比可能较高。",
+      "tags": [
+        "上次扫描后新发布",
+        "需尽快行动",
+        "科研助理",
+        "临床试验",
+        "数据库管理",
+        "医学统计",
+        "本科可申请",
+        "患者接触",
+        "滚动审查",
+        "语言要求需确认"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537054/research-assistant-ii",
+      "current_status": "open_rolling_until_filled"
+    },
+    {
+      "id": "elife-movie-fmri-heritability-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "电影诱发脑活动与连接的遗传性",
+      "title_en": "Heritability of movie-evoked brain activity and connectivity",
+      "organization": "eLife",
+      "location": "美国・Human Connectome Project",
+      "published_at": "2026-08-04",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 97,
+      "verification_status": "verified_version_of_record",
+      "summary": "研究利用 Human Connectome Project 的 7T 电影观看 fMRI 双生子样本，通过被试间相关、频段分析和 hyperalignment 分解自然情境脑反应的遗传相似性。样本包括 51 对同卵双生子、34 对异卵双生子及 690 对无亲缘关系配对。同卵双生子的 BOLD 时间过程相似度比无亲缘配对高 59%、比异卵双生子高 24%；遗传性在慢频段和联想皮层更突出。eLife 评价为“有价值、证据令人信服”。主要限制是仍需更大、独立家系样本及基因型方法互证；慢频联想皮层解释部分依赖反向推断，fMRI 双生子设计也不能直接揭示遗传因果机制。",
+      "summary_en": "Using 7T movie-watching fMRI from the Human Connectome Project, the study combined intersubject correlation, frequency analyses and hyperalignment to quantify genetic similarity in naturalistic brain responses. The sample included 51 monozygotic twin dyads, 34 dizygotic twin dyads and 690 unrelated dyads. Monozygotic BOLD time courses were 59% more similar than unrelated pairs and 24% more similar than dizygotic pairs, with stronger heritability in slow-frequency activity and association cortex. eLife assessed the work as valuable with convincing evidence. Limitations include the need for larger independent family and genotype-based replication, partial reliance on reverse inference, and the inability of twin fMRI to establish direct genetic mechanisms.",
+      "relevance": "直接连接自然情境 fMRI、个体差异、脑网络对齐与遗传性分析，对神经影像和计算认知方法学习价值很高。",
+      "tags": [
+        "上次扫描后新发布",
+        "自然情境fMRI",
+        "双生子研究",
+        "遗传性",
+        "脑连接",
+        "hyperalignment",
+        "eLife证据令人信服"
+      ],
+      "source_url": "https://elifesciences.org/articles/106081",
+      "current_status": "published"
+    },
+    {
+      "id": "elife-votc-parallel-face-recognition-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "腹侧枕颞皮层的并行类别选择性活动挑战视觉识别层级模型",
+      "title_en": "Concurrent category-selective neural activity across VOTC supports a non-hierarchical view of human visual recognition",
+      "organization": "eLife",
+      "location": "国际多中心・人类颅内电生理",
+      "published_at": "2026-08-04",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 98,
+      "verification_status": "verified_version_of_record",
+      "summary": "研究汇总 140 名临床受试者、超过 11,000 个颅内记录位点，以自然人脸图片和 30–160 Hz 高频宽带活动追踪腹侧枕颞皮层的类别选择性。选择性强度从后向前增加，但约 100–450 毫秒的反应起止在不同 VOTC 区域大体同步，支持视觉识别包含广泛并行处理，而非严格串行层级。eLife 评价为“重要、证据令人信服”。主要限制是受试者来自癫痫等临床人群、植入位置由治疗需要决定，且人脸范式不能代表所有物体识别；时间同步也不能排除所有层级计算。",
+      "summary_en": "The study pooled intracranial recordings from 140 clinical participants and more than 11,000 sites, using natural face images and 30–160 Hz high-frequency broadband activity to map category selectivity across ventral occipitotemporal cortex. Selectivity increased from posterior to anterior regions, yet response onset and offset were broadly concurrent across VOTC during roughly 100–450 ms, supporting substantial parallel rather than strictly serial hierarchical processing. eLife assessed the study as important with convincing evidence. Limitations include a clinical epilepsy population, treatment-driven electrode coverage, uncertain generalization from faces to all object recognition, and the fact that temporal concurrence does not eliminate every form of hierarchical computation.",
+      "relevance": "大样本人类颅内电生理直接检验视觉计算架构，与认知神经科学、时序神经信号和模型比较高度相关。",
+      "tags": [
+        "上次扫描后新发布",
+        "颅内电生理",
+        "视觉识别",
+        "人脸加工",
+        "腹侧视觉通路",
+        "并行计算",
+        "eLife证据令人信服"
+      ],
+      "source_url": "https://elifesciences.org/articles/109640",
+      "current_status": "published"
+    },
+    {
+      "id": "natbiomedeng-xunzi-ai-biologist-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "XunZi AI 生物学家生成并验证疾病修饰靶点",
+      "title_en": "XunZi, an AI biologist, reveals disease-modifying targets",
+      "organization": "Nature Biomedical Engineering",
+      "location": "中国・多机构",
+      "published_at": "2026-08-04",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 98,
+      "verification_status": "verified",
+      "summary": "研究构建结合逻辑推理与多模态融合的 AI 生物学家 XunZi，训练语料覆盖 2,440 万篇文献及 613.6 TB 多源数据，涉及 21,008 个基因和 5,850 种疾病，用于生成疾病修饰靶点假设。系统提出帕金森病中的 CHK2 和 IRAK4 等候选，并通过药理和遗传抑制 Chk2 在小鼠模型中缓解多巴胺能神经元损失和运动缺陷；研究也涉及非小细胞肺癌验证。主要限制是动物和实验模型不能证明临床疗效，广泛基准与“自主科学家”能力仍需独立、前瞻性复现，超大且复杂的数据管线也提高可复现门槛。",
+      "summary_en": "The study presents XunZi, an AI biologist combining logical reasoning with multimodal fusion. It was trained on 24.4 million publications and 613.6 TB of multi-source data covering 21,008 genes and 5,850 diseases to generate disease-modifying target hypotheses. The system proposed candidates including CHK2 and IRAK4 for Parkinson's disease; pharmacological and genetic Chk2 inhibition reduced dopaminergic-neuron loss and motor deficits in mouse models, with additional validation in non-small-cell lung cancer. Limitations are that animal and experimental models do not establish clinical efficacy, broad benchmark and autonomous-science claims require independent prospective replication, and the large complex data pipeline raises reproducibility barriers.",
+      "relevance": "把大模型／多模态推理、生物信息、靶点发现和神经退行性疾病连接在一起，是 AI 应用与计算生物交叉方向的重要案例。",
+      "tags": [
+        "上次扫描后新发布",
+        "AI科学家",
+        "多模态推理",
+        "生物信息",
+        "靶点发现",
+        "帕金森病",
+        "动物模型",
+        "临床外推有限"
+      ],
+      "source_url": "https://www.nature.com/articles/s41551-026-01769-6",
+      "current_status": "published"
+    },
+    {
+      "id": "natneuro-compositionality-continuum-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "用“组合性连续体”比较生物脑与人工网络的智能机制",
+      "title_en": "The compositionality continuum as a principle for studying the neural basis of intelligence",
+      "organization": "Nature Neuroscience",
+      "location": "国际・观点文章",
+      "published_at": "2026-08-04",
+      "first_seen_at": "2026-08-05",
+      "updated_at": "2026-08-05",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 96,
+      "verification_status": "verified_perspective",
+      "summary": "这篇 Perspective 提出用“组合性连续体”统一研究生物脑与人工网络中的智能：一端强调任务专用构件的表达力，另一端强调这些构件能否被系统地重组。作者建议结合动物复杂任务的高密度神经记录与神经网络逆向工程，检验通用智能是否需要显式符号组合性，或能从规模化分布式学习中涌现。它是概念框架与研究路线，不是新的实验数据；主要限制是尚无直接因果检验，关键主张依赖未来跨系统实验。",
+      "summary_en": "This Perspective proposes a compositionality continuum for comparing intelligence in biological brains and artificial networks, spanning the expressivity of computation-specific building blocks and the complexity of their systematic recombination. It recommends combining high-density neural recordings during complex animal tasks with reverse engineering of neural networks to test whether general intelligence requires explicit symbolic compositionality or can emerge from scaled distributed learning. This is a conceptual framework rather than a new empirical dataset; its main limitation is the absence of direct causal tests, leaving central claims for future cross-system experiments.",
+      "relevance": "与计算认知、脑启发 AI、表征组合性和神经网络可解释性高度相关，但应作为观点框架阅读，不能与实证论文等量表述。",
+      "tags": [
+        "上次扫描后新发布",
+        "Perspective观点文章",
+        "组合性",
+        "智能机制",
+        "脑启发AI",
+        "神经网络逆向工程",
+        "非实证研究"
+      ],
+      "source_url": "https://www.nature.com/articles/s41593-026-02382-1",
+      "current_status": "published"
+    },
     {
       "id": "ntu-psychology-neuroai-ra-r00023799",
       "category": "实验室",
@@ -525,18 +679,18 @@
       "location": "英国・格拉斯哥",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-08-04",
+      "updated_at": "2026-08-05",
       "deadline": "2026-08-24",
       "discovery_status": "historical_backfill",
       "priority": 88,
       "verification_status": "verified",
-      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。 同一官方页面列出的 Global Leadership Scholarship 最晚申请时间为英国时间 2026 年 8 月 4 日 11:59；这是奖学金节点，不改变课程本身 8 月 24 日的申请截止日。",
-      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. The same official page lists 11:59 a.m. UK time on 4 August 2026 as the latest application time for the Global Leadership Scholarship; this funding deadline does not change the programme deadline of 24 August.",
-      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较“广义整合神经科学”与更聚焦计算/认知项目。风险是学费、语言成绩有效期和短时间内签证可行性仍需单独核验。 若拟申请该奖学金，8 月 4 日英国时间 11:59 是当日紧急节点。",
+      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。 Global Leadership Scholarship 的 2026 年 8 月 4 日 11:59（英国时间）申请节点已经过去；课程本身仍开放至 8 月 24 日。",
+      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. The Global Leadership Scholarship deadline of 11:59 a.m. UK time on 4 August 2026 has passed; the programme itself remains open until 24 August.",
+      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较“广义整合神经科学”与更聚焦计算/认知项目。风险是学费、语言成绩有效期和短时间内签证可行性仍需单独核验。 该奖学金本轮已截止，课程申请仍需尽快判断。",
       "tags": [
         "历史补录",
         "需尽快行动",
-        "奖学金截止8月4日11:59英国时间",
+        "Global Leadership Scholarship截止已过",
         "国际截止8月24日",
         "跨生物科学",
         "统计要求",
@@ -1946,89 +2100,89 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_with_actionable_deadline_update",
-      "note": "已核验高校项目与 jobs.ac.uk 官方落地页；无合格新项目或岗位。格拉斯哥 Integrative Neuroscience MSc 仍开放至 8 月 24 日，但其 Global Leadership Scholarship 最晚申请时间为英国时间 8 月 4 日 11:59，已补充到既有条目。Bristol、Liverpool 项目官方页仍开放。"
+      "status": "scanned_with_status_change",
+      "note": "已核验高校项目、jobs.ac.uk 线索及官方落地页；无合格新项目或岗位。格拉斯哥 Integrative Neuroscience MSc 的 Global Leadership Scholarship 8 月 4 日节点已过，但课程本身仍开放至 8 月 24 日；Bristol、Liverpool 官方页仍开放。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "已主动检查德国、荷兰、瑞士、法国、比利时与北欧相关官方／EURAXESS 线索；未发现上次扫描后发布、层级匹配且仍可申请的高质量新增。Radboud 好奇心认知神经科学博士虽高度相关，但官方截止日 8 月 3 日已过，未作为有效新增入库。"
+      "note": "已主动检查德国、荷兰、瑞士、法国、比利时与北欧相关高校、研究机构及 EURAXESS 线索；未发现上次扫描后发布、层级匹配且仍可申请的高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查 HKU、NUS、NTU 等官方招聘入口；未发现上次扫描后新发布且资格匹配的新增。HKU 儿童言语 RA II（8 月 10 日）与妇产科学 RA I（8 月 15 日）官方页仍显示 Apply。"
+      "status": "scanned_with_new",
+      "note": "已检查 HKU、NUS、NTU 等官方招聘和项目入口；HKU 外科学系 8 月 4 日新发布的临床试验与医学统计 RA II 通过本科层级与开放状态核验。另一个同期分析化学岗位因明显偏湿实验／分析化学而排除。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已检查相关高校／研究机构官方招聘与项目线索；未发现层级、国际资格与开放状态均可确认的高质量新增。"
+      "note": "已检查相关高校与研究机构官方招聘／项目线索；未发现层级、国际资格与开放状态均可确认的高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查高校、实验室与医疗数据相关官方入口；检出结果主要为教职、临床执照岗位、Research Associate 高资历岗位或已截止职位，无合格新增。"
+      "status": "scanned_with_research_updates",
+      "note": "已检查高校、实验室与医疗数据相关官方入口，未发现合格新机会；HCP 自然情境 fMRI 遗传性研究等正式发表成果已纳入研究动态。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已检查主要高校官方招聘入口；当前相关结果多为 Research Associate／Research Fellow 层级并要求成熟研究履历，无符合初级层级的新机会。"
+      "note": "已检查主要高校官方招聘与项目入口；相关新结果多为 Research Associate／Fellow 等更高层级，未发现符合初级资格的新增。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已复核腾讯、字节、百度、华为等官方招聘及外企中国区 Careers；校招／实习仍主要限制特定毕业届别或在校身份，社招结果多要求专业对口或成熟工程经验，无合格新增。"
+      "status": "scanned_with_research_update_no_job_match",
+      "note": "已复核中国大厂官方招聘与外企中国区 Careers；校招／实习仍主要受在校身份或毕业届别限制，低经验社招未发现合格新增。中国团队主导的 XunZi AI 生物学家研究已纳入研究动态。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-04T08:03:37+08:00",
+    "checked_at": "2026-08-05T08:02:07+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_no_verified_new_match",
-        "note": "核验 HKU、NTU/NUS、英国高校、欧洲大陆及北美／澳洲高校官方入口；无上次扫描后发布且层级、资格、开放状态均匹配的新岗位。"
+        "status": "scanned_with_verified_new_match",
+        "note": "核验 HKU、NTU/NUS、英国高校、欧洲大陆及北美／澳洲高校官方入口；新增 HKU 外科学系临床试验与医学统计 RA II。"
       },
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "复核腾讯、字节、百度、华为等官方入口；2024 届不符合多数当前校招／实习资格，低经验社招未发现可确认新增。"
+        "note": "复核腾讯、字节、百度、华为等官方入口；多数校招／实习限制在校身份或特定毕业届别，低经验社招未发现可确认新增。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "复核 Microsoft、SAP、Roche、AstraZeneca 等官方 Careers；检出结果或限定学生身份、要求较高经验，或不在中国大陆，无合格新增。"
+        "note": "复核 Microsoft、SAP、Roche、AstraZeneca 等官方 Careers；检出结果主要要求学生身份、专业执照或较高经验，无合格新增。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_no_high_quality_new",
-        "note": "复核 Nature Neuroscience、Nature Communications、Communications Biology、eLife 等正式出版入口；未发现上次扫描边界后正式发表且达到相关性与证据门槛的新研究。"
+        "status": "scanned_with_high_quality_new",
+        "note": "复核 Nature Neuroscience、Nature Biomedical Engineering、eLife 等正式出版入口；收录 4 项 8 月 4 日正式发表的高相关研究，其中组合性文章明确标为 Perspective。"
       },
       {
         "source": "jobs.ac.uk／EURAXESS／Academic Positions 等聚合线索",
         "status": "discovery_only",
-        "note": "仅用于发现线索；检出结果经官方页面复核后，或已截止、层级过高、资格受限，未作为有效新增入库。"
+        "note": "仅用于发现；所有候选均回到雇主或学校官方页核验，未将已过期、层级过高或资格不明线索作为有效新增。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
+    "newly_published_since_last_scan": 5,
     "historical_backfills_added": 0,
-    "status_changes": 0,
-    "still_open_urgent_items": 14,
-    "database_items_total": 71,
+    "status_changes": 1,
+    "still_open_urgent_items": 15,
+    "database_items_total": 76,
     "category_counts": {
       "升学": 0,
-      "研究": 0,
-      "实验室": 0,
+      "研究": 4,
+      "实验室": 1,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "Radboud University 好奇心认知神经科学博士：方向高度相关，但官方截止日为 2026 年 8 月 3 日，本轮已过期",
-      "UNSW Psychology Research Associate／Senior Research Associate：Level A/B 研究职位，要求成熟研究履历并承担项目主导，不符合初级层级",
-      "百度及华为近期校招／实习结果：要求在校生或特定毕业届别，2024 届不符",
-      "北美检索结果：主要为教职、临床执照或高资历 Research Associate 岗位",
-      "Nature/eLife 等 8 月 3 日检索结果：未发现同时满足正式发表日期、方向相关性和证据质量门槛的新论文"
+      "HKU 分析化学／化学生物相关 RA：同期新发布但专业与工作主体明显偏分析化学和湿实验，不作为数据／计算桥接机会",
+      "NTU 2027 年数据科学／信号处理／AI 项目：发现申请期线索，但本轮未能在官方项目页确认跨专业资格，因此未入库",
+      "EURAXESS 8 月 4 日新结果：主要为抗菌耐药、化学或更高层级研究岗位，与目标方向或层级不匹配",
+      "中国大厂近期校招／实习：多数要求在校生或特定毕业届别，资格不符",
+      "Scientific Reports 等较弱或关联度较低的 8 月 4 日论文：未为增加条数收录"
     ]
   },
   "change_legend": {
@@ -2039,12 +2193,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-04T08:03:37+08:00",
-    "increment_boundary": "2026-08-03T17:00:37+08:00",
+    "executed_at_beijing": "2026-08-05T08:02:07+08:00",
+    "increment_boundary": "2026-08-04T08:03:37+08:00",
     "run_type": "full_daily_scan",
-    "result": "completed_with_actionable_deadline_update",
-    "repository_write": "completed",
+    "result": "completed_with_new_items_and_status_change",
+    "repository_write": "pending",
     "public_site_verification": "pending_after_commit",
-    "note": "完整扫描完成；新发布 0 条、历史补录 0 条、状态变化 0 条。既有格拉斯哥项目补充 8 月 4 日英国时间 11:59 的奖学金紧急节点；数据库 71 条，仍开放紧急项 14 条。"
+    "note": "完整扫描完成；上次扫描后新发布 5 条、历史补录 0 条、状态变化 1 条。数据库 76 条，仍开放紧急项 15 条。"
   }
 }
