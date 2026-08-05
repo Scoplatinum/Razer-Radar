@@ -2369,7 +2369,7 @@
     "run_type": "same_day_incremental_scan",
     "result": "completed_with_historical_backfills",
     "repository_write": "completed",
-    "public_site_verification": "pending_after_commit",
-    "note": "同日增量扫描完成；新发布 0、历史补录 5、状态变化 0。数据库共 81 条；四类增量为升学 2、研究 0、实验室 2、求职 1。"
+    "public_site_verification": "unverified_network_block",
+    "note": "同日增量扫描完成；新发布 0、历史补录 5、状态变化 0。数据库共 81 条；四类增量为升学 2、研究 0、实验室 2、求职 1。仓库写入已复核；当前执行环境无法连接 GitHub Pages，公开网页尚未独立核验。"
   }
 }
