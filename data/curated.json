@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:58:07+08:00",
-  "notice": "Same-day incremental verified edition following the 08:02 full scan. Five historical backfills were added from official sources; none is mislabeled as published today. Exact publication dates remain blank where official pages expose only relative posting ages.",
+  "generated_at": "2026-08-06T18:14:51+08:00",
+  "notice": "Same-day incremental verified edition following the 07:58 full scan. No high-quality newly published opportunity, historical backfill, or verified status change was found after that boundary. The six verified additions from the morning scan and all prior history remain preserved; sections without additions are marked as scanned with no high-quality new result.",
   "items": [
     {
       "id": "hku-ctc-site-management-ra-537036",
@@ -2456,91 +2456,90 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查高校项目、jobs.ac.uk 及官方落地页；8 月 5 日新结果以博士后或更高层级为主，无符合低经验层级的新机会。Bristol、Liverpool、Glasgow 等既有项目的开放状态与截止日未见变化。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后增量检查高校官方招聘、课程页与 jobs.ac.uk 线索；命中主要是今日截止但更早发布的职位，或博士后／高经验岗位，无高质量新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS 官方线索；新结果多为博士后、研究员或学生身份岗位，无合格新增。既有 SAP Graduate 短合同岗位仍开放。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后增量检查 EURAXESS、学校及公司官方线索；未发现本科层级、低经验且开放资格可确认的新项目或岗位。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_new_and_backfill",
-      "note": "HKU 8 月 5 日新发布临床试验中心项目执行／RA I/II，欢迎应届生但要求粤语且沟通密集；历史补录 NTU 神经科学与 AI RA／Research Associate，官方 Workday 仍显示 Apply。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后复核高校官方招聘入口；早晨新增的 HKU 临床试验岗位与 NTU 神经科学×AI RA 保留，本轮无新发布、历史补录或状态变化。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查 JREC-IN 与相关高校／研究机构入口；最新结果主要为研究员、博士后和教职，或国际资格无法确认，未发现初级高质量新增。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后检查 JREC-IN 与高校／研究机构线索；结果仍以研究员、博士后、教职或资格不明岗位为主，无高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_with_research_updates_no_new_opportunity",
-      "note": "已检查高校、实验室与医疗数据招聘入口；无层级和国际资格均可确认的新机会。人脑刺激与年龄特异 hyperalignment 等正式论文／经评审预印本已纳入研究动态。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后检查高校、实验室、医疗研究及期刊官方线索；未发现新开放且国际资格可确认的初级机会，亦无值得新增的正式研究发布。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_no_high_quality_new",
-      "note": "已检查主要高校官方招聘及项目入口；检出结果以 Research Associate／Fellow 和已有在读身份要求为主，无符合初级层级的新机会。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后检查主要高校招聘线索；未发现适合本科毕业生、经验门槛合理且开放状态可确认的新机会。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_with_research_update_no_job_match",
-      "note": "已复核腾讯、字节、百度、华为等官方招聘及外企中国区 Careers；未发现对低经验、非在校申请者明确开放的新岗位。中国团队的人工神经流形研究已纳入研究动态。"
+      "status": "scanned_no_high_quality_new_increment",
+      "note": "07:58 后复核大厂与外企中国区公开线索；校园岗位仍受在校／届别限制，低经验社招无可核验的高质量新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-06T07:58:07+08:00",
+    "checked_at": "2026-08-06T18:14:51+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_with_verified_new_and_backfill",
-        "note": "核验 HKU、NTU/NUS、英国高校、欧洲大陆、北美、日本韩国及澳洲官方入口；新增 HKU 临床试验中心应届生岗位并补录 NTU 神经科学×AI RA。"
+        "status": "increment_scanned_no_verified_new",
+        "note": "07:58 后复核各地区官方入口；无新的合格条目，早晨已核验机会保持不变。"
       },
       {
         "source": "中国大厂官方招聘",
-        "status": "scanned_no_verified_match",
-        "note": "复核腾讯、字节、百度、华为等官方入口；当前校园项目仍主要限制在校或特定届别，低经验社招未发现合格增量。"
+        "status": "increment_scanned_no_verified_match",
+        "note": "校园岗位仍受在校身份或毕业届别限制；未发现适配 2024 本科毕业生的低经验社招增量。"
       },
       {
         "source": "外企中国区 Careers",
-        "status": "scanned_no_verified_match",
-        "note": "复核 Microsoft、SAP、Roche、AstraZeneca 等 Careers；新结果主要是学生项目、海外岗位或经验要求较高，中国区无合格新增。"
+        "status": "increment_scanned_no_verified_match",
+        "note": "未发现中国区新发布且学历、经验与开放状态均可确认的合格增量。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_with_high_quality_new",
-        "note": "收录 Nature、Nature Neuroscience、Nature Communications 的 3 篇 8 月 5 日 Version of Record，以及 1 篇 eLife 经评审预印本新版本；预印本已与正式论文严格区分。"
+        "status": "increment_scanned_no_high_quality_new",
+        "note": "Nature、eLife、Cell、Science 等官方线索未检出 07:58 后值得新增的神经科学／计算认知正式发布；日期误命中已排除。"
       },
       {
         "source": "jobs.ac.uk／EURAXESS／JREC-IN／聚合线索",
-        "status": "discovery_only",
-        "note": "仅用于发现候选；所有入库机会均回到学校或雇主官方页核验。博士后、研究员、教职、学生限定或资格不明结果均排除。"
+        "status": "discovery_only_no_verified_increment",
+        "note": "仅作发现；今日截止但较早发布、博士后／高经验、在校生限定或资格不明结果均未入库。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 5,
-    "historical_backfills_added": 1,
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 0,
     "status_changes": 0,
     "still_open_urgent_items": 20,
     "database_items_total": 87,
     "category_counts": {
       "升学": 0,
-      "研究": 4,
-      "实验室": 1,
-      "求职": 1
+      "研究": 0,
+      "实验室": 0,
+      "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "HKU 同期新结果中的博士后、Research Officer 与分析化学岗位：层级过高或方向明显偏离",
-      "英国 8 月 5 日神经科学结果：以博士后 Research Associate 为主，不符合初级层级",
-      "EURAXESS／JREC-IN 新结果：主要为博士后、研究员、教职或专业方向不匹配",
-      "Microsoft 大中华区实习：官方资格要求在读且实习后仍需返校，不适用于已毕业申请者",
-      "中国大厂校园岗位：在校身份或毕业届别不符；低经验社招无合格新增",
-      "临床 AI PACT 框架等观点文章及低关联研究：没有为增加条数收录",
-      "eLife 其他搜索结果：正式版本早于本次增量边界，未重复入库"
+      "Brunel 数字医疗 AI Research Assistant／Fellow：7 月中旬发布且今日截止，不属于 07:58 后新发布；岗位同时偏好顶会论文，未作历史补录",
+      "Cambridge、PolyU 等今日截止结果：均较早发布，且未出现新的开放状态或资格变化，禁止误标为今日发布",
+      "Harvard 免疫学暑研：要求本科在读且至少剩余一年，并要求美国就业资格，不适用于 2024 年已毕业申请者",
+      "英国、欧洲、日本韩国增量结果：主要为博士后、研究员、教职或多年经验岗位",
+      "Nature 搜索中的 8 月 6 日命中：多为专刊投稿截止日、收稿日或旧论文日期，并非今日新发表研究",
+      "中国大厂校园与实习岗位：在校身份或毕业届别不符；低经验社招无合格增量"
     ]
   },
   "change_legend": {
@@ -2551,12 +2550,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-06T07:58:07+08:00",
-    "increment_boundary": "2026-08-05T14:54:55+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_new_items_and_historical_backfill",
+    "executed_at_beijing": "2026-08-06T18:14:51+08:00",
+    "increment_boundary": "2026-08-06T07:58:07+08:00",
+    "run_type": "same_day_incremental_scan",
+    "result": "completed_no_high_quality_increment",
     "repository_write": "completed",
-    "public_site_verification": "unverified_network_block",
-    "note": "完整扫描完成；上次扫描后新发布 5 条、历史补录 1 条、状态变化 0 条。数据库 87 条，仍开放紧急项 20 条；仓库写入已完成，当前环境无法独立核验公开 Pages 刷新。"
+    "public_site_verification": "pending_after_commit",
+    "note": "同日增量扫描完成；新发布 0、历史补录 0、状态变化 0。数据库保持 87 条，仍开放紧急项 20 条；已准备写入仓库，公开 Pages 待提交后核验。"
   }
 }
