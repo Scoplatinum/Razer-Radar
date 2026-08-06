@@ -2555,8 +2555,8 @@
     "increment_boundary": "2026-08-05T14:54:55+08:00",
     "run_type": "full_daily_scan",
     "result": "completed_with_new_items_and_historical_backfill",
-    "repository_write": "pending",
-    "public_site_verification": "pending_after_commit",
-    "note": "完整扫描完成；上次扫描后新发布 5 条、历史补录 1 条、状态变化 0 条。数据库 87 条，仍开放紧急项 20 条。"
+    "repository_write": "completed",
+    "public_site_verification": "unverified_network_block",
+    "note": "完整扫描完成；上次扫描后新发布 5 条、历史补录 1 条、状态变化 0 条。数据库 87 条，仍开放紧急项 20 条；仓库写入已完成，当前环境无法独立核验公开 Pages 刷新。"
   }
 }
