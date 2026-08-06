@@ -2555,7 +2555,7 @@
     "run_type": "same_day_incremental_scan",
     "result": "completed_no_high_quality_increment",
     "repository_write": "completed",
-    "public_site_verification": "pending_after_commit",
-    "note": "同日增量扫描完成；新发布 0、历史补录 0、状态变化 0。数据库保持 87 条，仍开放紧急项 20 条；已准备写入仓库，公开 Pages 待提交后核验。"
+    "public_site_verification": "unverified_network_block",
+    "note": "同日增量扫描完成；新发布 0、历史补录 0、状态变化 0。数据库保持 87 条，仍开放紧急项 20 条；仓库写入已完成，但当前执行环境无法连接 GitHub Pages，公开网页尚未独立核验。"
   }
 }
