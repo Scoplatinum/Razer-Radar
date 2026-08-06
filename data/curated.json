@@ -1,7 +1,198 @@
 {
-  "generated_at": "2026-08-05T14:54:55+08:00",
+  "generated_at": "2026-08-06T07:58:07+08:00",
   "notice": "Same-day incremental verified edition following the 08:02 full scan. Five historical backfills were added from official sources; none is mislabeled as published today. Exact publication dates remain blank where official pages expose only relative posting ages.",
   "items": [
+    {
+      "id": "hku-ctc-site-management-ra-537036",
+      "category": "求职",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "香港大学临床试验中心项目执行／研究助理 I/II（研究中心管理）",
+      "title_en": "Project Executive, Site Management — Technical Officer / Research Assistant I/II",
+      "organization": "The University of Hong Kong · Clinical Trials Centre",
+      "location": "中国香港",
+      "published_at": "2026-08-05",
+      "first_seen_at": "2026-08-06",
+      "updated_at": "2026-08-06",
+      "deadline": "2026-09-04",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 79,
+      "verification_status": "verified_open_official_listing",
+      "summary": "HKU 临床试验中心的全职项目执行岗位，可按 Technical Officer／RA I／RA II 聘用，官网明确提供完整在职培训并欢迎应届毕业生。接受生物或生命科学本科；工作包括项目可行性评估、物流和排期协调、伦理申请、预算与财务管理、临床研究合同及内外部沟通。8 月 19 日开始审查，9 月 4 日截止或招满即止。英语和粤语书面及口语能力为明确要求，普通话为加分项。",
+      "summary_en": "A full-time clinical-trial site-management role appointable at Technical Officer or RA I/II level. HKU explicitly provides comprehensive on-the-job training and welcomes fresh graduates with a bachelor's degree in biological or life sciences. Duties cover feasibility assessment, logistics and scheduling, ethics submissions, budgets and financial administration, clinical-study contracts, and communication with internal and external collaborators. Review starts on 19 August and continues until 4 September or until filled. Written and spoken English and Cantonese are required; Putonghua is advantageous.",
+      "relevance": "层级和专业背景可达，但核心是多项目协调、伦理／预算流程和高频内外部沟通，并要求粤语；对于偏好独立、结构化分析任务的人，这是一条低匹配的临床研究入口，而不是数据分析岗位。",
+      "tags": [
+        "上次扫描后新发布",
+        "需尽快行动",
+        "欢迎应届生",
+        "临床试验",
+        "项目协调",
+        "伦理申请",
+        "预算管理",
+        "高沟通岗位",
+        "粤语硬门槛",
+        "在职培训"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537036/project-executive-site-management-at-the-rank-of-technical-officerresearch-assistant-iii",
+      "current_status": "open_review_from_2026-08-19"
+    },
+    {
+      "id": "ntu-ai-neuroscience-ra-r00025241",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "南洋理工大学神经科学与人工智能科研助理／研究助理",
+      "title_en": "Research Assistant/Associate — Artificial Intelligence / Neuroscience",
+      "organization": "Nanyang Technological University · Lee Kong Chian School of Medicine · Nair Lab",
+      "location": "新加坡",
+      "published_at": "2026-07-20",
+      "first_seen_at": "2026-08-06",
+      "updated_at": "2026-08-06",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 98,
+      "verification_status": "verified_open_official_listing",
+      "summary": "Nair Lab 的全职 RA／Research Associate 岗位，研究情绪等状态的神经计算。RA 接受计算机、神经科学、计算生物、心理学、生命科学或交叉背景本科；工作包括高维脑数据分析、独立研究、用机器学习和计算机视觉（含 LLM／VLM）进行视频高通量分析、数据驱动动力系统建模，以及维护实验室软件仓库。明确要求 Python 和 MATLAB，PyTorch／TensorFlow、OpenCV、PyQt／Gradio及大规模神经数据经验为重要技能或加分项。官方 Workday 当前显示 Apply，但未列固定截止日或签证支持。",
+      "summary_en": "A full-time RA/Research Associate position in the Nair Lab studying neural computations underlying states such as emotion. The RA level accepts bachelor's graduates from computer science, neuroscience, computational biology, psychology, life sciences or interdisciplinary backgrounds. Work includes high-dimensional brain-data analysis, an independent research project, machine-learning and computer-vision methods including LLMs/VLMs for high-throughput video analysis, data-driven dynamical-systems modelling, and maintenance of research software repositories. Python and MATLAB are explicit requirements; PyTorch/TensorFlow, OpenCV, PyQt/Gradio and large-scale neural-data experience are valuable. The official Workday listing currently shows Apply but provides no fixed deadline or work-pass commitment.",
+      "relevance": "这是目前库中计算神经科学、AI、动力系统和科研软件工程结合最直接的本科层级岗位之一；实际竞争门槛在可展示的 Python／MATLAB、神经数据或机器学习项目，国际申请者还需确认新加坡工作准证。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "科研助理",
+        "神经科学×AI",
+        "高维脑数据",
+        "动力系统",
+        "LLM／VLM",
+        "Python／MATLAB",
+        "科研软件",
+        "本科可申请",
+        "签证需确认"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant-Associate--Artificial-Intelligence-Neuroscience--LKCMedicine-_R00025241-1",
+      "current_status": "open_no_deadline_listed"
+    },
+    {
+      "id": "nature-human-stimulation-gene-cell-assemblies-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "人脑刺激增强细胞集合并连接细胞类型特异基因网络",
+      "title_en": "Stimulation modulates gene-linked cell assemblies in the human brain",
+      "organization": "Nature",
+      "location": "美国・人类神经外科组织研究",
+      "published_at": "2026-08-05",
+      "first_seen_at": "2026-08-06",
+      "updated_at": "2026-08-06",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 99,
+      "verification_status": "verified_version_of_record",
+      "summary": "研究建立人脑离体神经调控平台，将神经外科切除的颞叶皮层、微电极阵列刺激与同步记录、单核基因组学结合。电刺激增强了神经元细胞集合，并将这一生理变化映射到细胞类型特异的基因调控网络；作者还在接受体内刺激的人类皮层中识别出共同的细胞类型特异表达特征。它把神经调控、电生理和单细胞组学直接连接起来。主要限制是组织来自临床患者和切除皮层，离体刺激不能完整复制活体网络环境，研究也没有直接证明认知改善或临床治疗效果。",
+      "summary_en": "The study developed an ex vivo human neuromodulation platform combining resected temporal cortex from neurosurgical patients, microelectrode-array stimulation and recording, and single-nucleus genomics. Stimulation strengthened neuronal cell assemblies and linked the physiological effect to cell-type-specific gene-regulatory networks; related cell-type expression signatures were also identified in human cortex following in vivo stimulation. The work directly bridges neuromodulation, electrophysiology and single-cell genomics. Limitations include clinically resected tissue, incomplete preservation of the in vivo network environment, and no direct demonstration of cognitive improvement or therapeutic efficacy.",
+      "relevance": "对神经调控、电生理、细胞集合和转化神经科学高度相关，也展示了如何把生理活动与组学层面的机制连接起来。",
+      "tags": [
+        "上次扫描后新发布",
+        "人脑组织",
+        "神经调控",
+        "细胞集合",
+        "微电极阵列",
+        "单核组学",
+        "基因调控网络",
+        "临床疗效未证实"
+      ],
+      "source_url": "https://www.nature.com/articles/s41586-026-10879-9",
+      "current_status": "published"
+    },
+    {
+      "id": "natneuro-ne-da-sensor-crosstalk-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "去甲肾上腺素与多巴胺荧光传感器串扰取决于局部神经支配密度",
+      "title_en": "Norepinephrine and dopamine sensor crosstalk depends on local innervation density",
+      "organization": "Nature Neuroscience",
+      "location": "美国・小鼠脑成像",
+      "published_at": "2026-08-05",
+      "first_seen_at": "2026-08-06",
+      "updated_at": "2026-08-06",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 96,
+      "verification_status": "verified_version_of_record",
+      "summary": "这项 Brief Communication 检验常用 GPCR 荧光传感器在真实脑组织中的递质特异性。小鼠成像显示去甲肾上腺素和多巴胺会交叉激活对方的传感器，串扰程度随局部神经支配密度变化：纹状体两类传感器主要报告多巴胺，M1 皮层主要报告去甲肾上腺素，混合支配区域最难解释。研究提示仅凭体外亲和力不足以判断脑内特异性，需要沉默特定投射等对照。限制是只测试若干传感器、脑区和小鼠模型，不能自动推翻使用其他版本或充分对照的既有结论。",
+      "summary_en": "This Brief Communication tested neurotransmitter specificity of commonly used GPCR-based fluorescent sensors in brain tissue. Mouse imaging showed that norepinephrine and dopamine cross-activate each other's sensors, with crosstalk governed by local innervation density: both sensor classes mainly reported dopamine in striatum and norepinephrine in M1 cortex, while mixed-innervation regions were hardest to interpret. In-vitro affinity alone is therefore insufficient, and controls such as projection-specific silencing are important. Limitations are the selected sensor variants, brain regions and mouse model; the result does not invalidate studies using other sensors or adequate controls.",
+      "relevance": "对使用荧光递质传感器研究学习、决策和神经调控具有直接方法学影响，尤其提醒解释跨脑区信号时必须验证递质来源。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Neuroscience",
+        "Brief Communication",
+        "多巴胺",
+        "去甲肾上腺素",
+        "荧光传感器",
+        "方法学警示",
+        "小鼠"
+      ],
+      "source_url": "https://www.nature.com/articles/s41593-026-02379-w",
+      "current_status": "published"
+    },
+    {
+      "id": "natcomm-artificial-neural-manifolds-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "基于忆阻器的人工神经流形与小样本时序预测",
+      "title_en": "Artificial neural manifolds",
+      "organization": "Nature Communications",
+      "location": "中国・神经形态硬件",
+      "published_at": "2026-08-05",
+      "first_seen_at": "2026-08-06",
+      "updated_at": "2026-08-06",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 97,
+      "verification_status": "verified_version_of_record",
+      "summary": "研究用 NbOx Mott 忆阻器构建具有钟形调谐曲线的人工神经元群体，通过 GPFA 将放电压缩为低维流形，并基于延迟嵌入建立时空信息方程；加入记忆因子后，提高了预测准确度和鲁棒性。系统展示了不完整图像感知及癫痫发作预测，强调用群体几何而非单神经元完成近乎少训练的计算。主要限制是这是神经形态电子系统和算法验证，不代表生物脑采用同一实现；癫痫预测及能效优势仍需更广数据、强基线和真实部署验证。",
+      "summary_en": "The study used NbOx Mott memristors to construct artificial neurons with bell-shaped tuning curves, compressed population spiking into low-dimensional manifolds with GPFA, and derived a spatiotemporal-information equation through delay embedding. A memory factor improved predictive accuracy and robustness. Demonstrations included incomplete-image perception and seizure prediction, emphasizing population geometry rather than individual artificial neurons. Limitations are that this is a neuromorphic electronic and algorithmic implementation rather than evidence that biological brains use the same mechanism; seizure-prediction and efficiency claims need broader datasets, stronger baselines and real-world deployment tests.",
+      "relevance": "连接神经流形、低维动力学、忆阻器和脑启发 AI，也可作为理解神经群体几何如何转化为硬件计算的案例。",
+      "tags": [
+        "上次扫描后新发布",
+        "神经流形",
+        "神经形态计算",
+        "忆阻器",
+        "GPFA",
+        "低维动力学",
+        "癫痫预测",
+        "脑启发AI"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75979-6",
+      "current_status": "published"
+    },
+    {
+      "id": "elife-age-specific-hyperalignment-110566-v3",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "年龄特异模板提升跨个体脑功能 Hyperalignment",
+      "title_en": "Boosting hyperalignment performance with age-specific templates",
+      "organization": "eLife Reviewed Preprint",
+      "location": "美国／英国・成人全生命周期 fMRI",
+      "published_at": "2026-08-05",
+      "first_seen_at": "2026-08-06",
+      "updated_at": "2026-08-06",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 96,
+      "verification_status": "verified_reviewed_preprint_not_version_of_record",
+      "summary": "eLife 于 8 月 5 日发布该经评审预印本的新版本，尚非 Version of Record。研究使用 Cam-CAN 成人全生命周期数据（18–87 岁、完整功能扫描超过 600 人）建立青年和老年年龄特异 hyperalignment 模板，并用独立 Dallas Lifespan Brain Study（20–90 岁）验证。年龄匹配模板在 hyperaligned 连接的被试间相关、个体连接组预测及电影反应预测中均优于年龄不匹配模板。eLife 评价为“有价值、证据令人信服”。限制包括横断面年龄比较、年龄分组的人为边界，以及仍需检验疾病队列和更多扫描协议；目前必须按经评审预印本而非正式定稿引用。",
+      "summary_en": "eLife released a new reviewed-preprint version on 5 August; it is not yet a Version of Record. The study built young- and older-adult hyperalignment templates using the Cam-CAN lifespan dataset (ages 18–87, with more than 600 complete functional-scan records) and validated them in the independent Dallas Lifespan Brain Study (ages 20–90). Age-congruent templates outperformed incongruent templates for intersubject similarity of hyperaligned connectivity, individualized-connectome prediction and movie-response prediction. eLife assessed the work as valuable with convincing evidence. Limitations include cross-sectional age comparisons, discrete age-bin choices, and the need for tests in clinical cohorts and additional scanning protocols; it should be cited as a reviewed preprint rather than a final Version of Record.",
+      "relevance": "与自然情境 fMRI、个体化脑图谱、连接组和跨年龄模型泛化高度相关，对避免把单一年龄模板机械套用到所有人群具有直接方法学价值。",
+      "tags": [
+        "上次扫描后新发布",
+        "经评审预印本",
+        "非Version of Record",
+        "hyperalignment",
+        "年龄特异模板",
+        "自然情境fMRI",
+        "连接组",
+        "eLife证据令人信服"
+      ],
+      "source_url": "https://elifesciences.org/articles/110566",
+      "current_status": "reviewed_preprint"
+    },
     {
       "id": "sap-associate-data-scientist-mt-457229",
       "category": "求职",
@@ -2265,95 +2456,91 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "08:02 全量扫描后复核官方项目与岗位入口；无新发布、历史补录或状态变化。既有开放项目状态未见变化。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查高校项目、jobs.ac.uk 及官方落地页；8 月 5 日新结果以博士后或更高层级为主，无符合低经验层级的新机会。Bristol、Liverpool、Glasgow 等既有项目的开放状态与截止日未见变化。"
     },
     {
       "region": "欧洲大陆",
-      "status": "incremental_scanned_with_historical_backfill",
-      "note": "补录 SAP 德国机器翻译 Associate Data Scientist：Graduate 层级、2026-07-22 发布、官方页仍开放；六个月合同且签证未承诺。其余欧洲大陆入口无合格增量。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS 官方线索；新结果多为博士后、研究员或学生身份岗位，无合格新增。既有 SAP Graduate 短合同岗位仍开放。"
     },
     {
       "region": "香港与新加坡",
-      "status": "incremental_scanned_with_historical_backfills",
-      "note": "补录 NTU 认知神经科学 RA 与医疗 AI／数据分析 RA，两者官方 Workday 均显示 Apply、本科可申请、无固定截止日；发布日期仅显示相对时间，故未写成今日发布。"
+      "status": "scanned_with_new_and_backfill",
+      "note": "HKU 8 月 5 日新发布临床试验中心项目执行／RA I/II，欢迎应届生但要求粤语且沟通密集；历史补录 NTU 神经科学与 AI RA／Research Associate，官方 Workday 仍显示 Apply。"
     },
     {
       "region": "日本与韩国",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "复核高校与研究机构官方入口；检出结果为已过期、助理教授等更高层级或资格无法确认，未入库。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查 JREC-IN 与相关高校／研究机构入口；最新结果主要为研究员、博士后和教职，或国际资格无法确认，未发现初级高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "incremental_scanned_with_historical_backfills",
-      "note": "补录 UW 2027 神经科学 PhD 与 UConn 2027 生理／神经生物学 PhD／MS 官方开放申请；加拿大检出的志愿 RA 或已结束岗位因非可达正式低经验机会而排除。"
+      "status": "scanned_with_research_updates_no_new_opportunity",
+      "note": "已检查高校、实验室与医疗数据招聘入口；无层级和国际资格均可确认的新机会。人脑刺激与年龄特异 hyperalignment 等正式论文／经评审预印本已纳入研究动态。"
     },
     {
       "region": "澳大利亚",
-      "status": "incremental_scanned_no_eligible_new",
-      "note": "复核高校官方入口；悉尼大学神经科学奖学金要求已持无条件 PhD offer 或当前在读，不符合独立申请入口条件，未入库。"
+      "status": "scanned_no_high_quality_new",
+      "note": "已检查主要高校官方招聘及项目入口；检出结果以 Research Associate／Fellow 和已有在读身份要求为主，无符合初级层级的新机会。"
     },
     {
       "region": "中国大陆",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "复核中国大厂与外企中国区官方 Careers；未发现 08:02 后发布且对 2024 届、低经验申请者明确开放的合格新增。"
+      "status": "scanned_with_research_update_no_job_match",
+      "note": "已复核腾讯、字节、百度、华为等官方招聘及外企中国区 Careers；未发现对低经验、非在校申请者明确开放的新岗位。中国团队的人工神经流形研究已纳入研究动态。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-05T14:54:55+08:00",
+    "checked_at": "2026-08-06T07:58:07+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "incremental_scanned_with_verified_backfills",
-        "note": "官方核验并补录 NTU 两个本科层级 RA；其余固定地区未发现同日新发布的合格岗位。"
-      },
-      {
-        "source": "升学项目官方页",
-        "status": "incremental_scanned_with_verified_backfills",
-        "note": "补录 UW 与 UConn 2027 秋季开放项目，分别核验科研时数、导师匹配、英语与截止日期。"
+        "status": "scanned_with_verified_new_and_backfill",
+        "note": "核验 HKU、NTU/NUS、英国高校、欧洲大陆、北美、日本韩国及澳洲官方入口；新增 HKU 临床试验中心应届生岗位并补录 NTU 神经科学×AI RA。"
       },
       {
         "source": "中国大厂官方招聘",
-        "status": "incremental_scanned_no_verified_match",
-        "note": "校招／实习仍以在校或特定届别为主；未发现适配 2024 届的低经验新增。"
+        "status": "scanned_no_verified_match",
+        "note": "复核腾讯、字节、百度、华为等官方入口；当前校园项目仍主要限制在校或特定届别，低经验社招未发现合格增量。"
       },
       {
-        "source": "外企 Careers",
-        "status": "incremental_scanned_with_one_verified_backfill",
-        "note": "补录 SAP 德国 Graduate Associate Data Scientist；明确标注六个月合同和签证未承诺。"
+        "source": "外企中国区 Careers",
+        "status": "scanned_no_verified_match",
+        "note": "复核 Microsoft、SAP、Roche、AstraZeneca 等 Careers；新结果主要是学生项目、海外岗位或经验要求较高，中国区无合格新增。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "incremental_scanned_no_high_quality_new",
-        "note": "08:02 后未发现达到收录阈值并可确认正式发布日期的神经科学／计算认知／AI 生物医学研究新增。"
+        "status": "scanned_with_high_quality_new",
+        "note": "收录 Nature、Nature Neuroscience、Nature Communications 的 3 篇 8 月 5 日 Version of Record，以及 1 篇 eLife 经评审预印本新版本；预印本已与正式论文严格区分。"
       },
       {
-        "source": "聚合平台",
+        "source": "jobs.ac.uk／EURAXESS／JREC-IN／聚合线索",
         "status": "discovery_only",
-        "note": "仅作线索；所有入库条目均回到大学或公司官方页面核验。"
+        "note": "仅用于发现候选；所有入库机会均回到学校或雇主官方页核验。博士后、研究员、教职、学生限定或资格不明结果均排除。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 5,
+    "newly_published_since_last_scan": 5,
+    "historical_backfills_added": 1,
     "status_changes": 0,
-    "still_open_urgent_items": 18,
-    "database_items_total": 81,
+    "still_open_urgent_items": 20,
+    "database_items_total": 87,
     "category_counts": {
-      "升学": 2,
-      "研究": 0,
-      "实验室": 2,
+      "升学": 0,
+      "研究": 4,
+      "实验室": 1,
       "求职": 1
     },
     "excluded_expired_or_ineligible": [
-      "悉尼大学 R A Money 神经科学奖学金：要求已持无条件 PhD offer 或当前在读，不能作为独立升学入口",
-      "UBC TRACER 志愿科研助理：无薪志愿岗位，不作为正式低经验就业机会",
-      "日本／韩国检出结果：主要为已过期、助理教授等更高层级或国际资格无法确认",
-      "中国大厂与外企中国区结果：在校生／届别限制、硬性经验或开放状态不明",
-      "SAP 德国专家级 Data Scientist：要求 6 年以上经验，明确排除",
-      "低关联或仅聚合页可见的线索：未回到官方开放页确认，不入库"
+      "HKU 同期新结果中的博士后、Research Officer 与分析化学岗位：层级过高或方向明显偏离",
+      "英国 8 月 5 日神经科学结果：以博士后 Research Associate 为主，不符合初级层级",
+      "EURAXESS／JREC-IN 新结果：主要为博士后、研究员、教职或专业方向不匹配",
+      "Microsoft 大中华区实习：官方资格要求在读且实习后仍需返校，不适用于已毕业申请者",
+      "中国大厂校园岗位：在校身份或毕业届别不符；低经验社招无合格新增",
+      "临床 AI PACT 框架等观点文章及低关联研究：没有为增加条数收录",
+      "eLife 其他搜索结果：正式版本早于本次增量边界，未重复入库"
     ]
   },
   "change_legend": {
@@ -2364,12 +2551,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-05T14:54:55+08:00",
-    "increment_boundary": "2026-08-05T08:02:07+08:00",
-    "run_type": "same_day_incremental_scan",
-    "result": "completed_with_historical_backfills",
-    "repository_write": "completed",
-    "public_site_verification": "unverified_network_block",
-    "note": "同日增量扫描完成；新发布 0、历史补录 5、状态变化 0。数据库共 81 条；四类增量为升学 2、研究 0、实验室 2、求职 1。仓库写入已复核；当前执行环境无法连接 GitHub Pages，公开网页尚未独立核验。"
+    "executed_at_beijing": "2026-08-06T07:58:07+08:00",
+    "increment_boundary": "2026-08-05T14:54:55+08:00",
+    "run_type": "full_daily_scan",
+    "result": "completed_with_new_items_and_historical_backfill",
+    "repository_write": "pending",
+    "public_site_verification": "pending_after_commit",
+    "note": "完整扫描完成；上次扫描后新发布 5 条、历史补录 1 条、状态变化 0 条。数据库 87 条，仍开放紧急项 20 条。"
   }
 }
