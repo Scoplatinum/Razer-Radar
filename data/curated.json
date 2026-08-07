@@ -2720,8 +2720,8 @@
     "increment_boundary": "2026-08-06T18:14:51+08:00",
     "run_type": "daily_full_scan",
     "result": "completed_with_verified_additions",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "完整扫描完成；新增正式研究 4、历史补录 1、状态变化 0。"
+    "repository_write": "completed",
+    "public_site_verification": "raw_data_verified_public_page_unverified_url_safety_block",
+    "note": "完整扫描完成；新增正式研究 4、历史补录 1、状态变化 0。仓库和公开 raw 数据已验证为 92 条及 2026-08-07T08:00:06+08:00；当前网页地址受执行环境 URL 安全限制，GitHub Pages 展示尚未独立确认。"
   }
 }
