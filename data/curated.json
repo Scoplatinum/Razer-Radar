@@ -1,7 +1,168 @@
 {
-  "generated_at": "2026-08-06T18:14:51+08:00",
-  "notice": "Same-day incremental verified edition following the 07:58 full scan. No high-quality newly published opportunity, historical backfill, or verified status change was found after that boundary. The six verified additions from the morning scan and all prior history remain preserved; sections without additions are marked as scanned with no high-quality new result.",
+  "generated_at": "2026-08-07T08:00:06+08:00",
+  "notice": "Full verified scan for 7 August 2026. Four high-quality research updates published after the prior boundary and one earlier-opened 2027 study program first discovered today were added. No matching newly published job or verified status change was found; all prior history is preserved and regions without additions are explicitly marked as scanned with no high-quality new result.",
   "items": [
+    {
+      "id": "science-adaptive-theta-sweeps-navigation-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "导航回路中的 theta 扫掠会随当前目标自适应聚焦",
+      "title_en": "Adaptive modulation of theta sweeps in the brain's navigation circuit",
+      "organization": "Science",
+      "location": "挪威・大鼠内嗅—海马导航回路",
+      "published_at": "2026-08-06",
+      "first_seen_at": "2026-08-07",
+      "updated_at": "2026-08-07",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 100,
+      "verification_status": "verified_version_of_record_official_journal",
+      "summary": "研究使用大规模 Neuropixels 同时记录大鼠内嗅皮层、海马及相邻方向编码区，并结合追逐移动食物、狭窄死胡同倒退和 REM 睡眠等行为条件，检验 grid-cell theta sweeps 是否只是随头向机械摆动。默认状态下扫掠左右交替；出现相关目标后，扫掠变窄、加速，并可脱离头向而指向猎物或计划中的运动方向，甚至先于实际转头。结果支持 theta sweeps 作为在内部空间图上选择性采样相关位置的动态机制。主要限制是大鼠导航与捕食任务，研究把现象谨慎称为“attention-like”，尚未直接证明扫掠是注意或决策表现的因果必要条件，也不能直接外推至人类。",
+      "summary_en": "Large-scale Neuropixels recordings sampled rat entorhinal cortex, hippocampus and adjacent direction-coding regions across moving-prey pursuit, backward escape from a narrow dead end and REM sleep. Default grid-cell theta sweeps alternated left and right, but narrowed, accelerated and decoupled from head direction when a relevant target or intended movement became salient, sometimes turning before overt head movement. The results support theta sweeps as a dynamic mechanism for selectively sampling relevant locations in an internal spatial map. Limitations are the rat navigation and predation paradigms, the deliberately cautious 'attention-like' interpretation, the lack of a causal necessity test for attention or decisions, and uncertain generalization to humans.",
+      "relevance": "与 grid cells、theta 节律、认知地图、主动感知和目标导向规划直接重合，是本轮最值得优先阅读的研究。",
+      "tags": [
+        "上次扫描后新发布",
+        "Science",
+        "grid cells",
+        "theta sweeps",
+        "认知地图",
+        "Neuropixels",
+        "主动感知",
+        "大鼠",
+        "因果必要性未证实"
+      ],
+      "source_url": "https://www.science.org/doi/10.1126/science.aef4184",
+      "current_status": "published"
+    },
+    {
+      "id": "natneuro-engineered-htr2a-mice-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "用于解析迷幻药作用的 HTR2A 工程化小鼠工具组",
+      "title_en": "A suite of engineered mice for interrogating psychedelic drug actions",
+      "organization": "Nature Neuroscience",
+      "location": "美国・分子与回路神经科学",
+      "published_at": "2026-08-06",
+      "first_seen_at": "2026-08-07",
+      "updated_at": "2026-08-07",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 97,
+      "verification_status": "verified_version_of_record_technical_report",
+      "summary": "这项 Technical Report 构建了 Htr2a-EGFP-CreERT2、含人源 A242S 位点的 Htr2a 小鼠及组成型 Htr2a-Cre 小鼠，用于定位 5-HT2A 受体和细胞、操控相关回路并区分物种受体差异。作者用迷幻药诱导的行为变化验证工具效用，并在脑片电生理中发现 DOI 可显著提高遗传标记锥体神经元的放电。主要贡献是可复用的遗传工具，而非证明某种迷幻药具有临床疗效；小鼠行为与脑片结果、有限的人源化位点也不能完整复现人类主观体验或疾病。",
+      "summary_en": "This Technical Report generated Htr2a-EGFP-CreERT2, humanized Htr2a-A242S and constitutive Htr2a-Cre mouse lines to map 5-HT2A receptors and cells, manipulate relevant circuits and address species-specific receptor differences. Psychedelic-evoked behavioral changes validated the tools, while slice electrophysiology showed that DOI robustly increased firing in genetically identified pyramidal neurons. The principal contribution is a reusable genetic toolkit, not clinical efficacy evidence; mouse behavior, slice physiology and a limited humanized receptor feature cannot reproduce human subjective experience or disease.",
+      "relevance": "对迷幻剂、5-HT2A、回路操控和神经精神疾病机制研究很有方法学价值，也适合关注开放工具与可复现实验设计。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Neuroscience",
+        "Technical Report",
+        "HTR2A",
+        "迷幻剂",
+        "工程化小鼠",
+        "脑片电生理",
+        "工具资源",
+        "非临床疗效证据"
+      ],
+      "source_url": "https://www.nature.com/articles/s41593-026-02375-0",
+      "current_status": "published"
+    },
+    {
+      "id": "natrevneuro-cerebellar-rhythms-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "小脑节律的机制、功能与转化机会",
+      "title_en": "Cerebellar rhythms: mechanisms, functions and translational opportunities",
+      "organization": "Nature Reviews Neuroscience",
+      "location": "国际综述・小脑振荡与神经调控",
+      "published_at": "2026-08-06",
+      "first_seen_at": "2026-08-07",
+      "updated_at": "2026-08-07",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 95,
+      "verification_status": "verified_version_of_record_review_article",
+      "summary": "这篇 Review Article 汇总动物实验、计算模型和非侵入刺激证据，提出“频率—功能—调控”框架：小脑 theta、beta、gamma 及更高频振荡源自下橄榄核、小脑皮层颗粒层／分子层和深部核团的不同微回路，并通过跨小脑—皮层同步参与预测、误差校正、学习与内部模型更新。文章进一步讨论以节律为靶点的诊断和精准神经调控。它是证据整合与机制框架，不是新实验或临床试验；不同物种、记录尺度和刺激研究之间的异质性限制了转化结论。",
+      "summary_en": "This Review Article integrates animal studies, computational models and non-invasive stimulation evidence into a frequency-function-modulation framework. Cerebellar theta, beta, gamma and higher-frequency oscillations are linked to distinct microcircuits in the inferior olive, cerebellar cortical layers and deep nuclei, and to prediction, error correction, learning and internal-model updating through distributed cerebello-cortical coordination. It also discusses rhythm-informed diagnostics and precision neuromodulation. The paper is a synthesis and mechanistic framework, not a new experiment or clinical trial; heterogeneity across species, recording scales and stimulation studies constrains translational claims.",
+      "relevance": "把神经振荡、计算模型、学习机制与神经调控连接起来，补足以海马—皮层为主的既有观察范围。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Reviews Neuroscience",
+        "综述",
+        "小脑节律",
+        "theta／beta／gamma",
+        "内部模型",
+        "学习",
+        "神经调控",
+        "非新实验"
+      ],
+      "source_url": "https://www.nature.com/articles/s41583-026-01072-y",
+      "current_status": "published"
+    },
+    {
+      "id": "elife-lrrk2-synaptic-actin-vor-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "LRRK2 通过肌动蛋白骨架动力学调节突触功能",
+      "title_en": "LRRK2 regulates synaptic function through modulation of actin cytoskeletal dynamics",
+      "organization": "eLife",
+      "location": "意大利／英国／美国／德国・帕金森病细胞与小鼠模型",
+      "published_at": "2026-08-06",
+      "first_seen_at": "2026-08-07",
+      "updated_at": "2026-08-07",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 92,
+      "verification_status": "verified_version_of_record",
+      "summary": "eLife 于 8 月 6 日发布 Version of Record。研究把文献荟萃、多组学、生化、成像和电生理结合到 Lrrk2 小鼠、细胞系及人 iPSC 来源神经元中，发现 BDNF 可激活 LRRK2 并把其互作网络推向突触肌动蛋白重塑；LRRK2 缺失会损害 BDNF 信号、改变突触后致密区结构，并影响人源神经元成熟和自发突触活动。eLife 评价为“重要、证据扎实”。限制是多为敲除与体外模型，年轻小鼠的部分结构表型随年龄正常化，尚无患者纵向证据或治疗性验证。",
+      "summary_en": "eLife published the Version of Record on 6 August. Literature meta-analysis, multi-omics, biochemistry, imaging and electrophysiology were integrated across Lrrk2 mouse models, cell lines and human iPSC-derived neurons. BDNF activated LRRK2 and shifted its interactome toward synaptic-actin remodeling; LRRK2 loss impaired BDNF signaling, altered postsynaptic-density architecture, and affected maturation and spontaneous synaptic activity in human neurons. eLife assessed the study as important with solid evidence. Limitations include knockout and in-vitro models, partial normalization of young-mouse structural phenotypes with age, and no longitudinal patient or therapeutic validation.",
+      "relevance": "为帕金森病早期突触异常提供多模型机制证据，并展示组学与电生理、成像整合的研究路径。",
+      "tags": [
+        "上次扫描后新发布",
+        "eLife",
+        "Version of Record",
+        "LRRK2",
+        "帕金森病",
+        "突触",
+        "肌动蛋白",
+        "iPSC神经元",
+        "证据扎实"
+      ],
+      "source_url": "https://elifesciences.org/articles/95987",
+      "current_status": "published"
+    },
+    {
+      "id": "rmit-master-data-science-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "RMIT 大学数据科学硕士（2027 入学）",
+      "title_en": "RMIT University Master of Data Science — 2027 Entry",
+      "organization": "RMIT University · School of Computing Technologies",
+      "location": "澳大利亚・墨尔本",
+      "published_at": "2026-08-03",
+      "first_seen_at": "2026-08-07",
+      "updated_at": "2026-08-07",
+      "deadline": "2027-03-03",
+      "discovery_status": "historical_backfill",
+      "priority": 91,
+      "verification_status": "verified_open_official_program_and_application",
+      "summary": "两年制、墨尔本校区授课，2027 第一学期申请已于 8 月 3 日开放；国际申请截止 2027 年 3 月 3 日，但学校建议需学生签证者至少提前 4–8 周。官网接受 computing、science、engineering、health 或 statistics 本科，GPA 至少 2.0/4.0 或同等；其他本科需已修编程和统计，或有至少三年相关工作经验。课程从 Python、编程基础、数据库、应用分析和数据整理进入，再覆盖机器学习、贝叶斯统计、云计算、深度学习及 industry/research project。2027 国际生学费为每年 AU$47,040；IELTS 6.5、单项不低于 6.0。项目获 ACS Professional 级认证，且官网称其 Data Science & AI 学科在 2026 QS 学科排名全球前 100。",
+      "summary_en": "A two-year Melbourne-based master's whose Semester 1 2027 application opened on 3 August. The international deadline is 3 March 2027, although student-visa applicants are advised to apply and accept at least 4–8 weeks before commencement. RMIT accepts bachelor's degrees in computing, science, engineering, health or statistics with at least a 2.0/4.0 GPA or equivalent; other degrees require completed programming and statistics study or at least three years of relevant professional experience. The curriculum starts with Python, programming, databases, applied analytics and data wrangling, then offers machine learning, Bayesian statistics, cloud computing, deep learning and industry or research projects. Indicative 2027 international tuition is AU$47,040 per year; IELTS 6.5 with no band below 6.0. The degree has ACS Professional accreditation, and RMIT reports a top-100 global QS subject ranking for Data Science & AI in 2026.",
+      "relevance": "对 science／health 等非计算机本科较友好，基础课程和研究选项能形成技术桥接；但若原专业不被学校归入 science／health，需用已修编程和统计课程证明资格。成本较高，应结合奖学金、签证和就业回报判断。",
+      "tags": [
+        "历史补录",
+        "2027申请已开放",
+        "跨专业桥接",
+        "数据科学硕士",
+        "science／health背景可申请",
+        "Python",
+        "机器学习",
+        "研究选项",
+        "ACS认证",
+        "国际学费较高"
+      ],
+      "source_url": "https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-data-science-mc267",
+      "current_status": "open_for_2027_entry"
+    },
     {
       "id": "hku-ctc-site-management-ra-537036",
       "category": "求职",
@@ -2456,90 +2617,95 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后增量检查高校官方招聘、课程页与 jobs.ac.uk 线索；命中主要是今日截止但更早发布的职位，或博士后／高经验岗位，无高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "核验高校课程、官方招聘及 jobs.ac.uk 发现线索；新结果主要是博士后／Research Associate、高经验或方向偏离岗位，无合格新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后增量检查 EURAXESS、学校及公司官方线索；未发现本科层级、低经验且开放资格可确认的新项目或岗位。"
+      "status": "scanned_research_updates_only",
+      "note": "挪威 Science theta-sweep 研究、跨欧洲 eLife LRRK2 研究及小脑节律综述达到收录标准；EURAXESS 与高校岗位未发现资格、层级和开放状态同时匹配的新机会。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后复核高校官方招聘入口；早晨新增的 HKU 临床试验岗位与 NTU 神经科学×AI RA 保留，本轮无新发布、历史补录或状态变化。"
+      "status": "scanned_no_high_quality_new",
+      "note": "核验 HKU、NTU、NUS 等官方入口；HKU 8 月 6 日新 RA 为有机合成湿实验且要求相关研究背景，未纳入；无其他匹配新增。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后检查 JREC-IN 与高校／研究机构线索；结果仍以研究员、博士后、教职或资格不明岗位为主，无高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "检查 JREC-IN、高校和研究机构线索；命中仍以博士后、研究员、教职或资格不明确岗位为主。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后检查高校、实验室、医疗研究及期刊官方线索；未发现新开放且国际资格可确认的初级机会，亦无值得新增的正式研究发布。"
+      "status": "scanned_research_updates_only",
+      "note": "Nature Neuroscience HTR2A 工具研究及参与 eLife LRRK2 工作的美国团队构成研究更新；高校与实验室未发现国际资格可确认的新初级机会。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后检查主要高校招聘线索；未发现适合本科毕业生、经验门槛合理且开放状态可确认的新机会。"
+      "status": "scanned_historical_study_backfill",
+      "note": "补录 8 月 3 日已开放的 RMIT 2027 数据科学硕士；其他主要高校项目与岗位未发现同等匹配新增。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_no_high_quality_new_increment",
-      "note": "07:58 后复核大厂与外企中国区公开线索；校园岗位仍受在校／届别限制，低经验社招无可核验的高质量新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "复核中国大厂官方招聘和外企中国区 Careers；结果仍主要受在校身份、毕业届别或硬性多年经验限制，无合格新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-06T18:14:51+08:00",
+    "checked_at": "2026-08-07T08:00:06+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "increment_scanned_no_verified_new",
-        "note": "07:58 后复核各地区官方入口；无新的合格条目，早晨已核验机会保持不变。"
+        "status": "scanned_no_verified_new_match",
+        "note": "HKU 新化学 RA 属有机合成湿实验；英国、欧洲、北美、亚洲和澳洲其他结果多为博士后、研究员、高经验或资格不明。"
       },
       {
         "source": "中国大厂官方招聘",
-        "status": "increment_scanned_no_verified_match",
-        "note": "校园岗位仍受在校身份或毕业届别限制；未发现适配 2024 本科毕业生的低经验社招增量。"
+        "status": "scanned_no_verified_match",
+        "note": "校招／实习仍受在校身份或毕业届别限制，未发现适配已毕业低经验申请者的合格社招。"
       },
       {
         "source": "外企中国区 Careers",
-        "status": "increment_scanned_no_verified_match",
-        "note": "未发现中国区新发布且学历、经验与开放状态均可确认的合格增量。"
+        "status": "scanned_no_verified_match",
+        "note": "未发现中国区新发布且经验、专业及开放状态同时适配的数据、AI、科研或医疗科技岗位。"
+      },
+      {
+        "source": "高校官方项目与申请页",
+        "status": "scanned_one_historical_backfill",
+        "note": "RMIT 2027 数据科学硕士已于 8 月 3 日开放，今日首次发现并按历史补录收录。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "increment_scanned_no_high_quality_new",
-        "note": "Nature、eLife、Cell、Science 等官方线索未检出 07:58 后值得新增的神经科学／计算认知正式发布；日期误命中已排除。"
+        "status": "scanned_four_verified_new",
+        "note": "Science、Nature Neuroscience、Nature Reviews Neuroscience 与 eLife 各有一项 8 月 6 日高质量更新；均回到期刊官方页核验版本和日期。"
       },
       {
         "source": "jobs.ac.uk／EURAXESS／JREC-IN／聚合线索",
-        "status": "discovery_only_no_verified_increment",
-        "note": "仅作发现；今日截止但较早发布、博士后／高经验、在校生限定或资格不明结果均未入库。"
+        "status": "discovery_only_no_additional_verified_match",
+        "note": "仅作发现；博士后、Research Associate、教职、硬性相关经验或身份不符结果均未入库。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 0,
+    "newly_published_since_last_scan": 4,
+    "historical_backfills_added": 1,
     "status_changes": 0,
     "still_open_urgent_items": 20,
-    "database_items_total": 87,
+    "database_items_total": 92,
     "category_counts": {
-      "升学": 0,
-      "研究": 0,
+      "升学": 1,
+      "研究": 4,
       "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "Brunel 数字医疗 AI Research Assistant／Fellow：7 月中旬发布且今日截止，不属于 07:58 后新发布；岗位同时偏好顶会论文，未作历史补录",
-      "Cambridge、PolyU 等今日截止结果：均较早发布，且未出现新的开放状态或资格变化，禁止误标为今日发布",
-      "Harvard 免疫学暑研：要求本科在读且至少剩余一年，并要求美国就业资格，不适用于 2024 年已毕业申请者",
-      "英国、欧洲、日本韩国增量结果：主要为博士后、研究员、教职或多年经验岗位",
-      "Nature 搜索中的 8 月 6 日命中：多为专刊投稿截止日、收稿日或旧论文日期，并非今日新发表研究",
-      "中国大厂校园与实习岗位：在校身份或毕业届别不符；低经验社招无合格增量"
+      "HKU Chemistry RA I/II（8月6日发布）：核心为光活性／生物活性化合物前体的有机合成，且优先已有有机合成研究经验，方向不匹配",
+      "英国新近 Research Associate／Research Fellow：多要求博士或属于博士后层级",
+      "Karolinska 等欧洲 Assistant Professor／Senior Scientist：要求博士、独立研究计划与成熟发表记录",
+      "SAP Working Student、字节等实习：明确要求当前在读或毕业届别不符",
+      "中国大厂校园招聘：在校身份或毕业届别限制；低经验社招无经官方核验的匹配新增",
+      "Scientific Reports 的部分认知相关观察研究：关联度或证据强度不足，未为增加数量收录"
     ]
   },
   "change_legend": {
@@ -2550,12 +2716,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-06T18:14:51+08:00",
-    "increment_boundary": "2026-08-06T07:58:07+08:00",
-    "run_type": "same_day_incremental_scan",
-    "result": "completed_no_high_quality_increment",
-    "repository_write": "completed",
-    "public_site_verification": "unverified_network_block",
-    "note": "同日增量扫描完成；新发布 0、历史补录 0、状态变化 0。数据库保持 87 条，仍开放紧急项 20 条；仓库写入已完成，但当前执行环境无法连接 GitHub Pages，公开网页尚未独立核验。"
+    "executed_at_beijing": "2026-08-07T08:00:06+08:00",
+    "increment_boundary": "2026-08-06T18:14:51+08:00",
+    "run_type": "daily_full_scan",
+    "result": "completed_with_verified_additions",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "完整扫描完成；新增正式研究 4、历史补录 1、状态变化 0。"
   }
 }
