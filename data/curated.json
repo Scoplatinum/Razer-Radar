@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-08-07T08:00:06+08:00",
-  "notice": "Full verified scan for 7 August 2026. Four high-quality research updates published after the prior boundary and one earlier-opened 2027 study program first discovered today were added. No matching newly published job or verified status change was found; all prior history is preserved and regions without additions are explicitly marked as scanned with no high-quality new result.",
+  "generated_at": "2026-08-08T08:04:18+08:00",
+  "notice": "Full verified scan for 8 August 2026. One previously open cross-disciplinary 2027 AI master's program was first discovered today and added as a historical backfill. No high-quality item was verified as newly published after the prior boundary and no existing item's status was confirmed to have changed. All prior history is preserved; every required region and source cluster was actively scanned.",
   "items": [
+    {
+      "id": "qut-master-artificial-intelligence-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "昆士兰科技大学人工智能硕士（2027 入学）",
+      "title_en": "Queensland University of Technology Master of Artificial Intelligence — 2027 Entry",
+      "organization": "Queensland University of Technology · Faculty of Science",
+      "location": "澳大利亚・布里斯班",
+      "published_at": "",
+      "first_seen_at": "2026-08-08",
+      "updated_at": "2026-08-08",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 90,
+      "verification_status": "verified_open_official_program_page_publication_date_unconfirmed",
+      "summary": "两年制、Gardens Point 校区授课，每年 2 月和 7 月入学，官方页面当前提供国际生申请入口。两年制路径明确接受任何专业的认可本科，最低 GPA 为 QUT 7 分制 4.0；1.5 年路径才要求 IT 本科，或其他本科加三年 IT 工作经验。课程从编程基础、数据库和系统设计进入，再覆盖机器学习、生成式 AI 与大语言模型、自然语言处理、AI 伦理与治理，并包含重要的 industry project 或 research experience。项目获 Australian Computer Society 专业认证；QUT 官网称其 Data Science & AI 在 2026 QS 学科排名中位列澳大利亚前 13、全球前 200。2027 国际生参考学费为每年 AU$46,800；IELTS 6.5、各单项不低于 6.0。官网未列统一申请截止日或本页发布日期，需按目标开学季尽早向学校确认。",
+      "summary_en": "A two-year master's at QUT's Gardens Point campus with February and July intakes and an active international application route. The two-year pathway explicitly accepts a recognised bachelor's degree in any discipline with a minimum QUT-equivalent GPA of 4.0/7.0; the 1.5-year pathway is the one that requires an IT degree or another degree plus three years of IT experience. Study begins with programming fundamentals, databases and systems design, then covers machine learning, generative AI and large language models, natural-language processing, AI ethics and governance, plus a substantial industry project or research experience. The degree is professionally accredited by the Australian Computer Society. QUT reports a top-13 Australian and top-200 global position for Data Science & AI in the 2026 QS subject ranking. Indicative 2027 international tuition is AU$46,800 per year; IELTS 6.5 with no band below 6.0. The official course page does not list a single application deadline or its publication date, so applicants should confirm timing for the intended intake early.",
+      "relevance": "对非计算机本科的跨专业转换非常友好：两年制入口不要求既有 IT 工作经验，且课程包含编程基础和作品集型行业／研究项目。主要权衡是学费较高、项目偏职业型而非神经科学，以及需要尽早确认具体开学季的国际申请和签证时间。",
+      "tags": [
+        "历史补录",
+        "发布日期未确认",
+        "2027可申请",
+        "跨专业桥接",
+        "任何本科专业可申请",
+        "人工智能硕士",
+        "编程基础",
+        "机器学习",
+        "生成式AI／LLM",
+        "行业／研究项目",
+        "ACS认证",
+        "国际学费较高"
+      ],
+      "source_url": "https://www.qut.edu.au/courses/master-of-artificial-intelligence",
+      "current_status": "open_for_2027_entry_deadline_not_listed"
+    },
     {
       "id": "science-adaptive-theta-sweeps-navigation-2026",
       "category": "研究",
@@ -2618,94 +2653,93 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "核验高校课程、官方招聘及 jobs.ac.uk 发现线索；新结果主要是博士后／Research Associate、高经验或方向偏离岗位，无合格新增。"
+      "note": "核验高校项目、官方招聘与 jobs.ac.uk 线索；新增结果主要为博士后／Research Associate、高经验或已经截止岗位，无合格新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_research_updates_only",
-      "note": "挪威 Science theta-sweep 研究、跨欧洲 eLife LRRK2 研究及小脑节律综述达到收录标准；EURAXESS 与高校岗位未发现资格、层级和开放状态同时匹配的新机会。"
+      "status": "scanned_no_high_quality_new",
+      "note": "检查 EURAXESS、高校及研究机构线索；新近结果以博士后、教职、硕士生限定资助或方向不符为主，无合格新增。"
     },
     {
       "region": "香港与新加坡",
       "status": "scanned_no_high_quality_new",
-      "note": "核验 HKU、NTU、NUS 等官方入口；HKU 8 月 6 日新 RA 为有机合成湿实验且要求相关研究背景，未纳入；无其他匹配新增。"
+      "note": "复核 HKU、NTU、NUS 等官方入口；未发现上次扫描后新发布且层级、资格和开放状态同时匹配的岗位。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "检查 JREC-IN、高校和研究机构线索；命中仍以博士后、研究员、教职或资格不明确岗位为主。"
+      "note": "检查 JREC-IN、高校、研究机构及企业官方入口；命中仍以博士后、研究员、教职、日语硬门槛或高经验岗位为主。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_research_updates_only",
-      "note": "Nature Neuroscience HTR2A 工具研究及参与 eLife LRRK2 工作的美国团队构成研究更新；高校与实验室未发现国际资格可确认的新初级机会。"
+      "status": "scanned_no_high_quality_new",
+      "note": "核验高校实验室、研究生项目及官方招聘；2027 项目多尚未开放或国际资格／资助条件仍待确认，无本轮合格新增。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_historical_study_backfill",
-      "note": "补录 8 月 3 日已开放的 RMIT 2027 数据科学硕士；其他主要高校项目与岗位未发现同等匹配新增。"
+      "note": "补录 QUT 2027 人工智能硕士：两年制路径接受任何本科专业，官方申请入口开放；因页面未给发布日期，严格标记历史补录。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "复核中国大厂官方招聘和外企中国区 Careers；结果仍主要受在校身份、毕业届别或硬性多年经验限制，无合格新增。"
+      "note": "复核腾讯、字节等中国大厂和 Microsoft、SAP 等外企中国区官方入口；校招／实习受在校身份或毕业届别限制，社招则多要求成熟经验，无合格新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-07T08:00:06+08:00",
+    "checked_at": "2026-08-08T08:04:18+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
         "status": "scanned_no_verified_new_match",
-        "note": "HKU 新化学 RA 属有机合成湿实验；英国、欧洲、北美、亚洲和澳洲其他结果多为博士后、研究员、高经验或资格不明。"
+        "note": "HKU、NTU、NUS、英国高校、北美和澳洲官方入口均已核验；未发现上次扫描后发布且适配本科／低经验申请者的新岗位。"
       },
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "校招／实习仍受在校身份或毕业届别限制，未发现适配已毕业低经验申请者的合格社招。"
+        "note": "腾讯 2026 校招面向 2026 届、实习要求在校；字节实习面向在校生／特定届别，低经验社招未发现官方核验新增。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "未发现中国区新发布且经验、专业及开放状态同时适配的数据、AI、科研或医疗科技岗位。"
+        "note": "Microsoft、SAP 等中国区官方结果未出现经验、专业和开放状态同时适配的数据、AI、科研或医疗科技新增。"
       },
       {
         "source": "高校官方项目与申请页",
         "status": "scanned_one_historical_backfill",
-        "note": "RMIT 2027 数据科学硕士已于 8 月 3 日开放，今日首次发现并按历史补录收录。"
+        "note": "QUT 人工智能硕士官方页显示两年制接受任何本科专业并提供国际申请入口；本页无发布日期，按历史补录收录。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_four_verified_new",
-        "note": "Science、Nature Neuroscience、Nature Reviews Neuroscience 与 eLife 各有一项 8 月 6 日高质量更新；均回到期刊官方页核验版本和日期。"
+        "status": "scanned_no_high_quality_new",
+        "note": "检查 Science、Nature 系列、eLife、Neuron 等官方入口；未发现 8 月 7 日正式发表且同时达到相关性和证据门槛的新论文。"
       },
       {
         "source": "jobs.ac.uk／EURAXESS／JREC-IN／聚合线索",
         "status": "discovery_only_no_additional_verified_match",
-        "note": "仅作发现；博士后、Research Associate、教职、硬性相关经验或身份不符结果均未入库。"
+        "note": "仅用于发现；博士后、Research Associate、教职、在读硕士限定资助、硬性经验或已截止结果均未入库。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 4,
+    "newly_published_since_last_scan": 0,
     "historical_backfills_added": 1,
     "status_changes": 0,
     "still_open_urgent_items": 20,
-    "database_items_total": 92,
+    "database_items_total": 93,
     "category_counts": {
       "升学": 1,
-      "研究": 4,
+      "研究": 0,
       "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "HKU Chemistry RA I/II（8月6日发布）：核心为光活性／生物活性化合物前体的有机合成，且优先已有有机合成研究经验，方向不匹配",
-      "英国新近 Research Associate／Research Fellow：多要求博士或属于博士后层级",
-      "Karolinska 等欧洲 Assistant Professor／Senior Scientist：要求博士、独立研究计划与成熟发表记录",
-      "SAP Working Student、字节等实习：明确要求当前在读或毕业届别不符",
-      "中国大厂校园招聘：在校身份或毕业届别限制；低经验社招无经官方核验的匹配新增",
-      "Scientific Reports 的部分认知相关观察研究：关联度或证据强度不足，未为增加数量收录"
+      "英国高校新近 Research Associate／Research Fellow：多要求博士或属于博士后层级；部分本科层级 RA 已在 8 月 5–6 日截止",
+      "EURAXESS／JREC-IN 新近结果：多为博士后、教职、研究员或限定在读硕士申请的资助",
+      "腾讯 2026 校招面向 2026 届；实习要求在校，字节实习同样受在校身份或毕业届别限制",
+      "Microsoft、SAP 等外企中国区新近结果：未发现低经验且方向、资格、开放状态同时匹配的岗位",
+      "8 月 7 日期刊结果：未发现同时达到正式发表、方向相关和证据强度门槛的新增，未为凑数收录"
     ]
   },
   "change_legend": {
@@ -2716,12 +2750,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-07T08:00:06+08:00",
-    "increment_boundary": "2026-08-06T18:14:51+08:00",
+    "executed_at_beijing": "2026-08-08T08:04:18+08:00",
+    "increment_boundary": "2026-08-07T08:00:06+08:00",
     "run_type": "daily_full_scan",
-    "result": "completed_with_verified_additions",
-    "repository_write": "completed",
-    "public_site_verification": "raw_data_verified_public_page_unverified_url_safety_block",
-    "note": "完整扫描完成；新增正式研究 4、历史补录 1、状态变化 0。仓库和公开 raw 数据已验证为 92 条及 2026-08-07T08:00:06+08:00；当前网页地址受执行环境 URL 安全限制，GitHub Pages 展示尚未独立确认。"
+    "result": "completed_with_verified_historical_backfill",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "完整扫描完成；新增正式发布 0、历史补录 1、状态变化 0。等待仓库写入与公开网页核验。"
   }
 }
