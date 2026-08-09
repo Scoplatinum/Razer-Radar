@@ -2757,8 +2757,8 @@
     "increment_boundary": "2026-08-08T08:04:18+08:00",
     "run_type": "daily_full_scan",
     "result": "completed_no_new_items_one_existing_urgent_reverified",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "完整扫描完成；新增正式发布 0、历史补录 0、状态变化 0；既有紧迫机会复核 1。等待仓库写入与公开网页核验。"
+    "repository_write": "completed",
+    "public_site_verification": "raw_data_verified_public_page_unverified_url_safety_block",
+    "note": "完整扫描完成；新增正式发布 0、历史补录 0、状态变化 0；既有紧迫机会复核 1。仓库写入完成；当前执行环境拒绝直接打开 GitHub Pages 地址，公开页面刷新状态未能独立确认。"
   }
 }
