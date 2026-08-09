@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T08:04:55+08:00",
-  "notice": "Full verified scan for 9 August 2026. No new item met the publication-date, fit, evidence and open-status thresholds. One existing urgent opportunity was reverified as still open on its official employer page and closes on 10 August or earlier if filled. No verified status change occurred; all prior history is preserved and every required region and source cluster was actively scanned.",
+  "generated_at": "2026-08-09T16:14:46+08:00",
+  "notice": "Incremental verified scan after today's completed full scan. No new publication, historical backfill or verified status change met the fit, evidence and open-status thresholds. HKU Ref. 536886 was reverified as still open on its official employer page and closes on 10 August or earlier if filled. All prior history is preserved; no item was duplicated.",
   "items": [
     {
       "id": "qut-master-artificial-intelligence-2027",
@@ -2689,7 +2689,7 @@
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-09T08:04:55+08:00",
+    "checked_at": "2026-08-09T16:14:46+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
@@ -2738,11 +2738,12 @@
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
+      "Middlesex University 2027 Cognitive and Clinical Neuroscience MSc：官方页面已显示 Apply now，但国际生资格段落误写为需要包含 microbiology 的相关专业，与同页课程要求矛盾；跨专业先修条件无法可靠核验，暂不入库",
+      "NUS MSc in Data Science for Sustainability 2027：早申轮已于 2026-07-15 关闭，常规轮 2026-10-01 才开放；当前不属于开放机会",
       "IndiBrain Project 5 生物真实神经网络博士：方向高度相关，但通常要求硕士，并明确要求扎实量化、机器学习与深度神经网络训练；未作为当前可达机会入库",
-      "英国新近 RA／Research Associate：部分已截止，仍开放者多要求 iPSC、细胞培养或其他硬性湿实验经验",
-      "EURAXESS／JREC-IN 新近结果：主要为博士后、教职、研究员、在读硕士限定资助或已截止岗位",
-      "腾讯、字节等校招／实习：在校身份或毕业届别不符；低经验社招无官方核验新增",
-      "8 月 8 日期刊结果：未发现同时达到正式发表、方向相关和证据强度门槛的新增"
+      "英国／欧洲新近 RA、Research Associate、博士与博士后：开放结果多要求硕士／博士、特定湿实验能力或已超过截止日期",
+      "腾讯、字节等校招／实习：在校身份或毕业届别不符；低经验社招无本轮官方核验新增",
+      "8 月 9 日期刊官方结果：未发现上次扫描后正式发表且同时达到方向相关与证据强度门槛的新增"
     ]
   },
   "change_legend": {
@@ -2753,12 +2754,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-09T08:04:55+08:00",
-    "increment_boundary": "2026-08-08T08:04:18+08:00",
-    "run_type": "daily_full_scan",
+    "executed_at_beijing": "2026-08-09T16:14:46+08:00",
+    "increment_boundary": "2026-08-09T08:04:55+08:00",
+    "run_type": "same_day_incremental_scan_after_completed_full_scan",
     "result": "completed_no_new_items_one_existing_urgent_reverified",
     "repository_write": "completed",
-    "public_site_verification": "raw_data_verified_public_page_unverified_url_safety_block",
-    "note": "完整扫描完成；新增正式发布 0、历史补录 0、状态变化 0；既有紧迫机会复核 1。仓库写入完成；当前执行环境拒绝直接打开 GitHub Pages 地址，公开页面刷新状态未能独立确认。"
+    "public_site_verification": "pending_after_commit",
+    "note": "今日全量扫描已完成，本轮仅补扫其后的新发布、历史补录与状态变化；新增 0、历史补录 0、状态变化 0，既有紧迫机会复核 1。"
   }
 }
