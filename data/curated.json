@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T08:04:18+08:00",
-  "notice": "Full verified scan for 8 August 2026. One previously open cross-disciplinary 2027 AI master's program was first discovered today and added as a historical backfill. No high-quality item was verified as newly published after the prior boundary and no existing item's status was confirmed to have changed. All prior history is preserved; every required region and source cluster was actively scanned.",
+  "generated_at": "2026-08-09T08:04:55+08:00",
+  "notice": "Full verified scan for 9 August 2026. No new item met the publication-date, fit, evidence and open-status thresholds. One existing urgent opportunity was reverified as still open on its official employer page and closes on 10 August or earlier if filled. No verified status change occurred; all prior history is preserved and every required region and source cluster was actively scanned.",
   "items": [
     {
       "id": "qut-master-artificial-intelligence-2027",
@@ -976,22 +976,24 @@
       "location": "中国香港",
       "published_at": "2026-07-17",
       "first_seen_at": "2026-07-20",
-      "updated_at": "2026-08-04",
+      "updated_at": "2026-08-09",
       "deadline": "2026-08-10",
       "discovery_status": "historical_backfill",
       "priority": 90,
-      "verification_status": "verified",
+      "verification_status": "verified_open_official_employer_page_2026-08-09",
       "summary": "3 或 6 个月临时全职岗位，表现合格可续约。接受任何专业本科；要求粤语及英语，并具备儿童言语／语言工作、文献综述、英文校对、粤语语音转写或 Praat、SPSS、R 数据分析中的一项或多项能力。工作包括资料检索、访谈、数据收集分析、转写与翻译；经验为加分项但并非必需。",
       "summary_en": "A three- or six-month full-time temporary RA II role, renewable subject to performance. Applicants may hold a bachelor's degree in any discipline and should have Cantonese and English plus capability in one or more of: work with children with speech/language disorders, literature review, English proofreading, Cantonese phonetic transcription, or data analysis with Praat, SPSS and R. Experience is advantageous but not required.",
       "relevance": "层级和技能要求较适合入门申请，且明确不强制既往经验；粤语是实质门槛。申请收到即审、招满即止，虽属历史补录仍应尽快判断。",
       "tags": [
+        "明日截止",
         "历史补录",
         "需尽快行动",
         "经验非必需",
         "R／Praat",
         "粤语要求"
       ],
-      "source_url": "https://jobs.hku.hk/en/job/536886/fulltime-research-assistant-ii-in-the-faculty-of-education"
+      "source_url": "https://jobs.hku.hk/en/job/536886/fulltime-research-assistant-ii-in-the-faculty-of-education",
+      "current_status": "open_reverified_closes_2026-08-10_or_until_filled"
     },
     {
       "id": "tencent-game-data-analysis-2079118278302806016",
@@ -2653,93 +2655,94 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "核验高校项目、官方招聘与 jobs.ac.uk 线索；新增结果主要为博士后／Research Associate、高经验或已经截止岗位，无合格新增。"
+      "note": "核验高校课程、官方招聘与 jobs.ac.uk 线索；新结果主要为博士后／Research Associate、要求特定湿实验经验或已经截止岗位，无合格新增。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "检查 EURAXESS、高校及研究机构线索；新近结果以博士后、教职、硕士生限定资助或方向不符为主，无合格新增。"
+      "note": "检查 EURAXESS、IndiBrain 与高校官方入口；IndiBrain 项目 5 方向高度相关，但通常要求硕士且明确要求扎实量化、ML 与 DNN 训练，未作为当前可达机会入库。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "复核 HKU、NTU、NUS 等官方入口；未发现上次扫描后新发布且层级、资格和开放状态同时匹配的岗位。"
+      "status": "scanned_existing_urgent_reverified",
+      "note": "HKU 儿童言语／语言 RA II 官方页今日仍可申请，8 月 10 日截止或招满即止；HKU、NTU、NUS 未发现新的合格岗位。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "检查 JREC-IN、高校、研究机构及企业官方入口；命中仍以博士后、研究员、教职、日语硬门槛或高经验岗位为主。"
+      "note": "检查 JREC-IN、KAIST 及研究机构官方线索；结果以教职、博士后、已截止招聘或语言／资格不匹配为主。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_high_quality_new",
-      "note": "核验高校实验室、研究生项目及官方招聘；2027 项目多尚未开放或国际资格／资助条件仍待确认，无本轮合格新增。"
+      "note": "核验高校研究生项目、实验室及招聘入口；未发现本轮新发布且国际资格、层级与资助条件明确适配的机会。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_historical_study_backfill",
-      "note": "补录 QUT 2027 人工智能硕士：两年制路径接受任何本科专业，官方申请入口开放；因页面未给发布日期，严格标记历史补录。"
+      "status": "scanned_no_high_quality_new",
+      "note": "复核主要高校项目和科研招聘；没有比既有 RMIT、QUT 项目更匹配的新项目或低经验岗位。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "复核腾讯、字节等中国大厂和 Microsoft、SAP 等外企中国区官方入口；校招／实习受在校身份或毕业届别限制，社招则多要求成熟经验，无合格新增。"
+      "note": "复核中国大厂及 Microsoft、SAP 等外企中国区官方入口；校招／实习仍受在校身份或毕业届别限制，适配社招未发现新增。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-08T08:04:18+08:00",
+    "checked_at": "2026-08-09T08:04:55+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_no_verified_new_match",
-        "note": "HKU、NTU、NUS、英国高校、北美和澳洲官方入口均已核验；未发现上次扫描后发布且适配本科／低经验申请者的新岗位。"
+        "status": "scanned_one_existing_urgent_reverified",
+        "note": "HKU 儿童言语／语言 RA II 官方页面仍显示 Apply now，8 月 10 日截止或招满即止；其他高校入口无合格新增。"
       },
       {
         "source": "中国大厂官方招聘",
         "status": "scanned_no_verified_match",
-        "note": "腾讯 2026 校招面向 2026 届、实习要求在校；字节实习面向在校生／特定届别，低经验社招未发现官方核验新增。"
+        "note": "腾讯校招面向特定毕业届别、实习要求在校；字节及其他大厂的新结果仍受身份、届别或成熟经验限制。"
       },
       {
         "source": "外企中国区 Careers",
         "status": "scanned_no_verified_match",
-        "note": "Microsoft、SAP 等中国区官方结果未出现经验、专业和开放状态同时适配的数据、AI、科研或医疗科技新增。"
+        "note": "Microsoft、SAP 等官方入口未发现低经验且方向、资格与开放状态同时匹配的新岗位。"
       },
       {
         "source": "高校官方项目与申请页",
-        "status": "scanned_one_historical_backfill",
-        "note": "QUT 人工智能硕士官方页显示两年制接受任何本科专业并提供国际申请入口；本页无发布日期，按历史补录收录。"
+        "status": "scanned_no_verified_new_match",
+        "note": "复核神经、认知、数据、CS 与 AI 项目；未发现上次扫描后新开放且达到学校／项目质量与跨专业可达门槛的新增。"
       },
       {
         "source": "期刊／出版平台",
         "status": "scanned_no_high_quality_new",
-        "note": "检查 Science、Nature 系列、eLife、Neuron 等官方入口；未发现 8 月 7 日正式发表且同时达到相关性和证据门槛的新论文。"
+        "note": "检查 Science、Nature 系列、eLife、Neuron 等官方入口；周末未发现 8 月 8 日正式发表且达到相关性和证据门槛的新论文。"
       },
       {
         "source": "jobs.ac.uk／EURAXESS／JREC-IN／聚合线索",
         "status": "discovery_only_no_additional_verified_match",
-        "note": "仅用于发现；博士后、Research Associate、教职、在读硕士限定资助、硬性经验或已截止结果均未入库。"
+        "note": "仅作发现；IndiBrain 项目 5 因硕士与强 ML/DNN 准备要求未纳入，博士后、教职、已截止与硬性经验岗位亦排除。"
       }
     ]
   },
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 1,
+    "historical_backfills_added": 0,
     "status_changes": 0,
+    "existing_urgent_reverified": 1,
     "still_open_urgent_items": 20,
     "database_items_total": 93,
     "category_counts": {
-      "升学": 1,
+      "升学": 0,
       "研究": 0,
       "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "英国高校新近 Research Associate／Research Fellow：多要求博士或属于博士后层级；部分本科层级 RA 已在 8 月 5–6 日截止",
-      "EURAXESS／JREC-IN 新近结果：多为博士后、教职、研究员或限定在读硕士申请的资助",
-      "腾讯 2026 校招面向 2026 届；实习要求在校，字节实习同样受在校身份或毕业届别限制",
-      "Microsoft、SAP 等外企中国区新近结果：未发现低经验且方向、资格、开放状态同时匹配的岗位",
-      "8 月 7 日期刊结果：未发现同时达到正式发表、方向相关和证据强度门槛的新增，未为凑数收录"
+      "IndiBrain Project 5 生物真实神经网络博士：方向高度相关，但通常要求硕士，并明确要求扎实量化、机器学习与深度神经网络训练；未作为当前可达机会入库",
+      "英国新近 RA／Research Associate：部分已截止，仍开放者多要求 iPSC、细胞培养或其他硬性湿实验经验",
+      "EURAXESS／JREC-IN 新近结果：主要为博士后、教职、研究员、在读硕士限定资助或已截止岗位",
+      "腾讯、字节等校招／实习：在校身份或毕业届别不符；低经验社招无官方核验新增",
+      "8 月 8 日期刊结果：未发现同时达到正式发表、方向相关和证据强度门槛的新增"
     ]
   },
   "change_legend": {
@@ -2750,12 +2753,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-08T08:04:18+08:00",
-    "increment_boundary": "2026-08-07T08:00:06+08:00",
+    "executed_at_beijing": "2026-08-09T08:04:55+08:00",
+    "increment_boundary": "2026-08-08T08:04:18+08:00",
     "run_type": "daily_full_scan",
-    "result": "completed_with_verified_historical_backfill",
-    "repository_write": "completed",
-    "public_site_verification": "raw_data_verified_public_page_unverified_url_safety_block",
-    "note": "完整扫描完成；新增正式发布 0、历史补录 1、状态变化 0。仓库写入和提交后 raw 数据复核完成；当前执行环境拒绝直接打开 GitHub Pages 地址，公开页面刷新状态未能独立确认。"
+    "result": "completed_no_new_items_one_existing_urgent_reverified",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "完整扫描完成；新增正式发布 0、历史补录 0、状态变化 0；既有紧迫机会复核 1。等待仓库写入与公开网页核验。"
   }
 }
