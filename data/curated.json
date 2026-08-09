@@ -2759,7 +2759,7 @@
     "run_type": "same_day_incremental_scan_after_completed_full_scan",
     "result": "completed_no_new_items_one_existing_urgent_reverified",
     "repository_write": "completed",
-    "public_site_verification": "pending_after_commit",
-    "note": "今日全量扫描已完成，本轮仅补扫其后的新发布、历史补录与状态变化；新增 0、历史补录 0、状态变化 0，既有紧迫机会复核 1。"
+    "public_site_verification": "repository_data_verified_public_page_unverified_network_and_url_safety_block",
+    "note": "今日全量扫描已完成，本轮仅补扫其后的新发布、历史补录与状态变化；新增 0、历史补录 0、状态变化 0，既有紧迫机会复核 1。仓库数据与提交已复读确认；站点代码会以 cache:no-store 读取 data/curated.json，但当前环境无法连接 GitHub Pages，公开页面本轮时间戳未能独立确认。"
   }
 }
