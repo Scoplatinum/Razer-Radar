@@ -2759,7 +2759,7 @@
     "run_type": "full_daily_scan",
     "result": "completed_no_new_items_one_existing_urgent_reverified_closes_today",
     "repository_write": "completed",
-    "public_site_verification": "pending_after_repository_write",
-    "note": "全量扫描完成：新增 0、历史补录 0、状态变化 0；HKU 教育学院 RA II 官方页复核仍开放并于今日截止或提前招满。所有指定地区、招聘类别和期刊入口均记录真实覆盖状态。"
+    "public_site_verification": "repository_data_verified_public_page_unverified_url_safety_and_stale_web_cache",
+    "note": "全量扫描完成：新增 0、历史补录 0、状态变化 0；HKU 教育学院 RA II 官方页复核仍开放并于今日截止或提前招满。所有指定地区、招聘类别和期刊入口均记录真实覆盖状态。仓库数据已复读确认；GitHub Pages 地址被当前环境的 URL 安全策略阻止，公开页面时间戳未能独立确认，网页抓取缓存仍显示旧版本。"
   }
 }
