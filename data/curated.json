@@ -2955,7 +2955,7 @@
     "run_type": "incremental_followup_after_full_daily_scan",
     "result": "completed_no_high_quality_increment",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_after_commit",
-    "note": "今日全量扫描已于 08:01 完成；本轮仅补扫其后的新发布、历史补录和状态变化。四类新增均为 0，保留 99 条历史且未重复入库；各分区显示“今日已扫描，无高质量新增”。"
+    "public_site_verification": "repository_updated_pages_trigger_configured_public_page_unverified_network_restriction",
+    "note": "今日全量扫描已于 08:01 完成；本轮仅补扫其后的新发布、历史补录和状态变化。四类新增均为 0，保留 99 条历史且未重复入库；各分区显示“今日已扫描，无高质量新增”。仓库复读成功，main 推送按现有工作流会触发 GitHub Pages 部署；当前环境无法访问 Pages 域名且 gh 未登录，公开网页尚未独立核验。"
   }
 }
