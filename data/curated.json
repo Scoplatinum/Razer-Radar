@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T08:01:51+08:00",
-  "notice": "Full verified daily scan. Added five items officially published since the previous scan (one HKU entry-level research role and four peer-reviewed research updates), one high-fit 2027 Neuroscience MRes historical backfill, and one verified closure after the 10 August deadline. All prior history is preserved and duplicate IDs/URLs were checked.",
+  "generated_at": "2026-08-11T21:37:07.633+08:00",
+  "notice": "Incremental follow-up scan after today's completed full scan at 08:01 Beijing time. No verified high-quality opportunity, research publication, historical backfill, or status change was found after the prior boundary. Existing 99-item history is preserved with no duplicate insertion; all sections show 今日已扫描，无高质量新增.",
   "items": [
     {
       "id": "nhb-hierarchical-resource-rational-reading-2026",
@@ -2851,95 +2851,95 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_one_high_fit_historical_program_backfill",
-      "note": "检查高校官方项目、招聘和 jobs.ac.uk 线索；补录 St Andrews 2027 Neuroscience MRes。该项目已开放、研究占比高，但项目发布日期未确认，因此未标为今日新发布。其他结果无高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "检查 EURAXESS、高校项目与研究机构入口；新近结果主要为博士后、博士职位、已截止或专业／语言资格不匹配，无合格新机会。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_one_new_opportunity_one_status_change",
-      "note": "HKU 与 NTU／NUS 官方入口已检查。HKU Ref. 537103 为 8 月 10 日新发布且欢迎应届生；Ref. 536886 截止后已从官方列表撤下。NTU AI Neuroscience 结果与既有条目重复，未重复收录。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned_no_high_quality_new",
-      "note": "检查 JREC-IN、大学及研究机构入口；新结果以教职、博士后、博士或方向不匹配岗位为主，无合格新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_research_updates_no_new_opportunity",
-      "note": "检查高校项目、实验室和招聘入口；未发现层级、国际资格、开放状态同时匹配的新机会。期刊侧收录了本轮符合证据门槛的国际研究更新。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_no_high_quality_new",
-      "note": "复核主要高校项目和科研招聘；没有比既有条目更匹配的新开放项目或低经验岗位。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "复核中国大厂校招／社招及外企中国区 Careers；结果仍主要受在校身份、毕业届别、专业硬门槛或多年经验限制，无合格新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。仅补扫 2026-08-11 08:01:51+08:00 之后的新发布、历史补录线索和状态变化；未发现同时满足开放状态、学历/届别、低经验、方向与官方核验要求的新条目。"
     }
   ],
   "source_coverage": {
-    "checked_at": "2026-08-11T08:01:51+08:00",
+    "checked_at": "2026-08-11T21:37:07.633+08:00",
     "employers": [
       {
         "source": "高校／科研／医疗科技招聘",
-        "status": "scanned_one_new_one_closed",
-        "note": "HKU Ref. 537103 经官方页核验为新发布、欢迎应届生且仍开放；Ref. 536886 截止后从官方列表撤下。NTU 相关结果与既有条目重复。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "今日已扫描，无高质量新增。补扫边界为 2026-08-11 08:01:51+08:00；命中结果均为边界前发布、已在库、已截止/今日截止、在校或硕博限定、硬性多年经验，或方向与证据门槛不符。"
       },
       {
         "source": "中国大厂官方招聘",
-        "status": "scanned_no_verified_match",
-        "note": "校招／实习仍多限定在校身份或特定毕业届别；低经验社招没有方向、资格和开放状态同时匹配的新结果。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "今日已扫描，无高质量新增。补扫边界为 2026-08-11 08:01:51+08:00；命中结果均为边界前发布、已在库、已截止/今日截止、在校或硕博限定、硬性多年经验，或方向与证据门槛不符。"
       },
       {
         "source": "外企中国区 Careers",
-        "status": "scanned_no_verified_match",
-        "note": "官方入口的新近职位以成熟工程、客户、销售或多年经验为主，未核验到适用新增。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "今日已扫描，无高质量新增。补扫边界为 2026-08-11 08:01:51+08:00；命中结果均为边界前发布、已在库、已截止/今日截止、在校或硕博限定、硬性多年经验，或方向与证据门槛不符。"
       },
       {
         "source": "高校官方项目与申请页",
-        "status": "scanned_one_high_fit_historical_backfill",
-        "note": "St Andrews 2027 Neuroscience MRes 已开放并符合跨科学背景与研究方法要求；因发布日期未确认，作为历史补录。其他地区无合格新增。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "今日已扫描，无高质量新增。补扫边界为 2026-08-11 08:01:51+08:00；命中结果均为边界前发布、已在库、已截止/今日截止、在校或硕博限定、硬性多年经验，或方向与证据门槛不符。"
       },
       {
         "source": "期刊／出版平台",
-        "status": "scanned_four_high_quality_new",
-        "note": "收录 8 月 10 日正式发表的资源理性阅读模型、儿科 SSVEP BCI 数据集、强弱记忆更新、奖励预测误差与时间知觉研究；均在官方期刊页面核验并注明主要局限。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "今日已扫描，无高质量新增。补扫边界为 2026-08-11 08:01:51+08:00；命中结果均为边界前发布、已在库、已截止/今日截止、在校或硕博限定、硬性多年经验，或方向与证据门槛不符。"
       },
       {
         "source": "jobs.ac.uk／EURAXESS／JREC-IN／聚合线索",
-        "status": "discovery_only_no_additional_verified_match",
-        "note": "仅作发现；博士后、教职、硬性硕士／博士、特定湿实验、已截止和身份资格不匹配结果均排除。"
+        "status": "incremental_scanned_no_high_quality_new",
+        "note": "今日已扫描，无高质量新增。补扫边界为 2026-08-11 08:01:51+08:00；命中结果均为边界前发布、已在库、已截止/今日截止、在校或硕博限定、硬性多年经验，或方向与证据门槛不符。"
       }
     ]
   },
   "run_summary": {
-    "newly_published_today": 5,
-    "newly_published_since_last_scan": 5,
-    "historical_backfills_added": 1,
-    "status_changes": 1,
-    "existing_urgent_reverified": 0,
+    "newly_published_today": 0,
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 0,
+    "status_changes": 0,
+    "existing_urgent_reverified": 4,
     "still_open_urgent_items": 20,
     "database_items_total": 99,
     "category_counts": {
-      "升学": 1,
-      "研究": 4,
-      "实验室": 1,
+      "升学": 0,
+      "研究": 0,
+      "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "NTU Research Assistant/Associate (Artificial Intelligence & Neuroscience)：与机会库既有 R00025241 条目重复，未重复收录",
-      "Radboud 好奇心与认知神经科学博士线索：8 月 3 日已截止，不能作为当前机会",
-      "欧洲、日本、北美与澳大利亚新近招聘：主要为博士后、教职、硬性硕士／博士、方向不匹配或国际资格／签证不可确认",
-      "中国大厂与外企中国区：在校身份、毕业届别、硬性专业门槛或多年经验不符",
-      "其余 8 月 10 日期刊结果：与目标方向关联较弱、证据不足或属于评论／观点，未为凑数收录"
+      "Oxford 神经元—星形胶质细胞 iPSC Research Assistant（Ref. 187578）：截止 2026-08-11 12:00 英国时间，且要求已具备 iPSC 分化与分子/细胞生物学实操；不作为本轮低经验新增",
+      "EURAXESS/JREC-IN 新近线索：主要为博士生资助、博士后、教职或已在 8 月 11 日截止，资格与当前用户不符",
+      "香港、新加坡、英国、北美与澳大利亚官方岗位搜索：未发现 08:01 后发布且同时满足本科毕业、低经验、方向匹配与开放核验的新岗位",
+      "中国大厂与外企中国区：命中岗位仍以实习/在校身份、成熟工程岗位或多年经验为主",
+      "8 月 11 日期刊检索命中多为既往正式发表后在当日编入期次，并非本轮边界后的新发表，禁止误标为今日发布"
     ]
   },
   "change_legend": {
@@ -2950,12 +2950,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-11T08:01:51+08:00",
-    "increment_boundary": "2026-08-10T08:06:23+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_five_new_one_historical_backfill_one_status_change",
-    "repository_write": "completed",
-    "public_site_verification": "repository_commit_verified_public_page_unverified_url_safety",
-    "note": "全量扫描完成：上次边界后新发布 5 条、历史补录 1 条、状态变化 1 条。所有指定地区、招聘类别和期刊入口均记录真实覆盖状态；仓库提交与数据复读已验证。GitHub Pages 地址被当前环境的 URL 安全策略阻止，公开页面刷新状态未能独立确认。"
+    "executed_at_beijing": "2026-08-11T21:37:07.633+08:00",
+    "increment_boundary": "2026-08-11T08:01:51+08:00",
+    "run_type": "incremental_followup_after_full_daily_scan",
+    "result": "completed_no_high_quality_increment",
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "pending_after_commit",
+    "note": "今日全量扫描已于 08:01 完成；本轮仅补扫其后的新发布、历史补录和状态变化。四类新增均为 0，保留 99 条历史且未重复入库；各分区显示“今日已扫描，无高质量新增”。"
   }
 }
