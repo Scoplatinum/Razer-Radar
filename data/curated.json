@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T08:02:15+08:00",
-  "notice": "本轮完整扫描新增 2 条上次扫描后正式发布内容、补录 1 个此前已开放项目；保留全部历史记录并重新核验最近截止项。",
+  "generated_at": "2026-08-12T09:00:00+08:00",
+  "notice": "本轮为当天全量扫描后的增量补扫；08:02 之后未发现符合资格且经官方来源核验的高质量新增、历史补录或状态变化。保留全部 102 条历史记录，并重新核验临近截止项。",
   "items": [
     {
       "id": "hku-psychiatry-data-neurocognition-ra-537107",
@@ -2953,92 +2953,90 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；重新核验 Bristol Molecular Neuroscience MSc 仍开放至 2026-08-13。"
+      "note": "今日已扫描，无高质量新增；Bristol Molecular Neuroscience MSc 官方页仍开放，海外申请截止 2026-08-13。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；EURAXESS 等线索主要为博士、博士后、教职或不匹配方向。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_new",
-      "note": "香港新增 1 个港大精神科临床数据／神经认知 RA I/II；并核验港大妇产科学 RA I（8 月 15 日）与吞咽研究 RA（8 月 16 日）仍开放。新加坡官方入口未发现合格新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；JREC-IN 等命中主要为教职、博士后或已失效岗位。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无符合低经验、方向、签证可达性与官方开放状态要求的新机会；收录一篇国际人类神经发育研究更新。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_with_historical_backfill",
-      "note": "补录 RMIT 2027 人工智能硕士；该项目在本轮边界前已经开放，因此严格标记为历史补录。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；中国大厂结果仍主要受在校身份、毕业届别或多年经验限制。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无新发布项目；重新核验近期英国项目截止状态。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "scanned_with_historical_backfill",
-      "note": "补录 RMIT Master of Artificial Intelligence 2027，申请已于 2026-08-03 开放。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_with_new",
-      "note": "港大精神科 RA I/II 于 2026-08-11 发布，欢迎应届生，已由官方职位页核验。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_with_new",
-      "note": "收录 2026-08-11 正式发表的 Nature Neuroscience 人类胎脑 cerebroid 研究；未为增加数量收录低相关结果。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描腾讯、百度等官方入口；命中以在校生／特定毕业届别或多年经验岗位为主。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描主要官方 Careers；未发现同时满足低经验、方向匹配和开放核验的新岗位。"
+      "note": "今日增量补扫已完成，无高质量新增。"
     }
   ],
   "run_summary": {
-    "newly_published_today": 2,
-    "newly_published_since_last_scan": 2,
-    "historical_backfills_added": 1,
+    "newly_published_today": 0,
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 0,
     "status_changes": 0,
     "existing_urgent_reverified": 3,
     "still_open_urgent_items": 21,
     "database_items_total": 102,
     "category_counts": {
-      "升学": 1,
-      "研究": 1,
-      "实验室": 1,
+      "升学": 0,
+      "研究": 0,
+      "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "HKU 药理学 RA I/II（Ref. 537113）：岗位主体为动物实验、体内药物研究与实验室维护，偏湿实验，未纳入高匹配推荐。",
-      "HKU 社会工作与社会行政学 RA（Ref. 537118）：虽然涉及 R/Python 与混合方法，但 RA I/II 层级要求硕士或本科加 substantial research experience，且社区利益相关方沟通较重。",
-      "HKU 社会政策 RA（Ref. 537090）：硕士为硬性要求。",
-      "EURAXESS/JREC-IN 新近线索：主要为博士、博士后、教职或不匹配专业。",
-      "中国大厂与外企中国区：命中岗位仍以在校身份、特定毕业届别、成熟工程能力或多年经验为主。",
-      "期刊侧其他 8 月 11 日结果：未达到本轮相关性与证据门槛，未为凑数收录。"
+      "Martingale 2027 数学／AI 硕博全奖：2026-08-12 开放，但硬性要求英国 Home Fee 身份，并要求在英国或爱尔兰完成规定年限的中小学教育；对一般国际申请者不可达，未入库。",
+      "HKU 妇产科学 RA I（Ref. 536995）：2026-07-28 已发布，要求至少 1 年工作经验，且主体为细胞培养、分子生物学、动物操作与实验室维护；本轮不作高匹配历史补录。",
+      "HKU 社区医学 RA I/II（Ref. 536268）：2026-08-12 截止，主体为社区外勤、招募、问卷访谈和样本收集，且并非本轮边界后新发布；未重复入库。",
+      "其他地区和公司入口：未发现同时满足低经验、方向匹配、签证可达性和官方开放核验要求的 08:02 后新增。"
     ]
   },
   "change_legend": {
@@ -3049,12 +3047,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-12T08:02:15+08:00",
-    "increment_boundary": "2026-08-11T21:37:07.633+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_2_new_and_1_historical_backfill",
+    "executed_at_beijing": "2026-08-12T09:00:00+08:00",
+    "increment_boundary": "2026-08-12T08:02:15+08:00",
+    "run_type": "same_day_incremental_scan",
+    "result": "completed_no_high_quality_increment",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
-    "note": "本轮完成全地区、项目、岗位与研究入口扫描；新增港大精神科 RA 和 Nature Neuroscience 研究，补录 RMIT 2027 AI 硕士，并复核 Bristol（8 月 13 日）、HKU 妇产科学 RA（8 月 15 日）和 HKU 吞咽研究 RA（8 月 16 日）仍开放。仓库复读、数量与去重检查通过；当前环境无法访问 github.io，公开页面刷新状态未能独立核验。"
+    "public_site_verification": "pending_after_repository_update",
+    "note": "今日 08:02 已完成全量扫描，本轮仅补扫其后新发布、历史补录与状态变化；四类新增均为 0，历史 102 条保持不变。Bristol Molecular Neuroscience MSc（海外申请截止 8 月 13 日）仍为最紧急项。ChatGPT 项目规则列表接口本轮未返回，沿用自动化提示中的完整规则。"
   }
 }
