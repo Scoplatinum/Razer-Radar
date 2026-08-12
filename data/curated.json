@@ -3052,7 +3052,7 @@
     "run_type": "same_day_incremental_scan",
     "result": "completed_no_high_quality_increment",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_after_repository_update",
-    "note": "今日 08:02 已完成全量扫描，本轮仅补扫其后新发布、历史补录与状态变化；四类新增均为 0，历史 102 条保持不变。Bristol Molecular Neuroscience MSc（海外申请截止 8 月 13 日）仍为最紧急项。ChatGPT 项目规则列表接口本轮未返回，沿用自动化提示中的完整规则。"
+    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
+    "note": "今日 08:02 已完成全量扫描，本轮仅补扫其后新发布、历史补录与状态变化；四类新增均为 0，历史 102 条保持不变。Bristol Molecular Neuroscience MSc（海外申请截止 8 月 13 日）仍为最紧急项。ChatGPT 项目规则列表接口本轮未返回，沿用自动化提示中的完整规则。仓库复读通过；当前环境的 URL 安全策略阻止访问 github.io，公开页尚未独立核验。"
   }
 }
