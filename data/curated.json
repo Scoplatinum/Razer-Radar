@@ -3053,8 +3053,8 @@
     "increment_boundary": "2026-08-11T21:37:07.633+08:00",
     "run_type": "full_daily_scan",
     "result": "completed_with_2_new_and_1_historical_backfill",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "本轮完成全地区、项目、岗位与研究入口扫描；新增港大精神科 RA 和 Nature Neuroscience 研究，补录 RMIT 2027 AI 硕士，并复核三个最近截止节点。"
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
+    "note": "本轮完成全地区、项目、岗位与研究入口扫描；新增港大精神科 RA 和 Nature Neuroscience 研究，补录 RMIT 2027 AI 硕士，并复核 Bristol（8 月 13 日）、HKU 妇产科学 RA（8 月 15 日）和 HKU 吞咽研究 RA（8 月 16 日）仍开放。仓库复读、数量与去重检查通过；当前环境无法访问 github.io，公开页面刷新状态未能独立核验。"
   }
 }
