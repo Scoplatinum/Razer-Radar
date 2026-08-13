@@ -1,7 +1,108 @@
 {
-  "generated_at": "2026-08-12T09:00:00+08:00",
-  "notice": "本轮为当天全量扫描后的增量补扫；08:02 之后未发现符合资格且经官方来源核验的高质量新增、历史补录或状态变化。保留全部 102 条历史记录，并重新核验临近截止项。",
+  "generated_at": "2026-08-13T08:04:32+08:00",
+  "notice": "本轮完整扫描新增 1 个数据型实验室岗位和 2 篇正式研究论文；保留全部历史，并复核最接近截止节点。",
   "items": [
+    {
+      "id": "hku-suicide-prevention-data-ra-537124",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学自杀研究与预防中心数据分析科研助理 I/II",
+      "title_en": "Research Assistant I/II — Suicide Research, Service Utilisation and Community Early Warning",
+      "organization": "The University of Hong Kong · Hong Kong Jockey Club Centre for Suicide Research and Prevention",
+      "location": "中国香港",
+      "published_at": "2026-08-12",
+      "first_seen_at": "2026-08-13",
+      "updated_at": "2026-08-13",
+      "deadline": "2026-10-31",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 97,
+      "verification_status": "verified_open_official_employer_listing",
+      "summary": "研究难以接触老年群体的服务使用情况及社区预警系统。本科可申请，接受统计、数学、数据科学、社会科学或相关专业；工作包括调查及其他数据的收集、清洗、分析和解释，证据综述、论文和报告撰写。要求掌握 R、Stata、Python 或 SPSS 至少一种，熟悉可复现流程、纵向／行政／大型社会调查数据者优先。",
+      "summary_en": "The role studies service utilisation among hard-to-reach older adults and community early-warning systems. Bachelor’s graduates in statistics, mathematics, data science, social science or related fields may apply. Duties include collecting, cleaning, analysing and interpreting survey and other data, evidence reviews, and manuscript/report preparation. Proficiency in R, Stata, Python or SPSS is required; reproducible workflows and longitudinal, administrative or large survey datasets are advantageous.",
+      "relevance": "这是精神健康、社会调查和数据分析结合较直接的本科层级岗位；一年相关经验为优先项而非绝对门槛，技术能力强者也可考虑。岗位同时要求中英文、面向非技术受众解释结果、内外部联络，并可能在数据收集期安排不规则工时或周末工作，申请前应评估职责结构。",
+      "tags": [
+        "上次扫描后新发布",
+        "需尽快行动",
+        "本科可申请",
+        "R",
+        "Python",
+        "SPSS",
+        "纵向数据",
+        "调查数据",
+        "可复现流程",
+        "精神健康",
+        "滚动审查",
+        "含对外联络"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537124/research-assistant-iii",
+      "current_status": "open_rolling_until_2026-10-31_or_filled"
+    },
+    {
+      "id": "natneuro-human-cross-region-coripples-working-memory-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "跨脑区 ripple 协同支持分布式工作记忆表征",
+      "title_en": "Cross-region Neuron Co-firing Mediated by Ripple Oscillations Supports Distributed Working Memory Representations",
+      "organization": "Nature Neuroscience",
+      "location": "国际・人类颅内电生理",
+      "published_at": "2026-08-12",
+      "first_seen_at": "2026-08-13",
+      "updated_at": "2026-08-13",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 99,
+      "verification_status": "verified_formally_published_official_journal_page",
+      "summary": "研究分析 35 名药物难治性癫痫患者、43 次 Sternberg 工作记忆任务的颅内微丝记录，覆盖双侧海马、杏仁核、腹内侧前额叶、前扣带和 pre-SMA，共分离 1,373 个单神经元。约 90 Hz ripple 在远至 220 mm 的脑区间共同出现时，跨区神经元共放电提升约 30% 以上；效应随记忆负荷增加，并在提取阶段重现编码时的刺激特异共放电模式。",
+      "summary_en": "The study analysed intracranial microwire recordings from 35 patients across 43 Sternberg working-memory sessions, sampling bilateral hippocampus, amygdala, vmPFC, ACC and pre-SMA and isolating 1,373 units. Co-occurring ~90-Hz ripples enhanced cross-region co-firing over distances up to 220 mm, scaled with memory load, and reinstated stimulus-specific encoding patterns during retrieval.",
+      "relevance": "该研究直接连接海马、神经振荡、跨区同步、单神经元记录和记忆表征。主要局限是癫痫临床样本、电极位置由治疗需要决定且区域覆盖不均；只测试 1 对 3 项的 Sternberg 任务，co-ripple 与行为表现的关系仍主要是相关性，不能单独证明因果通信机制。",
+      "tags": [
+        "上次扫描后新发布",
+        "Nature Neuroscience",
+        "正式发表",
+        "人类颅内电生理",
+        "单神经元",
+        "ripple",
+        "工作记忆",
+        "海马",
+        "跨脑区同步",
+        "共放电"
+      ],
+      "source_url": "https://www.nature.com/articles/s41593-026-02403-z",
+      "current_status": "formally_published_version_of_record"
+    },
+    {
+      "id": "molpsy-adversarial-genetic-resilience-alzheimers-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "对抗式多任务神经网络分离阿尔茨海默病风险与遗传韧性",
+      "title_en": "An Adversarial Multi-task Neural Network to Disentangle Genetic Risk and Resilience in Alzheimer’s Disease",
+      "organization": "Molecular Psychiatry",
+      "location": "国际・神经遗传学／机器学习",
+      "published_at": "2026-08-12",
+      "first_seen_at": "2026-08-13",
+      "updated_at": "2026-08-13",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 96,
+      "verification_status": "verified_formally_published_official_journal_page",
+      "summary": "研究构建对抗式多任务神经网络，用高遗传风险但未患病者与同等风险患病者学习“韧性”信号，同时去除低风险群体中的模式。模型先在模拟数据中评估，再应用于既有阿尔茨海默病遗传数据，生成独立于多基因风险分数的韧性评分，并筛出 5 个韧性相关 SNP；模拟结果优于传统方法。",
+      "summary_en": "An adversarial multi-task neural network distinguishes high-risk unaffected people from affected people at comparable risk while unlearning low-risk patterns. After simulation benchmarking, it was applied to existing Alzheimer’s datasets, yielding resilience scores independent of polygenic risk scores and prioritising five resilience-associated SNPs.",
+      "relevance": "该工作把深度学习、遗传统计和脑疾病韧性连接起来，可作为医疗／生信 AI 方法案例。主要局限是特征发现依赖模型、样本定义和受控访问数据，五个 SNP 尚不能等同于已验证的保护机制；缺少实验性因果验证，代码也仅在合理请求后提供。",
+      "tags": [
+        "上次扫描后新发布",
+        "Molecular Psychiatry",
+        "正式发表",
+        "阿尔茨海默病",
+        "神经遗传学",
+        "对抗学习",
+        "多任务学习",
+        "多基因风险评分",
+        "SNP",
+        "生物信息"
+      ],
+      "source_url": "https://www.nature.com/articles/s41380-026-03814-x",
+      "current_status": "formally_published_version_of_record"
+    },
     {
       "id": "hku-psychiatry-data-neurocognition-ra-537107",
       "category": "实验室",
@@ -2953,90 +3054,92 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增；Bristol Molecular Neuroscience MSc 官方页仍开放，海外申请截止 2026-08-13。"
+      "note": "已扫描、无高质量新增；Bristol Molecular Neuroscience MSc 官方页仍显示 Apply now，海外申请今天 2026-08-13 截止。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描、无高质量新增；EURAXESS 8 月 12 日新结果主要为博士、教职、管理岗或不匹配方向。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "status": "scanned_with_new",
+      "note": "香港新增 HKU 自杀研究与预防中心数据分析 RA I/II；HKU-Pasteur 新岗位因小鼠感染与流式细胞湿实验未纳入。新加坡官方入口无合格新增。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描、无高质量新增；JREC-IN 当前结果仍以教职、研究员／博士后或资格不符岗位为主。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "status": "scanned_with_research_updates",
+      "note": "机会入口已扫描、无合格新岗位；收录人类颅内电生理及阿尔茨海默病遗传建模两篇国际研究。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描、无高质量新增；Curtin AI 硕士要求 IT／计算科学／工程背景及特定学制或相关经验，不作为跨专业项目补录。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描、无高质量新增；大厂结果仍主要要求在校身份、特定毕业届别、1–3 年以上垂直经验或成熟业务能力。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描、无高质量新增；Cambridge 2027 项目尚待 9 月开放，Oxford 2027 尚未开放。"
     },
     {
       "source_group": "数据／计算／AI项目",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描、无满足跨专业背景与认可度要求的新项目。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "status": "scanned_with_new",
+      "note": "新增 HKU 自杀研究与预防中心 RA I/II，官方发布日 2026-08-12。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "status": "scanned_with_new",
+      "note": "收录 Nature Neuroscience 人类跨脑区 ripple 研究及 Molecular Psychiatry 遗传韧性模型。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "百度、字节等官方入口已扫描；结果受毕业届别、在校身份或垂直经验限制。"
     },
     {
       "source_group": "外企中国区 Careers",
       "status": "scanned_no_high_quality_new",
-      "note": "今日增量补扫已完成，无高质量新增。"
+      "note": "已扫描主要外企官方 Careers，未发现同时满足低经验、开放状态和方向匹配的新岗位。"
     }
   ],
   "run_summary": {
-    "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
+    "newly_published_today": 3,
+    "newly_published_since_last_scan": 3,
     "historical_backfills_added": 0,
     "status_changes": 0,
-    "existing_urgent_reverified": 3,
-    "still_open_urgent_items": 21,
-    "database_items_total": 102,
+    "existing_urgent_reverified": 2,
+    "still_open_urgent_items": 22,
+    "database_items_total": 105,
     "category_counts": {
       "升学": 0,
-      "研究": 0,
-      "实验室": 0,
+      "研究": 2,
+      "实验室": 1,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "Martingale 2027 数学／AI 硕博全奖：2026-08-12 开放，但硬性要求英国 Home Fee 身份，并要求在英国或爱尔兰完成规定年限的中小学教育；对一般国际申请者不可达，未入库。",
-      "HKU 妇产科学 RA I（Ref. 536995）：2026-07-28 已发布，要求至少 1 年工作经验，且主体为细胞培养、分子生物学、动物操作与实验室维护；本轮不作高匹配历史补录。",
-      "HKU 社区医学 RA I/II（Ref. 536268）：2026-08-12 截止，主体为社区外勤、招募、问卷访谈和样本收集，且并非本轮边界后新发布；未重复入库。",
-      "其他地区和公司入口：未发现同时满足低经验、方向匹配、签证可达性和官方开放核验要求的 08:02 后新增。"
+      "HKU-Pasteur RA I/II（Ref. 537114）：核心为小鼠呼吸道病毒感染、动物实验与流式细胞，偏湿实验。",
+      "HKU Assistant Research Officer（Ref. 537120）：要求博士及至少 5 年临床试验经验。",
+      "Curtin Master of Artificial Intelligence：要求 IT／计算科学／工程本科，并对三年制学位附加至少 2 年相关经验。",
+      "EURAXESS/JREC-IN 新近结果：主要为博士、博士后、教职、管理岗或专业不符。",
+      "中国大厂与外企中国区：命中岗位仍以在校身份、特定毕业届别、成熟工程能力或多年经验为主。",
+      "Nature Communications 的 AbdomenNet 等结果未取得足够的方法、样本和限制信息，未在证据不足时入库。"
     ]
   },
   "change_legend": {
@@ -3047,12 +3150,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-12T09:00:00+08:00",
-    "increment_boundary": "2026-08-12T08:02:15+08:00",
-    "run_type": "same_day_incremental_scan",
-    "result": "completed_no_high_quality_increment",
-    "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
-    "note": "今日 08:02 已完成全量扫描，本轮仅补扫其后新发布、历史补录与状态变化；四类新增均为 0，历史 102 条保持不变。Bristol Molecular Neuroscience MSc（海外申请截止 8 月 13 日）仍为最紧急项。ChatGPT 项目规则列表接口本轮未返回，沿用自动化提示中的完整规则。仓库复读通过；当前环境的 URL 安全策略阻止访问 github.io，公开页尚未独立核验。"
+    "executed_at_beijing": "2026-08-13T08:04:32+08:00",
+    "increment_boundary": "2026-08-12T09:00:00+08:00",
+    "run_type": "full_daily_scan",
+    "result": "completed_with_3_new_items",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "本轮完成全地区、项目、岗位和期刊入口扫描；新增 1 个实验室岗位及 2 篇正式论文。Bristol 2026 海外申请今天截止，HKU 妇产科学 RA 仍开放至 8 月 15 日。"
   }
 }
