@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-08-13T08:04:32+08:00",
-  "notice": "本轮完整扫描新增 1 个数据型实验室岗位和 2 篇正式研究论文；保留全部历史，并复核最接近截止节点。",
+  "notice": "本轮完整扫描发现 3 条在上次扫描后正式发布的内容（1 个数据型实验室岗位、2 篇正式研究论文）；官方发布日期均为 2026-08-12，故不误写为 8 月 13 日今日发布。保留全部历史，并复核最接近截止节点。",
   "items": [
     {
       "id": "hku-suicide-prevention-data-ra-537124",
@@ -3120,7 +3120,7 @@
     }
   ],
   "run_summary": {
-    "newly_published_today": 3,
+    "newly_published_today": 0,
     "newly_published_since_last_scan": 3,
     "historical_backfills_added": 0,
     "status_changes": 0,
