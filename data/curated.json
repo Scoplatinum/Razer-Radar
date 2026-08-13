@@ -3154,8 +3154,8 @@
     "increment_boundary": "2026-08-12T09:00:00+08:00",
     "run_type": "full_daily_scan",
     "result": "completed_with_3_new_items",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "本轮完成全地区、项目、岗位和期刊入口扫描；新增 1 个实验室岗位及 2 篇正式论文。Bristol 2026 海外申请今天截止，HKU 妇产科学 RA 仍开放至 8 月 15 日。"
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
+    "note": "本轮完成全地区、项目、岗位和期刊入口扫描；新增 HKU 数据型 RA 及 2 篇正式论文。Bristol 2026 海外申请今天截止，HKU 妇产科学 RA 仍开放至 8 月 15 日。仓库复读、数量与去重检查通过；当前环境的 URL 安全策略阻止访问 github.io，公开页面刷新状态未能独立核验。"
   }
 }
