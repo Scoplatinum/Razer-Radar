@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T08:04:32+08:00",
-  "notice": "本轮完整扫描发现 3 条在上次扫描后正式发布的内容（1 个数据型实验室岗位、2 篇正式研究论文）；官方发布日期均为 2026-08-12，故不误写为 8 月 13 日今日发布。保留全部历史，并复核最接近截止节点。",
+  "generated_at": "2026-08-13T17:23:06+08:00",
+  "notice": "今日已完成全量扫描后的增量补扫（北京时间 08:04–17:23），未发现可由官方来源充分核验的高质量新增、历史补录或状态变化；保留全部 105 条历史记录。Bristol Molecular Neuroscience MSc 海外申请仍显示今日截止，不把首次发现或复核日期误写为发布日期。",
   "items": [
     {
       "id": "hku-suicide-prevention-data-ra-537124",
@@ -3054,12 +3054,12 @@
     {
       "region": "英国与爱尔兰",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；Bristol Molecular Neuroscience MSc 官方页仍显示 Apply now，海外申请今天 2026-08-13 截止。"
+      "note": "今日已扫描，无高质量新增；Bristol Molecular Neuroscience MSc 官方页仍显示 Apply now，海外申请今天 2026-08-13 截止。"
     },
     {
       "region": "欧洲大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；EURAXESS 8 月 12 日新结果主要为博士、教职、管理岗或不匹配方向。"
+      "note": "今日已扫描，无高质量新增；EURAXESS 8 月 12 日新结果主要为博士、教职、管理岗或不匹配方向。"
     },
     {
       "region": "香港与新加坡",
@@ -3069,7 +3069,7 @@
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；JREC-IN 当前结果仍以教职、研究员／博士后或资格不符岗位为主。"
+      "note": "今日已扫描，无高质量新增；JREC-IN 当前结果仍以教职、研究员／博士后或资格不符岗位为主。"
     },
     {
       "region": "美国与加拿大",
@@ -3079,67 +3079,67 @@
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；Curtin AI 硕士要求 IT／计算科学／工程背景及特定学制或相关经验，不作为跨专业项目补录。"
+      "note": "今日已扫描，无高质量新增；Curtin AI 硕士要求 IT／计算科学／工程背景及特定学制或相关经验，不作为跨专业项目补录。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；大厂结果仍主要要求在校身份、特定毕业届别、1–3 年以上垂直经验或成熟业务能力。"
+      "note": "今日已扫描，无高质量新增；大厂结果仍主要要求在校身份、特定毕业届别、1–3 年以上垂直经验或成熟业务能力。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；Cambridge 2027 项目尚待 9 月开放，Oxford 2027 尚未开放。"
+      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
     },
     {
       "source_group": "数据／计算／AI项目",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无满足跨专业背景与认可度要求的新项目。"
+      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_with_new",
-      "note": "新增 HKU 自杀研究与预防中心 RA I/II，官方发布日 2026-08-12。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_with_new",
-      "note": "收录 Nature Neuroscience 人类跨脑区 ripple 研究及 Molecular Psychiatry 遗传韧性模型。"
+      "status": "scanned_no_high_quality_new",
+      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "scanned_no_high_quality_new",
-      "note": "百度、字节等官方入口已扫描；结果受毕业届别、在校身份或垂直经验限制。"
+      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
     },
     {
       "source_group": "外企中国区 Careers",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描主要外企官方 Careers，未发现同时满足低经验、开放状态和方向匹配的新岗位。"
+      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
     }
   ],
   "run_summary": {
     "newly_published_today": 0,
-    "newly_published_since_last_scan": 3,
+    "newly_published_since_last_scan": 0,
     "historical_backfills_added": 0,
     "status_changes": 0,
-    "existing_urgent_reverified": 2,
+    "existing_urgent_reverified": 3,
     "still_open_urgent_items": 22,
     "database_items_total": 105,
     "category_counts": {
       "升学": 0,
-      "研究": 2,
-      "实验室": 1,
+      "研究": 0,
+      "实验室": 0,
       "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "HKU-Pasteur RA I/II（Ref. 537114）：核心为小鼠呼吸道病毒感染、动物实验与流式细胞，偏湿实验。",
-      "HKU Assistant Research Officer（Ref. 537120）：要求博士及至少 5 年临床试验经验。",
-      "Curtin Master of Artificial Intelligence：要求 IT／计算科学／工程本科，并对三年制学位附加至少 2 年相关经验。",
-      "EURAXESS/JREC-IN 新近结果：主要为博士、博士后、教职、管理岗或专业不符。",
-      "中国大厂与外企中国区：命中岗位仍以在校身份、特定毕业届别、成熟工程能力或多年经验为主。",
-      "Nature Communications 的 AbdomenNet 等结果未取得足够的方法、样本和限制信息，未在证据不足时入库。"
+      "字节跳动 2026 校园招聘：仅面向 2025 年 9 月至 2026 年 8 月毕业且毕业后无全职经验者；2024 本科毕业届别不符。",
+      "腾讯 2026 校园招聘及春招：面向 2026 或 2026–2027 届；2024 本科毕业届别不符。",
+      "ByteDance Dubai Data Analyst：硬性要求至少 3 年相关数据分析经验。",
+      "ByteDance Research Scientist Graduate（Distributed NoSQL）：硬性要求计算机相关博士及强数据库研究经历。",
+      "本轮搜索命中的 Nature 8 月 13 日页面为专题征稿截止页，并非当日正式研究论文，未误收录。",
+      "08:04 后未发现能由学校、实验室、期刊或公司官网同时确认开放状态、资格匹配和发布日期的其他机会。"
     ]
   },
   "change_legend": {
@@ -3150,12 +3150,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-13T08:04:32+08:00",
-    "increment_boundary": "2026-08-12T09:00:00+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_3_new_items",
+    "executed_at_beijing": "2026-08-13T17:23:06+08:00",
+    "increment_boundary": "2026-08-13T08:04:32+08:00",
+    "run_type": "same_day_incremental_supplement",
+    "result": "completed_no_high_quality_increment",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
-    "note": "本轮完成全地区、项目、岗位和期刊入口扫描；新增 HKU 数据型 RA 及 2 篇正式论文。Bristol 2026 海外申请今天截止，HKU 妇产科学 RA 仍开放至 8 月 15 日。仓库复读、数量与去重检查通过；当前环境的 URL 安全策略阻止访问 github.io，公开页面刷新状态未能独立核验。"
+    "public_site_verification": "pending_after_repository_update",
+    "note": "当天早间全量扫描已完成，本轮仅补扫其后新发布、历史补录和状态变化。无合格新增；复核 Bristol Molecular Neuroscience MSc 今日海外截止，HKU 537124 与 537107 仍开放。"
   }
 }
