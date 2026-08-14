@@ -1,7 +1,145 @@
 {
-  "generated_at": "2026-08-13T17:23:06+08:00",
-  "notice": "今日已完成全量扫描后的增量补扫（北京时间 08:04–17:23），未发现可由官方来源充分核验的高质量新增、历史补录或状态变化；保留全部 105 条历史记录。Bristol Molecular Neuroscience MSc 海外申请仍显示今日截止，不把首次发现或复核日期误写为发布日期。",
+  "generated_at": "2026-08-14T08:03:01+08:00",
+  "notice": "今日完整扫描新增 4 条历史补录（1 个 AI 工程岗位、3 篇 8 月 13 日正式研究）并记录 1 条状态变化；Bristol Molecular Neuroscience MSc 海外申请截止已过。全部新条目均以官方雇主或期刊页面核验，保留 105 条历史记录后总计 109 条。",
   "items": [
+    {
+      "id": "hku-ai-engineer-ra2-537095",
+      "category": "求职",
+      "section": "算法与 AI 岗位",
+      "title": "香港大学计算与数据科学学院 AI 工程师（科研助理 II）",
+      "title_en": "AI Engineer (at the rank of Research Assistant II) — School of Computing and Data Science",
+      "organization": "The University of Hong Kong · School of Computing and Data Science",
+      "location": "中国香港",
+      "published_at": "2026-08-13",
+      "first_seen_at": "2026-08-14",
+      "updated_at": "2026-08-14",
+      "deadline": "2026-09-15",
+      "discovery_status": "historical_backfill",
+      "priority": 92,
+      "verification_status": "verified_open_official_employer_listing",
+      "summary": "一年期 AI 工程岗位，本科及以上可申请，未写明硬性工作年限。工作是为法律研究、教学与社区项目开发下一代 AI 应用，技术栈包括 TypeScript/JavaScript、Python/Flask、Vercel AI SDK、MCP、agent tool calls、PostgreSQL/Prisma，以及 Azure OpenAI 和部署运维；滚动审查至 9 月 15 日或招满即止。",
+      "summary_en": "A one-year AI engineering role open to bachelor’s graduates or above, with no fixed years-of-experience threshold stated. The appointee will build an AI application for legal research, teaching and community engagement using TypeScript/JavaScript, Python/Flask, Vercel AI SDK, MCP, agent tool calls, PostgreSQL/Prisma, Azure OpenAI and deployment tooling. Review is rolling until 15 September or until filled.",
+      "relevance": "它是 AI 应用与科研工程结合直接的本科层级入口，但官网同时要求已证明的全栈开发经历及较完整的生产技术栈，因此不是零基础岗位。适合已有可演示 Web/AI 项目者尽快投递；缺少 PostgreSQL、云部署或 agent/MCP 项目时竞争风险较高。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "本科可申请",
+        "AI 应用",
+        "科研工程",
+        "TypeScript",
+        "Python/Flask",
+        "MCP",
+        "AI agents",
+        "PostgreSQL",
+        "Azure OpenAI",
+        "滚动审查",
+        "竞争风险"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537095/ai-engineer-at-the-rank-of-research-assistant-ii-in-the-school-of-computing-and-data-science",
+      "current_status": "open_rolling_until_2026-09-15_or_filled"
+    },
+    {
+      "id": "natcomm-single-objective-visual-streams-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "单一计算目标也能产生视觉皮层流的功能分化",
+      "title_en": "A Single Computational Objective Can Produce Specialization of Streams in Visual Cortex",
+      "organization": "Nature Communications",
+      "location": "国际・计算神经科学／视觉系统",
+      "published_at": "2026-08-13",
+      "first_seen_at": "2026-08-14",
+      "updated_at": "2026-08-14",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 99,
+      "verification_status": "verified_formally_published_official_journal_page_early_access",
+      "summary": "研究比较多类神经网络模型与 Natural Scenes Dataset 的大规模人类 fMRI 反应。加入局部拓扑约束、以自监督目标训练的 TDANN，比为不同视觉行为分别训练的模型更好地解释脑反应、视觉流的空间分隔与功能分化；结果表明，背侧、外侧和腹侧流未必需要不同任务目标才能涌现。",
+      "summary_en": "The study compared neural-network models against the large Natural Scenes Dataset fMRI resource. A self-supervised topographic DANN with local spatial constraints better captured cortical responses, spatial segregation and functional differentiation across dorsal, lateral and ventral streams than models trained on separate stream-specific behaviours.",
+      "relevance": "直接连接视觉皮层表征、拓扑深度网络、fMRI 与脑启发 AI，适合作为表征相似性或模型—脑对齐项目。主要局限是模型拟合与涌现结果不能证明发育或进化因果机制；对比依赖特定网络、训练数据和 NSD，当前还是未经文字编辑的 early-access 版本。",
+      "tags": [
+        "历史补录",
+        "Nature Communications",
+        "正式发表",
+        "early access",
+        "计算神经科学",
+        "视觉皮层",
+        "fMRI",
+        "NSD",
+        "自监督学习",
+        "拓扑神经网络",
+        "脑启发AI"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-76098-y",
+      "current_status": "formally_published_early_access"
+    },
+    {
+      "id": "npp-theta-gamma-tdcs-cognitive-remediation-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "基线 theta–gamma 耦合调节认知训练与 tDCS 的长期效果",
+      "title_en": "Theta–Gamma Coupling Moderates Response to Cognitive Remediation Combined with tDCS in Older Adults at High Risk for Dementia",
+      "organization": "Neuropsychopharmacology",
+      "location": "加拿大・EEG／神经调控／认知老化",
+      "published_at": "2026-08-13",
+      "first_seen_at": "2026-08-14",
+      "updated_at": "2026-08-14",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 98,
+      "verification_status": "verified_formally_published_official_journal_page",
+      "summary": "PACt-MD 随机试验的二次分析纳入 260 名平均 71.9 岁、患轻度认知障碍或缓解期重度抑郁的参与者。研究用 64 导 EEG 的 N-back 任务测量前额叶 theta–gamma 相位振幅耦合，并以混合效应模型追踪最长 6 年认知变化。高基线耦合组接受认知训练加 tDCS 后，全局认知和言语记忆下降更慢；低耦合组未见同样长期优势。",
+      "summary_en": "This secondary PACt-MD analysis included 260 adults (mean age 71.9) with MCI or remitted major depression. Prefrontal theta–gamma phase–amplitude coupling was measured during a 64-channel EEG N-back task, and mixed-effects models tracked cognition for up to six years. Higher baseline coupling moderated slower decline in global cognition and verbal memory after cognitive remediation plus tDCS.",
+      "relevance": "与 theta–gamma、EEG、工作记忆、认知储备和非侵入神经调控高度相关。局限包括二次分析、以中位数二分连续耦合指标、样本以高教育白人为主，以及调节关系并不等同该振荡是治疗反应的因果机制；结果不宜直接转化为个体治疗选择。",
+      "tags": [
+        "历史补录",
+        "Neuropsychopharmacology",
+        "正式发表",
+        "EEG",
+        "theta-gamma耦合",
+        "N-back",
+        "tDCS",
+        "认知训练",
+        "MCI",
+        "长期随访",
+        "二次分析"
+      ],
+      "source_url": "https://www.nature.com/articles/s41386-026-02524-w",
+      "current_status": "formally_published_version_of_record"
+    },
+    {
+      "id": "elife-pink1-ensheathing-glia-pd-vor-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "PINK1 缺失扰乱包裹胶质并导致多巴胺神经元突触丢失",
+      "title_en": "Parkinson’s Disease-associated PINK1 Loss Disrupts Ensheathing Glia and Causes Dopaminergic Neuron Synapse Loss",
+      "organization": "eLife",
+      "location": "欧洲大陆・比利时／果蝇神经退行性疾病",
+      "published_at": "2026-08-13",
+      "first_seen_at": "2026-08-14",
+      "updated_at": "2026-08-14",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 94,
+      "verification_status": "verified_version_of_record_official_journal_page",
+      "summary": "研究在年轻 Pink1 功能缺失果蝇中结合全脑单细胞 RNA 测序、包裹胶质细胞特异转录组、免疫组化、电生理和高通量遗传筛选。包裹胶质是转录失调最显著的细胞类型；健康胶质对维持多巴胺突触完整性重要，Vps13 和 Vps35 介导的囊泡运输可作为遗传修饰通路。",
+      "summary_en": "Using young Pink1 loss-of-function Drosophila, the study combined whole-brain single-cell RNA sequencing, ensheathing-glia-specific transcriptomics, immunohistochemistry, electrophysiology and high-throughput genetic screening. Ensheathing glia showed the strongest deregulation, supported dopaminergic synapse integrity, and implicated Vps13/Vps35-dependent vesicle trafficking as a modifier pathway.",
+      "relevance": "把帕金森病、神经—胶质互作、单细胞组学和功能筛选连接起来，eLife 评价为“有价值、证据扎实”。主要限制是果蝇模型与人类少突胶质细胞并不等同，跨脑区胶质功能的一致性部分依赖假设；结果不能直接证明人类疾病机制或临床干预有效。",
+      "tags": [
+        "历史补录",
+        "eLife",
+        "Version of Record",
+        "帕金森病",
+        "PINK1",
+        "胶质细胞",
+        "多巴胺突触",
+        "单细胞RNA测序",
+        "电生理",
+        "遗传筛选",
+        "证据扎实"
+      ],
+      "source_url": "https://elifesciences.org/articles/105386",
+      "current_status": "formally_published_version_of_record"
+    },
     {
       "id": "hku-suicide-prevention-data-ra-537124",
       "category": "实验室",
@@ -2852,24 +2990,24 @@
       "location": "英国・布里斯托",
       "published_at": "",
       "first_seen_at": "2026-07-31",
-      "updated_at": "2026-08-04",
+      "updated_at": "2026-08-14",
       "deadline": "2026-08-13",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "status_change",
       "priority": 89,
       "verification_status": "verified",
       "summary": "2026 年 9 月入学、全日制一年，国际申请截止 8 月 13 日且滚动录取、可能提前关闭。课程覆盖细胞信号、组学、表观遗传、干细胞、神经退行性疾病和精神健康，并包含占 60/180 学分的实验室研究项目。通常要求生命、健康、生物医学、心理学等相关专业 2:1；官网也明确接受计算机科学等相关科学背景。",
       "summary_en": "A one-year MSc starting in September 2026. Overseas applications close on 13 August and are considered on a rolling basis, so the course may close earlier. Teaching covers cell signalling, omics, epigenetics, stem cells, neurodegeneration and mental health, with a laboratory research project worth 60 of 180 credits. A 2:1 in life, health, biomedical or psychological sciences is typical, while related disciplines including computer science are explicitly considered.",
-      "relevance": "学校与神经科学研究质量强，生命科学背景适配度高；但方向明显偏分子与湿实验，若主要目标是计算认知或神经影像，应把它放在 Leeds、Sussex、Glasgow、Liverpool 之后比较。截止较近，需尽快核验语言、费用和签证可行性。",
+      "relevance": "学校与神经科学研究质量强，生命科学背景适配度高；但方向明显偏分子与湿实验，若主要目标是计算认知或神经影像，应把它放在 Leeds、Sussex、Glasgow、Liverpool 之后比较。截止较近，需尽快核验语言、费用和签证可行性。 2026 年海外申请截止日 8 月 13 日已过；官网仍显示 Home 申请截止 9 月 10 日，但不再作为国际申请者的有效机会。",
       "tags": [
-        "历史补录",
-        "需尽快行动",
+        "状态变化",
         "国际截止8月13日",
         "分子神经科学",
         "研究项目",
         "湿实验偏重",
         "发布日期未确认"
       ],
-      "source_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-molecular-neuroscience/"
+      "source_url": "https://www.bristol.ac.uk/study/postgraduate/taught/msc-molecular-neuroscience/",
+      "current_status": "closed_for_overseas_applicants_after_2026-08-13"
     },
     {
       "id": "hku-community-health-ra-536971",
@@ -3053,93 +3191,93 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增；Bristol Molecular Neuroscience MSc 官方页仍显示 Apply now，海外申请今天 2026-08-13 截止。"
+      "status": "scanned_with_status_change",
+      "note": "已扫描；无高质量新增。Bristol Molecular Neuroscience MSc 的海外申请截止日 2026-08-13 已过，记录 1 条状态变化；Liverpool 与 Glasgow 既有项目仍开放。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增；EURAXESS 8 月 12 日新结果主要为博士、教职、管理岗或不匹配方向。"
+      "status": "scanned_with_research_updates",
+      "note": "已扫描；机会入口无合格新增。收录比利时 VIB-KU Leuven 团队的 PINK1／胶质细胞 eLife Version of Record。EURAXESS 最新结果主要为博士、博士后、教职或方向不符。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_new",
-      "note": "香港新增 HKU 自杀研究与预防中心数据分析 RA I/II；HKU-Pasteur 新岗位因小鼠感染与流式细胞湿实验未纳入。新加坡官方入口无合格新增。"
+      "status": "scanned_with_historical_backfill",
+      "note": "已扫描；补录 HKU 计算与数据科学学院 AI 工程师（RA II）。新加坡 NTU/NUS 官方入口未发现资格、层级与发布时间同时匹配的新机会。"
     },
     {
       "region": "日本与韩国",
       "status": "scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增；JREC-IN 当前结果仍以教职、研究员／博士后或资格不符岗位为主。"
+      "note": "已扫描，无高质量新增；JREC-IN 等官方入口的新结果仍以教职、研究员／博士后、日语资格不明或方向不符为主。"
     },
     {
       "region": "美国与加拿大",
       "status": "scanned_with_research_updates",
-      "note": "机会入口已扫描、无合格新岗位；收录人类颅内电生理及阿尔茨海默病遗传建模两篇国际研究。"
+      "note": "已扫描；机会入口无合格新增。收录视觉皮层计算模型研究及加拿大 PACt-MD 的 EEG theta–gamma／tDCS 二次分析。"
     },
     {
       "region": "澳大利亚",
       "status": "scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增；Curtin AI 硕士要求 IT／计算科学／工程背景及特定学制或相关经验，不作为跨专业项目补录。"
+      "note": "已扫描，无高质量新增；大学课程与招聘官方入口未发现相较昨日新开放且适合跨专业或低经验申请的条目。"
     },
     {
       "region": "中国大陆",
       "status": "scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增；大厂结果仍主要要求在校身份、特定毕业届别、1–3 年以上垂直经验或成熟业务能力。"
+      "note": "已扫描，无高质量新增；腾讯、百度等校招入口仍受毕业届别或在校身份限制，社招候选多要求 3 年以上垂直经验或成熟工程能力。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
       "status": "scanned_no_high_quality_new",
-      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
+      "note": "已扫描，无高质量新增；记录 Bristol 海外截止状态变化并复核 Liverpool、Glasgow 既有项目。"
     },
     {
       "source_group": "数据／计算／AI项目",
       "status": "scanned_no_high_quality_new",
-      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
+      "note": "已扫描，无高质量新增；未为重复开放页面或资格不明确项目新增条目。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
+      "status": "scanned_with_historical_backfill",
+      "note": "补录 HKU AI Engineer（RA II）；同时复核 HKU 妇产科学 RA I 和吞咽管理 RA I/II 仍可申请。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_no_high_quality_new",
-      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
+      "status": "scanned_with_historical_backfills",
+      "note": "补录 3 篇 2026-08-13 正式发表研究；因无法从官方页面确定相对 17:23 边界的精确发布时间，保守标记为历史补录。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "scanned_no_high_quality_new",
-      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
+      "note": "已扫描，无资格适用的高质量新增；校园岗位毕业届别不符，社招多要求多年经验。"
     },
     {
       "source_group": "外企中国区 Careers",
       "status": "scanned_no_high_quality_new",
-      "note": "今日全量扫描后增量补扫已完成，无高质量新增；保留早间扫描结果与历史记录。"
+      "note": "已扫描，无同时满足低经验、方向匹配、资格适用和官方开放状态的新岗位。"
     }
   ],
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 0,
-    "status_changes": 0,
+    "historical_backfills_added": 4,
+    "status_changes": 1,
     "existing_urgent_reverified": 3,
     "still_open_urgent_items": 22,
-    "database_items_total": 105,
+    "database_items_total": 109,
     "category_counts": {
       "升学": 0,
-      "研究": 0,
+      "研究": 3,
       "实验室": 0,
-      "求职": 0
+      "求职": 1
     },
     "excluded_expired_or_ineligible": [
-      "字节跳动 2026 校园招聘：仅面向 2025 年 9 月至 2026 年 8 月毕业且毕业后无全职经验者；2024 本科毕业届别不符。",
-      "腾讯 2026 校园招聘及春招：面向 2026 或 2026–2027 届；2024 本科毕业届别不符。",
-      "ByteDance Dubai Data Analyst：硬性要求至少 3 年相关数据分析经验。",
-      "ByteDance Research Scientist Graduate（Distributed NoSQL）：硬性要求计算机相关博士及强数据库研究经历。",
-      "本轮搜索命中的 Nature 8 月 13 日页面为专题征稿截止页，并非当日正式研究论文，未误收录。",
-      "08:04 后未发现能由学校、实验室、期刊或公司官网同时确认开放状态、资格匹配和发布日期的其他机会。"
+      "HKU 心理学系 Project Executive／Research Officer（Ref. 537029）：硬性要求硕士及至少 7 年相关与管理经验。",
+      "HKU 心理学系 IT Technician（Ref. 537108）：方向以 AV、直播、社交媒体和一线 IT 支持为主，且要求 1–2 年相关实务，不属于目标技术路径。",
+      "百度、腾讯 2026 校园招聘：官方入口仍属于校招／特定毕业届别，2024 本科毕业资格不匹配。",
+      "EURAXESS 8 月 13 日最新结果：主要为博士、博士后、教职、管理岗或不相关湿实验方向；未将线索平台页面当作最终有效机会。",
+      "Bristol Molecular Neuroscience MSc：海外申请截止 2026-08-13 已过，转为关闭状态。",
+      "Nature 8 月 13 日的评论、作者更正和低相关研究未为凑数收录。"
     ]
   },
   "change_legend": {
@@ -3150,12 +3288,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-13T17:23:06+08:00",
-    "increment_boundary": "2026-08-13T08:04:32+08:00",
-    "run_type": "same_day_incremental_supplement",
-    "result": "completed_no_high_quality_increment",
-    "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
-    "note": "当天早间全量扫描已完成，本轮仅补扫其后新发布、历史补录和状态变化。无合格新增；复核 Bristol Molecular Neuroscience MSc 今日海外截止，HKU 537124 与 537107 仍开放。仓库复读通过；当前环境的 URL 安全策略阻止访问 github.io，公开页面刷新未能独立核验。"
+    "executed_at_beijing": "2026-08-14T08:03:01+08:00",
+    "increment_boundary": "2026-08-13T17:23:06+08:00",
+    "run_type": "full_daily_scan",
+    "result": "completed_with_verified_updates",
+    "repository_write": "pending_via_github_contents_api",
+    "public_site_verification": "pending",
+    "note": "完整扫描覆盖指定地区、机会类型与期刊入口。新增均有官方原始页面；8 月 13 日条目因官方只给日期、无法证明晚于昨日 17:23 扫描边界，统一保守标为历史补录。"
   }
 }
