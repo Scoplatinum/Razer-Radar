@@ -1,7 +1,74 @@
 {
-  "generated_at": "2026-08-14T08:03:01+08:00",
-  "notice": "今日完整扫描新增 4 条历史补录（1 个 AI 工程岗位、3 篇 8 月 13 日正式研究）并记录 1 条状态变化；Bristol Molecular Neuroscience MSc 海外申请截止已过。全部新条目均以官方雇主或期刊页面核验，保留 105 条历史记录后总计 109 条。",
+  "generated_at": "2026-08-14T16:38:45+08:00",
+  "notice": "今日 08:03 已完成全量扫描；本轮按该时间边界补做增量。新增 0 条边界后正式发布，补录 2 条仍在 NTU 官方页面开放的实验室岗位，并复核 2 条即将截止的 HKU 机会仍可申请。未把动态页面的首次发现时间写成今日发布；数据库保留 109 条历史记录后总计 111 条。",
   "items": [
+    {
+      "id": "ntu-adolescent-mental-health-neuroimaging-ra-r00024313",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "南洋理工大学青少年心理健康神经影像科研助理",
+      "title_en": "Research Assistant — Neuroimaging and Adolescent Mental Health",
+      "organization": "Nanyang Technological University · Youth Affective Neuroscience Lab",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-14",
+      "updated_at": "2026-08-14",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 97,
+      "verification_status": "verified_open_official_employer_listing_no_deadline",
+      "summary": "青少年情感神经科学实验室的全职科研助理，本科层级可申请，接受神经科学、心理学、数据科学或相关背景。工作包括大型纵向神经影像数据清洗与管理、多队列整合、统计分析、论文与项目交付；Python、MATLAB 或 R，神经影像与高级统计建模为优先项，机器学习为加分项。官方动态页面仍显示可申请，但未列固定截止日、签证担保或精确发布日期。",
+      "summary_en": "A full-time bachelor-level RA role in adolescent affective neuroscience. Duties include cleaning and managing large longitudinal neuroimaging datasets, multi-cohort integration, statistical analysis, publications and project deliverables. Python, MATLAB or R are preferred; neuroimaging, advanced statistical modelling and machine learning are advantageous. The official Workday listing remains open but does not state a fixed deadline, sponsorship policy or recoverable exact posting date.",
+      "relevance": "与神经影像、心理健康、纵向数据、统计建模和机器学习高度匹配，硬性多年经验未写明。申请时应以可复现的数据分析或影像项目证明能力；因官网未写签证担保、语言门槛和截止日，国际申请者需尽快向招聘方确认。",
+      "tags": [
+        "历史补录",
+        "本科可申请",
+        "神经影像",
+        "青少年心理健康",
+        "纵向数据",
+        "Python／MATLAB／R",
+        "统计建模",
+        "机器学习",
+        "无固定截止日",
+        "签证未说明"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Research-Assistant----Neuroimaging-Adolescent-Mental-Health-_R00024313",
+      "current_status": "open_no_deadline_listed"
+    },
+    {
+      "id": "ntu-parkinsons-genomics-neuroscience-ra-r00025321",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "南洋理工大学帕金森病基因与功能基因组科研助理",
+      "title_en": "Research Assistant, Neuroscience — Parkinson’s Disease Genetics and Functional Genomics",
+      "organization": "Nanyang Technological University · Lee Kong Chian School of Medicine",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-14",
+      "updated_at": "2026-08-14",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 94,
+      "verification_status": "verified_open_official_employer_listing_no_deadline",
+      "summary": "神经疾病遗传与基因组实验室的科研助理，研究帕金森病相关基因的功能表征。接受生化、生物技术、生物医学或生命科学本科／硕士；通常希望有至少一年研究环境经验，但官网明确写明具有相关实习经历的应届生也会考虑。工作包括细胞培养、基因编辑、RT-qPCR、Western blot、共聚焦、流式、质谱，以及转录组／脂质组样本制备。官方页面未列固定截止日、签证担保或精确发布日期。",
+      "summary_en": "An RA role focused on functional characterisation of Parkinson’s disease-associated genes. Bachelor’s or master’s graduates in biochemistry, biotechnology, biomedical or life sciences may apply. One year of research experience is preferred, while recent graduates with relevant internships are explicitly considered. Work includes cell culture, gene editing, RT-qPCR, Western blotting, confocal microscopy, flow cytometry, mass spectrometry and transcriptomic/lipidomic sample preparation. No fixed deadline or sponsorship policy is stated.",
+      "relevance": "保留了神经退行性疾病与基因组方向，且对有相关实习经历的应届生开放；但它以湿实验为主，不是数据科学岗位。缺少细胞培养、分子生物学或成像经验者不宜仅凭泛 AI／编程背景申请；国际候选人需另行确认签证。",
+      "tags": [
+        "历史补录",
+        "本科可申请",
+        "应届生有相关实习可申请",
+        "帕金森病",
+        "神经遗传学",
+        "功能基因组",
+        "细胞培养",
+        "基因编辑",
+        "转录组／脂质组",
+        "无固定截止日",
+        "签证未说明"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Novena-Campus-Singapore/Research-Assistant--Neuroscience--LKCMedicine-_R00025321",
+      "current_status": "open_no_deadline_listed"
+    },
     {
       "id": "hku-ai-engineer-ra2-537095",
       "category": "求职",
@@ -2394,11 +2461,11 @@
       "location": "中国香港",
       "published_at": "2026-07-23",
       "first_seen_at": "2026-07-24",
-      "updated_at": "2026-08-04",
+      "updated_at": "2026-08-14",
       "deadline": "2026-08-15",
       "discovery_status": "newly_published_since_last_scan",
       "priority": 78,
-      "verification_status": "verified",
+      "verification_status": "verified_open_official_employer_listing",
       "summary": "一年期全职岗位，可续约；参与精子生育力、受精和临床体外受精研究。优先生物学、生物医学或健康科学本科，未列出明确工作年限；要求英语及中文（包括粤语），并强调沟通、人际协作和独立工作能力。官方写明 8 月 10 日开始审查，8 月 15 日截止或招满即止。",
       "summary_en": "A one-year, renewable RA I role supporting sperm-fertility, fertilisation and clinical-IVF research. A bachelor's degree, preferably in biology, biomedical science or health science, is requested with no explicit years-of-experience threshold. English and Chinese including Cantonese, communication and independent/team working skills are required. Review begins 10 August and closes 15 August or earlier if filled.",
       "relevance": "学历层级可达且截止较近，但方向偏生殖医学湿实验，粤语与临床团队沟通要求明显；仅作为低优先级生命科学入口，不视为数据／计算路线。",
@@ -2411,7 +2478,8 @@
         "粤语要求",
         "湿实验"
       ],
-      "source_url": "https://jobs.hku.hk/en/job/536947/research-assistant-i"
+      "source_url": "https://jobs.hku.hk/en/job/536947/research-assistant-i",
+      "current_status": "open_until_2026-08-15_or_earlier_if_filled"
     },
     {
       "id": "uva-is-ds-2027",
@@ -2547,10 +2615,10 @@
       "organization": "The University of Hong Kong · Department of Medicine",
       "location": "中国香港",
       "published_at": "2026-07-16",
-      "updated_at": "2026-07-19",
+      "updated_at": "2026-08-14",
       "deadline": "2026-08-16",
       "priority": 72,
-      "verification_status": "verified",
+      "verification_status": "verified_open_official_employer_listing",
       "summary": "为 AI 远程康复平台 SmartRehab 招聘全栈或软件工程人员。技术栈分别偏 PHP/Laravel、React、PostgreSQL、Docker/AWS，或 Swift/iOS、移动 Web 与计算机视觉；经验不足者可按 Research Assistant I/II 考虑。",
       "summary_en": "Several engineering roles for the AI-powered SmartRehab telerehabilitation platform. Tracks cover PHP/Laravel, React, PostgreSQL and Docker/AWS, or Swift/iOS, mobile web and computer vision. Candidates with less experience may be considered at Research Assistant I/II level.",
       "relevance": "这是医疗科技与软件工程的桥接机会，但当前技术栈要求明显高于纯数据分析入门岗，适合作为能力差距参照或在具备作品后申请。",
@@ -2560,7 +2628,8 @@
         "AI康复",
         "经验不足可降级考虑"
       ],
-      "source_url": "https://jobs.hku.hk/en/job/536820/full-stack-developersoftware-engineer-several-posts-in-the-department-of-medicine"
+      "source_url": "https://jobs.hku.hk/en/job/536820/full-stack-developersoftware-engineer-several-posts-in-the-department-of-medicine",
+      "current_status": "open_until_2026-08-16_or_earlier_if_filled"
     },
     {
       "id": "elife-tms-memory-meta-2026",
@@ -3191,93 +3260,92 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "scanned_with_status_change",
-      "note": "已扫描；无高质量新增。Bristol Molecular Neuroscience MSc 的海外申请截止日 2026-08-13 已过，记录 1 条状态变化；Liverpool 与 Glasgow 既有项目仍开放。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描；无高质量新增。Cambridge 等官方入口的新结果无边界后发布且适合本科低经验者的条目。"
     },
     {
       "region": "欧洲大陆",
-      "status": "scanned_with_research_updates",
-      "note": "已扫描；机会入口无合格新增。收录比利时 VIB-KU Leuven 团队的 PINK1／胶质细胞 eLife Version of Record。EURAXESS 最新结果主要为博士、博士后、教职或方向不符。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描；EURAXESS 最新入口未发现边界后发布、学历与经验同时匹配的机会。"
     },
     {
       "region": "香港与新加坡",
-      "status": "scanned_with_historical_backfill",
-      "note": "已扫描；补录 HKU 计算与数据科学学院 AI 工程师（RA II）。新加坡 NTU/NUS 官方入口未发现资格、层级与发布时间同时匹配的新机会。"
+      "status": "incremental_scanned_with_historical_backfills",
+      "note": "补录 NTU 青少年心理健康神经影像 RA 与帕金森病功能基因组 RA；复核 HKU 妇产科学 RA I 和 SmartRehab 开发岗位仍开放，分别于 8 月 15 日和 16 日截止。"
     },
     {
       "region": "日本与韩国",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无高质量新增；JREC-IN 等官方入口的新结果仍以教职、研究员／博士后、日语资格不明或方向不符为主。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无高质量新增；JREC-IN 可见条目主要要求博士、日语实验能力或已有多年相关经历。"
     },
     {
       "region": "美国与加拿大",
-      "status": "scanned_with_research_updates",
-      "note": "已扫描；机会入口无合格新增。收录视觉皮层计算模型研究及加拿大 PACt-MD 的 EEG theta–gamma／tDCS 二次分析。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无可确认在 08:03 后新发布且适合本科低经验申请的高质量条目。"
     },
     {
       "region": "澳大利亚",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无高质量新增；大学课程与招聘官方入口未发现相较昨日新开放且适合跨专业或低经验申请的条目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无高质量新增；课程与招聘入口未发现相较上午新增且满足资格条件的条目。"
     },
     {
       "region": "中国大陆",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无高质量新增；腾讯、百度等校招入口仍受毕业届别或在校身份限制，社招候选多要求 3 年以上垂直经验或成熟工程能力。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无高质量新增；大厂校招仍受毕业届别限制，社招候选多要求成熟工程能力或明确多年经验。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无高质量新增；记录 Bristol 海外截止状态变化并复核 Liverpool、Glasgow 既有项目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无边界后新开放且能完整核验跨专业先修、语言与申请状态的高质量项目。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无高质量新增；未为重复开放页面或资格不明确项目新增条目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无边界后新开放且资格适配的高质量项目。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_with_historical_backfill",
-      "note": "补录 HKU AI Engineer（RA II）；同时复核 HKU 妇产科学 RA I 和吞咽管理 RA I/II 仍可申请。"
+      "status": "incremental_scanned_with_historical_backfills",
+      "note": "补录 2 条 NTU 官方 RA；复核 2 条 HKU 即将截止岗位仍开放。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_with_historical_backfills",
-      "note": "补录 3 篇 2026-08-13 正式发表研究；因无法从官方页面确定相对 17:23 边界的精确发布时间，保守标记为历史补录。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已查 Nature、eLife、Cell 与 Science 官方入口；未发现可确认在 08:03 后正式发布且高度相关的新研究。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无资格适用的高质量新增；校园岗位毕业届别不符，社招多要求多年经验。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描；校园岗位届别不符，社招未发现边界后发布且低经验适用的新条目。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描，无同时满足低经验、方向匹配、资格适用和官方开放状态的新岗位。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已扫描，无边界后发布且同时满足低经验、方向匹配与开放状态的新岗位。"
     }
   ],
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 4,
-    "status_changes": 1,
-    "existing_urgent_reverified": 3,
+    "historical_backfills_added": 2,
+    "status_changes": 0,
+    "existing_urgent_reverified": 2,
     "still_open_urgent_items": 22,
-    "database_items_total": 109,
+    "database_items_total": 111,
     "category_counts": {
       "升学": 0,
-      "研究": 3,
-      "实验室": 0,
-      "求职": 1
+      "研究": 0,
+      "实验室": 2,
+      "求职": 0
     },
     "excluded_expired_or_ineligible": [
-      "HKU 心理学系 Project Executive／Research Officer（Ref. 537029）：硬性要求硕士及至少 7 年相关与管理经验。",
-      "HKU 心理学系 IT Technician（Ref. 537108）：方向以 AV、直播、社交媒体和一线 IT 支持为主，且要求 1–2 年相关实务，不属于目标技术路径。",
-      "百度、腾讯 2026 校园招聘：官方入口仍属于校招／特定毕业届别，2024 本科毕业资格不匹配。",
-      "EURAXESS 8 月 13 日最新结果：主要为博士、博士后、教职、管理岗或不相关湿实验方向；未将线索平台页面当作最终有效机会。",
-      "Bristol Molecular Neuroscience MSc：海外申请截止 2026-08-13 已过，转为关闭状态。",
-      "Nature 8 月 13 日的评论、作者更正和低相关研究未为凑数收录。"
+      "NTU Neuroscience/Artificial Intelligence RA（R00021973）：与库内更新的同实验室 AI–Neuroscience 岗位高度重叠，避免重复入库。",
+      "JREC-IN 日本脑科学实验辅助岗位（D126071057）：要求能用日语独立实施人体心理／脑电实验，并设相关专业 GPA 3.25 门槛，语言与背景条件不宜默认满足。",
+      "Cambridge 本轮临近截止研究岗位：系统微生物等条目要求已获或即将获博士，或方向偏离目标，未收录。",
+      "百度、腾讯等校招入口：2024 本科毕业届别不符；社招检索结果多要求成熟大模型工程能力、2–5 年经验或专家级履历。",
+      "NTU 动态 Workday 页面未给可恢复的精确发布日期与签证担保信息，因此两条补录均标为历史补录，不标今日发布。"
     ]
   },
   "change_legend": {
@@ -3288,12 +3356,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-14T08:03:01+08:00",
-    "increment_boundary": "2026-08-13T17:23:06+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_verified_updates",
-    "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
-    "note": "完整扫描覆盖指定地区、机会类型与期刊入口。新增均有官方原始页面；8 月 13 日条目因官方只给日期、无法证明晚于昨日 17:23 扫描边界，统一保守标为历史补录。 仓库回读确认 109 条记录且最新 4 条位于顶部；当前 URL 安全策略阻止访问 github.io，因此公开页面刷新未能独立核验。"
+    "executed_at_beijing": "2026-08-14T16:38:45+08:00",
+    "increment_boundary": "2026-08-14T08:03:01+08:00",
+    "run_type": "same_day_incremental_scan",
+    "result": "completed_with_verified_historical_backfills",
+    "repository_write": "pending_github_contents_api",
+    "public_site_verification": "pending",
+    "note": "上午已做全量扫描，本轮仅补边界后新增、历史漏项与状态变化。补录 2 条 NTU 官方岗位；2 条 HKU 紧急机会官方页面仍显示 Apply now。ChatGPT 项目列表接口本轮无响应，沿用仓库中已落地的最新字段与去重规则。"
   }
 }
