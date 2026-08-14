@@ -3292,8 +3292,8 @@
     "increment_boundary": "2026-08-13T17:23:06+08:00",
     "run_type": "full_daily_scan",
     "result": "completed_with_verified_updates",
-    "repository_write": "pending_via_github_contents_api",
-    "public_site_verification": "pending",
-    "note": "完整扫描覆盖指定地区、机会类型与期刊入口。新增均有官方原始页面；8 月 13 日条目因官方只给日期、无法证明晚于昨日 17:23 扫描边界，统一保守标为历史补录。"
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "repository_updated_public_page_unverified_url_access_restricted",
+    "note": "完整扫描覆盖指定地区、机会类型与期刊入口。新增均有官方原始页面；8 月 13 日条目因官方只给日期、无法证明晚于昨日 17:23 扫描边界，统一保守标为历史补录。 仓库回读确认 109 条记录且最新 4 条位于顶部；当前 URL 安全策略阻止访问 github.io，因此公开页面刷新未能独立核验。"
   }
 }
