@@ -3360,8 +3360,8 @@
     "increment_boundary": "2026-08-14T08:03:01+08:00",
     "run_type": "same_day_incremental_scan",
     "result": "completed_with_verified_historical_backfills",
-    "repository_write": "pending_github_contents_api",
-    "public_site_verification": "pending",
-    "note": "上午已做全量扫描，本轮仅补边界后新增、历史漏项与状态变化。补录 2 条 NTU 官方岗位；2 条 HKU 紧急机会官方页面仍显示 Apply now。ChatGPT 项目列表接口本轮无响应，沿用仓库中已落地的最新字段与去重规则。"
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "github_pages_deploy_success_direct_page_content_unverified_network_restricted",
+    "note": "上午已做全量扫描，本轮仅补边界后新增、历史漏项与状态变化。补录 2 条 NTU 官方岗位；2 条 HKU 紧急机会官方页面仍显示 Apply now。仓库回读确认 111 条、两条补录位于顶部；GitHub Pages 工作流的配置、制品上传与部署步骤全部成功，但当前执行环境无法直接连接 github.io，未能从公开 URL 独立回读页面文本。ChatGPT 项目列表接口本轮无响应，沿用仓库中已落地的最新字段与去重规则。"
   }
 }
