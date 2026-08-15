@@ -3546,8 +3546,8 @@
     "increment_boundary": "2026-08-14T16:38:45+08:00",
     "run_type": "full_daily_scan",
     "result": "completed_with_verified_status_change_and_historical_backfills",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "完整覆盖指定地区、项目、岗位与期刊入口。新增 1 个今日开放的直博申请状态，补录 1 条 HKU 岗位与 3 篇 8 月 14 日论文；2 条 HKU 紧急项仍在官方页面显示可申请。"
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "repository_commit_verified_direct_github_pages_content_unverified_network_restricted",
+    "note": "完整覆盖指定地区、项目、岗位与期刊入口。新增 1 个今日开放的直博申请状态，补录 1 条 HKU 岗位与 3 篇 8 月 14 日论文；2 条 HKU 紧急项仍在官方页面显示可申请。仓库提交页已回读确认；当前环境无法直接连接 github.io，因此公开页面内容未能独立核验。"
   }
 }
