@@ -1,7 +1,75 @@
 {
-  "generated_at": "2026-08-16T08:00:00+08:00",
-  "notice": "今日已完成全量扫描；新增 0 条，历史补录 0 条，确认 1 条关闭状态变化，并复核 1 条 HKU 岗位在截止日仍显示可申请。未为凑数收录旧论文、弱证据结果或资格不匹配岗位；数据库总计 116 条。",
+  "generated_at": "2026-08-16T18:53:02+08:00",
+  "notice": "今日上午已完成全量扫描；本轮仅补扫 08:00 后增量。新增发布 0 条，历史补录 2 条，状态变化 0 条，并复核 2 条既有 HKU 截止日岗位仍显示可申请。未为凑数收录硬性多年经验或方向较弱结果；数据库总计 118 条。",
   "items": [
+    {
+      "id": "hku-medical-health-sciences-education-ra-536711",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "香港大学医学与健康科学教育科研助理 I",
+      "title_en": "Research Assistant I — Medical and Health Sciences Education",
+      "organization": "The University of Hong Kong · Bau Institute of Medical and Health Sciences Education",
+      "location": "中国香港",
+      "published_at": "2026-06-26",
+      "first_seen_at": "2026-08-16",
+      "updated_at": "2026-08-16",
+      "deadline": "2026-08-16",
+      "discovery_status": "historical_backfill",
+      "priority": 86,
+      "verification_status": "verified_open_official_employer_listing_on_deadline_day",
+      "summary": "十二个月全职科研助理岗位，教育或心理学本科毕业生可申请，未写硬性工作年限。工作涉及研究设计、文献综述、Qualtrics 问卷管理、访谈与数据收集、结果解释和项目报告；SPSS 与定性分析只是加分项。官网要求优秀的书面与口头中英文，并可能需要加班；页面在 8 月 16 日截止日仍显示可申请。",
+      "summary_en": "A 12-month full-time RA I role open to university graduates in education or psychology, with no fixed years-of-experience threshold. Work includes study design, literature review, Qualtrics questionnaire management, interviews and data collection, interpretation and project reports; SPSS and qualitative analysis are advantageous. Excellent written and spoken English and Chinese are required, and overtime may be needed. The official page still showed Apply now on the deadline day.",
+      "relevance": "适合教育心理、问卷、混合方法与基础统计方向的本科毕业生，但不是纯数据或神经科学岗位；中英文沟通和项目协作是核心要求，签证担保未说明。因今天截止且可能提前招满，只应在语言与方向匹配时立即投递。",
+      "tags": [
+        "历史补录",
+        "今日截止",
+        "需立即行动",
+        "本科可申请",
+        "教育心理",
+        "医学教育",
+        "Qualtrics",
+        "SPSS",
+        "定性研究",
+        "中英文硬门槛",
+        "签证未说明"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536711/research-assistant-i",
+      "current_status": "open_on_2026-08-16_deadline_day_or_earlier_if_filled"
+    },
+    {
+      "id": "hku-endocrinology-metabolism-clinical-ra-536823",
+      "category": "实验室",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "香港大学内分泌与代谢临床科研助理 I/II",
+      "title_en": "Research Assistant I/II — Endocrinology and Metabolism Clinical Research",
+      "organization": "The University of Hong Kong · Department of Medicine, Division of Endocrinology and Metabolism",
+      "location": "中国香港",
+      "published_at": "2026-07-16",
+      "first_seen_at": "2026-08-16",
+      "updated_at": "2026-08-16",
+      "deadline": "2026-08-16",
+      "discovery_status": "historical_backfill",
+      "priority": 91,
+      "verification_status": "verified_open_official_employer_listing_on_deadline_day",
+      "summary": "一年期全职临床科研岗位，本科及以上可申请，接受生物医学、生物、 生化、公共卫生、生物统计等背景；官网明确欢迎应届生，较低资历或经验可按科研助理 II 聘用，并提供在职培训。工作包括临床样本处理、生物样本库协调和临床数据库管理；基础生物统计为加分项。官方页面在 8 月 16 日截止日仍显示可申请，滚动审查且可能提前招满。",
+      "summary_en": "A one-year full-time clinical research role open to bachelor’s graduates in biomedical sciences, biology, biochemistry, public health, biostatistics or related fields. Fresh graduates are explicitly welcomed, candidates with less experience may be appointed as RA II, and on-the-job training is provided. Duties cover clinical specimens, biobank coordination and clinical-database management; basic biostatistics is advantageous. The official page still showed Apply now on the 16 August deadline day.",
+      "relevance": "与医疗科技、临床数据、生物统计和科研入门直接相关，未设置硬性多年经验。岗位同时要求良好中英文、组织与沟通能力；粤语仅为加分项，但国际申请者的签证担保未说明。因滚动审查且今天截止，只适合立即投递。",
+      "tags": [
+        "历史补录",
+        "今日截止",
+        "需立即行动",
+        "本科可申请",
+        "应届生可申请",
+        "临床研究",
+        "临床数据库",
+        "生物样本库",
+        "生物统计",
+        "提供在职培训",
+        "签证未说明"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/536823/research-assistant-iii-in-the-division-of-endocrinology-and-metabolism-of-the-department-of-medicine",
+      "current_status": "open_on_2026-08-16_deadline_day_or_earlier_if_filled"
+    },
     {
       "id": "uw-neuroscience-phd-autumn-2027",
       "category": "升学",
@@ -3430,107 +3498,112 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增。Liverpool Neuroscience MSc 官方页仍列国际申请截止 8 月 21 日；其余可见结果多为博士后／Research Fellow、已截止或资格不匹配。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫未发现上次扫描后新的高质量发布、历史补录或状态变化。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增。EURAXESS、院校与实验室入口的临近结果多要求硕士／博士、强机器学习经历或当地工作资格；未将接近截止但层级不合的条目补录。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫未发现上次扫描后新的高质量发布、历史补录或状态变化。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scanned_with_status_change",
-      "note": "HKU 妇产科学 RA I 的官方页已撤下，确认关闭；老年吞咽管理 RA I/II 在 8 月 16 日截止日仍显示可申请。香港和新加坡官方高校入口未发现新的高质量岗位。"
+      "status": "incremental_scan_with_historical_backfills",
+      "note": "上午全量扫描后增量补录 2 条 HKU 本科层级科研助理：内分泌与代谢临床研究（明确欢迎应届生）及医学与健康科学教育研究；均在 8 月 16 日截止日仍显示可申请。另复核 SmartRehab 软件工程与吞咽管理岗位仍开放。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增。JREC-IN 与高校入口可见结果主要为教职、博士后、需博士／硕士或有明显日语／韩语与专业实验门槛。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫未发现上次扫描后新的高质量发布、历史补录或状态变化。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增。既有 University of Washington 2027 神经科学直博申请仍开放，未出现新的资格或截止变化。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫未发现上次扫描后新的高质量发布、历史补录或状态变化。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；高校课程、实验室和低经验招聘入口未发现新的合格开放项。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫未发现上次扫描后新的高质量发布、历史补录或状态变化。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增。华为等校招仍主要面向特定应届届别／在校生，外企中国区可见岗位多为成熟客户、工程或销售层级；期刊侧未发现 8 月 15 日正式发表且达到相关性与证据门槛的新研究。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫未发现上次扫描后新的高质量发布、历史补录或状态变化。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描；既有 Liverpool、Glasgow 等临近截止项目保持开放，无新的正式开放或资格变化。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描、无新开放且能从官方页面完整核验跨专业先修、语言与申请状态的高质量项目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_with_status_change",
-      "note": "确认 HKU 妇产科学 RA I 关闭；复核吞咽管理 RA 在 8 月 16 日截止日仍显示可申请。"
+      "status": "incremental_scan_with_historical_backfills",
+      "note": "增量补录 2 条 HKU 本科层级科研助理；两者均在截止日仍显示可申请。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_no_high_quality_new",
-      "note": "已核查主要期刊正式发表记录；未发现 8 月 15 日正式发表且同时达到相关性、方法与证据门槛的新研究，旧论文与评论未补录。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描官方雇主入口，无符合低经验、资格与开放状态的新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描；可见校园岗受毕业届别／在校身份限制，低经验社招未发现合格新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "scanned_with_status_change",
-      "note": "HKU 妇产科学 RA I 关闭；其余已收录的近期岗位按官方页面复核，无新增。"
+      "status": "incremental_scan_with_historical_backfill",
+      "note": "补录 HKU 内分泌与代谢临床科研助理 I/II：本科可申请、明确欢迎应届生，今日截止。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描；华为等在招算法／AI岗位主要限定特定应届届别或成熟专业能力，未发现资格适用的新条目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描 Microsoft、SAP 等官方 Careers；未发现同时满足中国区、低经验、方向匹配和开放状态的新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日 08:00 已完成全量扫描；本轮补扫无高质量新增。"
     }
   ],
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 0,
-    "status_changes": 1,
-    "existing_urgent_reverified": 1,
-    "still_open_urgent_items": 21,
-    "database_items_total": 116,
+    "historical_backfills_added": 2,
+    "status_changes": 0,
+    "existing_urgent_reverified": 2,
+    "still_open_urgent_items": 23,
+    "database_items_total": 118,
     "category_counts": {
       "升学": 0,
       "研究": 0,
-      "实验室": 0,
+      "实验室": 2,
       "求职": 0
     },
+    "database_category_totals": {
+      "升学": 22,
+      "研究": 63,
+      "实验室": 23,
+      "求职": 10
+    },
     "excluded_expired_or_ineligible": [
-      "NTU Science of Learning in Education Centre RA：官方入口仍开放，但未能可靠核验发布日期，且主要要求教育／心理／神经科学背景并含明显项目执行与沟通任务，未作为高匹配补录。",
-      "NTU CLIC 相关研究岗位：可见结果要求心理学硕士或已经截止，层级／状态不符。",
-      "JREC-IN／EURAXESS 临近结果：主要为博士、博士后、教职，或要求硕士及强深度学习／当地语言与工作资格。",
-      "华为等中国大厂及 Microsoft、SAP 中国区：校园岗位受毕业届别／在校身份约束，社招结果多要求成熟工程、客户或销售经验。",
-      "8 月 15 日期刊检索结果：未发现正式发表且同时满足神经、计算认知或高质量方法门槛的新论文；旧论文、综述与弱证据结果未收录。"
+      "HKU 临床试验中心 Analyst Programmer（Ref. 536847）：硬性至少 2 年 Web／软件开发经验，不符合低经验优先规则。",
+      "HKU CACLER Research Assistant I/II（Ref. 536901）：主要为粤语中文教育、学校咨询、活动与行政执行，和神经／数据／计算方向匹配较弱。",
+      "8 月 16 日期刊增量检索：未发现上次扫描后正式发表且达到相关性、方法与证据门槛的新研究；周末旧论文、评论和弱证据结果未收录。",
+      "英国与爱尔兰、欧洲大陆、日本与韩国、美国与加拿大、澳大利亚、中国大陆的增量入口：上午全量扫描后未发现新的合格开放项。"
     ]
   },
   "change_legend": {
@@ -3541,12 +3614,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-16T08:00:00+08:00",
-    "increment_boundary": "2026-08-15T08:00:00+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_verified_status_change_no_new_items",
-    "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_independent_pages_refresh_check",
-    "note": "完整覆盖指定地区、项目、岗位、企业 Careers 与期刊入口。新增 0 条、补录 0 条；确认 1 条 HKU 岗位官方入口撤下并转为关闭，另 1 条在截止日仍显示可申请。"
+    "executed_at_beijing": "2026-08-16T18:53:02+08:00",
+    "increment_boundary": "2026-08-16T08:00:00+08:00",
+    "run_type": "same_day_incremental_supplement",
+    "result": "completed_with_two_historical_backfills_no_new_publications",
+    "repository_write": "pending_github_contents_api_update",
+    "public_site_verification": "pending_pages_refresh_check",
+    "note": "上午已完成全量扫描，本轮只检查 08:00 后增量；补录 2 条官方 HKU 本科层级科研助理，新增发布 0 条、状态变化 0 条，并复核 2 条既有截止日岗位仍开放。"
   }
 }
