@@ -51,7 +51,7 @@
       "discovery_status": "historical_backfill",
       "priority": 91,
       "verification_status": "verified_open_official_employer_listing_on_deadline_day",
-      "summary": "一年期全职临床科研岗位，本科及以上可申请，接受生物医学、生物、 生化、公共卫生、生物统计等背景；官网明确欢迎应届生，较低资历或经验可按科研助理 II 聘用，并提供在职培训。工作包括临床样本处理、生物样本库协调和临床数据库管理；基础生物统计为加分项。官方页面在 8 月 16 日截止日仍显示可申请，滚动审查且可能提前招满。",
+      "summary": "一年期全职临床科研岗位，本科及以上可申请，接受生物医学、生物、生化、公共卫生、生物统计等背景；官网明确欢迎应届生，较低资历或经验可按科研助理 II 聘用，并提供在职培训。工作包括临床样本处理、生物样本库协调和临床数据库管理；基础生物统计为加分项。官方页面在 8 月 16 日截止日仍显示可申请，滚动审查且可能提前招满。",
       "summary_en": "A one-year full-time clinical research role open to bachelor’s graduates in biomedical sciences, biology, biochemistry, public health, biostatistics or related fields. Fresh graduates are explicitly welcomed, candidates with less experience may be appointed as RA II, and on-the-job training is provided. Duties cover clinical specimens, biobank coordination and clinical-database management; basic biostatistics is advantageous. The official page still showed Apply now on the 16 August deadline day.",
       "relevance": "与医疗科技、临床数据、生物统计和科研入门直接相关，未设置硬性多年经验。岗位同时要求良好中英文、组织与沟通能力；粤语仅为加分项，但国际申请者的签证担保未说明。因滚动审查且今天截止，只适合立即投递。",
       "tags": [
@@ -3618,8 +3618,8 @@
     "increment_boundary": "2026-08-16T08:00:00+08:00",
     "run_type": "same_day_incremental_supplement",
     "result": "completed_with_two_historical_backfills_no_new_publications",
-    "repository_write": "pending_github_contents_api_update",
-    "public_site_verification": "pending_pages_refresh_check",
-    "note": "上午已完成全量扫描，本轮只检查 08:00 后增量；补录 2 条官方 HKU 本科层级科研助理，新增发布 0 条、状态变化 0 条，并复核 2 条既有截止日岗位仍开放。"
+    "repository_write": "completed_via_github_contents_api",
+    "public_site_verification": "repository_updated_public_pages_still_serving_previous_2026-08-16T08:00:00+08:00_snapshot",
+    "note": "上午已完成全量扫描，本轮只检查 08:00 后增量；补录 2 条官方 HKU 本科层级科研助理，新增发布 0 条、状态变化 0 条，并复核 2 条既有截止日岗位仍开放。 GitHub 默认分支已确认返回 118 条；公开 Pages/Raw 独立抓取仍返回 08:00 的 116 条缓存，尚未确认刷新。"
   }
 }
