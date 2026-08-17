@@ -3698,8 +3698,8 @@
     "run_type": "same_day_incremental_scan",
     "result": "completed_with_one_status_change_no_new_items",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_pages_refresh_check",
-    "note": "无新增或历史补录；确认 HKU 536711 已从官方列表撤下并更新为关闭。ChatGPT 项目索引读取超时，本轮沿用自动化指令和既有数据结构。"
+    "public_site_verification": "public_raw_and_pages_cache_still_show_2026-08-17T08:01:39+08:00_at_check_time",
+    "note": "无新增或历史补录；确认 HKU 536711 已从官方列表撤下并更新为关闭。默认分支已写入；独立 Raw/Pages 抓取仍显示 08:01 旧缓存，公开网页刷新尚未确认。ChatGPT 项目索引读取超时，本轮沿用自动化指令和既有数据结构。"
   },
   "incremental_run_summary": {
     "increment_boundary": "2026-08-17T08:01:39+08:00",
