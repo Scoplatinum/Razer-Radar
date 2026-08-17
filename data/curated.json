@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T08:01:39+08:00",
-  "notice": "今日完成全量扫描：新增发布 0 条，历史补录 2 条，确认 4 项状态变化（3 条 HKU 岗位关闭、1 个 Sussex 2027 项目轮次开放），并复核 1 条超过列示截止日但官方仍显示 Apply now 的既有岗位。数据库总计 120 条。",
+  "generated_at": "2026-08-17T12:52:11.244+08:00",
+  "notice": "今日 08:01 已完成全量扫描；本轮同日增量补扫确认 1 项新状态变化：HKU 医学与健康科学教育 RA I（536711）已从官方列表撤下。今日累计新增发布 0 条、历史补录 2 条、状态变化 5 项；数据库总计 120 条。",
   "items": [
     {
       "id": "sussex-neuroscience-mres-2027",
@@ -79,16 +79,15 @@
       "first_seen_at": "2026-08-16",
       "updated_at": "2026-08-17",
       "deadline": "2026-08-16",
-      "discovery_status": "existing_opportunity_still_open",
+      "discovery_status": "status_change",
       "priority": 86,
-      "verification_status": "verified_apply_now_still_visible_after_listed_deadline",
-      "summary": "十二个月全职科研助理岗位，教育或心理学本科毕业生可申请，未写硬性工作年限。工作涉及研究设计、文献综述、Qualtrics 问卷管理、访谈与数据收集、结果解释和项目报告；SPSS 与定性分析为加分项。官网列出的 8 月 16 日截止日已经过去，但 8 月 17 日复核时职位页仍保留 Apply now，故暂不误标为关闭；可能是系统延迟或岗位仍接受申请。",
-      "summary_en": "A 12-month full-time RA I role for graduates in education or psychology, with no fixed years-of-experience threshold. Duties span study design, literature review, Qualtrics surveys, interviews, data collection, interpretation and reporting; SPSS and qualitative analysis are advantageous. Although the listed 16 August deadline has passed, the official page still shows Apply now on 17 August, so the role is not yet marked closed; this may reflect a system delay or continued acceptance.",
-      "relevance": "教育心理、问卷和混合方法相关，但中英文沟通、协作及可能加班是明确要求，并非纯数据或神经科学岗位。若方向和语言匹配，只能按延迟入口尽快尝试，并接受随时关闭的风险。",
+      "verification_status": "verified_closed_official_listing_removed",
+      "summary": "十二个月全职科研助理岗位，教育或心理学本科毕业生可申请，未写硬性工作年限。工作涉及研究设计、文献综述、Qualtrics 问卷管理、访谈与数据收集、结果解释和项目报告；SPSS 与定性分析为加分项。8 月 17 日 08:01 复核时官网在列示截止日后仍保留 Apply now，但同日中午再次复核时，官方链接已转至 job-not-found 页面且职位已从当前列表撤下，确认关闭。",
+      "summary_en": "A 12-month full-time RA I role for graduates in education or psychology, with no fixed years-of-experience threshold. Duties span study design, literature review, Qualtrics surveys, interviews, data collection, interpretation and reporting; SPSS and qualitative analysis are advantageous. At 08:01 on 17 August the official page still showed Apply now after the listed deadline, but a same-day midday re-check found the URL redirected to job not found and the role removed from current listings, confirming closure.",
+      "relevance": "状态变化：官方职位已于 8 月 17 日上午全量扫描后撤下，不再作为可投递机会；保留历史记录用于去重。",
       "tags": [
-        "既有机会仍开放",
-        "截止日已过但官网仍可申请",
-        "需立即行动",
+        "状态变化",
+        "已关闭",
         "本科可申请",
         "教育心理",
         "医学教育",
@@ -99,7 +98,7 @@
         "签证未说明"
       ],
       "source_url": "https://jobs.hku.hk/en/job/536711/research-assistant-i",
-      "current_status": "official_apply_now_still_visible_on_2026-08-17_after_listed_deadline"
+      "current_status": "closed_after_2026-08-16_deadline"
     },
     {
       "id": "hku-endocrinology-metabolism-clinical-ra-536823",
@@ -3585,8 +3584,8 @@
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scanned_with_status_changes",
-      "note": "3 条 8 月 16 日截止的 HKU 岗位已从官方列表撤下；医学教育 RA I 虽已超过列示截止日，官方页仍显示 Apply now，因此保守保留为既有机会。新加坡 NTU 儿童发展 RA 是 8 月 3 日旧岗、今日截止且高度依赖学前现场测评和外部协调，未补录。"
+      "status": "full_scanned_with_same_day_status_change",
+      "note": "上午全量扫描后增量复核：HKU 医学与健康科学教育 RA I（536711）已撤下；今日累计 4 条 HKU 岗位关闭。其他入口无高质量新增。"
     },
     {
       "region": "日本与韩国",
@@ -3622,8 +3621,8 @@
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_with_status_changes",
-      "note": "确认 2 条 HKU 实验室 RA 关闭，并复核 1 条医学教育 RA 在列示截止日后仍显示 Apply now；没有新发布的高匹配岗位。"
+      "status": "scanned_with_same_day_status_change",
+      "note": "同日增量复核确认 HKU 医学与健康科学教育 RA I（536711）已撤下；今日累计 3 条实验室 RA 关闭，另有 SmartRehab 软件岗关闭；无高质量新增。"
     },
     {
       "source_group": "研究动态",
@@ -3660,9 +3659,9 @@
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
     "historical_backfills_added": 2,
-    "status_changes": 4,
-    "existing_urgent_reverified": 1,
-    "still_open_urgent_items": 21,
+    "status_changes": 5,
+    "existing_urgent_reverified": 0,
+    "still_open_urgent_items": 20,
     "database_items_total": 120,
     "category_counts": {
       "升学": 1,
@@ -3677,6 +3676,7 @@
       "求职": 10
     },
     "excluded_expired_or_ineligible": [
+      "HKU 医学与健康科学教育 RA I（536711）：8 月 17 日 08:01 尚显示 Apply now，同日中午已转为 job-not-found 并从当前列表撤下，确认关闭。",
       "NTU Centre for Research in Child Development RA（R00025411）：8 月 3 日发布、今日截止，要求心理／教育背景、儿童标准化测评、学前现场数据收集及大量外部协调；与偏独立分析和低沟通偏好匹配较低。",
       "HKU CACLER RA I/II（536901）：今日截止，主体为学校咨询、活动／行政、网站和社交媒体维护，且粤语硬门槛，方向较弱。",
       "英国今日截止的认知神经、脑血管表观组与神经细胞生物学岗位：发现时已接近或到达截止，且部分为 Research Associate、湿实验或需要更强直接经历。",
@@ -3693,12 +3693,28 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-17T08:01:39+08:00",
-    "increment_boundary": "2026-08-16T18:53:02+08:00",
-    "run_type": "full_daily_scan",
-    "result": "completed_with_status_changes_and_historical_backfills",
+    "executed_at_beijing": "2026-08-17T12:52:11.244+08:00",
+    "increment_boundary": "2026-08-17T08:01:39+08:00",
+    "run_type": "same_day_incremental_scan",
+    "result": "completed_with_one_status_change_no_new_items",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_independent_pages_refresh_check",
-    "note": "完整覆盖指定地区、项目、岗位、企业 Careers 与期刊入口。补录 1 个研究型硕士和 1 篇方法论文；确认 3 条 HKU 岗位关闭、1 个 Sussex 项目进入 2027 开放轮次，另有 1 条 HKU 岗位在列示截止日后仍显示可申请。"
+    "public_site_verification": "pending_pages_refresh_check",
+    "note": "无新增或历史补录；确认 HKU 536711 已从官方列表撤下并更新为关闭。ChatGPT 项目索引读取超时，本轮沿用自动化指令和既有数据结构。"
+  },
+  "incremental_run_summary": {
+    "increment_boundary": "2026-08-17T08:01:39+08:00",
+    "executed_at_beijing": "2026-08-17T12:52:11.244+08:00",
+    "newly_published_since_last_scan": 0,
+    "historical_backfills_added": 0,
+    "status_changes": 1,
+    "still_open_urgent_reverified": 0,
+    "category_counts": {
+      "升学": 0,
+      "研究": 0,
+      "实验室": 1,
+      "求职": 0
+    },
+    "database_items_total": 120,
+    "note": "同日增量补扫；无高质量新增。确认 HKU 536711 在上午全量扫描后关闭。"
   }
 }
