@@ -3880,8 +3880,8 @@
     "run_type": "incremental_scan_after_same_day_full_scan",
     "result": "completed_no_high_quality_increment",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_after_repository_write",
-    "note": "按 generated_at 去重，仅补扫 08:05 后增量；四类新增均为 0。利物浦 Neuroscience MSc（国际截止 8 月 21 日）、格拉斯哥 Integrative Neuroscience MSc（8 月 24 日）及 HKU 青光眼 AI／眼部影像 RA II（8 月 27 日或招满）官方页复核仍开放。未将首次发现或旧截止线索误写为今日发布。"
+    "public_site_verification": "repository_push_triggered_pages_workflow_but_public_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "按 generated_at 去重，仅补扫 08:05 后增量；四类新增均为 0。利物浦 Neuroscience MSc（国际截止 8 月 21 日）、格拉斯哥 Integrative Neuroscience MSc（8 月 24 日）及 HKU 青光眼 AI／眼部影像 RA II（8 月 27 日或招满）官方页复核仍开放。未将首次发现或旧截止线索误写为今日发布。 仓库 workflow 配置确认 main push 会触发 Pages 部署；当前运行环境对 GitHub Pages 公开端点返回安全策略／抓取错误，未能独立读取网页内容，因此不冒充已完成公开页核验。"
   },
   "incremental_run_summary": {
     "increment_boundary": "2026-08-18T08:05:08+08:00",
