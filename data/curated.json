@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-08-18T08:05:08+08:00",
-  "notice": "今日已完成全量扫描；新增 6 条历史补录（1 个 2027 神经科学硕士、1 个加拿大医疗研究数据库岗位、4 篇 8 月 17 日正式发表的高质量研究），无状态变化。数据库总计 126 条；3 个迫近机会已复核仍开放。",
+  "notice": "今日已完成全量扫描；新增 6 条历史补录（1 个 2027 神经科学硕士、1 个加拿大医疗研究数据库岗位、4 篇 8 月 17 日正式发表的高质量研究），无状态变化；同时合并 1 组既有重复条目。数据库总计 125 条，3 个迫近机会已复核仍开放。",
   "items": [
     {
       "id": "scidata-eeg-inner-speech-directions-2026",
@@ -339,11 +339,11 @@
       "location": "美国・西雅图",
       "published_at": "",
       "first_seen_at": "2026-08-15",
-      "updated_at": "2026-08-15",
+      "updated_at": "2026-08-18",
       "deadline": "2026-11-12",
       "discovery_status": "status_change",
       "priority": 100,
-      "verification_status": "verified_open_official_program_and_funding_pages",
+      "verification_status": "verified_open_official_program_and_funding_pages_deduplicated",
       "summary": "2027 秋季申请于 8 月 15 日开放，统一截止为 11 月 12 日 23:59（美国太平洋时间）。项目接受神经科学、生物、数学、物理、计算机或工程等广泛背景，研究方向包含学习记忆、计算／理论神经科学、脑机接口、感觉与系统神经科学；不要求也不接受 GRE。硬门槛是通常需累计 2,080 小时（约 12 个月）全职等效研究经历，低于该数值者只有在会议、报告或论文等研究成果突出时才会例外考虑。",
       "summary_en": "Applications for Autumn 2027 opened on 15 August and close at 11:59 p.m. Pacific Time on 12 November 2026. The program welcomes backgrounds spanning neuroscience, biology, mathematics, physics, computer science and engineering, with tracks including learning and memory, computational/theoretical neuroscience, BCI, sensory and systems neuroscience. GRE scores are neither required nor accepted. The main threshold is 2,080 hours (about 12 months) of full-time-equivalent research experience, with limited exceptions for unusually strong outputs.",
       "relevance": "与神经科学、计算建模、学习记忆和脑机接口高度匹配，而且官网明确国际生获得工资／津贴、学费与福利保障并由学校提供 F‑1 签证支持。它是高竞争直博而非低门槛项目；申请前应先核算研究时数、确认至少 5 名轮转导师，并评估 3.0 GPA 与英语要求。",
@@ -359,7 +359,17 @@
         "脑机接口",
         "跨专业背景",
         "需12个月研究经历",
-        "截止11月12日"
+        "截止11月12日",
+        "历史补录",
+        "申请已开放",
+        "神经科学PhD",
+        "计算／理论神经科学",
+        "认知功能",
+        "跨专业可申请",
+        "12个月科研硬门槛",
+        "微积分建议",
+        "英语成绩要求",
+        "国际申请"
       ],
       "source_url": "https://gpneuro.uw.edu/prospective-students/admissions/",
       "current_status": "applications_open_for_autumn_2027"
@@ -1619,39 +1629,6 @@
         "发布日期未确认"
       ],
       "source_url": "https://pnb.uconn.edu/graduate/graduate-application-and-admission-information/",
-      "current_status": "open"
-    },
-    {
-      "id": "uw-neuroscience-phd-2027",
-      "category": "升学",
-      "section": "升学项目",
-      "title": "华盛顿大学神经科学博士项目（2027 秋季入学）",
-      "title_en": "University of Washington Graduate Program in Neuroscience PhD — Autumn 2027",
-      "organization": "University of Washington · Graduate Program in Neuroscience",
-      "location": "美国・西雅图",
-      "published_at": "2026-08-01",
-      "first_seen_at": "2026-08-05",
-      "updated_at": "2026-08-05",
-      "deadline": "2026-11-12",
-      "discovery_status": "historical_backfill",
-      "priority": 94,
-      "verification_status": "verified_open_official_program_page",
-      "summary": "2027 秋季申请已于 8 月 1 日开放，11 月 12 日 23:59（美国太平洋时间）截止。接受神经科学、生物、数学、物理、计算机和工程等广泛本科／硕士背景；建议学过微积分，GRE 不接受。项目原则上要求申请时累计 2,080 小时（约 12 个月）全职等量科研经历；不足 12 个月仅在有会议、报告或论文等突出研究成果并用可选短文解释时才会考虑。最低 GPA 通常为 3.0；非英语母语申请者须达到 UW Graduate School 的推荐英语成绩。需列出至少 5 位感兴趣导师并提交 2 封必需推荐信。",
-      "summary_en": "Applications for Autumn 2027 opened on 1 August and close on 12 November 2026 at 11:59 p.m. Pacific Time. Applicants from neuroscience, biology, mathematics, physics, computer science, engineering and related backgrounds are encouraged; calculus is recommended and GRE scores are not accepted. The program normally requires 2,080 hours, or about 12 months full-time-equivalent, of research experience at application. Applicants below that threshold are considered only when they explain exceptional outputs such as conferences, presentations or publications in the optional essay. A 3.0-equivalent GPA and the UW recommended English-proficiency score apply. Applicants must identify at least five faculty interests and provide two required recommendations.",
-      "relevance": "计算／认知神经科学方向覆盖强、跨专业背景明确，但 12 个月科研经历是实质门槛；若科研时数不足且没有可验证成果，不应作为主申项目。",
-      "tags": [
-        "历史补录",
-        "申请已开放",
-        "神经科学PhD",
-        "计算／理论神经科学",
-        "认知功能",
-        "跨专业可申请",
-        "12个月科研硬门槛",
-        "微积分建议",
-        "英语成绩要求",
-        "国际申请"
-      ],
-      "source_url": "https://gpneuro.uw.edu/prospective-students/admissions/",
       "current_status": "open"
     },
     {
@@ -3867,7 +3844,7 @@
     "status_changes": 0,
     "existing_urgent_reverified": 3,
     "still_open_urgent_items": 21,
-    "database_items_total": 126,
+    "database_items_total": 125,
     "category_counts": {
       "升学": 1,
       "研究": 4,
@@ -3875,7 +3852,7 @@
       "求职": 1
     },
     "database_category_totals": {
-      "升学": 24,
+      "升学": 23,
       "研究": 68,
       "实验室": 23,
       "求职": 11
@@ -3904,7 +3881,7 @@
     "result": "completed_with_six_historical_backfills_no_status_change",
     "repository_write": "completed_via_github_contents_api",
     "public_site_verification": "pending_after_repository_write",
-    "note": "所有新增均回到学校、雇主或期刊官方页面核验。4 篇研究官方发布日期为 8 月 17 日，但精确上线时间不可得，因此保守标为历史补录；未冒充今日发布。"
+    "note": "所有新增均回到学校、雇主或期刊官方页面核验。4 篇研究官方发布日期为 8 月 17 日，但精确上线时间不可得，因此保守标为历史补录；未冒充今日发布。另合并了华盛顿大学神经科学博士的 1 组既有重复条目。"
   },
   "incremental_run_summary": {
     "increment_boundary": "2026-08-17T12:52:11.244+08:00",
@@ -3919,7 +3896,7 @@
       "实验室": 0,
       "求职": 1
     },
-    "database_items_total": 126,
+    "database_items_total": 125,
     "note": "全量扫描完成；6 条历史补录，3 条既有紧迫机会复核仍开放。"
   }
 }
