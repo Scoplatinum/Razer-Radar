@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T08:05:08+08:00",
-  "notice": "今日已完成全量扫描；新增 6 条历史补录（1 个 2027 神经科学硕士、1 个加拿大医疗研究数据库岗位、4 篇 8 月 17 日正式发表的高质量研究），无状态变化；同时合并 1 组既有重复条目。数据库总计 125 条，3 个迫近机会已复核仍开放。",
+  "generated_at": "2026-08-18T15:54:20+08:00",
+  "notice": "今日 08:05 已完成全量扫描；15:54 增量补扫未发现上次扫描后可核验的高质量新发布、历史补录或状态变化。数据库维持 125 条；利物浦、格拉斯哥神经科学硕士与港大青光眼 AI／眼部影像 RA II 已复核仍开放。",
   "items": [
     {
       "id": "scidata-eeg-inner-speech-directions-2026",
@@ -3875,28 +3875,35 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-18T08:05:08+08:00",
-    "increment_boundary": "2026-08-17T12:52:11.244+08:00",
-    "run_type": "full_scan",
-    "result": "completed_with_six_historical_backfills_no_status_change",
+    "executed_at_beijing": "2026-08-18T15:54:20+08:00",
+    "increment_boundary": "2026-08-18T08:05:08+08:00",
+    "run_type": "incremental_scan_after_same_day_full_scan",
+    "result": "completed_no_high_quality_increment",
     "repository_write": "completed_via_github_contents_api",
     "public_site_verification": "pending_after_repository_write",
-    "note": "所有新增均回到学校、雇主或期刊官方页面核验。4 篇研究官方发布日期为 8 月 17 日，但精确上线时间不可得，因此保守标为历史补录；未冒充今日发布。另合并了华盛顿大学神经科学博士的 1 组既有重复条目。"
+    "note": "按 generated_at 去重，仅补扫 08:05 后增量；四类新增均为 0。利物浦 Neuroscience MSc（国际截止 8 月 21 日）、格拉斯哥 Integrative Neuroscience MSc（8 月 24 日）及 HKU 青光眼 AI／眼部影像 RA II（8 月 27 日或招满）官方页复核仍开放。未将首次发现或旧截止线索误写为今日发布。"
   },
   "incremental_run_summary": {
-    "increment_boundary": "2026-08-17T12:52:11.244+08:00",
-    "executed_at_beijing": "2026-08-18T08:05:08+08:00",
+    "increment_boundary": "2026-08-18T08:05:08+08:00",
+    "executed_at_beijing": "2026-08-18T15:54:20+08:00",
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 6,
+    "historical_backfills_added": 0,
     "status_changes": 0,
     "still_open_urgent_reverified": 3,
     "category_counts": {
-      "升学": 1,
-      "研究": 4,
+      "升学": 0,
+      "研究": 0,
       "实验室": 0,
-      "求职": 1
+      "求职": 0
     },
     "database_items_total": 125,
-    "note": "全量扫描完成；6 条历史补录，3 条既有紧迫机会复核仍开放。"
+    "excluded": [
+      "University at Buffalo RNA-Seq Research Assistant：学校职业中心线索明确排除本科生，并以学生申请语境为主；且 8 月 18 日到期，不符合 2024 已毕业用户的可达性要求。",
+      "Johns Hopkins Cognitive Science RA：仅检索到二手社交平台线索且 8 月 18 日截止，未找到可独立核验的官方开放职位页，不入库。",
+      "Keele Online MSc Computer Science with Data Science：8 月 18 日为申请截止，属于早前开放项目而非 08:05 后新发布；本轮未发现官方条件变化，不重复入库。",
+      "University of Calgary Research Associate（癌症研究）：8 月 18 日截止且岗位层级、专门研究经验要求高于目标初级范围，不入库。",
+      "当日其他聚合平台职位：发布时间早于增量边界，或缺官方开放页、受在校身份／工作权／多年经验限制，均未入库。"
+    ],
+    "note": "15:54 增量补扫完成；四类新增均为 0，3 条既有紧迫机会复核仍开放。"
   }
 }
