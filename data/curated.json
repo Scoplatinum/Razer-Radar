@@ -3992,7 +3992,7 @@
     "run_type": "incremental_scan_after_same_day_full_scan",
     "result": "completed_with_one_historical_backfill_no_newly_published_or_status_changes",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_after_commit",
-    "note": "按 generated_at 去重并执行当天第二次增量补扫。新增 Southampton AI MSc 历史补录 1 条；未把首次发现写成今日发布。Liverpool、Glasgow、St Andrews 奖学金与 HKU 青光眼 AI RA 均通过官方页面复核仍开放。ChatGPT 项目索引在当前运行环境无可用读取接口，本轮以自动化消息中的最新可执行规则为准。"
+    "public_site_verification": "repository_commit_and_data_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "按 generated_at 去重并执行当天第二次增量补扫。新增 Southampton AI MSc 历史补录 1 条；未把首次发现写成今日发布。Liverpool、Glasgow、St Andrews 奖学金与 HKU 青光眼 AI RA 均通过官方页面复核仍开放。远端 JSON 已按提交回读并通过 128 条唯一 ID、分类总数和新增字段校验；公开 Pages 端点被当前运行环境网络安全策略拒绝，故不冒充已刷新。ChatGPT 项目索引在当前运行环境无可用读取接口，本轮以自动化消息中的最新可执行规则为准。"
   }
 }
