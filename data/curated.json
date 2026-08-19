@@ -3953,7 +3953,7 @@
     "run_type": "full_scan",
     "result": "completed_with_historical_backfills_and_status_correction",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_independent_check",
-    "note": "完成所有指定地区、项目、招聘与期刊入口扫描。新增 2 条历史补录，修正 1 项奖学金官方截止状态；未把首次发现误写为今日发布。Liverpool、Glasgow、HKU 青光眼 AI RA 及 HKU 临床研究岗位已复核仍开放。"
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "完成所有指定地区、项目、招聘与期刊入口扫描。新增 2 条历史补录，修正 1 项奖学金官方截止状态；未把首次发现误写为今日发布。Liverpool、Glasgow、HKU 青光眼 AI RA 及 HKU 临床研究岗位已复核仍开放。 远端 JSON 已按提交重新读取并通过 127 条唯一 ID 与分类总数校验；公开 Pages 端点受当前运行环境安全策略限制，未能独立读取，因此不冒充已刷新。"
   }
 }
