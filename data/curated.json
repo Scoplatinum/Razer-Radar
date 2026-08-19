@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-08-19T08:03:28+08:00",
-  "notice": "本轮完整扫描完成：新增 2 条历史补录（St Andrews Online Data Science MSc、HKU 公共卫生 Data Scientist／Data Coordinator），并更正 Glasgow Integrative Neuroscience MSc 的官方奖学金截止状态。无上次扫描后新发布的高质量条目。近期最紧节点为 St Andrews 9 月入学奖学金 8 月 19 日、Liverpool Neuroscience MSc 8 月 21 日、Glasgow Integrative Neuroscience MSc 8 月 24 日及 HKU 青光眼 AI RA 8 月 27 日。",
+  "generated_at": "2026-08-19T15:30:03+08:00",
+  "notice": "本轮按 2026-08-19T08:03:28+08:00 后增量补扫：新增 1 条历史补录（Southampton MSc Artificial Intelligence），无上次扫描后新发布、无状态变化。该项目国际申请于今天英国时间 12:00 截止，仅适合已满足计算机相关本科、数学、高级编程和 AI／算法课程硬门槛且材料齐全者。Liverpool Neuroscience MSc、Glasgow Integrative Neuroscience MSc、St Andrews Data Science 奖学金与 HKU 青光眼 AI RA 已复核仍开放。其余分区今日已扫描，无高质量新增。",
   "items": [
+    {
+      "id": "southampton-artificial-intelligence-msc-2026",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "南安普顿大学人工智能硕士（国际申请今日截止）",
+      "title_en": "MSc Artificial Intelligence",
+      "organization": "University of Southampton",
+      "location": "英国・南安普顿",
+      "published_at": "",
+      "first_seen_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "deadline": "2026-08-19",
+      "discovery_status": "historical_backfill",
+      "priority": 100,
+      "verification_status": "verified_open_official_program_page_international_deadline_2026-08-19_12pm_uk_publication_date_unavailable",
+      "summary": "一年制全日制 AI MSc，国际申请截止 2026 年 8 月 19 日英国时间中午 12 点（北京时间约 19:00），英国本地申请截止 9 月 2 日。课程覆盖智能体、机器学习、深度学习、计算机视觉、机器人、进化算法与研究项目。硬性门槛较窄：需计算机科学、计算机工程、软件工程、人工智能、计算数学或信息技术等相关本科，通常要求 2:1 且成绩 65% 以上；还需至少一门线性代数／高等数学、一门 C／C++／C#／Java 高级编程，以及一门 AI／高级算法／机器学习课程均达到良好 2:1 水平。中国学历仅接受学校指定 Tier A/B/C 院校；IELTS 6.5、单项 6.0。国际学费 £35,000，通常需 £2,000 押金。官网仍显示 Apply，但截止临近，只有材料齐全且硬先修完全匹配者值得立即提交。",
+      "summary_en": "A one-year full-time MSc in Artificial Intelligence. The international deadline is 12:00 noon UK time on 19 August 2026 (about 19:00 Beijing time), while the UK-applicant deadline is 2 September. The curriculum covers intelligent agents, machine learning, deep learning, computer vision, robotics, evolutionary algorithms and a research project. Entry is narrow: an upper 2:1 at 65% or above in computer science, computer engineering, software engineering, AI, maths with computing, IT or a listed related field, plus strong marks in advanced mathematics/linear algebra, advanced programming in C/C++/C#/Java, and AI/advanced algorithms/machine learning. Chinese applicants must have studied at a listed Tier A/B/C institution. IELTS is 6.5 overall with 6.0 in each component. International tuition is £35,000 and a £2,000 deposit normally applies. The official page still exposes the application route, but only fully prepared applicants meeting every prerequisite should act now.",
+      "relevance": "对已有扎实计算机本科与明确数学、Java／C 系高级编程、AI／算法课程记录的申请者是极紧急且技术含量高的入口；不属于转换型项目，也不适合仅凭 Python 自学或非计算机背景跨申。官网称高申请量下决定可能长达 12 周，临近 9 月开学使签证与到校时序存在明显风险，提交前应确认成绩单、英语证明和护照材料齐全。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "国际申请8月19日英国中午截止",
+        "北京时间约19:00",
+        "人工智能",
+        "机器学习",
+        "深度学习",
+        "计算机视觉",
+        "机器人",
+        "硬性相关专业",
+        "线性代数／高等数学",
+        "C／C++／C#／Java",
+        "IELTS 6.5",
+        "国际学费£35,000",
+        "签证时序风险",
+        "发布日期未确认"
+      ],
+      "source_url": "https://www.southampton.ac.uk/courses/artificial-intelligence-masters-msc",
+      "current_status": "international_applications_open_until_2026-08-19_12pm_uk_time_uk_deadline_2026-09-02"
+    },
     {
       "id": "st-andrews-online-data-science-msc-2026",
       "category": "升学",
@@ -3829,115 +3868,115 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scanned_with_historical_backfill_status_change_and_open_reverification",
-      "note": "补录 St Andrews Online Data Science MSc；Glasgow Global Leadership Scholarship 官方截止更正为 8 月 31 日，课程仍截止 8 月 24 日；Liverpool Neuroscience MSc 官方页复核仍开放至 8 月 21 日。其余入口无高质量新增。"
+      "status": "incremental_scanned_with_historical_backfill_and_open_reverification",
+      "note": "增量补录 Southampton MSc Artificial Intelligence（国际申请 8 月 19 日英国时间 12:00 截止，硬性计算机／数学／高级编程／AI 先修）；St Andrews 奖学金、Liverpool 与 Glasgow 项目官方页复核仍开放。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口，未发现同时满足层级、资格、发布时间和开放状态的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，未发现新发布、历史补录或状态变化。未发现同时满足层级、资格、发布时间和开放状态的高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scanned_with_historical_backfill_and_open_reverification",
-      "note": "香港补录 HKU 公共卫生 Data Scientist／Data Coordinator；HKU 青光眼 AI RA 与临床研究入口仍开放。新加坡官方入口已扫描、无高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，未发现新发布、历史补录或状态变化。香港补录 HKU 公共卫生 Data Scientist／Data Coordinator；HKU 青光眼 AI RA 与临床研究入口仍开放。新加坡官方入口已扫描、无高质量新增。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描、无高质量新增；结果主要受博士后／教职层级、当地语言、工作权或特定在校身份限制。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，未发现新发布、历史补录或状态变化。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描官方高校与雇主入口，未发现上次扫描后同时满足层级、资格与开放状态的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，未发现新发布、历史补录或状态变化。未发现上次扫描后同时满足层级、资格与开放状态的高质量新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描官方高校与雇主入口，未发现同时满足层级、资格与开放状态的高质量新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，未发现新发布、历史补录或状态变化。未发现同时满足层级、资格与开放状态的高质量新增。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描中国大厂校招／社招与外企中国区 Careers；结果仍主要受 2027 届／在校身份或多年工程经验限制，无资格普适新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，未发现新发布、历史补录或状态变化。无资格普适新增。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "scanned_with_status_change_and_open_reverification",
-      "note": "Glasgow 奖学金截止状态更正；Liverpool 与 Glasgow 课程复核仍开放。"
+      "status": "incremental_scanned_with_open_reverification_no_high_quality_new",
+      "note": "Liverpool 与 Glasgow 官方页复核仍开放；08:03 后无高质量新增或状态变化。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "scanned_with_historical_backfill",
-      "note": "补录 St Andrews Online Data Science MSc，官方页核验跨专业要求、课程、费用、入学与奖学金节点。"
+      "status": "incremental_scanned_with_historical_backfill",
+      "note": "补录 Southampton MSc Artificial Intelligence；官方页已核验专业、65% 成绩、数学、高级编程、AI／算法课程、英语、费用与今日国际截止。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_with_historical_backfill_and_open_reverification",
-      "note": "补录 HKU 公共卫生数据岗位；HKU 青光眼 AI RA 等既有紧急机会复核仍开放。"
+      "status": "incremental_scanned_with_open_reverification_no_high_quality_new",
+      "note": "HKU 青光眼 AI RA 官方页仍显示 Apply now、8 月 27 日截止或招满；08:03 后无高质量新增。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描主要期刊官方入口；未发现上次扫描后正式上线且同时达到相关性与证据门槛的新研究，不为凑数收录。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，无高质量新增。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "scanned_with_historical_backfill",
-      "note": "补录 HKU 公共卫生 Data Scientist／Data Coordinator，覆盖 SQL、REDCap、数据质量、数据库和仪表盘。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，无高质量新增。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描；中国校招受毕业届别／在校身份限制，海外结果多有工作权、语言或成熟经验门槛。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，无高质量新增。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "scanned_with_historical_backfill_and_open_reverification",
-      "note": "HKU 新增 1 条公共卫生数据历史补录；既有医疗 AI／临床研究岗位复核仍开放。"
+      "status": "incremental_scanned_with_open_reverification_no_high_quality_new",
+      "note": "HKU 青光眼 AI RA 官方页仍显示 Apply now、8 月 27 日截止或招满；08:03 后无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描华为、字节等官方入口；结果主要限定 2027 届／在校身份或资深层级。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "scanned_no_high_quality_new",
-      "note": "已扫描 Microsoft、SAP 等官方 Careers；未发现方向、层级和开放状态均适用的新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "已按 08:03 后增量扫描，无高质量新增。"
     }
   ],
   "run_summary": {
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 2,
-    "status_changes": 1,
+    "historical_backfills_added": 1,
+    "status_changes": 0,
     "existing_urgent_reverified": 4,
-    "still_open_urgent_items": 23,
-    "database_items_total": 127,
+    "still_open_urgent_items": 24,
+    "database_items_total": 128,
     "category_counts": {
       "升学": 1,
       "研究": 0,
       "实验室": 0,
-      "求职": 1
+      "求职": 0
     },
     "database_category_totals": {
-      "升学": 24,
+      "升学": 25,
       "研究": 68,
       "实验室": 23,
       "求职": 12
     },
     "excluded_expired_or_ineligible": [
-      "PolyU Agentic AI MSc：非相关学位申请者要求至少 3 年 IT 工作经验，不符合跨专业低经验口径。",
-      "NTU CHARM Research Assistant 及相近结果：虽为本科层级，但多项既往研究／工程经验要求较强，未优先于更直接匹配机会。",
-      "HKU 536890：要求硕士及 3–5 年经验；HKU 536882：要求 3 年经验与论文记录，均超出目标层级。",
-      "华为等 2027 实习／校招：限定 2027 届或在校身份；社会招聘 AI 结果多为专家层级。",
-      "欧洲、日本、韩国、美国、加拿大与澳大利亚新结果：主要为博士后、教职、工作权／语言硬门槛或多年经验岗位。",
-      "上次扫描后的期刊结果未出现同时达到发布时间、相关性和证据质量门槛的新研究。"
+      "Southampton MSc Artificial Intelligence 不接受一般跨专业申请：仅限列明的计算机／AI／计算数学／IT 背景，并硬性核验数学、高级编程和 AI／算法课程；不满足者应排除。",
+      "Aston MSc Neuroscience & Drug Discovery 等医学／心理学院项目：国际申请已于 8 月 12 日截止，今天 8 月 19 日只是部分录取接受／押金节点，不作为开放机会入库。",
+      "UCL Cognitive Neuroscience MSc：需签证申请者已于 3 月 27 日截止；仅无签证需求者开放至 8 月 28 日，不适合作为普适国际申请机会。",
+      "中国校招与实习新增线索仍多限定 2027 届或在校身份；社会招聘 AI／算法结果普遍要求多年经验。",
+      "欧美、澳洲、日韩新增搜索结果主要为博士后／教职、工作权或当地语言硬门槛；08:03 后未见满足低经验口径的正式新发布。",
+      "主要神经科学与认知期刊官方入口在增量窗口内未出现达到相关性与证据门槛的新正式版本。"
     ]
   },
   "change_legend": {
@@ -3948,12 +3987,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-19T08:03:28+08:00",
-    "increment_boundary": "2026-08-18T15:54:20+08:00",
-    "run_type": "full_scan",
-    "result": "completed_with_historical_backfills_and_status_correction",
+    "executed_at_beijing": "2026-08-19T15:30:03+08:00",
+    "increment_boundary": "2026-08-19T08:03:28+08:00",
+    "run_type": "incremental_scan_after_same_day_full_scan",
+    "result": "completed_with_one_historical_backfill_no_newly_published_or_status_changes",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
-    "note": "完成所有指定地区、项目、招聘与期刊入口扫描。新增 2 条历史补录，修正 1 项奖学金官方截止状态；未把首次发现误写为今日发布。Liverpool、Glasgow、HKU 青光眼 AI RA 及 HKU 临床研究岗位已复核仍开放。 远端 JSON 已按提交重新读取并通过 127 条唯一 ID 与分类总数校验；公开 Pages 端点受当前运行环境安全策略限制，未能独立读取，因此不冒充已刷新。"
+    "public_site_verification": "pending_after_commit",
+    "note": "按 generated_at 去重并执行当天第二次增量补扫。新增 Southampton AI MSc 历史补录 1 条；未把首次发现写成今日发布。Liverpool、Glasgow、St Andrews 奖学金与 HKU 青光眼 AI RA 均通过官方页面复核仍开放。ChatGPT 项目索引在当前运行环境无可用读取接口，本轮以自动化消息中的最新可执行规则为准。"
   }
 }
