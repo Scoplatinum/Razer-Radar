@@ -3988,7 +3988,7 @@
     "run_type": "full_scan",
     "result": "completed_with_status_changes_no_new_items",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_independent_check",
-    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 0 条，状态变化 2 条；Liverpool 明日截止且官方页仍开放。未将不适用的湿实验、硕士／三年经验或签证时序不现实项目包装为新增机会。"
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 0 条，状态变化 2 条；Liverpool 明日截止且官方页仍开放。未将不适用的湿实验、硕士／三年经验或签证时序不现实项目包装为新增机会。 远端 JSON 已从新提交重新读取并通过 128 条唯一 ID、分类总数及关键状态校验；公开 Pages 端点受当前运行环境安全策略限制，无法独立读取。"
   }
 }
