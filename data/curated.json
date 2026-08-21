@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-08-20T08:03:56+08:00",
-  "notice": "本轮完整扫描完成：无新增条目；Southampton AI MSc 国际申请与 St Andrews 9 月入学奖学金均已转为截止状态。Liverpool Neuroscience MSc 国际申请明日 8 月 21 日截止，仍是最紧急节点。所有指定地区、企业招聘与期刊入口均已实际扫描。",
+  "generated_at": "2026-08-21T07:57:43+08:00",
+  "notice": "本轮完整扫描完成：新增 2 条历史补录、无状态变化。Liverpool Neuroscience MSc 国际申请今天 8 月 21 日截止且官方入口仍开放；新增 HKU 急诊医学临床研究与 R/SPSS 分析岗位，以及 Penn LEAD 纵向多模态脑影像开放数据。所有指定地区、企业招聘与期刊入口均已实际扫描。",
   "items": [
+    {
+      "id": "scidata-penn-lead-executive-function-multimodal-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "Penn LEAD：青少年执行功能发展的纵向多模态脑影像开放数据",
+      "title_en": "Penn LEAD: Longitudinal Multimodal Imaging Data for Executive-Function Development",
+      "organization": "Scientific Data",
+      "location": "美国・宾夕法尼亚大学／青少年认知神经科学",
+      "published_at": "2026-08-20",
+      "first_seen_at": "2026-08-21",
+      "updated_at": "2026-08-21",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 99,
+      "verification_status": "verified_peer_reviewed_early_access_official_journal_page_exact_release_time_unavailable",
+      "summary": "Penn LEAD 数据资源包含 132 名入组时 8–16 岁参与者的 225 次纵向成像，其中约 27.3% 为典型发育、20.5% 为 ADHD、52.3% 为精神病谱系。除多项执行功能与临床表型外，还同时提供结构 MRI、扩散 MRI、n-back 任务 fMRI、静息态 fMRI 和动脉自旋标记 MRI；原始数据、完整处理后的衍生数据及质量控制建议均在 OpenNeuro 公开。",
+      "summary_en": "Penn LEAD provides 225 longitudinal imaging sessions from 132 participants aged 8–16 at enrolment: 27.3% typically developing, 20.5% with ADHD, and 52.3% on the psychosis spectrum. Alongside executive-function tasks and rich clinical phenotyping, it includes structural MRI, diffusion MRI, n-back task fMRI, resting-state fMRI and arterial-spin-labelling MRI. Raw data, fully processed derivatives and detailed quality-control recommendations are openly shared on OpenNeuro.",
+      "relevance": "对执行功能、工作记忆、发育认知神经科学、跨诊断精神病理与多模态影像建模非常适合，也可直接用于可复现的数据项目。限制是样本规模对高维机器学习仍偏小、诊断组比例不平衡，临床转诊样本可能带来选择偏倚；这是数据描述论文，不应把可用资源本身误写为已证明某一因果机制。",
+      "tags": [
+        "历史补录",
+        "Scientific Data",
+        "8月20日正式发表",
+        "开放数据",
+        "执行功能",
+        "n-back",
+        "纵向研究",
+        "结构MRI",
+        "扩散MRI",
+        "任务／静息态fMRI",
+        "ASL",
+        "OpenNeuro",
+        "early access"
+      ],
+      "source_url": "https://www.nature.com/articles/s41597-026-08095-1",
+      "current_status": "peer_reviewed_early_access_open_data"
+    },
+    {
+      "id": "hku-emergency-medicine-senior-ra-537148",
+      "category": "实验室",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "香港大学急诊医学临床研究高级科研助理",
+      "title_en": "Senior Research Assistant — Emergency Medicine Clinical Research",
+      "organization": "The University of Hong Kong · Department of Emergency Medicine",
+      "location": "中国香港",
+      "published_at": "2026-08-20",
+      "first_seen_at": "2026-08-21",
+      "updated_at": "2026-08-21",
+      "deadline": "2026-09-10",
+      "discovery_status": "historical_backfill",
+      "priority": 94,
+      "verification_status": "verified_open_official_employer_listing_exact_release_time_unavailable",
+      "summary": "一年期全职岗位，可按表现续约；8 月 20 日公告，滚动审查至 9 月 10 日或招满即止。本科及以上即可，官网没有写固定工作年限。工作聚焦急诊科临床研究；文献综述、病历数据提取、数据分析及 SPSS／R 能力均为优先项而非统一硬门槛，并明确欢迎计划继续攻读研究型研究生的人申请。",
+      "summary_en": "A one-year full-time appointment, renewable subject to performance, advertised on 20 August and reviewed immediately until 10 September or until filled. A bachelor's degree or above is accepted and no fixed years of experience are stated. The role supports emergency-department clinical research; literature review, medical-chart data extraction, data analysis, and SPSS/R are preferred rather than universal hard requirements. Applicants planning research postgraduate study are explicitly welcome.",
+      "relevance": "临床研究、病历数据与统计分析结合直接，资格文本比多数 Senior RA 更开放；但职衔为高级科研助理，实际竞争可能重视既往临床数据与论文经验。适合作为医学数据／研究生准备入口，申请材料应突出数据清洗、统计分析和可复现报告，而不能仅凭“本科可申请”判断难度。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "8月20日公告",
+        "本科可申请",
+        "无固定年限",
+        "急诊医学",
+        "临床研究",
+        "病历数据提取",
+        "SPSS／R",
+        "滚动审查",
+        "研究生准备"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537148/senior-research-assistant",
+      "current_status": "open_rolling_until_2026-09-10_or_filled"
+    },
     {
       "id": "southampton-artificial-intelligence-msc-2026",
       "category": "升学",
@@ -3288,26 +3358,26 @@
       "location": "英国・利物浦",
       "published_at": "",
       "first_seen_at": "2026-07-29",
-      "updated_at": "2026-08-20",
+      "updated_at": "2026-08-21",
       "deadline": "2026-08-21",
       "discovery_status": "existing_opportunity_still_open",
       "priority": 100,
-      "verification_status": "verified_open_official_program_page_2026-08-20",
+      "verification_status": "verified_open_official_program_page_2026-08-21",
       "summary": "2026 年 9 月入学、全日制 12 个月；国际申请截止 8 月 21 日。接受心理学、生物科学、物理、药理、影像及其他相关背景，最低通常为英国 2:2；官网明确不要求既往神经科学经验。课程覆盖 EEG、电生理、MRI、TMS、编程、神经影像分析、混合模型、贝叶斯统计和研究项目。国际学费为 £32,000；IELTS 6.5，单项不低于 6.0。",
       "summary_en": "A 12-month MSc starting in September 2026, with an international deadline of 21 August. Applicants normally need at least a UK 2:2 equivalent in a relevant subject such as psychology, biosciences, physics, pharmacology or radiography; prior neuroscience experience is explicitly not required. Training covers EEG, electrophysiology, MRI, TMS, programming, neuroimaging analysis, mixed models, Bayesian statistics and a supervised research project. International tuition is £32,000 and IELTS 6.5 overall with no component below 6.0 is required.",
       "relevance": "跨专业入口清晰，统计、编程和神经影像训练比多数泛神经科学硕士更具体；申请前应把学费、语言和签证办理周期作为首要可行性检查。",
       "tags": [
         "既有机会仍开放",
         "需尽快行动",
-        "国际申请明日8月21日截止",
+        "国际申请今天8月21日截止",
         "跨专业友好",
         "EEG／MRI／TMS",
         "编程与统计",
         "发布日期未确认",
-        "8月20日官方复核"
+        "8月21日官方复核"
       ],
       "source_url": "https://www.liverpool.ac.uk/courses/neuroscience-msc",
-      "current_status": "international_applications_open_until_2026-08-21"
+      "current_status": "international_applications_open_deadline_today_2026-08-21"
     },
     {
       "id": "hku-digital-maxillofacial-ra-536877",
@@ -3863,116 +3933,115 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scanned_with_status_changes_and_open_reverification",
-      "note": "Southampton AI MSc 国际申请已关闭；St Andrews 9 月奖学金已截止但课程仍开放至 9 月 1 日，10 月奖学金截止 9 月 23 日；Liverpool Neuroscience MSc 复核仍开放至明日 8 月 21 日。其余入口无高质量新增。"
+      "status": "full_scanned_existing_deadline_today_no_high_quality_new",
+      "note": "Liverpool Neuroscience MSc 官方页复核：国际申请今天 8 月 21 日截止且仍显示 Apply now；Glasgow 仍开放至 8 月 24 日。Edinburgh 医学影像数据分析岗要求大型临床队列、医学影像数据管理和相关论文记录，层级偏高，未收录。其余入口无高质量新增。"
     },
     {
       "region": "欧洲大陆",
       "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口，未发现同时满足层级、资格、发布时间和开放状态的高质量新增。EURAXESS 新结果仍以博士后、教职或当地语言／高学历门槛为主。"
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口。Donders 的二语记忆 RA 与认知神经科学高度相关，但近母语荷兰语是参与者互动硬门槛；EURAXESS 等其余结果仍以博士后、教职或语言／高学历限制为主。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scanned_existing_open_reverified_no_high_quality_new",
-      "note": "HKU 8 月 19 日新公告已核验：神经科岗位要求湿实验，呼吸病毒岗位要求硕士兼湿实验，临床数据经理要求至少 3 年经验，教育项目岗以粤语和高频协调为核心，均未收录。既有 HKU 临床试验岗位已进入滚动审查；新加坡无合格新增。"
+      "status": "full_scanned_with_historical_backfill",
+      "note": "HKU 8 月 20 日急诊医学 Senior RA 本科可申请、无固定年限，结合病历数据提取、SPSS／R 与临床研究，作为历史补录收录。HKU AI 治理 RA 以政策写作、活动与利益相关方协调为核心，未收录；新加坡官方入口无合格新增。"
     },
     {
       "region": "日本与韩国",
       "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描官方高校与招聘入口，无高质量新增；结果主要受博士后／教职层级、当地语言、工作权或特定在校身份限制。"
+      "note": "已扫描官方高校与招聘入口，无同时满足层级、资格、发布时间和开放状态的高质量新增；结果主要受博士后／教职层级、当地语言、工作权或特定在校身份限制。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描官方高校与雇主入口，未发现上次扫描后同时满足层级、资格与开放状态的高质量新增。"
+      "status": "full_scanned_with_research_historical_backfill_no_new_opportunity",
+      "note": "机会入口已扫描、无层级与资格均适用的新岗位；研究侧补录 8 月 20 日正式发表的 Penn LEAD 纵向执行功能多模态影像开放数据，因无法确认具体上线时刻晚于上次边界，保守标为历史补录。"
     },
     {
       "region": "澳大利亚",
       "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描官方高校、项目与雇主入口，未发现同时满足层级、资格与开放状态的高质量新增。"
+      "note": "已扫描官方高校、项目与雇主入口，未发现上次边界后同时满足层级、资格与开放状态的高质量新增。"
     },
     {
       "region": "中国大陆",
       "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描中国大厂校招／社招与外企中国区 Careers；结果仍主要受 2027 届／在校身份或多年工程经验限制，无资格普适新增。"
+      "note": "已扫描腾讯、华为、字节等中国大厂官方校招／社招，以及外企中国区 Careers；校园岗位仍主要限定 2027 届／在校身份，社会招聘算法与 AI 结果普遍要求多年经验或专家层级。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "scanned_with_open_reverification",
-      "note": "Liverpool Neuroscience MSc 官方页复核仍开放，国际申请明日截止；Glasgow 仍为 8 月 24 日。"
+      "status": "scanned_existing_deadline_today",
+      "note": "Liverpool Neuroscience MSc 国际申请今天 8 月 21 日截止且官方 Apply now 入口仍显示开放；Glasgow 截止 8 月 24 日。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "scanned_with_status_changes",
-      "note": "Southampton 国际申请关闭，St Andrews 9 月奖学金关闭但课程与 10 月奖学金仍开放。Imperial 环境数据科学项目虽显示 8 月 20 日轮次截止，但官网要求需签证者最晚 6 月 18 日申请，因此未作为现实可行新增。"
+      "status": "scanned_no_high_quality_new",
+      "note": "跨专业硕士与高口碑项目官方入口已扫描；未发现上次边界后同时满足入学背景、国际时间可行性与质量门槛的新项目。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_no_high_quality_new_with_open_reverification",
-      "note": "HKU 8 月 19 日新岗位逐条回到官方页核验，因湿实验、硕士、三年经验或高沟通粤语门槛未收录；既有紧迫岗位复核仍开放。"
+      "status": "scanned_with_historical_backfill",
+      "note": "HKU 急诊医学 Senior RA 作为 8 月 20 日历史补录收录；Donders RA 因近母语荷兰语硬门槛排除，Edinburgh 医学影像数据岗因成熟临床队列与论文经验要求排除。"
     },
     {
       "source_group": "研究动态",
-      "status": "scanned_no_high_quality_new",
-      "note": "主要神经科学、认知、计算与医学期刊官方入口已扫描；未发现上次边界后正式上线且同时达到相关性和证据门槛的新研究。"
+      "status": "scanned_with_historical_backfill",
+      "note": "补录 Scientific Data 于 8 月 20 日发表的 Penn LEAD 纵向执行功能多模态影像开放数据；其他期刊结果未同时达到相关性、证据与增量门槛。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "HKU 新临床数据经理要求至少 3 年临床／社区试验数据库经验；其余地区无低经验合格新增。"
+      "status": "scanned_with_relevant_lab_backfill",
+      "note": "HKU 急诊医学岗位包含病历数据提取与 SPSS／R 分析且无固定年限，已在实验室／医疗研究分区收录；一般数据岗无合格新增。"
     },
     {
       "source_group": "算法与AI岗位",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描；中国校招受毕业届别／在校身份限制，海外结果多有相关学位、成熟项目经验、工作权或语言门槛。"
+      "note": "中国大厂校招受毕业届别／在校身份限制，社会招聘多为专家或多年经验；海外新结果多有工作权、成熟工程经验或语言门槛。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "HKU 神经科与呼吸病毒 RA 分别受湿实验、硕士及动物实验要求限制，未收录；既有医疗数据／AI 岗位仍开放。"
+      "status": "scanned_with_historical_backfill",
+      "note": "新增 HKU 急诊医学临床研究 Senior RA 历史补录；其余官方新结果受湿实验、资深论文记录、当地语言或高沟通职责限制。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描华为、字节等官方入口；结果主要限定 2027 届／在校身份或专家层级。"
+      "note": "腾讯、华为、字节等官方入口已扫描；2027 届／在校身份与专家级经验仍是主要限制。"
     },
     {
       "source_group": "外企中国区 Careers",
       "status": "scanned_no_high_quality_new",
-      "note": "已扫描 Microsoft、SAP 等官方 Careers；未发现方向、层级和开放状态均适用的新增。"
+      "note": "Microsoft、SAP 等官方 Careers 已扫描；未发现方向、层级、地点与开放状态均适用的新增。"
     }
   ],
   "run_summary": {
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 0,
-    "status_changes": 2,
+    "historical_backfills_added": 2,
+    "status_changes": 0,
     "existing_urgent_reverified": 5,
-    "still_open_urgent_items": 23,
-    "database_items_total": 128,
+    "still_open_urgent_items": 24,
+    "database_items_total": 130,
     "category_counts": {
       "升学": 0,
-      "研究": 0,
-      "实验室": 0,
+      "研究": 1,
+      "实验室": 1,
       "求职": 0
     },
     "database_category_totals": {
+      "研究": 69,
+      "实验室": 24,
       "升学": 25,
-      "研究": 68,
-      "实验室": 23,
       "求职": 12
     },
     "excluded_expired_or_ineligible": [
-      "HKU Neurology RA I/II（8 月 19 日发布）：要求免疫荧光、PCR、Western blot、细胞系、转染、测序及啮齿动物等湿实验经验。",
-      "HKU Medicine RA I/II（8 月 19 日发布）：要求硕士，并同时要求细胞培养、病毒学实验及动物模型经验。",
-      "HKU 临床试验 Data Manager（8 月 19 日发布）：硬性要求至少 3 年临床／社区试验数据库经验。",
-      "HKU 教育项目 Project Officer（8 月 19 日发布）：粤语、校访、访谈、活动组织、项目管理和日常行政占核心，与低沟通技术任务偏好不符。",
-      "Imperial Environmental Data Science and Machine Learning MSc：官网虽列 8 月 20 日第六轮截止，但明确建议需要学生签证者最晚 6 月 18 日申请，未作为现实可行国际机会收录。",
-      "中国校招与实习线索仍多限定 2027 届或在校身份；社会招聘 AI／算法结果普遍要求多年经验。",
-      "欧洲、北美、澳洲与日韩结果主要为博士后、教职、工作权／当地语言硬门槛；期刊侧无达到质量门槛的新正式版本。"
+      "Donders Centre for Cognition 二语记忆 Research Assistant：方向涵盖行为、脑成像与 fMRI，但近母语荷兰语是参与者互动硬门槛。",
+      "University of Edinburgh 医学影像与统计 Data Analyst：要求大型临床队列、脑 MRI／神经退行性影像、医学数据管理和相关论文记录，明显偏成熟分析师层级。",
+      "HKU Global AI Governance Hub RA II：本科可申请，但政策写作、活动组织、利益相关方沟通与行政支持占核心，与技术分析主线和低沟通偏好不符。",
+      "HKU 8 月 20 日教职、研究员及博士后结果因层级不匹配排除。",
+      "中国大厂校招与实习仍多限定 2027 届或在校身份；社会招聘 AI／算法结果普遍要求多年经验或专家层级。",
+      "欧洲、日韩、北美和澳洲新结果主要受博士后／教职层级、当地语言、工作权或成熟经验门槛限制。"
     ]
   },
   "change_legend": {
@@ -3983,12 +4052,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-20T08:03:56+08:00",
-    "increment_boundary": "2026-08-19T15:30:03+08:00",
+    "executed_at_beijing": "2026-08-21T07:57:43+08:00",
+    "increment_boundary": "2026-08-20T08:03:56+08:00",
     "run_type": "full_scan",
-    "result": "completed_with_status_changes_no_new_items",
+    "result": "completed_with_two_historical_backfills_no_status_change",
     "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
-    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 0 条，状态变化 2 条；Liverpool 明日截止且官方页仍开放。未将不适用的湿实验、硕士／三年经验或签证时序不现实项目包装为新增机会。 远端 JSON 已从新提交重新读取并通过 128 条唯一 ID、分类总数及关键状态校验；公开 Pages 端点受当前运行环境安全策略限制，无法独立读取。"
+    "public_site_verification": "pending_after_repository_write",
+    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条历史补录、状态变化 0 条；Liverpool 国际申请今天截止且官方入口仍开放。两条 8 月 20 日记录因缺少精确上线时刻，未宣称为上次边界后新发布。"
   }
 }
