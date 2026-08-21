@@ -4056,8 +4056,8 @@
     "increment_boundary": "2026-08-20T08:03:56+08:00",
     "run_type": "full_scan",
     "result": "completed_with_two_historical_backfills_no_status_change",
-    "repository_write": "completed_via_github_contents_api",
-    "public_site_verification": "pending_after_repository_write",
-    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条历史补录、状态变化 0 条；Liverpool 国际申请今天截止且官方入口仍开放。两条 8 月 20 日记录因缺少精确上线时刻，未宣称为上次边界后新发布。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条历史补录、状态变化 0 条；Liverpool 国际申请今天截止且官方入口仍开放。两条 8 月 20 日记录因缺少精确上线时刻，未宣称为上次边界后新发布。 远端 JSON 已从提交重新读取并通过 130 条唯一 ID、分类总数、两条补录状态及 Liverpool 今日开放状态校验；公开 Pages 端点受当前环境安全策略限制，未能独立读取。"
   }
 }
