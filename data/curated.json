@@ -4271,8 +4271,8 @@
     "increment_boundary": "2026-08-23T08:00:32+08:00",
     "run_type": "incremental_scan_after_same_day_full_scan",
     "result": "completed_no_high_quality_incremental_additions",
-    "repository_write": "pending_commit",
-    "public_site_verification": "pending",
-    "note": "按 generated_at 去重完成今日全量扫描后的增量补扫。四类新增均为 0；复核 4 条重点开放项，137 条历史记录保持不变且 ID 唯一。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "按 generated_at 去重完成今日全量扫描后的增量补扫。四类新增均为 0；复核 4 条重点开放项。远端 JSON 回读确认 137 条唯一 ID、137 条唯一官方链接及分类总数；公开 Pages 与公开 JSON 端点被当前运行环境安全策略拒绝，未冒充已刷新。"
   }
 }
