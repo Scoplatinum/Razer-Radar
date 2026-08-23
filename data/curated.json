@@ -4297,8 +4297,8 @@
     "increment_boundary": "2026-08-22T16:26:18+08:00",
     "run_type": "full_scan",
     "result": "completed_with_five_historical_backfills_and_one_status_change",
-    "repository_write": "pending_remote_revalidation",
-    "public_site_verification": "not_yet_checked",
-    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条研究及 3 条求职历史补录，1 条状态变化；无法核验精确上线时刻的 8 月 22 日内容未冒充上次扫描后新发布。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条研究及 3 条求职历史补录，1 条状态变化；无法核验精确上线时刻的 8 月 22 日内容未冒充上次扫描后新发布。远端 JSON 已重新读取，并通过 137 条唯一 ID、137 条唯一官方链接、分类总数、五条新增分类及 HKU HIEBS 关闭状态校验。"
   }
 }
