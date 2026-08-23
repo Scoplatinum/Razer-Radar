@@ -1,7 +1,175 @@
 {
-  "generated_at": "2026-08-22T16:26:18+08:00",
-  "notice": "今日 07:59:57 已完成全量扫描；本轮补扫至 16:26:18，上次扫描后新发布 0、历史补录 0、状态变化 0。四类均已扫描，无高质量新增。官方复核：Liverpool Neuroscience MSc 国际申请已于 8 月 21 日截止；Glasgow Integrative Neuroscience MSc 仍开放至 8 月 24 日；HKU 青光眼 AI 科研助理 II 仍显示 Apply now，8 月 27 日截止或招满即止。",
+  "generated_at": "2026-08-23T08:00:32+08:00",
+  "notice": "今日已完成全量扫描；本轮新增 5 条历史补录（研究 2、求职 3），状态变化 1 条。8 月 22 日官方发布但精确上线时刻不可核验的内容未冒充上次扫描后新发布。Glasgow Integrative Neuroscience MSc 与 Calgary 研究数据库开发员均仍开放至 8 月 24 日；HKU HIEBS RA 已关闭。",
   "items": [
+    {
+      "id": "hku-emergency-software-developer-537140",
+      "category": "求职",
+      "section": "低经验求职机会",
+      "title": "香港大学急诊医学软件开发员／IT 技术员",
+      "title_en": "Software Developer / IT Technician — Department of Emergency Medicine",
+      "organization": "The University of Hong Kong · Department of Emergency Medicine",
+      "location": "中国香港",
+      "published_at": "2026-08-21",
+      "first_seen_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "deadline": "2026-09-30",
+      "discovery_status": "historical_backfill",
+      "priority": 94,
+      "verification_status": "verified_open_official_employer_listing_fresh_graduate_technician_path",
+      "summary": "两年固定期全职岗位，可续约；官方的 Assistant IT Manager／Software Developer 广告要求计算机、IT 或相关本科，主管级通常需三年经验，但明确表示优秀应届毕业生可按 IT Technician 职级考虑并提供在职培训。技术栈包括 React、TypeScript、HTML、CSS、JavaScript、PHP、Node.js、MySQL／Postgres／SQL Server／Oracle，以及 DevOps、CI/CD 和 Git；负责社区健康、教学与行政工作流的应用开发、维护和系统支持。9 月 30 日截止，滚动审查。",
+      "summary_en": "A two-year fixed-term full-time role with possible renewal. The Assistant IT Manager / Software Developer advertisement normally asks for three years of experience at the higher rank, but explicitly states that highly motivated fresh graduates may be considered at IT Technician rank with on-the-job training. The stack includes React, TypeScript, HTML, CSS, JavaScript, PHP, Node.js, relational databases, DevOps, CI/CD and Git. Duties cover development, maintenance and support for community-health, teaching and administrative workflow applications. Review is rolling until 30 September or earlier if filled.",
+      "relevance": "应届生通道明确，且全栈、数据库、DevOps 与科研／医疗系统工程结合度高，是本轮技术匹配最强的岗位之一。需要注意中英文书面口语、团队协作和现场系统支持；申请材料应明确按 IT Technician 职级申请，避免被主管级三年经验要求误筛。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "应届生可按IT Technician考虑",
+        "全栈开发",
+        "React／TypeScript／Node.js",
+        "关系数据库",
+        "DevOps／CI-CD／Git",
+        "医疗与教学系统",
+        "在职培训",
+        "中英文",
+        "滚动审查",
+        "截止9月30日"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537140/assistant-it-manager-software-developer-at-the-rank-of-it-officer-it-technician",
+      "current_status": "open_rolling_until_2026-09-30_or_filled"
+    },
+    {
+      "id": "hku-emergency-data-coordinator-537142",
+      "category": "求职",
+      "section": "数据分析岗位",
+      "title": "香港大学急诊医学数据协调员（技术助理／技术主任职级，多个岗位）",
+      "title_en": "Data Coordinator — Technical Assistant / Technical Officer Rank (Several Posts)",
+      "organization": "The University of Hong Kong · Department of Emergency Medicine",
+      "location": "中国香港",
+      "published_at": "2026-08-21",
+      "first_seen_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "deadline": "2026-09-30",
+      "discovery_status": "historical_backfill",
+      "priority": 91,
+      "verification_status": "verified_open_official_employer_listing_title_rank_inconsistency_noted",
+      "summary": "一年期全职岗位，可续约。本科接受数据管理、统计、计算机、信息系统、公共卫生等方向；工作要求数据清洗、质量保证、技术文档、数据报告和多方工作流管理，R、SAS、Stata、Python 及可视化／报告工具为加分。还重视数据保护、基础统计与分析、向非技术人员解释结果，以及领导和指导能力。9 月 30 日截止，滚动审查、招满即止。",
+      "summary_en": "A one-year full-time role with possible renewal. Bachelor's degrees in data management, statistics, computer science, information systems, public health or related fields are accepted. The work calls for data cleaning, quality assurance, technical documentation, reporting and workflow management across stakeholders; R, SAS, Stata, Python and visualization/reporting tools are advantageous. Data protection, foundational statistics/analytics, communication with non-technical audiences and leadership or mentoring are also emphasized. Review is rolling until 30 September or earlier if filled.",
+      "relevance": "专业和技术要求与医疗数据分析较匹配，没有固定年限门槛；但官网标题写 Technical Assistant、正文写 Technical Officer，职级存在不一致，且多方工作流、沟通和指导要求较强，申请前应确认具体职级与实际独立分析占比。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "医疗数据",
+        "数据清洗／质控",
+        "R／Python／SAS／Stata",
+        "本科可申请",
+        "滚动审查",
+        "职级文本不一致",
+        "沟通与指导要求",
+        "截止9月30日"
+      ],
+      "source_url": "https://jobs.hku.hk/en/job/537142/data-coordinator-at-the-rank-of-technical-assistant-several-posts",
+      "current_status": "open_rolling_until_2026-09-30_or_filled"
+    },
+    {
+      "id": "sap-china-ixp-qa-web-xian-454157",
+      "category": "求职",
+      "section": "算法与 AI 岗位",
+      "title": "SAP 中国 iXp Web 应用质量工程实习生（西安）",
+      "title_en": "SAP China iXp Intern — Quality Engineer for Web Application, Xi'an",
+      "organization": "SAP",
+      "location": "中国・西安（Hybrid）",
+      "published_at": "2026-08-22",
+      "first_seen_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 89,
+      "verification_status": "verified_open_official_employer_listing",
+      "summary": "SAP HANA 工具团队的有限期全职实习，侧重 Web 软件质量、性能与可扩展性，使用 JavaScript 测试浏览器界面或编写 JavaScript／Java 服务端逻辑，并用 AI／LLM 提升编码和测试效率。要求计算机、软件／计算机工程或相关专业的毕业生或在校生，具备 JavaScript UI、数据库和至少一种桌面系统开发经验；Java、Node.js、CSS、HTML5、全栈及个人编程项目为加分项。日常英语沟通，预计出差 0–10%。",
+      "summary_en": "A limited full-time internship on SAP's HANA tooling team, focused on web-software quality, performance and scalability. Work includes testing browser interfaces or server-side logic in JavaScript/Java and using AI/LLMs to improve coding and testing efficiency. The listing accepts graduates or current students in computer science, software/computer engineering or related disciplines, with JavaScript UI, database and desktop-platform development experience. Java, Node.js, CSS, HTML5, full-stack work and substantial personal programming projects are advantageous. Daily communication is in English.",
+      "relevance": "与测试工程、Web 工具、数据库和 AI 辅助开发结合直接，官方明确包含 recent graduates，且没有多年经验门槛。风险是页面同时把 Career Status 标为 Student，毕业时间与 iXp 资格仍应在投入前确认；专业口径偏计算机相关，地点为西安且未列截止日，开放期可能随时结束。",
+      "tags": [
+        "历史补录",
+        "外企中国区",
+        "低经验",
+        "毕业生或在校生",
+        "软件质量工程",
+        "Web开发",
+        "JavaScript／Java",
+        "数据库",
+        "AI／LLM辅助测试",
+        "英语工作环境",
+        "资格需确认",
+        "未列截止日"
+      ],
+      "source_url": "https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Quality-Engineer-for-Web-Application-Xi%26apos%3Ban-710077/1397540533/",
+      "current_status": "open_no_deadline_listed"
+    },
+    {
+      "id": "natcomm-bipolar-mitochondria-synaptic-energy-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "双相障碍模型中轴突线粒体运动、能量缺口与突触不稳定",
+      "title_en": "Enhanced Axonal Mitochondrial Motility and Neural Activity-Induced Energy Deficits Destabilize Synaptic Transmission in Models of Bipolar Disorder",
+      "organization": "Nature Communications",
+      "location": "美国・NIH NINDS／细胞神经科学与精神疾病",
+      "published_at": "2026-08-22",
+      "first_seen_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 97,
+      "verification_status": "verified_peer_reviewed_official_journal_early_access",
+      "summary": "研究比较双相障碍供体来源的 hiPSC 皮层神经元，发现轴突线粒体运动和进出转换增加、突触前末梢稳定驻留减少，导致局部 ATP 维持与钙缓冲受损，并增加突触传递变异而非改变平均强度。AKAP11 敲低在小鼠神经元中复现相关缺陷；SNPH 缺失小鼠出现躁狂样表型。锂盐在这些模型中恢复线粒体驻留、能量维持、突触稳定性及部分行为表型。",
+      "summary_en": "In cortical neurons derived from bipolar-disorder donor hiPSCs, axonal mitochondria moved and entered or exited more frequently, reducing stable retention at presynaptic terminals. This impaired local ATP maintenance and calcium buffering and increased synaptic variability without changing mean strength. AKAP11 knockdown reproduced the deficits in mouse neurons, while SNPH-null mice showed manic-like phenotypes. Lithium rescued mitochondrial retention, energy maintenance, synaptic variability and model-specific behavioral phenotypes.",
+      "relevance": "为精神疾病、突触能量学、线粒体运输和患者来源细胞模型提供较完整的跨模型机制链。局限是 hiPSC 神经元和小鼠躁狂样行为不能完整代表人类双相障碍；锂盐的模型救援不等同临床机制或疗效证明，供体异质性与长期疾病状态也仍需更大样本验证。当前为已同行评审 early-access 版本。",
+      "tags": [
+        "历史补录",
+        "8月22日正式发表",
+        "Nature Communications",
+        "双相障碍",
+        "hiPSC神经元",
+        "线粒体运输",
+        "突触能量学",
+        "AKAP11／SNPH",
+        "锂盐",
+        "early-access"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-76722-x",
+      "current_status": "peer_reviewed_early_access"
+    },
+    {
+      "id": "natcomm-neurosymbolic-active-exploration-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "组合式神经符号表征实现高效主动探索",
+      "title_en": "Compositional Neurosymbolic Representations Enable Efficient Active Exploration",
+      "organization": "Nature Communications",
+      "location": "加拿大／瑞士／英国・滑铁卢大学等／神经启发计算与主动学习",
+      "published_at": "2026-08-22",
+      "first_seen_at": "2026-08-23",
+      "updated_at": "2026-08-23",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 98,
+      "verification_status": "verified_peer_reviewed_official_journal_early_access",
+      "summary": "研究用受神经计算启发的高维组合向量构建贝叶斯优化算法，把标准方法随观测数增长的时间 O(n³) 与内存 O(n²) 成本，转化为随固定嵌入维度变化的 O(d²)。在多类探索任务上，计算时间缩短约 60–200 倍且未损失准确率；部署至神经形态硬件后，每次采样能耗降低约 30–188 倍。",
+      "summary_en": "The study builds a Bayesian-optimization algorithm from compositional high-dimensional vector representations inspired by neural computation. It replaces the observation-dependent O(n³) time and O(n²) memory costs of standard methods with O(d²) costs in a fixed embedding dimension. Across diverse exploration tasks it reduced compute time by roughly 60–200× without accuracy loss, while neuromorphic-hardware implementation reduced energy per sample by about 30–188×.",
+      "relevance": "与神经启发 AI、长期主动探索、贝叶斯优化和神经形态计算高度相关，也适合作为算法与硬件协同复现方向。主要限制是结果来自选定基准和硬件条件，固定维度在更复杂、非平稳现实环境中的表达上限仍需验证；神经启发表征也不等同于证明生物脑采用相同优化机制。当前为已同行评审的 early-access 版本，后续仍会文字编辑。",
+      "tags": [
+        "历史补录",
+        "8月22日正式发表",
+        "Nature Communications",
+        "神经符号计算",
+        "主动探索",
+        "贝叶斯优化",
+        "神经形态计算",
+        "高维向量表征",
+        "early-access"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-75703-4",
+      "current_status": "peer_reviewed_early_access"
+    },
     {
       "id": "elife-visuomotor-mismatch-mobile-eeg-2026",
       "category": "研究",
@@ -385,11 +553,11 @@
       "location": "加拿大・卡尔加里",
       "published_at": "2026-08-14",
       "first_seen_at": "2026-08-18",
-      "updated_at": "2026-08-18",
+      "updated_at": "2026-08-23",
       "deadline": "2026-08-24",
       "discovery_status": "historical_backfill",
       "priority": 91,
-      "verification_status": "verified_open_official_employer_listing_updated_date_used",
+      "verification_status": "verified_open_official_employer_listing_updated_date_used_reverified_2026_08_23",
       "summary": "约六个月的定期兼职岗位，每周通常 10–25 小时，可续期。工作包括配置 REDCap／Qualtrics 等电子数据采集、设计字段与数据库结构、编写验证与报表脚本、ETL、数据质量和服务台支持。接受健康／生命／医学科学、计算机或相关证书学历；未写硬性工作年限，但要求临床研究数据平台、数据库／数据质量经验，并需 Python、JavaScript 或相近编程能力。8 月 24 日截止；官网明确所有合格者可申请，但加拿大公民和永久居民优先，未说明工签或签证支持。",
       "summary_en": "A recurring part-time role for about six months, typically 10–25 hours per week, with possible extension. Work includes configuring REDCap/Qualtrics data capture, designing fields and database structures, scripting validation and reporting, ETL, data quality and service-desk support. Degrees or relevant certificates in health/life/medical sciences, computer science or related areas are accepted. No fixed years-of-experience threshold is stated, but hands-on clinical-research platforms, databases/data quality, and Python, JavaScript or comparable programming are required. The deadline is 24 August; qualified applicants may apply, but Canadian citizens and permanent residents receive preference, and visa/work-permit support is not stated.",
       "relevance": "医疗数据、数据库、JSON／SQL 与编程结合度高，层级比多数海外研究数据岗更可达；但 REDCap／Qualtrics 经验属于实质要求，岗位短期且兼职，并对加拿大公民／永久居民优先。没有当地工作权时，投入前应先确认工作许可可行性。",
@@ -403,10 +571,12 @@
         "Python／JavaScript",
         "兼职10–25小时",
         "加拿大身份优先",
-        "截止8月24日"
+        "截止8月24日",
+        "8月23日官方复核"
       ],
       "source_url": "https://careers.ucalgary.ca/jobs/18122079-research-database-developer-cumming-school-of-medicine",
-      "current_status": "open_until_2026-08-24"
+      "current_status": "open_until_2026-08-24",
+      "last_verified_at": "2026-08-23"
     },
     {
       "id": "sussex-neuroscience-msc-2027",
@@ -2567,12 +2737,12 @@
       "location": "英国・格拉斯哥",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-08-19",
-      "last_verified_at": "2026-08-22",
+      "updated_at": "2026-08-23",
+      "last_verified_at": "2026-08-23",
       "deadline": "2026-08-24",
       "discovery_status": "status_change",
       "priority": 100,
-      "verification_status": "verified_open_official_program_and_scholarship_pages",
+      "verification_status": "verified_open_official_program_and_scholarship_pages_reverified_2026_08_23",
       "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。状态更正：Global Leadership Scholarship 官方页现列申请截止为 2026 年 8 月 31 日英国时间 11:45，奖额 £10,000；须已持有 2026 年 9 月一年制全日制硕士录取并达到英国一等学位等值要求。",
       "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. Status correction: the official Global Leadership Scholarship page now lists a deadline of 11:45 a.m. UK time on 31 August 2026. The £10,000 award requires an offer for an eligible one-year full-time September 2026 master's programme and UK first-class-equivalent academic performance.",
       "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较广义整合神经科学与更聚焦计算／认知项目。课程截止只剩 5 天，语言、资金和签证可行性必须立即核验。奖学金官方截止现为 8 月 31 日，修正了库内此前的过期判断。",
@@ -2587,7 +2757,8 @@
         "fMRI／EEG／TMS",
         "发布日期未确认",
         "既有机会仍开放",
-        "8月19日官方复核"
+        "8月19日官方复核",
+        "8月23日官方复核"
       ],
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/integrative-neuroscience/",
       "current_status": "programme_open_until_2026-08-24_scholarship_open_until_2026-08-31",
@@ -3275,23 +3446,25 @@
       "location": "中国香港",
       "published_at": "2026-07-21",
       "first_seen_at": "2026-07-22",
-      "updated_at": "2026-07-24",
+      "updated_at": "2026-08-23",
       "deadline": "2026-08-21",
-      "discovery_status": "newly_published_since_last_scan",
+      "discovery_status": "status_change",
       "priority": 76,
-      "verification_status": "verified",
+      "verification_status": "verified_closed_official_job_page_removed",
       "summary": "一年期全职科研助理，可续约，负责香港及大湾区的产业多元化、知识产权金融与贸易、结构整合宏观影响等学术和政策研究。接受经济学、公共政策或相关领域本科／硕士，硕士强烈优先；要求中英文书面与口头表达，以及定量、定性研究和编程能力。收到申请即审、招满即止。",
       "summary_en": "A one-year, renewable RA I/II role conducting academic and policy research on Hong Kong and the Greater Bay Area, including economic diversification, IP finance/trade and macroeconomic effects of structural integration. Applicants should have an undergraduate or preferably master's degree in economics, public policy or a related field, with Chinese/English communication, analytical, programming, quantitative and qualitative research skills. Review is rolling.",
       "relevance": "属于低年限数据与政策研究入口，但学科偏好和中英文沟通要求较强，适配度低于技术型科研助理；应先按课程与研究经历判断“相关领域”资格。",
       "tags": [
-        "需尽快行动",
-        "上次扫描后新发布",
+        "状态变化",
+        "截止已过",
         "数据研究",
         "政策研究",
         "编程",
         "专业相关性需核对"
       ],
-      "source_url": "https://jobs.hku.hk/en/job/536920/research-assistant-iii"
+      "source_url": "https://jobs.hku.hk/en/job/536920/research-assistant-iii",
+      "current_status": "closed_after_2026-08-21_deadline",
+      "status_change_note": "8 月 21 日截止后，官方职位 URL 已重定向至 job not found，已移出行动项。"
     },
     {
       "id": "sheffield-neuroimaging-2026",
@@ -4002,115 +4175,114 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scanned_with_status_change_no_high_quality_new",
-      "note": "Liverpool Neuroscience MSc 国际截止 8 月 21 日已过且官网未宣布延期，已转为状态变化；英国本土截止仍为 9 月 11 日。Glasgow Integrative Neuroscience MSc 官方页仍列 8 月 24 日截止。UCL Clinical & Affective Neuroscience RA 虽方向相关，但资格附件未能完整核验，未收录。其余入口无高质量新增。"
+      "status": "full_scanned_existing_urgent_reverified_no_high_quality_new",
+      "note": "英国与爱尔兰官方项目及招聘入口已扫描，无高质量新增。Glasgow Integrative Neuroscience MSc 官方页仍显示 Apply now，国际与本土申请均于 8 月 24 日截止。"
     },
     {
       "region": "欧洲大陆",
       "status": "full_scanned_with_research_historical_backfill_no_new_opportunity",
-      "note": "德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口已扫描，无资格与层级均适用的新机会；研究侧补录瑞士 FMI／巴塞尔大学移动 EEG 与视动不匹配 eLife Version of Record。"
+      "note": "德国、荷兰、瑞士、法国、比利时及北欧官方入口已扫描，无资格与层级均适用的新机会；研究侧补录含苏黎世神经信息学研究者的神经符号主动探索论文。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "HKU、CUHK、NTU、NUS 等官方入口已扫描；周末前后没有同时满足低经验、方向与开放状态的新条目。SAP 新加坡 AI Research Associate 限 Industry PhD 学生，不适用。"
+      "status": "full_scanned_with_two_job_historical_backfills_and_one_status_change",
+      "note": "HKU、CUHK、NTU、NUS 等官方入口已扫描。补录 HKU 急诊医学数据协调员及应届生可按 IT Technician 考虑的软件开发岗；HIEBS RA 截止后官方页撤下，转为关闭。AI 治理 RA 因活动组织、政策与利益相关方协作占核心未收录。"
     },
     {
       "region": "日本与韩国",
       "status": "full_scanned_no_high_quality_new",
-      "note": "RIKEN、OIST 及日韩高校官方招聘入口已扫描，未发现同时满足层级、语言／工作权、资格和开放状态的高质量新增。"
+      "note": "RIKEN、OIST、KAIST、UST 及日韩高校官方入口已扫描；未发现同时满足层级、语言／工作权、资格和开放状态的高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scanned_with_research_historical_backfill_no_new_opportunity",
-      "note": "高校与医疗研究招聘入口已扫描。Calgary 新发 Psychiatry RA 要求 Health Canada 临床试验经验，未收录；研究侧补录 Nature Medicine 的人类海马神经发生与 MDD 多组学研究。"
+      "status": "full_scanned_with_two_research_historical_backfills_existing_urgent_reverified",
+      "note": "高校、医疗研究招聘及期刊入口已扫描。Calgary 研究数据库开发员仍开放至 8 月 24 日；研究侧补录 NIH 双相障碍突触能量学及滑铁卢大学主导的神经符号主动探索论文。"
     },
     {
       "region": "澳大利亚",
       "status": "full_scanned_no_high_quality_new",
-      "note": "主要高校官方招聘与项目入口已扫描；UNSW 新结果以湿实验、成熟工程／研究层级或高沟通项目岗位为主，无高质量适配新增。"
+      "note": "主要高校官方招聘与项目入口已扫描；新结果以湿实验、资深工程／研究层级、临床协调或高沟通支持岗位为主，无高质量适配新增。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "百度、腾讯、字节等大厂官方校招／社招及外企中国区 Careers 已扫描；岗位仍主要受 2027 届／在校身份、硬性经验或强业务协作职责限制。"
+      "status": "full_scanned_with_foreign_employer_job_historical_backfill",
+      "note": "中国大厂官方招聘与外企中国区 Careers 已扫描。补录 SAP 西安 iXp Web 应用质量工程实习；官方同时写明 graduate or college student 与 Career Status: Student，毕业生资格需先确认。大厂其余结果仍主要受毕业届别、在校身份或成熟经验限制。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "scanned_with_status_change",
-      "note": "Liverpool 国际截止已过并转为状态变化；Glasgow 官方页仍列 8 月 24 日截止。"
+      "status": "scanned_existing_urgent_reverified",
+      "note": "Glasgow Integrative Neuroscience MSc 官方页仍列 8 月 24 日截止并保留 Apply now。"
     },
     {
       "source_group": "数据／计算／AI项目",
       "status": "scanned_no_high_quality_new",
-      "note": "跨专业硕士与高口碑项目官方入口已扫描，无上次边界后同时满足质量、国际申请可行性与背景适配的新项目。"
+      "note": "跨专业硕士及高口碑项目官方入口已扫描，无同时满足质量、国际申请可行性与背景适配的新项目。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "scanned_no_high_quality_new",
-      "note": "UCL 临床与情感神经科学 RA、Calgary Psychiatry RA、HKU／NTU／NUS、欧洲和澳洲高校入口已扫描；因资格无法完整核验、硬性临床试验／语言／工作权或资深门槛未新增。"
+      "status": "scanned_with_two_job_historical_backfills_and_one_status_change",
+      "note": "补录 HKU 急诊医学数据协调员和应届生 IT Technician／软件开发通道；HIEBS RA 官方页已撤下并转为关闭。"
     },
     {
       "source_group": "研究动态",
       "status": "scanned_with_two_historical_backfills",
-      "note": "补录 Nature Medicine 的 MDD 成人海马神经发生多组学研究，以及 eLife 的自由运动人类视动不匹配移动 EEG Version of Record；均因首次发现晚于官方日期且精确上线时刻不可核验，保守标为历史补录。"
+      "note": "补录 8 月 22 日 Nature Communications 的神经符号主动探索与双相障碍突触能量学研究；精确上线时刻不可得，均保守标为历史补录。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "高校、医疗科技及企业官方入口已扫描；新结果受临床试验经验、成熟队列经验或业务协作层级限制。"
+      "status": "scanned_with_one_historical_backfill",
+      "note": "补录 HKU 急诊医学数据协调员；本科可申请且无固定年限，但多方工作流、沟通与指导要求较强。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "大厂、外企及海外高校官方入口已扫描；校园岗位多限特定毕业届别／在校身份，社招多要求成熟工程经验。"
+      "status": "scanned_with_one_historical_backfill",
+      "note": "补录 SAP 西安 Web 应用质量工程 iXp 实习，涉及 JavaScript／Java、数据库及 AI／LLM 辅助测试；毕业生资格需确认。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "scanned_no_high_quality_new",
-      "note": "新发临床与医疗研究岗位主要要求监管临床试验、湿实验或资深项目经验，未收录。"
+      "status": "scanned_with_one_software_engineering_historical_backfill",
+      "note": "补录 HKU 急诊医学软件开发／IT Technician，应届生通道明确；其余新结果多受临床试验、湿实验或资深经验限制。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "scanned_no_high_quality_new",
-      "note": "百度、腾讯、字节等官方入口已扫描；2027 届／在校身份及成熟业务经验是主要限制。"
+      "note": "百度、腾讯、字节等官方入口已扫描；毕业届别、在校身份或成熟经验仍是主要限制。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "scanned_no_high_quality_new",
-      "note": "Apple、Microsoft、SAP、IBM 等官方入口已扫描；未发现地点、层级、经验与方向同时适用的新增。"
+      "status": "scanned_with_one_historical_backfill",
+      "note": "SAP、Microsoft、Apple、IBM 等官方入口已扫描；补录 SAP 西安 iXp 质量工程实习，其余无高质量适用新增。"
     }
   ],
   "run_summary": {
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 2,
+    "historical_backfills_added": 5,
     "status_changes": 1,
-    "existing_urgent_reverified": 4,
-    "still_open_urgent_items": 22,
-    "database_items_total": 132,
+    "existing_urgent_reverified": 2,
+    "still_open_urgent_items": 24,
+    "database_items_total": 137,
     "category_counts": {
       "升学": 0,
       "研究": 2,
       "实验室": 0,
-      "求职": 0
+      "求职": 3
     },
     "database_category_totals": {
-      "研究": 71,
+      "求职": 15,
+      "研究": 73,
       "实验室": 24,
-      "升学": 25,
-      "求职": 12
+      "升学": 25
     },
     "excluded_expired_or_ineligible": [
-      "Liverpool Neuroscience MSc：国际申请截止 8 月 21 日已过，未见延期，转为状态变化并移出行动项。",
-      "UCL Clinical & Affective Neuroscience RA：官方职位页存在，但资格附件内容无法完整核验，未在不确定层级下收录。",
-      "University of Calgary Psychiatry RA：本科层级但硬性要求 Health Canada 监管临床试验经验。",
-      "UNSW 新结果主要为湿实验、资深 AI／工程或高沟通项目岗位。",
-      "中国大厂校园岗位仍多限定 2027 届或在校身份，社会招聘普遍要求成熟经验。",
-      "日本韩国及欧洲大陆结果主要受语言、工作权、博士后／教职或特定在校身份限制。"
+      "HKU HIEBS RA：8 月 21 日截止后官方页撤下，转为关闭。",
+      "HKU Global AI Governance Hub RA：政策研究、活动组织、公共沟通和利益相关方协作占核心。",
+      "澳大利亚新结果主要为湿实验、资深工程／研究、临床协调或高沟通支持岗位。",
+      "日韩与欧洲大陆结果主要受语言、工作权、博士后／教职或特定在校身份限制。",
+      "中国大厂校园岗位仍多限定特定毕业届别或在校身份，社招多要求成熟经验。"
     ]
   },
   "change_legend": {
@@ -4121,13 +4293,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-22T07:59:57+08:00",
-    "increment_boundary": "2026-08-21T07:57:43+08:00",
+    "executed_at_beijing": "2026-08-23T08:00:32+08:00",
+    "increment_boundary": "2026-08-22T16:26:18+08:00",
     "run_type": "full_scan",
-    "result": "completed_with_two_research_historical_backfills_and_one_status_change",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
-    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条研究历史补录、1 条状态变化；精确上线时刻不可得的论文未冒充上次扫描后新发布。远端 JSON 已从提交重新读取，并通过 132 条唯一 ID、唯一链接、分类总数、新增记录分类及 Liverpool 状态校验。"
+    "result": "completed_with_five_historical_backfills_and_one_status_change",
+    "repository_write": "pending_remote_revalidation",
+    "public_site_verification": "not_yet_checked",
+    "note": "完成全部指定地区、项目、企业招聘和期刊入口扫描。新增 2 条研究及 3 条求职历史补录，1 条状态变化；无法核验精确上线时刻的 8 月 22 日内容未冒充上次扫描后新发布。"
   }
 }
-
