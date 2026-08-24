@@ -1,7 +1,80 @@
 {
-  "generated_at": "2026-08-23T18:28:42.186+08:00",
-  "notice": "今日已完成全量扫描；本轮为 08:00:32 后增量补扫，今日已扫描，无高质量新增。上次扫描后新发布 0、历史补录 0、状态变化 0。Glasgow Integrative Neuroscience MSc 与 Calgary 研究数据库开发员仍开放至 8 月 24 日；HKU 应届生 IT Technician 通道与医疗数据协调员仍开放。",
+  "generated_at": "2026-08-24T08:04:25+08:00",
+  "notice": "今日已完成全量扫描：上次扫描后可确认新发布 0、历史补录 2、状态变化 0。新增 OIST 神经计算软件策展员和 NUS 精准健康与医学 × AI 硕士；Glasgow Integrative Neuroscience MSc 与 Calgary 研究数据库开发员在 8 月 24 日截止日官方页仍显示可申请。8 月 23 日期刊结果未达到证据与相关性门槛，未为凑数收录。",
   "items": [
+    {
+      "id": "nus-precision-health-medicine-ai-msc-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "新加坡国立大学精准健康与医学 × 人工智能理学硕士（2027）",
+      "title_en": "MSc in Precision Health and Medicine × Artificial Intelligence (PHMxAI), 2027 Intake",
+      "organization": "National University of Singapore · Yong Loo Lin School of Medicine",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "last_verified_at": "2026-08-24",
+      "deadline": "国际申请 2027-05-31；本地申请 2027-06-30（滚动录取）",
+      "discovery_status": "historical_backfill",
+      "priority": 93,
+      "verification_status": "verified_open_official_program_page_2027_intake_rolling_admission",
+      "summary": "2027 年 8 月入学，申请现已开放并滚动审理；国际申请截止 2027 年 5 月 31 日，本地申请截止 6 月 30 日。课程把基因组学、蛋白组学、药物发现、人工智能与大数据用于精准健康，可选一年全日制无 capstone、两年全日制含 capstone，或最长两年的非全日制无 capstone；研究／行业 capstone 更适合希望积累生物信息、医疗数据与研究成果者。应届生可申请：接受医学学位，或量化科学、工程、计算机、商科及相关健康科学荣誉学士；其他资格和相关经历按个案审理。非英语授课院校通常需 TOEFL iBT 85 或 IELTS 6.0，成绩须在两年有效期内。官网列示总学费为 73,650 新元（含 GST，2027/28 仍可能调整），并有择优、名额有限的学费奖项自动审理。",
+      "summary_en": "Applications are open for the August 2027 intake and are reviewed on a rolling basis. The international deadline is 31 May 2027 and the local deadline is 30 June 2027. The curriculum combines genomics, proteomics, drug discovery, artificial intelligence and big data for precision health. Study options include one-year full-time without a capstone, two-year full-time with a capstone, or part-time study of up to two years without a capstone; the capstone route is the stronger research/industry option for bioinformatics and medical-data experience. Fresh graduates are eligible with an MBBS or an honours bachelor's degree in quantitative sciences, engineering, computer science, business or related health sciences; other qualifications and relevant experience are considered case by case. Applicants from non-English-medium universities normally need TOEFL iBT 85 or IELTS 6.0 within two years. The official page lists total tuition of SGD 73,650 including GST, subject to change for 2027/28, and limited merit-based tuition awards are considered automatically with a complete application.",
+      "relevance": "名校跨学科项目，适合希望把生命／健康问题转向 AI、生物信息和医疗数据的人；应届生与多类本科背景入口清楚，capstone 路径比纯授课更利于研究履历。局限是方向偏精准医学和组学而非通用计算机，其他生命科学背景可能需个案审理，且学费很高；应先判断资金与课程方向，再决定是否投入。",
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "接受应届生",
+        "跨专业",
+        "医学AI",
+        "生物信息",
+        "大数据",
+        "Capstone可选",
+        "滚动录取",
+        "国际截止2027年5月31日",
+        "高学费",
+        "语言成绩需有效"
+      ],
+      "source_url": "https://medicine.nus.edu.sg/graduatestudies/education/msc-in-precision-health-and-medicine/",
+      "current_status": "applications_open_for_august_2027_intake"
+    },
+    {
+      "id": "oist-neural-computation-software-curator-2026",
+      "category": "求职",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "OIST 神经计算单元软件策展员（Neuro-Workflow）",
+      "title_en": "Software Curator — Neural Computation Unit (Neuro-Workflow)",
+      "organization": "Okinawa Institute of Science and Technology Graduate University (OIST) · Neural Computation Unit",
+      "location": "日本・冲绳",
+      "published_at": "2026-07-29",
+      "first_seen_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "last_verified_at": "2026-08-24",
+      "deadline": "招满即止／Until filled",
+      "discovery_status": "historical_backfill",
+      "priority": 99,
+      "verification_status": "verified_open_official_employer_listing_bachelor_python_english_japanese_preferred",
+      "summary": "全职两年固定期岗位（含六个月试用，可续约），也列有最长六个月的兼职选项。岗位为 Brain/MINDS 2.0 的 Neuro-Workflow 平台测试、调优和维护神经科学数据分析／建模节点与工作流，协调输入输出互操作性，编写文档与 AI agent 指令，并与贡献者和用户排错验证。计算机、神经科学、生物或相关专业本科及以上可申请；Python 与英语沟通／技术写作为必需，计算神经科学、Git/GitHub、AI 辅助编码和日语为加分项。OIST 官方工作语言为英语，日语不是硬门槛。全职年薪约 400万–650万日元，另有搬迁、住房、通勤和社会保险等福利。官网将职级按资历归为 Staff Scientist 或 Technician，未列博士或固定工作年限门槛，当前招满即止。",
+      "summary_en": "A two-year full-time fixed-term appointment, including a six-month probationary period, with possible renewal; a part-time option of up to six months is also listed. The role supports the Brain/MINDS 2.0 Neuro-Workflow platform by testing, tuning and creating neuroscience data-analysis/modeling nodes and workflows, coordinating input/output interoperability, maintaining documentation and AI-agent instructions, and troubleshooting with contributors and users. A bachelor's degree or above in computer science, neuroscience, biology or a related field is accepted. Python plus English communication and technical writing are required; computational neuroscience, Git/GitHub, AI-assisted coding and Japanese are preferred. OIST's official working language is English, so Japanese is not mandatory. Full-time compensation is approximately JPY 4.0–6.5 million per year with relocation, housing, commuting and social-insurance benefits. Appointment rank may be Staff Scientist or Technician depending on qualifications; no PhD or fixed years-of-experience threshold is stated. Applications remain open until filled.",
+      "relevance": "神经科学、Python、AI agent 与科研软件工作流结合非常直接，且本科／Technician 通道、英语工作环境和搬迁支持明确，是当前日本方向最匹配的科研工程入口之一。需注意职责包含文档、贡献者／用户协作和故障排查，并非纯独立开发；滚动招满，适合尽早投递。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "本科可申请",
+        "科研软件",
+        "计算神经科学",
+        "Python",
+        "Git／GitHub",
+        "AI辅助编码",
+        "英语工作环境",
+        "日语非硬门槛",
+        "两年合同",
+        "搬迁／住房津贴",
+        "招满即止"
+      ],
+      "source_url": "https://www.oist.jp/careers/okinawa-institute-science-and-technology-software-curator-neural-computation-unit",
+      "current_status": "open_until_filled"
+    },
     {
       "id": "hku-emergency-software-developer-537140",
       "category": "求职",
@@ -553,11 +626,11 @@
       "location": "加拿大・卡尔加里",
       "published_at": "2026-08-14",
       "first_seen_at": "2026-08-18",
-      "updated_at": "2026-08-23",
+      "updated_at": "2026-08-24",
       "deadline": "2026-08-24",
       "discovery_status": "historical_backfill",
       "priority": 91,
-      "verification_status": "verified_open_official_employer_listing_updated_date_used_reverified_2026_08_23",
+      "verification_status": "verified_open_official_employer_listing_apply_now_on_deadline_date_2026_08_24",
       "summary": "约六个月的定期兼职岗位，每周通常 10–25 小时，可续期。工作包括配置 REDCap／Qualtrics 等电子数据采集、设计字段与数据库结构、编写验证与报表脚本、ETL、数据质量和服务台支持。接受健康／生命／医学科学、计算机或相关证书学历；未写硬性工作年限，但要求临床研究数据平台、数据库／数据质量经验，并需 Python、JavaScript 或相近编程能力。8 月 24 日截止；官网明确所有合格者可申请，但加拿大公民和永久居民优先，未说明工签或签证支持。",
       "summary_en": "A recurring part-time role for about six months, typically 10–25 hours per week, with possible extension. Work includes configuring REDCap/Qualtrics data capture, designing fields and database structures, scripting validation and reporting, ETL, data quality and service-desk support. Degrees or relevant certificates in health/life/medical sciences, computer science or related areas are accepted. No fixed years-of-experience threshold is stated, but hands-on clinical-research platforms, databases/data quality, and Python, JavaScript or comparable programming are required. The deadline is 24 August; qualified applicants may apply, but Canadian citizens and permanent residents receive preference, and visa/work-permit support is not stated.",
       "relevance": "医疗数据、数据库、JSON／SQL 与编程结合度高，层级比多数海外研究数据岗更可达；但 REDCap／Qualtrics 经验属于实质要求，岗位短期且兼职，并对加拿大公民／永久居民优先。没有当地工作权时，投入前应先确认工作许可可行性。",
@@ -572,11 +645,12 @@
         "兼职10–25小时",
         "加拿大身份优先",
         "截止8月24日",
-        "8月23日官方复核"
+        "8月23日官方复核",
+        "8月24日官方复核"
       ],
       "source_url": "https://careers.ucalgary.ca/jobs/18122079-research-database-developer-cumming-school-of-medicine",
       "current_status": "open_until_2026-08-24",
-      "last_verified_at": "2026-08-23"
+      "last_verified_at": "2026-08-24"
     },
     {
       "id": "sussex-neuroscience-msc-2027",
@@ -2242,12 +2316,12 @@
       "location": "中国香港",
       "published_at": "2026-07-31",
       "first_seen_at": "2026-08-03",
-      "updated_at": "2026-08-18",
-      "last_verified_at": "2026-08-22",
+      "updated_at": "2026-08-24",
+      "last_verified_at": "2026-08-24",
       "deadline": "2026-08-27",
       "discovery_status": "historical_backfill",
       "priority": 95,
-      "verification_status": "verified",
+      "verification_status": "verified_open_official_employer_listing_reverified_2026_08_24",
       "summary": "一年期全职 RA II，可续约。项目聚焦青光眼的人工智能、眼部影像和临床研究；工作包括 R／Python 统计分析、数据清洗与管理、文献综述、研究报告与论文支持，以及临床研究协调和文档。接受统计、数据科学、计算机、生物医学、医疗健康或相关本科及以上；要求具备 R 和／或 Python 统计训练，AI、医学影像、眼部影像或 OCT 经验为加分项，适当情况下提供培训。硬性语言门槛为优秀中英文及流利粤语。滚动审查，招满即止。",
       "summary_en": "A one-year, renewable RA II role supporting glaucoma research in artificial intelligence, ocular imaging and clinical studies. Duties include statistical analysis in R/Python, data cleaning and management, literature review, research reports/manuscripts, and clinical-study coordination. A bachelor's degree or above in statistics, data science, computer science, biomedical science, healthcare or a related field is accepted; AI, medical/ocular imaging or OCT experience is advantageous, and training may be provided. Excellent English and Chinese, including fluent Cantonese, are required. Review is rolling until filled.",
       "relevance": "生命科学、医疗数据、R/Python 与 AI 影像结合非常直接，层级也适合初级申请；但流利粤语是决定能否投递的硬门槛。",
@@ -2261,7 +2335,8 @@
         "粤语要求",
         "滚动审查",
         "既有机会仍开放",
-        "8月18日复核"
+        "8月18日复核",
+        "8月24日官方复核"
       ],
       "source_url": "https://jobs.hku.hk/en/job/537031/research-assistant-ii",
       "current_status": "open_rolling_until_2026-08-27_or_filled"
@@ -2737,12 +2812,12 @@
       "location": "英国・格拉斯哥",
       "published_at": "",
       "first_seen_at": "2026-07-28",
-      "updated_at": "2026-08-23",
-      "last_verified_at": "2026-08-23",
+      "updated_at": "2026-08-24",
+      "last_verified_at": "2026-08-24",
       "deadline": "2026-08-24",
       "discovery_status": "status_change",
       "priority": 100,
-      "verification_status": "verified_open_official_program_and_scholarship_pages_reverified_2026_08_23",
+      "verification_status": "verified_open_official_program_page_apply_now_on_deadline_date_2026_08_24",
       "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。状态更正：Global Leadership Scholarship 官方页现列申请截止为 2026 年 8 月 31 日英国时间 11:45，奖额 £10,000；须已持有 2026 年 9 月一年制全日制硕士录取并达到英国一等学位等值要求。",
       "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. Status correction: the official Global Leadership Scholarship page now lists a deadline of 11:45 a.m. UK time on 31 August 2026. The £10,000 award requires an offer for an eligible one-year full-time September 2026 master's programme and UK first-class-equivalent academic performance.",
       "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较广义整合神经科学与更聚焦计算／认知项目。课程截止只剩 5 天，语言、资金和签证可行性必须立即核验。奖学金官方截止现为 8 月 31 日，修正了库内此前的过期判断。",
@@ -2758,7 +2833,8 @@
         "发布日期未确认",
         "既有机会仍开放",
         "8月19日官方复核",
-        "8月23日官方复核"
+        "8月23日官方复核",
+        "8月24日官方复核"
       ],
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/integrative-neuroscience/",
       "current_status": "programme_open_until_2026-08-24_scholarship_open_until_2026-08-31",
@@ -4175,88 +4251,113 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "08:00 已完成全量扫描，18:00 后增量补扫无高质量新增。Glasgow Integrative Neuroscience MSc 官方页仍显示 Apply now，国际与本土申请均于 8 月 24 日截止；Oxford Parkinson’s RA 因硬性干细胞培养与细胞实验经验未纳入。"
+      "status": "full_scan_completed_existing_urgent_reverified_no_high_quality_new",
+      "note": "已扫描高校项目、实验室及 jobs.ac.uk 线索并回到官方页面核验；无高质量新增。Glasgow Integrative Neuroscience MSc 在 8 月 24 日截止日官方页仍显示 Apply now。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "08:00 已完成全量扫描；本轮复查欧洲高校、EURAXESS 与研究入口，未发现扫描边界后兼具开放状态、层级与资格适配的高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧高校、EURAXESS 和研究入口，无高质量新增；Radboud 二语记忆 RA 已截止且近母语荷兰语为硬门槛。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "本轮复查 HKU、CUHK、NUS、NTU 官方入口，无高质量新增。HKU 537140 应届生 IT Technician 通道与 537142 医疗数据协调员仍显示 Apply now，均滚动审查至 9 月 30 日或招满。"
+      "status": "full_scan_completed_with_historical_study_backfill",
+      "note": "已扫描 HKU、CUHK、NUS、NTU 官方入口；历史补录 NUS 2027 精准健康与医学 × AI 硕士。HKU 青光眼 AI RA II 官方页仍开放至 8 月 27 日或招满。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "本轮复查 RIKEN、OIST、KAIST、UST 等官方入口，未发现扫描边界后满足学历、语言、工作权和低经验条件的高质量新增。"
+      "status": "full_scan_completed_with_historical_job_backfill",
+      "note": "已扫描 OIST、RIKEN、KAIST、UST 等官方入口；历史补录 OIST 神经计算单元 Software Curator。其余线索主要为博士后／研究员、日语硬门槛或方向不符。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "本轮复查高校、医疗研究招聘和期刊官方入口，无高质量新增。Calgary 研究数据库开发员官方页仍显示 Apply Now，8 月 24 日截止；加拿大公民和永久居民优先。"
+      "status": "full_scan_completed_existing_urgent_reverified_no_high_quality_new",
+      "note": "已扫描高校、医疗研究招聘和期刊官方入口，无高质量新增。Calgary 研究数据库开发员在 8 月 24 日截止日官方页仍显示 Apply Now；加拿大公民及永久居民优先。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "本轮复查主要高校官方招聘与项目入口，无高质量新增；新线索仍主要受湿实验、资深层级、临床协调或工作权条件限制。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描主要高校官方招聘与数据／AI 项目入口，无高质量新增；结果主要受资深层级、临床协调、湿实验或工作权条件限制。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scan_completed_incremental_rescan_no_high_quality_new",
-      "note": "本轮复查中国大厂与外企中国区官方招聘入口，无高质量新增；主要限制仍为特定毕业届别、在校身份或成熟经验要求。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描中国大厂校招／社招与外企中国区 Careers；无高质量新增，主要限制仍为特定毕业届别、在校身份或多年经验。"
     }
   ],
   "source_coverage": [
     {
-      "source_group": "升学项目",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "今日 08:00 已全量扫描；本轮无新增。Glasgow Integrative Neuroscience MSc 仍开放至 8 月 24 日，Global Leadership Scholarship 8 月 31 日 11:45 英国时间关闭。"
+      "source_group": "神经与认知项目",
+      "status": "full_scanned_existing_urgent_reverified_no_high_quality_new",
+      "note": "Glasgow 项目在截止日仍开放；其余官方项目入口无高质量新增。"
+    },
+    {
+      "source_group": "数据／计算／AI项目",
+      "status": "full_scanned_with_historical_backfill",
+      "note": "历史补录 NUS 2027 PHDmAI 跨学科硕士；官方页确认滚动录取、背景范围、语言与学费。"
+    },
+    {
+      "source_group": "实验室与高校招聘",
+      "status": "full_scanned_with_historical_backfill",
+      "note": "历史补录 OIST Neural Computation Unit Software Curator；本科、Python 和英语要求经官方页核验。"
     },
     {
       "source_group": "研究动态",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "复查 Nature、eLife 等官方期刊入口，未发现扫描边界后可核验的神经、认知或计算认知高质量新发布。"
+      "status": "full_scanned_no_high_quality_new",
+      "note": "复查 Nature、eLife 等官方期刊入口；8 月 23 日结果未同时达到相关性与证据门槛。机器人情感触摸研究样本小且组间差异不显著，未收录。"
     },
     {
-      "source_group": "实验室与初级研究岗位",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "复查高校和实验室官方招聘入口，无新增；Oxford Parkinson’s RA 因硬性干细胞培养与细胞实验经验排除。"
+      "source_group": "数据分析岗位",
+      "status": "full_scanned_existing_urgent_reverified_no_high_quality_new",
+      "note": "Calgary 医疗研究数据库岗位在截止日仍可申请；无合格新增。"
     },
     {
-      "source_group": "低经验求职机会",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "复查中国大厂、外企中国区及其他可达地区官方入口，无新增；HKU 两个低经验技术／数据岗位仍开放。"
+      "source_group": "算法与AI岗位",
+      "status": "full_scanned_no_high_quality_new",
+      "note": "官方企业和高校入口无同时满足低经验、资格与开放状态的新条目。"
+    },
+    {
+      "source_group": "科研／医疗／生物信息岗位",
+      "status": "full_scanned_with_historical_backfill",
+      "note": "补录 OIST 神经科学科研软件岗位；HKU 青光眼 AI RA II 复核仍开放。"
+    },
+    {
+      "source_group": "中国大厂官方招聘",
+      "status": "full_scanned_no_high_quality_new",
+      "note": "百度、腾讯、字节等官方入口结果仍主要受特定毕业届别、在校身份或成熟经验限制。"
+    },
+    {
+      "source_group": "外企中国区 Careers",
+      "status": "full_scanned_no_high_quality_new",
+      "note": "SAP、Microsoft、Apple、IBM 等官方入口未发现资格、层级和开放状态同时匹配的新增。"
     }
   ],
   "run_summary": {
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 0,
+    "historical_backfills_added": 2,
     "status_changes": 0,
-    "existing_urgent_reverified": 4,
+    "existing_urgent_reverified": 3,
     "still_open_urgent_items": 24,
-    "database_items_total": 137,
+    "database_items_total": 139,
     "category_counts": {
-      "升学": 0,
+      "升学": 1,
       "研究": 0,
       "实验室": 0,
-      "求职": 0
+      "求职": 1
     },
     "database_category_totals": {
-      "求职": 15,
+      "升学": 26,
+      "求职": 16,
       "研究": 73,
-      "实验室": 24,
-      "升学": 25
+      "实验室": 24
     },
     "excluded_expired_or_ineligible": [
-      "Oxford Parkinson’s Research Assistant：要求已有干细胞培养、iPSC 分化与细胞实验经验，不符合低经验通用入口。",
-      "HKU 8 月 23 日截止的行政、市场、图书馆与研究行政岗位：方向偏行政／服务或要求多年经验，不纳入技术与研究主清单。",
-      "中国大厂校园岗位仍多限定特定毕业届别或在校身份，社招多要求成熟经验。",
-      "其他地区本轮线索主要受语言、工作权、博士后／教职、湿实验或资深经验门槛限制。"
+      "Radboud 二语记忆 RA：已截止且要求近母语荷兰语。",
+      "8 月 23 日机器人情感触摸研究：样本小且组间情绪差异不显著，作者亦定性为初步探索，不达收录门槛。",
+      "Scientific Reports 小模型幻觉论文：仅比较 7 个小型跨家族模型，架构、训练数据与对齐混杂明显，代码未公开下载，不据此作强结论。",
+      "中国大厂与外企中国区结果仍多受毕业届别、在校身份、工作权或多年经验限制。"
     ]
   },
   "change_legend": {
@@ -4267,12 +4368,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-23T18:28:42.186+08:00",
-    "increment_boundary": "2026-08-23T08:00:32+08:00",
-    "run_type": "incremental_scan_after_same_day_full_scan",
-    "result": "completed_no_high_quality_incremental_additions",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
-    "note": "按 generated_at 去重完成今日全量扫描后的增量补扫。四类新增均为 0；复核 4 条重点开放项。远端 JSON 回读确认 137 条唯一 ID、137 条唯一官方链接及分类总数；公开 Pages 与公开 JSON 端点被当前运行环境安全策略拒绝，未冒充已刷新。"
+    "executed_at_beijing": "2026-08-24T08:04:25+08:00",
+    "increment_boundary": "2026-08-23T18:28:42.186+08:00",
+    "run_type": "full_personalized_opportunity_and_research_scan",
+    "result": "completed_with_two_historical_backfills_and_three_urgent_reverifications",
+    "repository_write": "pending_remote_revalidation",
+    "public_site_verification": "pending",
+    "note": "全量扫描完成；拟写入 139 条，历史补录 2 条，状态变化 0。"
   }
 }
