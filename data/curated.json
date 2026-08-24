@@ -1,7 +1,78 @@
 {
-  "generated_at": "2026-08-24T08:04:25+08:00",
-  "notice": "今日已完成全量扫描：上次扫描后可确认新发布 0、历史补录 2、状态变化 0。新增 OIST 神经计算软件策展员和 NUS 精准健康与医学 × AI 硕士；Glasgow Integrative Neuroscience MSc 与 Calgary 研究数据库开发员在 8 月 24 日截止日官方页仍显示可申请。8 月 23 日期刊结果未达到证据与相关性门槛，未为凑数收录。",
+  "generated_at": "2026-08-24T15:17:35+08:00",
+  "notice": "今日 08:04 已完成全量扫描；本轮按 generated_at 增量补扫。08:04 后确认新发布 2、历史补录 0、状态变化 1：新增 HKU 急诊医学 Data Analyst／RA I/II 与 Scientific Reports 的 MALDI‑TOF×AI 医疗生信研究；Glasgow Global Leadership Scholarship 改为重新开放且当前无截止日期，但课程申请仍于今日截止。",
   "items": [
+    {
+      "id": "scientificreports-maldi-tof-ai-microbe-classification-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "MALDI‑TOF 质谱结合机器学习识别细菌与病毒",
+      "title_en": "Enhanced classification and identification of bacterial and viral microorganisms by integration of MALDI-TOF mass spectrometry with artificial intelligence",
+      "organization": "Scientific Reports · CERTH · Tallinn University of Technology · Belgian Defence Laboratories",
+      "location": "欧洲・希腊／爱沙尼亚／比利时",
+      "published_at": "2026-08-24",
+      "first_seen_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 88,
+      "verification_status": "verified_formally_published_official_journal_page_2026_08_24_with_external_bacterial_dataset_validation",
+      "summary": "研究以 255 条内部 MALDI‑TOF 质谱（7 种细菌、5 种病毒）比较 8 个机器学习与 2 个深度学习模型，完成细菌／病毒、革兰氏类型和 12 类微生物分类；随后用 Robert Koch Institute 的 285 条外部细菌质谱检验泛化。内部交叉验证出现多个接近或达到 100% 的结果，但外部七类细菌识别明显下降：Extra Trees 约 80%，1-D CNN 约 71%，SVC 约 54%，说明内部高分不能直接外推到新实验室数据。",
+      "summary_en": "The study compared eight machine-learning and two deep-learning models on 255 internal MALDI-TOF spectra spanning seven bacterial species and five viral strains, then tested generalization on 285 external bacterial spectra from the Robert Koch Institute. Several internal cross-validation results approached or reached 100%, but external seven-class bacterial identification fell to roughly 80% for Extra Trees, 71% for a 1-D CNN and 54% for SVC, showing that internal scores do not transfer directly across datasets.",
+      "relevance": "与医疗科技、生物信息、光谱数据和 AI 模型验证直接相关，方法与局限都适合用作医疗 AI 项目案例。主要限制是内部样本小、外部验证只覆盖细菌任务且跨数据集性能下降明显；不能把内部“满分”解读为临床可部署，也未见前瞻性临床验证。",
+      "tags": [
+        "上次扫描后新发布",
+        "今日正式发表",
+        "Scientific Reports",
+        "医疗科技",
+        "生物信息",
+        "MALDI‑TOF",
+        "机器学习",
+        "深度学习",
+        "外部数据验证",
+        "跨数据集泛化",
+        "小样本局限"
+      ],
+      "source_url": "https://www.nature.com/articles/s41598-026-54426-y",
+      "current_status": "formally_published_version_of_record"
+    },
+    {
+      "id": "hku-emergency-medicine-data-analyst-537204",
+      "category": "求职",
+      "section": "数据分析岗位",
+      "title": "香港大学急诊医学高级数据分析师／数据分析师（RA I/II，多名）",
+      "title_en": "Senior Data Analyst / Data Analyst — Research Assistant I/II (Several Posts)",
+      "organization": "The University of Hong Kong · Department of Emergency Medicine, School of Clinical Medicine",
+      "location": "中国香港",
+      "published_at": "2026-08-24",
+      "first_seen_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "last_verified_at": "2026-08-24",
+      "deadline": "2026-09-30",
+      "discovery_status": "newly_published_since_last_scan",
+      "priority": 94,
+      "verification_status": "verified_open_official_employer_listing_published_2026_08_24_bachelor_less_experience_may_be_considered_ra_i_ii",
+      "summary": "一年期全职临时合同，可按经费和表现续约。岗位支持医疗服务研究，负责数据管理与分析、研究团队管理、项目协调和研究报告。官网标准要求统计、生物统计或相关专业本科及以上、约 3 年经验，但明确写明经验较少者可按 Research Assistant I/II 考虑；重视定量背景、数据可视化、多层模型、纵向数据、时间序列和复杂抽样，R／STATA 大型流行病学数据经验优先，Python／SAS 为加分项。8 月 24 日发布，滚动审查至 9 月 30 日或招满即止。",
+      "summary_en": "A one-year full-time temporary appointment, renewable subject to funding and performance, supporting health-services research through data management and analytics, project coordination, team support and research reporting. The standard profile asks for a bachelor's degree or above in statistics, biostatistics or a related field and about three years of experience, but the official listing explicitly says candidates with less experience may be considered at Research Assistant I/II level. Strong quantitative and visualization skills are required; multilevel and longitudinal methods, time-series and complex-survey analysis are relevant, large epidemiological datasets in R/STATA are highly preferred, and Python/SAS are advantageous. Advertised 24 August, with rolling review until 30 September or until filled.",
+      "relevance": "医疗数据、统计建模和 R／Python 方向高度匹配，且官方保留低经验 RA I/II 通道，是今天最值得关注的新机会。需要注意“经验较少可考虑”不等于零经验保证；应在简历中突出毕业论文、科研项目、纵向／临床数据和可复现分析，并尽早投递。",
+      "tags": [
+        "上次扫描后新发布",
+        "今日官方发布",
+        "需尽快行动",
+        "本科可申请",
+        "低经验RA I/II通道",
+        "医疗数据",
+        "R／STATA",
+        "Python／SAS",
+        "纵向数据",
+        "多层模型",
+        "流行病学",
+        "滚动审查",
+        "截止9月30日"
+      ],
+      "source_url": "https://jobs.hku.hk/cw/en/job/537204/senior-research-assistantresearch-assistant-iii-holding-the-functional-title-of-senior-data-analystdata-analyst",
+      "current_status": "open_rolling_until_2026-09-30_or_filled"
+    },
     {
       "id": "nus-precision-health-medicine-ai-msc-2027",
       "category": "升学",
@@ -2817,15 +2888,14 @@
       "deadline": "2026-08-24",
       "discovery_status": "status_change",
       "priority": 100,
-      "verification_status": "verified_open_official_program_page_apply_now_on_deadline_date_2026_08_24",
-      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。状态更正：Global Leadership Scholarship 官方页现列申请截止为 2026 年 8 月 31 日英国时间 11:45，奖额 £10,000；须已持有 2026 年 9 月一年制全日制硕士录取并达到英国一等学位等值要求。",
-      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. Status correction: the official Global Leadership Scholarship page now lists a deadline of 11:45 a.m. UK time on 31 August 2026. The £10,000 award requires an offer for an eligible one-year full-time September 2026 master's programme and UK first-class-equivalent academic performance.",
-      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台较完整；适合比较广义整合神经科学与更聚焦计算／认知项目。课程截止只剩 5 天，语言、资金和签证可行性必须立即核验。奖学金官方截止现为 8 月 31 日，修正了库内此前的过期判断。",
+      "verification_status": "verified_open_official_program_page_deadline_2026_08_24_scholarship_reopened_no_current_closing_date",
+      "summary": "2026 年 9 月入学、全日制 12 个月，国际申请截止 8 月 24 日。项目从分子到认知整合神经科学，提供 fMRI、MEG/EEG、TMS、实验 MRI 等实验室研究项目，并训练研究设计、数据处理与分析。通常要求心理学、神经科学或生理学 2:1，也可考虑计算机、医学、药学、生物技术、生物科学等学位；必须证明统计训练。IELTS 6.5（单项不低于 6.0）或官网列出的等效成绩。状态变化：课程国际与本土申请仍于 2026 年 8 月 24 日截止；Global Leadership Scholarship 官方页面现明确标为已重新开放且当前没有截止日期，并建议尽快提交。奖额仍为 £10,000；须持有符合条件的一年制全日制硕士录取并达到英国一等学位等值要求。",
+      "summary_en": "A 12-month MSc starting in September 2026 with an international deadline of 24 August. It integrates neuroscience from molecules to cognition and offers laboratory projects using fMRI, MEG/EEG, TMS and experimental MRI, alongside research-design and data-analysis training. A 2:1 in psychology, neuroscience or physiology is standard, while computing, medicine, pharmacy, biotechnology and biosciences may also be accepted. Evidence of statistics training is mandatory. IELTS 6.5 overall with no component below 6.0, or an accepted equivalent, is required. Status change: programme applications still close on 24 August 2026. The official Global Leadership Scholarship page now says the scholarship has reopened with no current closing date and encourages applications as soon as possible. The award remains £10,000 and requires an offer for an eligible one-year full-time master's programme plus UK first-class-equivalent performance.",
+      "relevance": "专业口径明确覆盖生物科学和统计训练，且方法平台完整；课程申请今天截止，语言、资金和签证可行性必须立即核验。奖学金已重新开放且当前无截止日期，但仍应尽快提交，并不延长课程申请截止日。",
       "tags": [
         "状态变化",
         "需尽快行动",
         "课程国际截止8月24日",
-        "Global Leadership Scholarship截止8月31日",
         "奖学金£10,000",
         "跨生物科学",
         "统计要求",
@@ -2834,12 +2904,13 @@
         "既有机会仍开放",
         "8月19日官方复核",
         "8月23日官方复核",
-        "8月24日官方复核"
+        "8月24日官方复核",
+        "奖学金重新开放无当前截止日"
       ],
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/integrative-neuroscience/",
-      "current_status": "programme_open_until_2026-08-24_scholarship_open_until_2026-08-31",
+      "current_status": "programme_open_until_2026-08-24_scholarship_reopened_no_current_closing_date",
       "scholarship_url": "https://www.gla.ac.uk/scholarships/globalleadershipscholarship/",
-      "status_change_note": "官方奖学金页当前列出的 2026 年截止日为 8 月 31 日 11:45（英国时间）；已更正此前库内的 8 月 4 日过期记录。"
+      "status_change_note": "2026-08-24 下午复核：官方页面已将 Global Leadership Scholarship 标为重新开放且当前没有截止日期；课程申请截止仍为 8 月 24 日。"
     },
     {
       "id": "hku-brain-stim-ra2-536751",
@@ -4251,113 +4322,114 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_existing_urgent_reverified_no_high_quality_new",
-      "note": "已扫描高校项目、实验室及 jobs.ac.uk 线索并回到官方页面核验；无高质量新增。Glasgow Integrative Neuroscience MSc 在 8 月 24 日截止日官方页仍显示 Apply now。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "下午增量复核 Glasgow 官方页：课程仍于 8 月 24 日截止并显示 Apply now；Global Leadership Scholarship 已重新开放且当前无截止日期。其余新增线索未达资格与相关性门槛。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧高校、EURAXESS 和研究入口，无高质量新增；Radboud 二语记忆 RA 已截止且近母语荷兰语为硬门槛。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "下午增量期刊扫描新增一篇欧洲团队的 MALDI‑TOF×AI 医疗生信研究；高校与岗位入口无其他高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scan_completed_with_historical_study_backfill",
-      "note": "已扫描 HKU、CUHK、NUS、NTU 官方入口；历史补录 NUS 2027 精准健康与医学 × AI 硕士。HKU 青光眼 AI RA II 官方页仍开放至 8 月 27 日或招满。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "下午增量新增 HKU 急诊医学 Data Analyst／RA I/II，8 月 24 日官方发布；本科可申请且经验较少者可按 RA I/II 考虑。HKU 青光眼 AI RA II 仍开放至 8 月 27 日或招满。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scan_completed_with_historical_job_backfill",
-      "note": "已扫描 OIST、RIKEN、KAIST、UST 等官方入口；历史补录 OIST 神经计算单元 Software Curator。其余线索主要为博士后／研究员、日语硬门槛或方向不符。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "08:04 全量后增量复核 OIST、RIKEN、KAIST 等入口，无高质量新发布或状态变化；OIST Software Curator 仍为今日全量扫描的重点历史补录。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scan_completed_existing_urgent_reverified_no_high_quality_new",
-      "note": "已扫描高校、医疗研究招聘和期刊官方入口，无高质量新增。Calgary 研究数据库开发员在 8 月 24 日截止日官方页仍显示 Apply Now；加拿大公民及永久居民优先。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "下午增量复核 Calgary 研究数据库开发员，官方页在 8 月 24 日截止日仍列开放；无其他高质量新增，加拿大公民／永久居民优先限制不变。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描主要高校官方招聘与数据／AI 项目入口，无高质量新增；结果主要受资深层级、临床协调、湿实验或工作权条件限制。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "08:04 全量后增量扫描主要高校官方招聘与数据／AI 项目入口，无高质量新增或状态变化。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描中国大厂校招／社招与外企中国区 Careers；无高质量新增，主要限制仍为特定毕业届别、在校身份或多年经验。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "08:04 全量后增量扫描中国大厂与外企中国区官方入口，无符合 2024 本科毕业、低经验及开放条件的高质量新增。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "full_scanned_existing_urgent_reverified_no_high_quality_new",
-      "note": "Glasgow 项目在截止日仍开放；其余官方项目入口无高质量新增。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "Glasgow 课程截止不变；Global Leadership Scholarship 状态更新为重新开放且当前无截止日期。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "full_scanned_with_historical_backfill",
-      "note": "历史补录 NUS 2027 PHMxAI 跨学科硕士；官方页确认滚动录取、背景范围、语言与学费。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "08:04 全量后无新项目；NUS 2027 PHMxAI 仍为今日历史补录。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "full_scanned_with_historical_backfill",
-      "note": "历史补录 OIST Neural Computation Unit Software Curator；本科、Python 和英语要求经官方页核验。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "新增 HKU 急诊医学 Data Analyst／RA I/II；低经验可按 RA I/II 考虑。"
     },
     {
       "source_group": "研究动态",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "复查 Nature、eLife 等官方期刊入口；8 月 23 日结果未同时达到相关性与证据门槛。机器人情感触摸研究样本小且组间差异不显著，未收录。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "新增 8 月 24 日正式发表的 MALDI‑TOF×AI 研究；记录其外部数据集性能下降与小样本限制。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "full_scanned_existing_urgent_reverified_no_high_quality_new",
-      "note": "Calgary 医疗研究数据库岗位在截止日仍可申请；无合格新增。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "新增 HKU 医疗服务研究 Data Analyst／RA I/II；Calgary 截止日仍开放。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "官方企业和高校入口无同时满足低经验、资格与开放状态的新条目。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "08:04 后未发现同时满足低经验、资格与开放状态的高质量企业算法岗位。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scanned_with_historical_backfill",
-      "note": "补录 OIST 神经科学科研软件岗位；HKU 青光眼 AI RA II 复核仍开放。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "新增 HKU 医疗数据分析岗与 MALDI‑TOF×AI 医疗生信研究；HKU 青光眼 AI RA II 仍开放。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "百度、腾讯、字节等官方入口结果仍主要受特定毕业届别、在校身份或成熟经验限制。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "无符合 2024 本科毕业与低经验条件的新发布；届别与在校身份限制不变。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "SAP、Microsoft、Apple、IBM 等官方入口未发现资格、层级和开放状态同时匹配的新增。"
+      "status": "afternoon_increment_checked_after_08_04_full_scan",
+      "note": "无资格、层级、经验和开放状态同时匹配的新增。"
     }
   ],
   "run_summary": {
-    "newItemsOfficiallyDatedToday": 0,
-    "newly_published_today": 0,
-    "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 2,
-    "status_changes": 0,
+    "newItemsOfficiallyDatedToday": 2,
+    "newly_published_today": 2,
+    "newly_published_since_last_scan": 2,
+    "historical_backfills_added": 0,
+    "status_changes": 1,
     "existing_urgent_reverified": 3,
     "still_open_urgent_items": 24,
-    "database_items_total": 139,
+    "database_items_total": 141,
     "category_counts": {
-      "升学": 1,
-      "研究": 0,
+      "升学": 0,
+      "研究": 1,
       "实验室": 0,
       "求职": 1
     },
     "database_category_totals": {
+      "研究": 74,
+      "求职": 17,
       "升学": 26,
-      "求职": 16,
-      "研究": 73,
       "实验室": 24
     },
     "excluded_expired_or_ineligible": [
-      "Radboud 二语记忆 RA：已截止且要求近母语荷兰语。",
-      "8 月 23 日机器人情感触摸研究：样本小且组间情绪差异不显著，作者亦定性为初步探索，不达收录门槛。",
-      "Scientific Reports 小模型幻觉论文：仅比较 7 个小型跨家族模型，架构、训练数据与对齐混杂明显，代码未公开下载，不据此作强结论。",
-      "中国大厂与外企中国区结果仍多受毕业届别、在校身份、工作权或多年经验限制。"
+      "HKU 537091 社会政策博士后：要求博士且方向偏社会救助／贫困政策，不符合本科低经验入口。",
+      "Oxford Parkinson's RA：虽今天截止，但硬性要求干细胞培养、iPSC 分化与细胞实验经验；未补录。",
+      "Manchester Neurovascular Research Technician：已于 8 月 12 日发布且今天截止，属于过晚发现；岗位核心为湿实验技术支持，未在下午增量中补录。",
+      "中国大厂与外企中国区下午增量结果仍多受特定毕业届别、在校身份、工作权或多年经验限制。",
+      "今日交通标志 Swin Transformer 论文仅做三类分类、无检测头；应用与神经／医疗主线较弱，未收录。"
     ]
   },
   "change_legend": {
@@ -4368,12 +4440,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-24T08:04:25+08:00",
-    "increment_boundary": "2026-08-23T18:28:42.186+08:00",
-    "run_type": "full_personalized_opportunity_and_research_scan",
-    "result": "completed_with_two_historical_backfills_and_three_urgent_reverifications",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
-    "note": "远端 JSON 回读确认 139 条唯一 ID、139 条唯一官方链接；分类为升学 26、求职 16、研究 73、实验室 24，仍需尽快行动 24 条。新增 OIST 软件岗位与 NUS 硕士均由官方原始页核验；公开 Pages 端点被当前运行环境安全策略拒绝，未冒充已刷新。"
+    "executed_at_beijing": "2026-08-24T15:17:35+08:00",
+    "increment_boundary": "2026-08-24T08:04:25+08:00",
+    "run_type": "afternoon_increment_after_same_day_full_scan",
+    "result": "completed_with_two_newly_published_items_and_one_status_change",
+    "repository_write": "pending_remote_update_then_revalidation",
+    "public_site_verification": "pending",
+    "note": "本轮按 08:04 generated_at 去重，仅加入官方日期为 8 月 24 日且下午首次确认的 HKU 医疗数据岗与 MALDI‑TOF×AI 研究；Glasgow 奖学金状态更正为重新开放无当前截止日。"
   }
 }
