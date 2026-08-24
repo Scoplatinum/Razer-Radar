@@ -4294,7 +4294,7 @@
     {
       "source_group": "数据／计算／AI项目",
       "status": "full_scanned_with_historical_backfill",
-      "note": "历史补录 NUS 2027 PHDmAI 跨学科硕士；官方页确认滚动录取、背景范围、语言与学费。"
+      "note": "历史补录 NUS 2027 PHMxAI 跨学科硕士；官方页确认滚动录取、背景范围、语言与学费。"
     },
     {
       "source_group": "实验室与高校招聘",
@@ -4372,8 +4372,8 @@
     "increment_boundary": "2026-08-23T18:28:42.186+08:00",
     "run_type": "full_personalized_opportunity_and_research_scan",
     "result": "completed_with_two_historical_backfills_and_three_urgent_reverifications",
-    "repository_write": "pending_remote_revalidation",
-    "public_site_verification": "pending",
-    "note": "全量扫描完成；拟写入 139 条，历史补录 2 条，状态变化 0。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_not_independently_reachable_from_current_runtime",
+    "note": "远端 JSON 回读确认 139 条唯一 ID、139 条唯一官方链接；分类为升学 26、求职 16、研究 73、实验室 24，仍需尽快行动 24 条。新增 OIST 软件岗位与 NUS 硕士均由官方原始页核验；公开 Pages 端点被当前运行环境安全策略拒绝，未冒充已刷新。"
   }
 }
