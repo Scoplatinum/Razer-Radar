@@ -4560,8 +4560,8 @@
     "increment_boundary": "2026-08-25T08:02:22+08:00",
     "run_type": "incremental_scan_after_same_day_full_scan",
     "result": "completed_no_high_quality_new",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "按 generated_at 去重，仅补扫今日 08:02 后增量；数据库保持 144 条，四类新增均为 0。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_blocked_by_current_runtime_safe_url_policy",
+    "note": "按 generated_at 去重，仅补扫今日 08:02 后增量；数据库保持 144 条，四类新增均为 0。远端 JSON 回读确认 144 个唯一 ID 与 144 个唯一官方链接。公开 Pages 首页与 JSON 端点被当前运行环境安全 URL 策略拒绝，未冒充已刷新。"
   }
 }
