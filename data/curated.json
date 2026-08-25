@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T08:02:22+08:00",
-  "notice": "今日已完成全量扫描：上次扫描后可确认新发布 0、历史补录 3、状态变化 2。补录 HKU 面向应届生的机器人／机电原型 Technical Officer、Nature Communications 精准 fMRI 语言衰老研究及 Scientific Data 开放猪脑蛋白质谱库。Glasgow 与 Calgary 的列示截止日已过，但官方页仍保留申请入口；已标记为截止后仍可见而非正式延期。",
+  "generated_at": "2026-08-25T17:30:19+08:00",
+  "notice": "今日已扫描，无高质量新增。本轮因 2026-08-25 08:02 已完成全量扫描，仅补扫其后增量：上次扫描后新发布 0、历史补录 0、状态变化 0；未重复入库。",
   "items": [
     {
       "id": "scientificdata-porcine-brain-proteome-dia-library-2026",
@@ -4435,106 +4435,106 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_with_status_change_no_high_quality_new",
-      "note": "已扫描高校项目、实验室、雇主官方页及 jobs.ac.uk 线索。无高质量新增；Glasgow Integrative Neuroscience MSc 列示截止已过但官方页仍有 Apply now，奖学金明确于 8 月 31 日英国时间 11:45 截止。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描高校项目、实验室、雇主官方页及 jobs.ac.uk 线索。无高质量新增；Glasgow Integrative Neuroscience MSc 列示截止已过但官方页仍有 Apply now，奖学金明确于 8 月 31 日英国时间 11:45 截止。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scan_completed_with_two_research_backfills_no_new_opportunity",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧高校及 EURAXESS／AcademicTransfer 线索；无可由雇主官方页完成核验的新机会。补录两篇 8 月 24 日正式发表的欧洲／国际研究；Groningen 神经科学博士虽相关，但本轮未找到可直接核验的校方原始职位页，未入库。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧高校及 EURAXESS／AcademicTransfer 线索；无可由雇主官方页完成核验的新机会。补录两篇 8 月 24 日正式发表的欧洲／国际研究；Groningen 神经科学博士虽相关，但本轮未找到可直接核验的校方原始职位页，未入库。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scan_completed_with_job_historical_backfill",
-      "note": "已扫描 HKU、CUHK、NUS、NTU 官方入口；补录 HKU 创新学院机器人／机电原型 Technical Officer，应届生可考虑。HKU 青光眼 AI RA II 仍临近 8 月 27 日截止。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描 HKU、CUHK、NUS、NTU 官方入口；补录 HKU 创新学院机器人／机电原型 Technical Officer，应届生可考虑。HKU 青光眼 AI RA II 仍临近 8 月 27 日截止。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描 OIST、RIKEN、KAIST、UST 等官方入口；OIST Software Curator 仍开放，未发现新的低经验合格条目。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描 OIST、RIKEN、KAIST、UST 等官方入口；OIST Software Curator 仍开放，未发现新的低经验合格条目。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scan_completed_with_status_change_no_high_quality_new",
-      "note": "已扫描高校、医疗研究招聘和期刊官方入口。无高质量新增；Calgary 数据库开发员列示截止已过但官方页仍显示 Apply Now，尚不能视为正式延期。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描高校、医疗研究招聘和期刊官方入口。无高质量新增；Calgary 数据库开发员列示截止已过但官方页仍显示 Apply Now，尚不能视为正式延期。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描 UNSW、Melbourne、UQ、Sydney 等主要高校官方招聘及数据／AI 项目入口，无高质量新增；结果主要受资深层级、临床协调、湿实验或工作权限制。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描 UNSW、Melbourne、UQ、Sydney 等主要高校官方招聘及数据／AI 项目入口，无高质量新增；结果主要受资深层级、临床协调、湿实验或工作权限制。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描百度、腾讯、字节等大厂及外企中国区官方 Careers；无符合低经验、资格适用和开放状态的新增，校招仍主要限定特定毕业届别，日常实习主要要求在校身份。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已扫描百度、腾讯、字节等大厂及外企中国区官方 Careers；无符合低经验、资格适用和开放状态的新增，校招仍主要限定特定毕业届别，日常实习主要要求在校身份。 17:30 增量复核：今日 08:02 后无可由官方来源确认且符合 2024 本科毕业生条件的高质量新增。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "full_scanned_with_status_change_no_high_quality_new",
-      "note": "无新项目；Glasgow 列示截止已过但 Apply now 仍显示，奖学金截止更正为 8 月 31 日英国时间 11:45。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "无新项目；Glasgow 列示截止已过但 Apply now 仍显示，奖学金截止更正为 8 月 31 日英国时间 11:45。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "扫描排名较好、跨专业友好的 2027 项目入口，无新增；NUS PHMxAI 等既有条目状态不变。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "扫描排名较好、跨专业友好的 2027 项目入口，无新增；NUS PHMxAI 等既有条目状态不变。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "full_scanned_with_historical_backfill",
-      "note": "补录 HKU 机器人／机电原型 Technical Officer；Groningen 博士只有聚合平台完整信息、未找到校方原始职位页，因此未收录。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "补录 HKU 机器人／机电原型 Technical Officer；Groningen 博士只有聚合平台完整信息、未找到校方原始职位页，因此未收录。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "研究动态",
-      "status": "full_scanned_with_two_historical_backfills",
-      "note": "补录 8 月 24 日正式发表的精准 fMRI 语言衰老研究与开放猪脑 DIA-MS 光谱库；均说明横断面／模型与样本限制。Nature Neuroscience 自噬综述未作为新实证研究计数。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "补录 8 月 24 日正式发表的精准 fMRI 语言衰老研究与开放猪脑 DIA-MS 光谱库；均说明横断面／模型与样本限制。Nature Neuroscience 自噬综述未作为新实证研究计数。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "full_scanned_with_status_change_no_high_quality_new",
-      "note": "无新增；Calgary 医疗数据库岗位列示截止已过但官方页仍有 Apply Now，标记为待撤下／需确认。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "无新增；Calgary 医疗数据库岗位列示截止已过但官方页仍有 Apply Now，标记为待撤下／需确认。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "官方企业与高校入口无同时满足低经验、资格和开放状态的新算法岗位。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "官方企业与高校入口无同时满足低经验、资格和开放状态的新算法岗位。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scanned_with_job_and_research_backfills",
-      "note": "补录 HKU 科研工程岗位与两项神经影像／蛋白质组研究；HKU 医疗数据和青光眼 AI 岗位仍开放。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "补录 HKU 科研工程岗位与两项神经影像／蛋白质组研究；HKU 医疗数据和青光眼 AI 岗位仍开放。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "其他求职",
-      "status": "full_scanned_with_historical_backfill",
-      "note": "补录 HKU 创新学院机器人／机电原型 Technical Officer，应届生通道由官方确认。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "补录 HKU 创新学院机器人／机电原型 Technical Officer，应届生通道由官方确认。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "百度 2027 校招限定相应毕业届别，日常实习要求在校；腾讯等入口未发现适用新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "百度 2027 校招限定相应毕业届别，日常实习要求在校；腾讯等入口未发现适用新增。 17:30 增量复核：无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "SAP、Microsoft、Apple、IBM 等官方入口未发现资格、层级、经验和开放状态同时匹配的新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "SAP、Microsoft、Apple、IBM 等官方入口未发现资格、层级、经验和开放状态同时匹配的新增。 17:30 增量复核：无高质量新增。"
     }
   ],
   "run_summary": {
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 3,
-    "status_changes": 2,
-    "existing_urgent_reverified": 4,
+    "historical_backfills_added": 0,
+    "status_changes": 0,
+    "existing_urgent_reverified": 0,
     "still_open_urgent_items": 26,
     "database_items_total": 144,
     "category_counts": {
       "升学": 0,
-      "研究": 2,
+      "研究": 0,
       "实验室": 0,
-      "求职": 1
+      "求职": 0
     },
     "database_category_totals": {
       "研究": 76,
@@ -4543,11 +4543,9 @@
       "实验室": 24
     },
     "excluded_expired_or_ineligible": [
-      "HKU 神经科 RA I/II：要求免疫荧光、PCR、Western blot、细胞培养／转染、测序和啮齿动物操作等成套湿实验经验。",
-      "HKU Global AI Governance Hub RA II：核心为政策研究、活动组织、利益相关方沟通和行政支持，偏离数据／算法主线。",
-      "Calgary Psychiatry RA：硬性要求 Health Canada 监管临床试验及相关合规训练经验。",
-      "Groningen 神经科学博士：方向高度相关，但本轮只找到 AcademicTransfer 完整页，未找到可直接核验的校方原始职位页，按规则暂不收录。",
-      "中国大厂和外企中国区结果主要受特定毕业届别、在校身份、工作权或多年经验限制。"
+      "Microsoft、国内大厂及外企中国区增量线索主要为仅限在校生的实习、特定毕业届别或要求多年经验，未纳入。",
+      "英国高校检索结果以旧发布页面、博士后／Research Associate 或湿实验技能硬门槛岗位为主，未纳入。",
+      "Nature 与高校官方检索在增量窗口内未发现新的神经科学、认知科学或可核验初级数据／AI机会。"
     ]
   },
   "change_legend": {
@@ -4558,12 +4556,12 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-25T08:02:22+08:00",
-    "increment_boundary": "2026-08-24T15:17:35+08:00",
-    "run_type": "full_personalized_opportunity_and_research_scan",
-    "result": "completed_with_three_historical_backfills_and_two_status_changes",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoint_blocked_by_current_runtime_safe_url_policy",
-    "note": "远端 JSON 回读确认 144 条唯一 ID、144 条唯一官方链接；分类为升学 26、研究 76、实验室 24、求职 18，需尽快行动 26 条。新增 3 条均由官方原始页核验并保守标为历史补录；Glasgow 与 Calgary 均记录为列示截止已过但官方申请入口仍可见。公开 Pages 端点被当前运行环境安全 URL 策略拒绝，未冒充已刷新。"
+    "executed_at_beijing": "2026-08-25T17:30:19+08:00",
+    "increment_boundary": "2026-08-25T08:02:22+08:00",
+    "run_type": "incremental_scan_after_same_day_full_scan",
+    "result": "completed_no_high_quality_new",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "按 generated_at 去重，仅补扫今日 08:02 后增量；数据库保持 144 条，四类新增均为 0。"
   }
 }
