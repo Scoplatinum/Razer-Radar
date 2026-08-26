@@ -4777,8 +4777,9 @@
     "increment_boundary": "2026-08-25T17:30:19+08:00",
     "run_type": "full_scan",
     "result": "completed_with_historical_backfills_and_status_change",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "本轮全量扫描完成；官方日期只有日级精度的 8 月 25 日条目均保守作历史补录。已清理地区备注中可推断个人毕业时间的表述。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoints_blocked_by_current_runtime_safe_url_policy",
+    "note": "全量扫描完成；新增 6 条历史补录并记录 1 条状态变化。官方日期只有日级精度的 8 月 25 日条目均未冒充上次扫描后新发布。远端回读确认 150 个唯一 ID 与 150 个唯一官方链接；地区备注中的个人毕业时间表述已清理。公开 Pages 首页与 JSON 端点被当前运行环境安全 URL 策略拒绝，未宣称已刷新。",
+    "content_commit_sha": "88aa47a82bdb58368dbec71f0014039484b7bbe7"
   }
 }
