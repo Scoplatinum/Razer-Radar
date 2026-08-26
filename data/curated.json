@@ -4951,9 +4951,9 @@
     "increment_boundary": "2026-08-26T07:57:08+08:00",
     "run_type": "same_day_incremental_supplement_after_full_scan",
     "result": "completed_with_five_historical_backfills_no_strict_new_publications_or_status_changes",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "note": "07:57 后增量补扫完成；新增 5 条历史补录。3 条官网日期为 8 月 26 日但无精确发布时间，未计入严格的上次扫描后新发布。写入前已验证 ID 与官方链接唯一。",
-    "content_commit_sha": "pending"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_but_public_pages_endpoints_blocked_by_current_runtime_safe_url_policy",
+    "note": "07:57 后增量补扫完成；新增 5 条历史补录。3 条官网日期为 8 月 26 日但无精确发布时间，未计入严格的上次扫描后新发布。远端回读确认 155 个唯一 ID、155 个唯一官方链接与分类总数；公开 Pages 首页及 JSON 端点被当前运行环境安全 URL 策略拒绝，未冒充已刷新。",
+    "content_commit_sha": "d49721df6dbc347c36c31d67323b21e6d7c8041a"
   }
 }
