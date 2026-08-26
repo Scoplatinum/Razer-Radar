@@ -1,7 +1,180 @@
 {
-  "generated_at": "2026-08-26T07:57:08+08:00",
-  "notice": "已完成 2026-08-26 全量扫描。本轮无可严格确认在上次扫描后新发布的条目；历史补录 6 条（升学 2、研究 3、求职 1），状态变化 1 条。官方页面仅给出 8 月 25 日日期而无精确上线时刻的研究，均保守标为历史补录。",
+  "generated_at": "2026-08-26T15:46:44+08:00",
+  "notice": "2026-08-26 早间已完成全量扫描；本轮仅补扫 07:57 后增量并补录历史。未发现可严格证明在上次扫描后新发布的条目；新增 5 条历史补录（研究 2、实验室 2、求职 1），状态变化 0。今日官网仅给日级日期的条目均未冒充“上次扫描后新发布”。",
   "items": [
+    {
+      "id": "natcomm-retinal-age-foundation-model-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "眼底图像深度学习年龄标志揭示性别特异的临床与遗传关联",
+      "title_en": "Deep learning aging marker from retinal images unveils sex-specific clinical and genetic signatures",
+      "organization": "Nature Communications · University of Lausanne and collaborators",
+      "location": "瑞士／荷兰／英国",
+      "published_at": "2026-08-26",
+      "first_seen_at": "2026-08-26",
+      "updated_at": "2026-08-26",
+      "last_verified_at": "2026-08-26",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 97,
+      "verification_status": "verified_official_journal_published_date_only_time_unavailable",
+      "summary": "研究在 UK Biobank 的 71,343 名参与者眼底彩照上微调 RETFound 预测年龄，受试者层面的平均绝对误差为 2.85 年，并在 Rotterdam Study 外部验证。校正后的视网膜年龄差与心代谢、炎症、认知表现、全因死亡、痴呆、癌症及心血管事件相关；全基因组分析还连接到长寿、代谢、神经退行性和眼病通路。分性别模型精度相近但生物信号不同。局限是疾病结果主要为观察性关联，且存在回归均值和设备／队列偏移，不能作为因果或个人诊断。",
+      "summary_en": "RETFound was fine-tuned on retinal images from 71,343 UK Biobank participants, achieving a participant-level MAE of 2.85 years with external validation in the Rotterdam Study. Retinal age gap was associated with cardiometabolic traits, inflammation, cognition, mortality, dementia, cancer and cardiovascular events, with sex-specific biological signatures. Most outcomes are observational, prediction is affected by regression-to-the-mean and cohort/camera shift, and the marker is not a causal or individual diagnostic result.",
+      "relevance": "高质量医疗影像 AI、基础模型、外部验证与多组学交叉研究，直接覆盖数据科学、医疗科技和认知衰老。",
+      "tags": [
+        "历史补录",
+        "8月26日官网日期但无精确时刻",
+        "Nature Communications",
+        "正式发表",
+        "RETFound",
+        "眼底影像",
+        "医疗AI",
+        "认知衰老",
+        "UK Biobank",
+        "外部验证",
+        "观察性关联"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-77102-1",
+      "current_status": "published_open_access"
+    },
+    {
+      "id": "cdd-g3bp1-parkinsons-autophagy-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "帕金森病相关 G3BP1 缺失扰乱高尔基体—溶酶体—自噬轴",
+      "title_en": "G3BP1 depletion, observed in Parkinson’s Disease, drives Golgi–lysosome–autophagy defects",
+      "organization": "Cell Death & Differentiation · University of Cambridge and UK DRI",
+      "location": "英国",
+      "published_at": "2026-08-26",
+      "first_seen_at": "2026-08-26",
+      "updated_at": "2026-08-26",
+      "last_verified_at": "2026-08-26",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 94,
+      "verification_status": "verified_official_journal_version_of_record_date_only_time_unavailable",
+      "summary": "研究发现 G3BP1 通过促进 beta-COP 与去泛素化酶 USP10 的相互作用稳定 COPI 囊泡蛋白；G3BP1 缺失会增加 beta-COP 泛素化和降解，继而破坏高尔基体、降低溶酶体数量与酸化并削弱自噬。证据结合细胞模型、帕金森病患者来源 iPSC／脑组织和 A53T α-突触核蛋白小鼠。局限是核心机制主要来自细胞与转基因小鼠，尚未证明提高 G3BP1 能在人体改善帕金森病。",
+      "summary_en": "G3BP1 stabilises beta-COP through USP10; its depletion increases beta-COP ubiquitination and degradation, disrupting Golgi organisation, lysosomal function and autophagy. Evidence spans cellular systems, Parkinson's patient-derived iPSCs/brain material and A53T alpha-synuclein mice. The central mechanism remains driven mainly by cell and mouse experiments and does not establish therapeutic benefit in patients.",
+      "relevance": "连接帕金森病、蛋白稳态、溶酶体和自噬机制；转化结论需保守。",
+      "tags": [
+        "历史补录",
+        "8月26日官网日期但无精确时刻",
+        "Version of Record",
+        "帕金森病",
+        "G3BP1",
+        "COPI",
+        "溶酶体",
+        "自噬",
+        "iPSC",
+        "A53T小鼠"
+      ],
+      "source_url": "https://www.nature.com/articles/s41418-026-01853-z",
+      "current_status": "published_open_access"
+    },
+    {
+      "id": "qmul-mental-health-social-exposome-ra-10988",
+      "category": "实验室",
+      "section": "科研／医疗／生物信息岗位",
+      "title": "伦敦玛丽女王大学心理健康社会暴露组数据科研助理",
+      "title_en": "Research Assistant — Mental Health Social Exposome Data",
+      "organization": "Queen Mary University of London · William Harvey Research Institute",
+      "location": "英国・伦敦",
+      "published_at": "2026-08-12",
+      "first_seen_at": "2026-08-26",
+      "updated_at": "2026-08-26",
+      "last_verified_at": "2026-08-26",
+      "deadline": "2026-08-28（官网当前职位表）",
+      "discovery_status": "historical_backfill",
+      "priority": 95,
+      "verification_status": "verified_open_official_employer_listing_current_deadline_2026_08_28",
+      "summary": "固定期限全职 RA，负责 Mental Health Platform 多队列社会、临床、人口与身体健康指标的清洗、映射、质控和协调，并构建社会暴露组变量与综合评分。接受数据科学、流行病学、心理学、生物医学、统计、生物信息等相关本科，硕士仅为理想条件；要求 R／RStudio、定量分析或可复现管线能力，相关方法提供培训。官网当前职位表显示 8 月 28 日截止；签证担保未说明。",
+      "summary_en": "A fixed-term full-time RA role harmonising and analysing social, clinical, demographic and physical-health variables across Mental Health Platform cohorts. Relevant bachelor's backgrounds are accepted; an MSc is ideal rather than mandatory. R/RStudio, quantitative analysis or reproducible-pipeline skills are expected, with method training provided. The current official list shows a 28 August deadline; sponsorship is not stated.",
+      "relevance": "本科层级可申请，精神健康、跨队列数据与 R 分析匹配度高；截止很近，需立即核对英国工作权。",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "本科可申请",
+        "精神健康",
+        "社会暴露组",
+        "跨队列数据",
+        "R／RStudio",
+        "可复现分析",
+        "提供培训",
+        "8月28日截止",
+        "签证未说明"
+      ],
+      "source_url": "https://www.qmul.ac.uk/jobs/vacancies/job-items/",
+      "aggregator_url": "https://www.jobs.ac.uk/job/DSP010/research-assistant",
+      "current_status": "open_until_2026-08-28_official_current_list"
+    },
+    {
+      "id": "ntu-neuropsychology-ra-r00024741",
+      "category": "实验室",
+      "section": "实验室机会",
+      "title": "南洋理工大学神经心理学科研助理",
+      "title_en": "Research Assistant — Neuropsychology",
+      "organization": "Nanyang Technological University · CRADLE",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-26",
+      "updated_at": "2026-08-26",
+      "last_verified_at": "2026-08-26",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 91,
+      "verification_status": "verified_open_official_workday_listing_exact_post_date_unavailable",
+      "summary": "CRADLE 学习科学项目 RA，负责招募、认知测试、fNIRS／MRI 数据采集、数据分析管线、综述、报告和论文。要求心理学、认知神经科学或相关荣誉学士；需 SPSS 或 R、Python 或 MATLAB、神经影像软件及既往认知神经／影像和发表流程经验。官网仍显示 Apply，未列固定截止、精确发布日期或签证担保；不是零经验岗位。",
+      "summary_en": "A CRADLE learning-science RA role covering recruitment, cognitive testing, fNIRS/MRI collection, analysis pipelines and publications. It requires an honours bachelor's in psychology, cognitive neuroscience or related field, SPSS/R, Python/Matlab, neuroimaging software, and prior cognitive-neuroscience/neuroimaging experience. The official listing shows Apply but no deadline, exact date or sponsorship policy; this is not a zero-experience role.",
+      "relevance": "认知神经、影像和数据管线高度匹配，但既往 fNIRS／MRI 经历是实质门槛。",
+      "tags": [
+        "历史补录",
+        "本科荣誉学位",
+        "认知神经科学",
+        "神经心理学",
+        "fNIRS／MRI",
+        "SPSS／R",
+        "Python／MATLAB",
+        "需既往神经影像经验",
+        "无固定截止日",
+        "签证未说明"
+      ],
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant--Neuropsychology-_R00024741",
+      "current_status": "open_no_deadline_listed"
+    },
+    {
+      "id": "apple-wireless-bluetooth-tools-triage-swe-200680025",
+      "category": "求职",
+      "section": "算法与AI岗位",
+      "title": "Apple 无线蓝牙工具与问题分析软件工程师",
+      "title_en": "Wireless Bluetooth Tools & Triage Software Engineer",
+      "organization": "Apple · Software and Services",
+      "location": "美国・旧金山湾区",
+      "published_at": "2026-08-26",
+      "first_seen_at": "2026-08-26",
+      "updated_at": "2026-08-26",
+      "last_verified_at": "2026-08-26",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "priority": 90,
+      "verification_status": "verified_open_official_employer_page_date_only_time_unavailable",
+      "summary": "负责构建蓝牙问题分析、测试与自动化工具，识别趋势和回归，并探索用 AI 改进软件开发与单元测试。最低条件仅列计算机、计算机工程、电气工程本科或同等经验，没有硬性多年经验；Python、C／C++、蓝牙诊断、日志和调试为偏好项。官网标记 8 月 26 日发布并开放投递，但未给发布时间、截止或签证担保；国际申请者需先确认美国工作权。",
+      "summary_en": "The role builds Bluetooth analysis, testing and automation tools and explores AI-assisted development. The only minimum qualification listed is a relevant bachelor's degree or equivalent experience; Python, C/C++, diagnostics and debugging are preferred, with no fixed years-of-experience requirement. The page is dated 26 August and open but gives no posting time, deadline or sponsorship policy.",
+      "relevance": "少见的本科最低学历、无硬性年限的软件岗位；最大不确定性是美国工作权与蓝牙系统经验。",
+      "tags": [
+        "历史补录",
+        "8月26日官网日期但无精确时刻",
+        "本科最低学历",
+        "无硬性年限",
+        "Python",
+        "C／C++",
+        "蓝牙诊断",
+        "自动化测试",
+        "AI辅助开发",
+        "签证未说明"
+      ],
+      "source_url": "https://jobs.apple.com/en-us/details/200680025-3401/wireless-bluetooth-tools-triage-software-engineer?team=SFTWR",
+      "current_status": "open_no_deadline_listed"
+    },
     {
       "id": "elife-multitask-batteries-precision-functional-mapping-2026",
       "category": "研究",
@@ -4651,118 +4824,119 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_no_new_opportunity_one_research_backfill",
-      "note": "已扫描主要高校项目、实验室与雇主官方入口，并复核 jobs.ac.uk 线索。无新的合格机会；补录一项英国牵头的认知衰老研究。Glasgow Integrative Neuroscience MSc 列示截止已过，但官网仍显示 Apply now，未确认正式延期。"
+      "status": "incremental_scan_completed_with_research_and_ra_backfills",
+      "note": "补录帕金森病细胞机制研究及 QMUL 心理健康社会暴露组数据 RA；后者官网当前列 8 月 28 日截止。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧高校、实验室、EURAXESS 与 AcademicTransfer 线索；未找到可回到雇主官方页完成核验且符合当前层级与资格条件的新机会。"
+      "status": "incremental_scan_completed_with_one_research_backfill",
+      "note": "补录瑞士／荷兰团队的眼底基础模型与衰老研究；无新的合格项目或低经验岗位。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scan_completed_with_historical_backfills_and_urgent_reverification",
-      "note": "已扫描 HKU、CUHK、NUS、NTU 官方入口。历史补录 NUS AI for Science、NUS AI & Innovation 及 HKU 牙医学院全栈开发岗位；HKU 临床研究岗位今天仍开放，青光眼 AI RA II 明天截止。"
+      "status": "incremental_scan_completed_with_one_ra_backfill",
+      "note": "补录 NTU 神经心理学 RA；需既往神经影像经验。HKU 青光眼 AI RA II 的 8 月 27 日紧迫状态沿用早间核验。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描 OIST、RIKEN、KAIST、UST 等官方入口；OIST Neural Computation Software Curator 仍开放，本轮没有新的低经验合格条目。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scan_completed_with_research_backfills_and_job_status_change",
-      "note": "已扫描高校、医疗研究招聘与期刊官方入口。补录两项美国／加拿大相关神经研究及一项 eLife 评审预印本；Calgary 数据库开发岗申请按钮已消失，转为关闭。"
+      "status": "incremental_scan_completed_with_one_job_backfill",
+      "note": "补录 Apple 蓝牙工具软件工程师；最低学历为相关本科且无硬性年限，但签证未说明。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描 UNSW、Melbourne、UQ、Sydney、QUT 等高校官方招聘及数据／AI项目入口；没有通过层级、资格、经验和开放状态核验的新条目。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new",
-      "note": "已扫描百度、腾讯、字节等中国大厂及 SAP、Microsoft、Apple、IBM 等外企中国区官方 Careers；新线索仍主要受在校身份、特定毕业届别或硬性多年经验限制，无合格新增。"
+      "status": "incremental_scan_completed_no_high_quality_new",
+      "note": "已补扫大厂与外企中国区；Apple 今日中国新结果以零售管理和硬件为主，其余仍受届别或经验门槛限制。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "已扫描英国、欧洲、港新、日韩、北美与澳大利亚主要项目官方页；无新项目。Glasgow 列示截止已过但 Apply now 仍可见，只能视为待确认异常状态。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "full_scanned_with_two_historical_backfills",
-      "note": "历史补录 NUS AI for Science 2027 与 NUS AI & Innovation 2027；前者偏 AI 驱动科学研究，后者跨专业口径更宽但定位偏应用、治理与创新管理。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "full_scanned_with_one_historical_backfill",
-      "note": "历史补录 HKU 牙医学院全栈 Web 开发／IT Technician；官网明确高水平应届生可考虑，要求作品集和较完整的 Web 技术栈。"
+      "status": "incremental_scanned_with_two_historical_backfills",
+      "note": "补录 QMUL 心理健康数据 RA 与 NTU 神经心理学 RA。"
     },
     {
       "source_group": "研究动态",
-      "status": "full_scanned_with_three_historical_backfills",
-      "note": "补录 8 月 25 日正式发表的少突胶质细胞／NRF2 认知衰老研究、BLA–mPFC 社会隔离与饮酒回路研究，以及 eLife Important／Convincing 的多任务精准功能脑图谱评审预印本；均记录方法、发现和外推限制。"
+      "status": "incremental_scanned_with_two_historical_backfills",
+      "note": "补录眼底 RETFound 衰老研究与 G3BP1 帕金森病机制研究；官网无精确发布时间，保守标为历史补录。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "full_scanned_no_new_status_change_recorded",
-      "note": "无新增；Calgary 医疗研究数据库开发岗官方申请按钮已消失，转为关闭。"
+      "status": "incremental_scanned_with_one_ra_backfill",
+      "note": "补录 QMUL 跨队列心理健康数据 RA；本科可申请，R／可复现分析为核心。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "full_scanned_with_one_historical_backfill",
-      "note": "补录 HKU 全栈岗位，LLM 集成为加分项；大厂算法结果仍主要要求硕博、特定毕业届别或多年经验。"
+      "status": "incremental_scanned_with_one_historical_backfill",
+      "note": "补录 Apple 蓝牙工具软件工程师；相关本科最低学历，无硬性年限，签证未说明。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scanned_existing_urgent_reverified",
-      "note": "HKU Clinical Trials Centre 临床研究岗位今天仍显示 Apply now；青光眼 AI／眼部影像 RA II 明天截止，流利粤语为硬门槛。"
+      "status": "incremental_scanned_with_one_ra_backfill",
+      "note": "补录 QMUL 心理健康数据 RA；HKU 青光眼 AI RA II 的紧迫状态沿用早间核验。"
     },
     {
       "source_group": "其他求职",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "高校与医疗科技入口无新的低经验合格条目。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "百度、腾讯、字节等官方入口未发现同时满足低经验、资格适用和开放状态的新岗位。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "full_scanned_no_high_quality_new",
-      "note": "SAP、Microsoft、Apple、IBM 等官方入口未发现资格、层级、经验与开放状态同时匹配的新增。"
+      "status": "incremental_scanned_no_high_quality_new",
+      "note": "Apple 中国区今日新结果以零售管理和硬件为主，不符合低经验数据／AI主线。"
     }
   ],
   "run_summary": {
-    "newItemsOfficiallyDatedToday": 0,
+    "newItemsOfficiallyDatedToday": 3,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 6,
-    "status_changes": 1,
+    "historical_backfills_added": 5,
+    "status_changes": 0,
     "existing_urgent_reverified": 3,
-    "still_open_urgent_items": 26,
-    "database_items_total": 150,
+    "still_open_urgent_items": 30,
+    "database_items_total": 155,
     "category_counts": {
-      "升学": 2,
-      "研究": 3,
-      "实验室": 0,
+      "升学": 0,
+      "研究": 2,
+      "实验室": 2,
       "求职": 1
     },
     "database_category_totals": {
-      "研究": 79,
-      "求职": 19,
+      "研究": 81,
+      "求职": 20,
       "升学": 28,
-      "实验室": 24
+      "实验室": 26
     },
     "excluded_expired_or_ineligible": [
-      "HKU 8 月 25 日新公告以要求 5–10 年经验的管理／行政岗、临床心理高级教学岗及纯文职岗为主，未纳入。",
-      "eLife 8 月 25 日的痴呆遗传架构评审预印本被评价为 Valuable / Incomplete，关键对照与模型假设不足，未为凑数收录。",
-      "中国大厂与外企中国区线索主要受在校身份、特定毕业届别、硕博学历或硬性多年经验限制。",
-      "英国、欧洲、日韩、北美和澳大利亚聚合平台线索未能回到官方页完成资格与开放状态核验的，均未入库。"
+      "Oxford 187626 神经发育 ASO RA 于北京时间 19:00 截止且要求 PCR、qRT-PCR、Western blot、克隆等既有湿实验能力；窗口过短且技能门槛强，未入库。",
+      "Sussex 43961 硬性要求小鼠行为、Med-PC IV、共聚焦、树突棘分析和英国 Home Office Personal Licence。",
+      "QMUL 10763 医疗数据科学 RA 的岗位画像以相关硕士及大型复杂数据经验为主，不作为 2024 本科低经验主入口。",
+      "Apple 中国区今日新岗位以零售管理、材料／硬件设计为主；数据与 AI 结果多为更早发布或高级岗位。",
+      "其余地区线索未能同时通过官方开放状态、学历、经验、方向和签证／工作权可达性核验。"
     ]
   },
   "change_legend": {
@@ -4773,13 +4947,13 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-26T07:57:08+08:00",
-    "increment_boundary": "2026-08-25T17:30:19+08:00",
-    "run_type": "full_scan",
-    "result": "completed_with_historical_backfills_and_status_change",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoints_blocked_by_current_runtime_safe_url_policy",
-    "note": "全量扫描完成；新增 6 条历史补录并记录 1 条状态变化。官方日期只有日级精度的 8 月 25 日条目均未冒充上次扫描后新发布。远端回读确认 150 个唯一 ID 与 150 个唯一官方链接；地区备注中的个人毕业时间表述已清理。公开 Pages 首页与 JSON 端点被当前运行环境安全 URL 策略拒绝，未宣称已刷新。",
-    "content_commit_sha": "88aa47a82bdb58368dbec71f0014039484b7bbe7"
+    "executed_at_beijing": "2026-08-26T15:46:44+08:00",
+    "increment_boundary": "2026-08-26T07:57:08+08:00",
+    "run_type": "same_day_incremental_supplement_after_full_scan",
+    "result": "completed_with_five_historical_backfills_no_strict_new_publications_or_status_changes",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "07:57 后增量补扫完成；新增 5 条历史补录。3 条官网日期为 8 月 26 日但无精确发布时间，未计入严格的上次扫描后新发布。写入前已验证 ID 与官方链接唯一。",
+    "content_commit_sha": "pending"
   }
 }
