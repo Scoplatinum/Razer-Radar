@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-26T15:46:44+08:00",
-  "notice": "2026-08-26 早间已完成全量扫描；本轮仅补扫 07:57 后增量并补录历史。未发现可严格证明在上次扫描后新发布的条目；新增 5 条历史补录（研究 2、实验室 2、求职 1），状态变化 0。今日官网仅给日级日期的条目均未冒充“上次扫描后新发布”。",
+  "generated_at": "2026-08-27T08:00:00+08:00",
+  "notice": "2026-08-27 已完成完整扫描。未发现可严格确认在上次扫描后新发布的合格条目；新增 1 条历史补录（NUS 2027 Data Science and Machine Learning MSc），并记录 1 条状态变化（HKU 临床研究岗截止后 Apply now 仍可见，未视为正式延期）。",
   "items": [
+    {
+      "id": "nus-msc-data-science-machine-learning-2027",
+      "category": "升学",
+      "section": "数据／计算／AI项目",
+      "title": "新加坡国立大学数据科学与机器学习理学硕士（2027）",
+      "title_en": "NUS MSc in Data Science and Machine Learning (2027 Intake)",
+      "organization": "National University of Singapore · Centre for Data Science and Machine Learning",
+      "location": "新加坡",
+      "published_at": "",
+      "first_seen_at": "2026-08-27",
+      "updated_at": "2026-08-27",
+      "last_verified_at": "2026-08-27",
+      "deadline": "2027-01-31（常规轮次；2026-10-01 开放）",
+      "discovery_status": "historical_backfill",
+      "priority": 91,
+      "verification_status": "verified_official_programme_page_2027_cycle_not_yet_open_eligibility_needs_preconfirmation",
+      "summary": "跨数学、统计、计算机、机器学习和 AI 的授课型硕士，全日制 1–2 年。2027 年 8 月入学常规申请期为 2026 年 10 月 1 日至 2027 年 1 月 31 日；无需推荐信或 GRE，个人陈述可选。官网要求定量科学（例举数学、统计、物理）、工程或计算机的荣誉／四年制本科，并要求国际申请人提交至少 30,000 新元资金证明。生态与生命科学背景没有被明确列入；应在投入申请前向项目方确认现有定量课程和分析经历能否满足资格。",
+      "summary_en": "An interdisciplinary taught MSc spanning computer science, mathematics, statistics, machine learning and AI, normally completed full-time in one to two years. The regular cycle for August 2027 runs from 1 October 2026 to 31 January 2027. Referee reports and GRE scores are not required, and a personal statement is optional. The official eligibility wording requires an honours/four-year bachelor's in a quantitative science (examples: mathematics, statistics and physics), engineering or computing, plus a SGD 30,000 financial statement for international applicants. Ecology and life science are not explicitly listed, so eligibility should be confirmed before investing in an application.",
+      "relevance": "学校与项目认可度高，技术训练扎实；但它不是明确开放给任意专业的转专业硕士。适合已有较强统计、编程和定量课程证据者先做资格预确认。",
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "数据科学",
+        "机器学习",
+        "人工智能",
+        "定量科学背景",
+        "资格需预确认",
+        "10月1日开放",
+        "1月31日截止",
+        "无需GRE",
+        "无需推荐信",
+        "资金证明"
+      ],
+      "source_url": "https://www.math.nus.edu.sg/cdsml/ms-dsml/dsml-prospective-students/",
+      "current_status": "regular_cycle_not_yet_open_opens_2026-10-01"
+    },
     {
       "id": "natcomm-retinal-age-foundation-model-2026",
       "category": "研究",
@@ -81,12 +117,12 @@
       "location": "英国・伦敦",
       "published_at": "2026-08-12",
       "first_seen_at": "2026-08-26",
-      "updated_at": "2026-08-26",
-      "last_verified_at": "2026-08-26",
+      "updated_at": "2026-08-27",
+      "last_verified_at": "2026-08-27",
       "deadline": "2026-08-28（官网当前职位表）",
       "discovery_status": "historical_backfill",
       "priority": 95,
-      "verification_status": "verified_open_official_employer_listing_current_deadline_2026_08_28",
+      "verification_status": "verified_open_official_current_vacancy_list_rechecked_2026_08_27",
       "summary": "固定期限全职 RA，负责 Mental Health Platform 多队列社会、临床、人口与身体健康指标的清洗、映射、质控和协调，并构建社会暴露组变量与综合评分。接受数据科学、流行病学、心理学、生物医学、统计、生物信息等相关本科，硕士仅为理想条件；要求 R／RStudio、定量分析或可复现管线能力，相关方法提供培训。官网当前职位表显示 8 月 28 日截止；签证担保未说明。",
       "summary_en": "A fixed-term full-time RA role harmonising and analysing social, clinical, demographic and physical-health variables across Mental Health Platform cohorts. Relevant bachelor's backgrounds are accepted; an MSc is ideal rather than mandatory. R/RStudio, quantitative analysis or reproducible-pipeline skills are expected, with method training provided. The current official list shows a 28 August deadline; sponsorship is not stated.",
       "relevance": "本科层级可申请，精神健康、跨队列数据与 R 分析匹配度高；截止很近，需立即核对英国工作权。",
@@ -101,7 +137,9 @@
         "可复现分析",
         "提供培训",
         "8月28日截止",
-        "签证未说明"
+        "签证未说明",
+        "明天截止",
+        "8月27日官方复核"
       ],
       "source_url": "https://www.qmul.ac.uk/jobs/vacancies/job-items/",
       "aggregator_url": "https://www.jobs.ac.uk/job/DSP010/research-assistant",
@@ -2876,12 +2914,12 @@
       "location": "中国香港",
       "published_at": "2026-07-31",
       "first_seen_at": "2026-08-03",
-      "updated_at": "2026-08-26",
-      "last_verified_at": "2026-08-26",
+      "updated_at": "2026-08-27",
+      "last_verified_at": "2026-08-27",
       "deadline": "2026-08-27",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "priority": 99,
-      "verification_status": "verified_open_official_employer_page_reverified_2026_08_26",
+      "verification_status": "verified_open_official_current_opportunities_and_apply_now_on_deadline_2026_08_27",
       "summary": "一年期全职 RA II，可续约。项目聚焦青光眼的人工智能、眼部影像和临床研究；工作包括 R／Python 统计分析、数据清洗与管理、文献综述、研究报告与论文支持，以及临床研究协调和文档。接受统计、数据科学、计算机、生物医学、医疗健康或相关本科及以上；要求具备 R 和／或 Python 统计训练，AI、医学影像、眼部影像或 OCT 经验为加分项，适当情况下提供培训。硬性语言门槛为优秀中英文及流利粤语。滚动审查，招满即止。",
       "summary_en": "A one-year, renewable RA II role supporting glaucoma research in artificial intelligence, ocular imaging and clinical studies. Duties include statistical analysis in R/Python, data cleaning and management, literature review, research reports/manuscripts, and clinical-study coordination. A bachelor's degree or above in statistics, data science, computer science, biomedical science, healthcare or a related field is accepted; AI, medical/ocular imaging or OCT experience is advantageous, and training may be provided. Excellent English and Chinese, including fluent Cantonese, are required. Review is rolling until filled.",
       "relevance": "生命科学、医疗数据、R/Python 与 AI 影像结合非常直接，层级也适合初级申请；但流利粤语是决定能否投递的硬门槛。",
@@ -2897,11 +2935,13 @@
         "既有机会仍开放",
         "8月18日复核",
         "8月24日官方复核",
-        "明天截止",
-        "8月26日官方复核"
+        "8月26日官方复核",
+        "今天截止",
+        "8月27日官方复核"
       ],
       "source_url": "https://jobs.hku.hk/en/job/537031/research-assistant-ii",
-      "current_status": "open_rolling_until_2026-08-27_or_filled"
+      "current_status": "open_on_listed_deadline_2026-08-27_or_until_filled",
+      "status_change_note": "2026-08-27 复核：官方页仍列于 Current opportunities 并显示 Apply now；今天截止，且可能因招满提前结束。"
     },
     {
       "id": "scirep-nested-context-temporal-compression-2026",
@@ -4301,11 +4341,11 @@
       "location": "中国香港",
       "published_at": "2026-07-27",
       "first_seen_at": "2026-07-29",
-      "updated_at": "2026-08-26",
+      "updated_at": "2026-08-27",
       "deadline": "2026-08-26",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "priority": 98,
-      "verification_status": "verified_open_official_employer_page_on_listed_deadline_2026_08_26",
+      "verification_status": "verified_official_page_deadline_passed_apply_button_and_current_listing_still_visible_2026_08_27",
       "summary": "1 年临时或 2 年定期岗位，参与药物、医疗器械和医疗技术临床试验的规划、启动、监测、伦理/监管审批及跨方协调。官网明确提供全面在职培训，并写明应届毕业生也会被考虑。8 月 10 日开始审查，8 月 26 日截止，或招满即止。",
       "summary_en": "A one-year temporary or two-year fixed-term clinical-research role supporting planning, initiation and monitoring of trials involving drugs, medical devices and medical technologies, including ethics/regulatory work and stakeholder coordination. The official page states that comprehensive on-the-job training is provided and fresh graduates will be considered. Review starts on 10 August and closes on 26 August, or earlier if filled.",
       "relevance": "属于医疗科技和临床研究运营入口，经验门槛友好；核心是项目管理、合规与沟通，不是算法或纯数据分析岗位。",
@@ -4317,15 +4357,18 @@
         "医疗科技",
         "项目协调",
         "需尽快行动",
-        "今天截止",
         "既有机会仍开放",
-        "8月26日官方复核",
-        "粤语要求"
+        "粤语要求",
+        "状态变化",
+        "截止日已过",
+        "Apply now仍可见",
+        "未确认延期",
+        "8月27日官方复核"
       ],
       "source_url": "https://jobs.hku.hk/cw/en/job/536939/clinical-research-associate-at-the-rank-of-technical-officerresearch-assistant-iii",
-      "last_verified_at": "2026-08-26",
-      "current_status": "open_on_deadline_2026-08-26_or_until_filled",
-      "status_change_note": "2026-08-26 复核：官方页仍列于 Current opportunities 并显示 Apply now；今天截止，可能提前招满。"
+      "last_verified_at": "2026-08-27",
+      "current_status": "listed_deadline_passed_but_apply_now_still_visible_needs_confirmation",
+      "status_change_note": "2026-08-27 复核：列示的 8 月 26 日截止日已过，但官方页面仍在 Current opportunities 中并显示 Apply now。未发现正式延期公告；仅标记为截止后入口仍可见，投递前需立即确认。"
     },
     {
       "id": "natcom-ssm-neural-dynamics-2026",
@@ -4824,119 +4867,119 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_with_research_and_ra_backfills",
-      "note": "补录帕金森病细胞机制研究及 QMUL 心理健康社会暴露组数据 RA；后者官网当前列 8 月 28 日截止。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描官方硕士项目、高校招聘与临近截止条目；无高质量新增。QMUL 心理健康社会暴露组数据 RA 仍在官方列表，8 月 28 日截止。"
     },
     {
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_with_one_research_backfill",
-      "note": "补录瑞士／荷兰团队的眼底基础模型与衰老研究；无新的合格项目或低经验岗位。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描荷兰 AcademicTransfer 及德国、瑞士、法国、比利时、北欧官方高校／研究入口；今日无高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_with_one_ra_backfill",
-      "note": "补录 NTU 神经心理学 RA；需既往神经影像经验。HKU 青光眼 AI RA II 的 8 月 27 日紧迫状态沿用早间核验。"
+      "status": "full_scan_completed_with_one_programme_backfill_and_one_status_change",
+      "note": "补录 NUS DSML 2027；HKU 临床研究岗截止后入口仍可见，青光眼 AI RA II 于今天截止且仍显示 Apply now。"
     },
     {
       "region": "日本与韩国",
-      "status": "incremental_scan_completed_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描 OIST、日本与韩国主要英文招聘／项目入口；今日无高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_with_one_job_backfill",
-      "note": "补录 Apple 蓝牙工具软件工程师；最低学历为相关本科且无硬性年限，但签证未说明。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描高校科研、医疗数据及低经验技术岗位入口；今日无高质量新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "incremental_scan_completed_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描主要高校官方项目与招聘入口；今日无高质量新增。"
     },
     {
       "region": "中国大陆",
-      "status": "incremental_scan_completed_no_high_quality_new",
-      "note": "已补扫大厂与外企中国区；Apple 今日中国新结果以零售管理和硬件为主，其余仍受届别或经验门槛限制。"
+      "status": "full_scan_completed_no_high_quality_new",
+      "note": "已扫描中国大厂校招／社招和外企中国区 Careers；现有结果主要受 2027 届身份、在校身份、专业硬门槛或多年经验限制，今日无高质量新增。"
     }
   ],
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "incremental_scanned_no_high_quality_new",
+      "status": "full_scanned_no_high_quality_new",
       "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "full_scanned_with_one_historical_backfill",
+      "note": "补录 NUS DSML 2027；项目 10 月 1 日开放，生态／生命科学资格需预确认。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scanned_with_two_historical_backfills",
-      "note": "补录 QMUL 心理健康数据 RA 与 NTU 神经心理学 RA。"
+      "status": "full_scanned_with_status_reverification",
+      "note": "HKU 青光眼 AI RA II 今天截止且仍开放；QMUL 心理健康数据 RA 明天截止。"
     },
     {
       "source_group": "研究动态",
-      "status": "incremental_scanned_with_two_historical_backfills",
-      "note": "补录眼底 RETFound 衰老研究与 G3BP1 帕金森病机制研究；官网无精确发布时间，保守标为历史补录。"
+      "status": "full_scanned_no_high_quality_new",
+      "note": "已扫描 Nature、Nature Neuroscience、Nature Communications、Scientific Data、eLife 等官方入口；未为凑数收录仅有期号更新或证据不足的内容。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "incremental_scanned_with_one_ra_backfill",
-      "note": "补录 QMUL 跨队列心理健康数据 RA；本科可申请，R／可复现分析为核心。"
+      "status": "full_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增；复核 QMUL 心理健康社会暴露组数据 RA 仍开放。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "incremental_scanned_with_one_historical_backfill",
-      "note": "补录 Apple 蓝牙工具软件工程师；相关本科最低学历，无硬性年限，签证未说明。"
+      "status": "full_scanned_no_high_quality_new",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scanned_with_one_ra_backfill",
-      "note": "补录 QMUL 心理健康数据 RA；HKU 青光眼 AI RA II 的紧迫状态沿用早间核验。"
+      "status": "full_scanned_with_one_status_change",
+      "note": "HKU 临床研究岗截止后 Apply now 仍可见，未确认延期；青光眼 AI RA II 今天截止。"
     },
     {
       "source_group": "其他求职",
-      "status": "incremental_scanned_no_high_quality_new",
+      "status": "full_scanned_no_high_quality_new",
       "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "full_scanned_no_high_quality_new",
+      "note": "字节、腾讯、华为等官方入口已扫描；当前校招主要面向 2027 届或在校实习身份。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "incremental_scanned_no_high_quality_new",
-      "note": "Apple 中国区今日新结果以零售管理和硬件为主，不符合低经验数据／AI主线。"
+      "status": "full_scanned_no_high_quality_new",
+      "note": "今日已扫描，无通过层级、经验和开放状态核验的高质量新增。"
     }
   ],
   "run_summary": {
-    "newItemsOfficiallyDatedToday": 3,
+    "newItemsOfficiallyDatedToday": 0,
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "historical_backfills_added": 5,
-    "status_changes": 0,
+    "historical_backfills_added": 1,
+    "status_changes": 1,
     "existing_urgent_reverified": 3,
     "still_open_urgent_items": 30,
-    "database_items_total": 155,
+    "database_items_total": 156,
     "category_counts": {
-      "升学": 0,
-      "研究": 2,
-      "实验室": 2,
-      "求职": 1
+      "升学": 1,
+      "研究": 0,
+      "实验室": 0,
+      "求职": 0
     },
     "database_category_totals": {
+      "升学": 29,
       "研究": 81,
-      "求职": 20,
-      "升学": 28,
-      "实验室": 26
+      "实验室": 26,
+      "求职": 20
     },
     "excluded_expired_or_ineligible": [
-      "Oxford 187626 神经发育 ASO RA 于北京时间 19:00 截止且要求 PCR、qRT-PCR、Western blot、克隆等既有湿实验能力；窗口过短且技能门槛强，未入库。",
-      "Sussex 43961 硬性要求小鼠行为、Med-PC IV、共聚焦、树突棘分析和英国 Home Office Personal Licence。",
-      "QMUL 10763 医疗数据科学 RA 的岗位画像以相关硕士及大型复杂数据经验为主，不作为 2024 本科低经验主入口。",
-      "Apple 中国区今日新岗位以零售管理、材料／硬件设计为主；数据与 AI 结果多为更早发布或高级岗位。",
-      "其余地区线索未能同时通过官方开放状态、学历、经验、方向和签证／工作权可达性核验。"
+      "Nature 8 月 27 日检索结果中的果蝇脑—神经索连接组论文仅为期号日期更新，正式发表和 Version of Record 均早于本轮，未冒充今日研究更新。",
+      "荷兰 Donders 二语记忆 RA 已于 8 月 23 日截止且硬性要求母语或近母语荷兰语。",
+      "华为 2027 校招以 2027 届国内本硕和 2026–2027 届海外毕业生为主，当前身份不匹配；腾讯、字节结果亦主要受届别／在校身份或算法专业门槛限制。",
+      "NUS DSML 未明确接受生态或一般生命科学背景，已保留但标记资格需预确认，不作为无门槛转专业项目。",
+      "博士后、研究员、教师职位及硬性多年经验岗位均按规则排除。"
     ]
   },
   "change_legend": {
@@ -4947,13 +4990,13 @@
     "newly_published_since_last_scan": "官方发布日期晚于上次扫描时间；不受北京时间自然日边界遗漏"
   },
   "last_run_receipt": {
-    "executed_at_beijing": "2026-08-26T15:46:44+08:00",
-    "increment_boundary": "2026-08-26T07:57:08+08:00",
-    "run_type": "same_day_incremental_supplement_after_full_scan",
-    "result": "completed_with_five_historical_backfills_no_strict_new_publications_or_status_changes",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_commit_verified_but_public_pages_endpoints_blocked_by_current_runtime_safe_url_policy",
-    "note": "07:57 后增量补扫完成；新增 5 条历史补录。3 条官网日期为 8 月 26 日但无精确发布时间，未计入严格的上次扫描后新发布。远端回读确认 155 个唯一 ID、155 个唯一官方链接与分类总数；公开 Pages 首页及 JSON 端点被当前运行环境安全 URL 策略拒绝，未冒充已刷新。",
-    "content_commit_sha": "d49721df6dbc347c36c31d67323b21e6d7c8041a"
+    "executed_at_beijing": "2026-08-27T08:00:00+08:00",
+    "increment_boundary": "2026-08-26T15:46:44+08:00",
+    "run_type": "daily_full_scan",
+    "result": "completed_with_one_historical_programme_backfill_and_one_status_change_no_strict_new_publications",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "note": "完整扫描已完成；待远端写入后回读验证唯一 ID、唯一官方链接、分类计数与隐私措辞。",
+    "content_commit_sha": ""
   }
 }
