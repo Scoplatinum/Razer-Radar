@@ -5070,9 +5070,9 @@
     "increment_boundary": "2026-08-27T08:00:00+08:00",
     "run_type": "daily_full_scan",
     "result": "completed_with_two_historical_backfills_and_two_status_changes_no_strict_new_publications",
-    "repository_write": "pending_content_commit",
-    "public_site_verification": "pending",
-    "note": "完整扫描完成，待写入并回读核验。",
-    "content_commit_sha": ""
+    "repository_write": "completed_and_remote_content_revalidated_after_initial_content_commit",
+    "public_site_verification": "repository_commit_verified_public_pages_not_yet_independently_confirmed",
+    "note": "完整扫描与首次内容写入完成；远端回读确认 158 个唯一 ID、158 个唯一官方链接、分类总数一致且隐私措辞检查无命中。",
+    "content_commit_sha": "3a53c08aa56fb796d3f9e9841a836935b2d7ea0b"
   }
 }
