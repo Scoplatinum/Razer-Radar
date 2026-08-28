@@ -5063,9 +5063,9 @@
     "increment_boundary": "2026-08-28T08:00:00+08:00",
     "run_type": "same_day_incremental_after_daily_full_scan",
     "result": "completed_with_one_status_change_no_new_publications_or_backfills",
-    "repository_write": "pending_content_update",
-    "public_site_verification": "pending_after_repository_write",
-    "note": "08:00 全量扫描后执行增量补扫；HKU 537031 已由截止后入口可见转为官方页面撤下。其余地区与方向无高质量新增。",
-    "content_commit_sha": ""
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed_url_safety_policy",
+    "note": "08:00 全量扫描后执行增量补扫；HKU 537031 官方页面现已撤下。远端回读确认 158 个唯一 ID、158 个唯一官方链接、分类总数一致；当前环境的 URL 安全策略阻止独立访问 GitHub Pages 与公开 JSON。",
+    "content_commit_sha": "b293cb6751fff5ff80882f859616fc03d7270ccb"
   }
 }
