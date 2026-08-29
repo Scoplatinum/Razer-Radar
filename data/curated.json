@@ -5172,11 +5172,12 @@
     }
   ],
   "last_run_receipt": {
+    "content_commit_sha": "794f9f48287802b0800a837601db1a57c17e7e30",
     "executed_at_beijing": "2026-08-29T07:57:08+08:00",
     "increment_boundary": "2026-08-28T13:17:11+08:00",
-    "note": "远端写入后回读校验。",
-    "public_site_verification": "pending",
-    "repository_write": "pending",
+    "note": "远端回读确认 163 个唯一 ID、163 个唯一官方链接、分类总数一致，隐私措辞检查无命中。",
+    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_five_historical_backfills_and_one_status_change",
     "run_type": "daily_full_scan"
   },
