@@ -8,43 +8,147 @@
   },
   "coverage": [
     {
-      "note": "已扫描；补录 QMUL 妊娠用药安全数据 RA，旧 QMUL 心理健康数据 RA 转为关闭，其余无高质量新增。",
+      "note": "上午已完成全量扫描；下午增量复核无新发布或状态变化。St Andrews 9 月入学仍开放至 9 月 1 日，Glasgow Global Leadership Scholarship 仍开放至 8 月 31 日 11:45 英国时间。",
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_with_updates"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时、北欧及 EURAXESS 线索并回到官方页核验；补录 3 条研究，岗位无高质量新增。",
+      "note": "上午已完成全量扫描；下午补录 Groningen 2027 Computational Cognitive Science MSc，未发现可证明在 07:57 后新发布的高质量机会。",
       "region": "欧洲大陆",
-      "status": "full_scan_completed_with_research_updates"
+      "status": "full_scan_completed_with_afternoon_backfills"
     },
     {
-      "note": "已扫描；无高质量新增。4 条 8 月 31 日 HKU 既有岗位仍显示 Apply now。",
+      "note": "上午已完成全量扫描；下午补录 NTU 青少年神经影像 RA 与 Nair 组神经 AI RA。HKU 三条 8 月 31 日岗位仍显示 Apply now，SAP 新加坡 Graduate AI 岗仍开放。",
       "region": "香港与新加坡",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_with_afternoon_backfills"
     },
     {
-      "note": "已扫描；无高质量新增。OIST 神经计算 Software Curator 仍为既有滚动机会。",
+      "note": "上午已完成全量扫描；下午增量无高质量新增，OIST 神经计算 Software Curator 仍为既有滚动机会。",
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描；补录 UBC CODA Lab 神经信息学 RA，其余无高质量新增。",
+      "note": "上午已完成全量扫描；下午增量无高质量新增；UBC CODA Lab 神经信息学 RA 仍为 9 月 1 日紧迫项（页面受当前环境安全策略限制，沿用上午官方核验）。",
       "region": "美国与加拿大",
-      "status": "full_scan_completed_with_historical_backfill"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描；无高质量新增，主要受经验、层级或工作权限制。",
+      "note": "上午已完成全量扫描；下午增量无高质量新增；RMIT Data Science and AI 2027 页面明确当前不向国际申请者开放，未收录。",
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描中国大厂与外企中国区官方 Careers；无高质量新增，主要受毕业届别、在校身份、专业、硕博或多年经验限制。",
+      "note": "上午已完成中国大厂和外企中国区官方扫描；下午增量无高质量新增，主要仍受毕业届别、在校身份、专业或多年经验限制。",
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     }
   ],
-  "generated_at": "2026-08-29T07:57:08+08:00",
+  "generated_at": "2026-08-29T16:31:24+08:00",
   "items": [
+    {
+      "category": "升学",
+      "current_status": "applications_open_for_2027_entry_rolling_review_until_2027-05-01",
+      "deadline": "2027-05-01（2027 年 9 月入学，含非欧盟申请者）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-29",
+      "id": "groningen-computational-cognitive-science-msc-2027",
+      "last_verified_at": "2026-08-29",
+      "location": "荷兰・格罗宁根",
+      "organization": "University of Groningen · Faculty of Science and Engineering",
+      "priority": 95,
+      "published_at": "",
+      "relevance": "把认知科学、神经影像、AI、机器学习、数据科学和计算建模整合在同一项目中，适合神经／心理向计算方向过渡；并非零基础转换项目，需逐门核验先修课。",
+      "section": "升学项目",
+      "source_url": "https://www.rug.nl/masters/computational-cognitive-science/?lang=en",
+      "summary": "两年制英文 MSc，2027 年 9 月入学，所有申请者截止 2027 年 5 月 1 日且滚动审理。课程聚焦人类认知、神经影像、AI、机器学习、数据科学和计算建模。接受 AI、心理学或相关本科，但相关背景必须覆盖 AI、认知心理／认知科学、统计与研究方法及实际编程；是否满足由招生委员会逐项判断，英语需按理学院标准另行证明。非欧盟 2026–27 学费页面参考为 €24,900／年。",
+      "summary_en": "A two-year English-taught MSc integrating human cognition, neuroimaging, AI, machine learning, data science and computational modelling. Applications for September 2027 are reviewed continuously and close on 1 May 2027 for all applicants. AI, psychology or relevant degrees may qualify only when prior study includes AI, cognitive psychology/science, statistics and research methods, plus practical programming; the admissions board assesses equivalence and separate English evidence is required.",
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "5月1日截止",
+        "欧洲大陆",
+        "计算认知科学",
+        "神经影像",
+        "AI／机器学习",
+        "计算建模",
+        "统计与研究方法先修",
+        "编程先修",
+        "非零基础转换"
+      ],
+      "title": "格罗宁根大学计算认知科学硕士",
+      "title_en": "MSc Computational Cognitive Science",
+      "updated_at": "2026-08-29",
+      "verification_status": "verified_official_2027_deadline_rolling_review_prerequisites_and_international_route"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_no_deadline_listed",
+      "deadline": "未列明（官网显示 Apply）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-29",
+      "id": "ntu-nair-neuroscience-ai-ra-r00021973",
+      "last_verified_at": "2026-08-29",
+      "location": "新加坡・NTU Novena Campus",
+      "organization": "Nanyang Technological University · Lee Kong Chian School of Medicine · Nair Group",
+      "priority": 96,
+      "published_at": "",
+      "relevance": "神经科学与 AI 交叉度很高，覆盖大规模神经数据、机器学习、计算机视觉和动力系统建模；虽欢迎初级候选人，但编程与数理基础是实质门槛。",
+      "section": "实验室机会",
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant--Neuroscience-Artificial-Intelligence--LKCMedicine-_R00021973-1",
+      "summary": "Nair Group 的神经科学／人工智能 Research Assistant，分析高维神经数据并开发机器学习、计算机视觉、LLM／VLM 与动力系统建模工具，维护研究软件并参与论文和基金材料。接受计算机、神经科学、计算生物、心理学、生命科学等本科和跨学科背景，明确欢迎 entry-level；要求 Python、MATLAB 和较强数理分析基础，深度学习／计算机视觉框架经验为重要优势。官网显示 Apply，未列截止日期与签证支持。",
+      "summary_en": "An entry-level-welcoming Research Assistant role in the Nair Group analysing high-dimensional neural data and developing machine-learning, computer-vision, LLM/VLM and dynamical-systems tools, while maintaining research software and contributing to publications and grants. Relevant bachelor's and interdisciplinary backgrounds are accepted; strong Python, MATLAB and quantitative skills are required. The official page shows Apply but no deadline or sponsorship information.",
+      "tags": [
+        "历史补录",
+        "官网开放",
+        "截止未列明",
+        "神经科学×AI",
+        "大规模神经数据",
+        "机器学习",
+        "计算机视觉",
+        "LLM／VLM",
+        "Python／MATLAB",
+        "欢迎初级候选人",
+        "签证未说明"
+      ],
+      "title": "南洋理工大学 Nair 组神经科学与人工智能科研助理",
+      "title_en": "Research Assistant — Neuroscience and Artificial Intelligence",
+      "updated_at": "2026-08-29",
+      "verification_status": "verified_open_official_workday_entry_level_welcome_exact_posting_date_deadline_and_sponsorship_not_listed"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_no_deadline_listed",
+      "deadline": "未列明（官网显示 Apply）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-29",
+      "id": "ntu-youth-affective-neuroimaging-ra-r00025346",
+      "last_verified_at": "2026-08-29",
+      "location": "新加坡",
+      "organization": "Nanyang Technological University · Youth Affective Neuroscience Lab",
+      "priority": 97,
+      "published_at": "",
+      "relevance": "与青少年心理健康、情感神经科学、神经影像、行为数据、统计编程和跨学科研究高度匹配；签证与截止日期未说明。",
+      "section": "实验室机会",
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-us/careers/job/ntu-main-campus-singapore/research-associate-research-assistant--neuroimaging---adolescent-mental-health-_r00025346",
+      "summary": "全职 Research Assistant／Associate，研究青少年心理健康与情感神经科学，负责受试者招募、行为与神经影像数据管理、统计分析、研究文档、伦理和项目协调。RA 接受心理学、神经科学、数据科学或相关本科；Python、MATLAB 或 R 经验为偏好，神经影像经验为加分项。官网仍显示 Apply，未列截止日期与签证支持。",
+      "summary_en": "A full-time Research Assistant/Associate role in adolescent mental health and affective neuroscience, covering recruitment, behavioural and neuroimaging data management, statistical analysis, research documentation, ethics and project coordination. The RA route accepts a bachelor's degree in psychology, neuroscience, data science or a related field; Python, MATLAB or R is preferred and neuroimaging is advantageous. The official page shows Apply but no deadline or sponsorship information.",
+      "tags": [
+        "历史补录",
+        "官网开放",
+        "截止未列明",
+        "青少年心理健康",
+        "情感神经科学",
+        "神经影像",
+        "行为数据",
+        "Python／MATLAB／R",
+        "本科可申请",
+        "签证未说明"
+      ],
+      "title": "南洋理工大学青少年情感神经科学／神经影像科研助理",
+      "title_en": "Research Assistant / Associate — Neuroimaging and Adolescent Mental Health",
+      "updated_at": "2026-08-29",
+      "verification_status": "verified_open_official_workday_bachelors_route_exact_posting_date_deadline_and_sponsorship_not_listed"
+    },
     {
       "category": "实验室",
       "current_status": "open_official_workday_until_2026-09-01_2359_local",
@@ -5172,95 +5276,95 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "794f9f48287802b0800a837601db1a57c17e7e30",
-    "executed_at_beijing": "2026-08-29T07:57:08+08:00",
-    "increment_boundary": "2026-08-28T13:17:11+08:00",
-    "note": "远端回读确认 163 个唯一 ID、163 个唯一官方链接、分类总数一致，隐私措辞检查无命中。",
-    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_five_historical_backfills_and_one_status_change",
-    "run_type": "daily_full_scan"
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-08-29T16:31:24+08:00",
+    "increment_boundary": "2026-08-29T07:57:08+08:00",
+    "note": "按 ID 与官方链接去重；写入前确认 166 个唯一 ID 与 166 个唯一官方链接。公开页面待提交后独立核验。",
+    "public_site_verification": "pending_after_repository_write",
+    "repository_write": "pending",
+    "result": "completed_with_three_historical_backfills_no_new_publications_or_status_changes",
+    "run_type": "same_day_incremental_scan"
   },
-  "notice": "2026-08-29 完整扫描完成。新增 5 条历史补录（岗位 2、研究 3）；官方均无足以跨越上次扫描边界的精确上线时刻，未标为新发布。QMUL 心理健康社会暴露组 RA 截止后已从官方职位表撤下。",
+  "notice": "2026-08-29 上午全量扫描后完成下午增量补扫。未发现可严格证明在 07:57 后新发布的高质量条目；历史补录 3 条（NTU 神经影像 RA、NTU 神经 AI RA、Groningen 计算认知科学 MSc），状态变化 0。",
   "run_summary": {
     "category_counts": {
-      "升学": 0,
+      "升学": 1,
       "实验室": 2,
       "求职": 0,
-      "研究": 3
+      "研究": 0
     },
     "database_category_totals": {
-      "升学": 29,
-      "实验室": 28,
+      "升学": 30,
+      "实验室": 30,
       "求职": 21,
       "研究": 85
     },
-    "database_items_total": 163,
+    "database_items_total": 166,
     "excluded_expired_or_ineligible": [
-      "UBC Parkinson’s RA 偏受试者招募与现场临床研究，并写两年经验或等同组合；低于 UBC 神经信息学岗位。",
-      "UCL Prevention Matters RA 要求高级 IPD 荟萃分析与信息治理经验。",
-      "Utrecht AI 聊天机器人心理健康 RA 偏社区田野与照护网络研究；欧洲其余多为博士／博士后／教师。",
-      "HKU 8 月 28 日新增主要为教授、研究助理教授、注册护士、管理及多年经验岗位。",
-      "中国大厂及外企中国区结果主要受毕业届别、在校身份、专业、硕博或硬性多年经验限制。"
+      "RMIT Master of Data Science and Artificial Intelligence 2027 官方页明确当前不向国际申请者开放。",
+      "Ulm MSc Artificial Intelligence 要求至少 30 ECTS 计算机、22 ECTS 数学并需德语，跨专业门槛过高。",
+      "VU Amsterdam MSc AI 的国际申请要求 18 ECTS AI 相关课程及编程测试，当前页面未给出可用的 2027 国际申请窗口。",
+      "NTU AI／Medicine qualitative RA 与既有医疗数据岗位相比技术相关性较低；NTU Systems Neuroscience 近似岗位存在重复，未重复入库。",
+      "中国大厂与外企中国区下午线索没有同时满足低经验、资格适用、官方开放与可核验发布时间。"
     ],
-    "existing_urgent_reverified": 6,
-    "historical_backfills_added": 5,
+    "existing_urgent_reverified": 7,
+    "historical_backfills_added": 3,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 1,
+    "status_changes": 0,
     "still_open_urgent_items": 30
   },
   "source_coverage": [
     {
-      "note": "已扫描、无高质量新增。",
+      "note": "上午已扫描；下午补录 Groningen Computational Cognitive Science MSc。",
       "source_group": "神经与认知项目",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_with_afternoon_backfills"
     },
     {
-      "note": "已扫描、无高质量新增；St Andrews 9 月入学申请仍开放至 9 月 1 日。",
+      "note": "上午已扫描；下午补录 Groningen Computational Cognitive Science MSc，另核验 RMIT、Ulm、VU 后因国际开放或先修门槛未收录。",
       "source_group": "数据／计算／AI项目",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_with_afternoon_backfills"
     },
     {
-      "note": "补录 UBC 神经信息学 RA 与 QMUL 医疗数据 RA；旧 QMUL RA 转为关闭。",
+      "note": "下午补录 NTU 青少年神经影像 RA 与 Nair 组神经 AI RA；7 条紧迫既有机会完成复核。",
       "source_group": "实验室与高校招聘",
-      "status": "full_scan_completed_with_updates"
+      "status": "full_scan_completed_with_afternoon_backfills"
     },
     {
-      "note": "补录 3 条 8 月 28 日官方高质量研究。",
+      "note": "上午已扫描；下午未发现可证明在增量边界后发布且达到证据门槛的新研究。",
       "source_group": "研究动态",
-      "status": "full_scan_completed_with_updates"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描；除 QMUL 历史补录外无高质量新增。",
+      "note": "上午已扫描；下午无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "full_scan_completed_with_updates"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描、无高质量新增；SAP 新加坡既有 Graduate AI 岗仍开放。",
+      "note": "上午已扫描；SAP 新加坡 Graduate AI 岗仍开放，下午无新增。",
       "source_group": "算法与AI岗位",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "补录 UBC 与 QMUL 两条岗位；香港 8 月 31 日既有岗位仍开放。",
+      "note": "下午补录两条 NTU 神经／AI 交叉科研岗位；其他无高质量新增。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scan_completed_with_updates"
+      "status": "full_scan_completed_with_afternoon_backfills"
     },
     {
-      "note": "已扫描、无高质量新增。",
+      "note": "上午已扫描；下午无高质量新增。",
       "source_group": "其他求职",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描、无高质量新增。",
+      "note": "下午增量已扫描，无符合低经验与资格条件的高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     },
     {
-      "note": "已扫描、无高质量新增。",
+      "note": "下午增量已扫描，无符合低经验与资格条件的高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "full_scan_completed_no_high_quality_new"
+      "status": "full_scan_completed_no_high_quality_afternoon_increment"
     }
   ]
 }
