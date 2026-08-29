@@ -5276,12 +5276,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "",
+    "content_commit_sha": "8d2a60938adc904248e5465baecc4a2372ce9539",
     "executed_at_beijing": "2026-08-29T16:31:24+08:00",
     "increment_boundary": "2026-08-29T07:57:08+08:00",
-    "note": "按 ID 与官方链接去重；写入前确认 166 个唯一 ID 与 166 个唯一官方链接。公开页面待提交后独立核验。",
-    "public_site_verification": "pending_after_repository_write",
-    "repository_write": "pending",
+    "note": "远端回读确认 166 个唯一 ID、166 个唯一官方链接、分类总数一致及 3 个补录 ID 存在；公开 Pages 访问被浏览器权限拒绝，未冒充已刷新。",
+    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed_browser_permission_denied",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_three_historical_backfills_no_new_publications_or_status_changes",
     "run_type": "same_day_incremental_scan"
   },
