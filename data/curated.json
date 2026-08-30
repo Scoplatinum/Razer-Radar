@@ -8,43 +8,146 @@
   },
   "coverage": [
     {
-      "note": "上午已完成全量扫描；下午增量复核无新发布或状态变化。St Andrews 9 月入学仍开放至 9 月 1 日，Glasgow Global Leadership Scholarship 仍开放至 8 月 31 日 11:45 英国时间。",
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_with_historical_backfill",
+      "note": "已扫描；历史补录 KCL EEG 数据整理与机器学习 RA。St Andrews 9 月入学仍开放至 9 月 1 日，Glasgow Global Leadership Scholarship 仍开放至 8 月 31 日 11:45 英国时间。"
     },
     {
-      "note": "上午已完成全量扫描；下午补录 Groningen 2027 Computational Cognitive Science MSc，未发现可证明在 07:57 后新发布的高质量机会。",
       "region": "欧洲大陆",
-      "status": "full_scan_completed_with_afternoon_backfills"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；AcademicTransfer、苏黎世及欧洲科研入口结果主要为博士后、教职或需硕士的既有博士机会。"
     },
     {
-      "note": "上午已完成全量扫描；下午补录 NTU 青少年神经影像 RA 与 Nair 组神经 AI RA。HKU 三条 8 月 31 日岗位仍显示 Apply now，SAP 新加坡 Graduate AI 岗仍开放。",
       "region": "香港与新加坡",
-      "status": "full_scan_completed_with_afternoon_backfills"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；4 条 HKU 8 月 31 日岗位官方页仍显示 Apply now。HKU 数据科学研究院新 IT Officer／Technician 虽可按较低职级考虑，但资格正文硬性列出至少 5 年全职经验，未收录。"
     },
     {
-      "note": "上午已完成全量扫描；下午增量无高质量新增，OIST 神经计算 Software Curator 仍为既有滚动机会。",
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；OIST 神经计算 Software Curator 仍为既有滚动机会，KAIST 新结果为教职等不匹配层级。"
     },
     {
-      "note": "上午已完成全量扫描；下午增量无高质量新增；UBC CODA Lab 神经信息学 RA 仍为 9 月 1 日紧迫项（页面受当前环境安全策略限制，沿用上午官方核验）。",
       "region": "美国与加拿大",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_with_research_backfill",
+      "note": "已扫描；补录 UNC 全生命周期脑髓鞘图谱研究。UBC CODA Lab 神经信息学 RA 仍为 9 月 1 日紧迫项；其他官方结果主要为博士后、教职或湿实验岗位。"
     },
     {
-      "note": "上午已完成全量扫描；下午增量无高质量新增；RMIT Data Science and AI 2027 页面明确当前不向国际申请者开放，未收录。",
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；UNSW 等官方入口的新结果主要要求博士或属于博士后／研究员层级。"
     },
     {
-      "note": "上午已完成中国大厂和外企中国区官方扫描；下午增量无高质量新增，主要仍受毕业届别、在校身份、专业或多年经验限制。",
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描中国大厂校招、日常实习及外企中国区 Careers，无同时满足低经验、资格适用与高匹配度的新增；百度与字节新结果主要受在校身份、毕业届别或计算机专业门槛限制。"
     }
   ],
-  "generated_at": "2026-08-29T16:31:24+08:00",
+  "generated_at": "2026-08-30T08:01:50+08:00",
   "items": [
+    {
+      "category": "研究",
+      "current_status": "published_version_of_record",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-30",
+      "id": "communicationsbiology-self-supervised-category-selective-cortex-2026",
+      "last_verified_at": "2026-08-30",
+      "location": "德国・柏林",
+      "organization": "Communications Biology · Freie Universität Berlin",
+      "priority": 97,
+      "published_at": "2026-08-29",
+      "relevance": "直接连接自监督视觉模型、fMRI、FFA／PPA 与模型—大脑对齐，适合计算认知神经科学和表征分析方向。",
+      "section": "研究动态",
+      "source_url": "https://www.nature.com/articles/s42003-026-10843-3",
+      "summary": "问题：面孔区 FFA 与场景区 PPA 的特征调谐是否必须依赖领域专门机制。方法：在 32 名参与者的 fMRI 与 8 个 ImageNet 自监督 ResNet-50 中用对应功能定位器识别面孔／场景选择性单元，再以 40 条件、5,152 张图像测试曲率、生命性、真实尺寸、脸形和空间布局等经典表征特征。发现：模型选择性单元与对应脑区显著对齐并复现多数特征，支持领域通用自监督目标足以产生许多人类式类别选择性。限制：视觉尺寸、PPA 空间布局和 FFA 脸形只得到部分解释；只比较同类卷积架构与一种训练图像生态，也未检验领域专门学习，因此不能证明人脑实际采用同一学习机制。",
+      "summary_en": "Using matched functional localisers in 32 fMRI participants and eight self-supervised ResNet-50 models, the study compared face- and scene-selective brain/model units across a 40-condition, 5,152-image test battery. Model units aligned with FFA/PPA responses and reproduced most classic tuning signatures, supporting the sufficiency of domain-general self-supervised objectives. Visual-size tolerance, PPA spatial-layout sensitivity and FFA face-shape tuning were only partially captured; the restricted architecture and training diet, and lack of domain-specialised alternatives, prevent claims that the brain uses the same mechanism.",
+      "tags": [
+        "历史补录",
+        "8月29日发表",
+        "Communications Biology",
+        "计算认知神经科学",
+        "fMRI",
+        "自监督学习",
+        "FFA／PPA",
+        "模型—大脑对齐",
+        "开放数据"
+      ],
+      "title": "自监督学习复现类别选择性视觉皮层的表征特征",
+      "title_en": "Self-supervised learning yields representational signatures of category-selective cortex",
+      "updated_at": "2026-08-30",
+      "verification_status": "verified_official_version_of_record_publication_date_methods_findings_data_and_limitations"
+    },
+    {
+      "category": "研究",
+      "current_status": "published_peer_reviewed_early_access_subject_to_editorial_changes",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-30",
+      "id": "naturecomm-lifespan-brain-wide-myelination-2026",
+      "last_verified_at": "2026-08-30",
+      "location": "美国・北卡罗来纳大学教堂山分校",
+      "organization": "Nature Communications · University of North Carolina at Chapel Hill",
+      "priority": 96,
+      "published_at": "2026-08-29",
+      "relevance": "提供跨 0–100 岁、全脑 214 区域的规范性髓鞘轨迹参考，与神经影像、健康衰老和神经退行性疾病分析高度相关。",
+      "section": "研究动态",
+      "source_url": "https://www.nature.com/articles/s41467-026-77073-3",
+      "summary": "问题：全生命周期髓鞘化研究常只覆盖部分脑区或有限年龄段。方法：整合多个大型成像队列，以 214 个脑区的 T1w/T2w 比值描绘 0–100 岁轨迹，并与区域脑体积和皮层厚度比较。发现：全脑总体呈婴儿期快速增长、青少年至成年再加速、晚年下降的三阶段模式，且不同脑区的髓鞘化／脱髓鞘化时间明显不同。限制：T1w/T2w 是间接髓鞘指标，跨队列和扫描平台的横断面整合不能替代同一个体的百年纵向追踪；当前为已同行评审但尚待最终文字编辑的 early-access 版本。",
+      "summary_en": "The study integrates large imaging cohorts and T1w/T2w ratios across 214 regions from ages 0–100 to build a brain-wide normative map of myelination. It reports rapid infant growth, adolescent/adult reacceleration and late-life decline, with marked regional timing differences, and compares these trajectories with volume and cortical thickness. Limitations include the indirect nature of T1w/T2w as a myelin proxy, cross-cohort/scanner harmonisation and the absence of true lifelong within-person follow-up; the current article is peer-reviewed early access pending final editing.",
+      "tags": [
+        "历史补录",
+        "8月29日发表",
+        "Nature Communications",
+        "神经影像",
+        "全生命周期",
+        "髓鞘化",
+        "T1w／T2w",
+        "健康衰老",
+        "early-access"
+      ],
+      "title": "0–100 岁全脑髓鞘化轨迹的三阶段图谱",
+      "title_en": "The shifting landscape of brain-wide myelination across the human lifespan",
+      "updated_at": "2026-08-30",
+      "verification_status": "verified_official_publication_date_abstract_methods_findings_and_early_access_status"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_until_2026-09-04_may_close_early",
+      "deadline": "2026-09-04 23:59（英国时间；可能提前关闭）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-30",
+      "id": "kcl-eeg-data-curation-machine-learning-ra-156745",
+      "last_verified_at": "2026-08-30",
+      "location": "英国・伦敦",
+      "organization": "King’s College London · Institute of Psychiatry, Psychology & Neuroscience · Basic & Clinical Neuroscience",
+      "priority": 99,
+      "published_at": "2026-08-28",
+      "relevance": "高度连接 EEG、临床神经生理、数据工程、自监督学习与后续博士准备；实质门槛是硕士或等同经验，以及既有生理时间序列、EEG、机器学习和大型数据管线经验。",
+      "section": "实验室机会",
+      "source_url": "https://www.kcl.ac.uk/jobs/156745-research-assistant-in-eeg-data-curation-and-machine-learning",
+      "summary": "12 个月全职 Research Assistant，负责汇集皮下长程 EEG、临床头皮 EEG 与公共数据集，建立标准化预处理、通道协调、质控和特征工程管线，并参与自监督学习任务及高性能计算训练。要求计算神经科学、生物信息、机器学习、数据科学、生物医学工程等硕士，或等同资格／经验；Python、Git、复杂数据管线、生理时间序列、机器学习和 EEG 经验均列为必需。9 月 4 日 23:59 截止，但官网提示可能提前关闭。",
+      "summary_en": "A 12-month full-time Research Assistant role curating subcutaneous, clinical scalp and public EEG into a documented, quality-controlled resource; building preprocessing, channel-harmonisation, QC and feature-engineering pipelines; and contributing to self-supervised learning and HPC training. A relevant master's degree or equivalent experience is required, alongside Python/Git, complex data pipelines, physiological time-series, machine learning and EEG experience. Applications close at 23:59 on 4 September and may close early.",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "英国",
+        "科研助理",
+        "EEG",
+        "临床神经生理",
+        "数据管线",
+        "自监督学习",
+        "Python／Git",
+        "机器学习",
+        "硕士或等同经验",
+        "9月4日截止",
+        "签证支持未说明"
+      ],
+      "title": "伦敦国王学院 EEG 数据整理与机器学习科研助理",
+      "title_en": "Research Assistant in EEG Data Curation and Machine Learning",
+      "updated_at": "2026-08-30",
+      "verification_status": "verified_official_posting_date_deadline_apply_link_essential_criteria_and_early_close_warning"
+    },
     {
       "category": "升学",
       "current_status": "applications_open_for_2027_entry_rolling_review_until_2027-05-01",
@@ -156,7 +259,7 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-08-29",
       "id": "ubc-coda-lab-neuroinformatics-ra-tech2-jr25768",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "加拿大・温哥华",
       "organization": "University of British Columbia · Wang Laboratory / Djavad Mowafaghian Centre for Brain Health",
       "priority": 98,
@@ -178,11 +281,13 @@
         "贝叶斯统计",
         "等同教育与经验组合",
         "加拿大工作权优先",
-        "签证未说明"
+        "签证未说明",
+        "既有机会仍开放",
+        "8月30日官方复核"
       ],
       "title": "英属哥伦比亚大学 CODA 实验室认知神经影像／神经信息学科研助理",
       "title_en": "Research Assistant / Technician 2 — Cognitive Neuroscience and Neuroinformatics (CODA Lab)",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified_open_official_workday_exact_publication_date_not_listed_canadians_and_permanent_residents_prioritized"
     },
     {
@@ -192,7 +297,7 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-08-29",
       "id": "qmul-pregnancy-medication-safety-data-science-ra-10763",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · Wolfson Institute of Population Health",
       "priority": 91,
@@ -214,11 +319,13 @@
         "高级统计／AI",
         "硕士偏好",
         "高门槛",
-        "签证未说明"
+        "签证未说明",
+        "既有机会仍开放",
+        "8月30日官方复核"
       ],
       "title": "伦敦玛丽女王大学妊娠用药安全数据科学科研助理",
       "title_en": "Research Assistant in Data Science — Medication Safety in Pregnancy",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified_open_official_current_vacancy_and_employer_application_page_exact_publication_date_not_listed_msc_ideal"
     },
     {
@@ -1411,7 +1518,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-19",
       "id": "st-andrews-online-data-science-msc-2026",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "英国・线上",
       "organization": "University of St Andrews",
       "priority": 96,
@@ -1436,11 +1543,11 @@
         "学费约£18,000",
         "发布日期未确认",
         "既有机会仍开放",
-        "8月29日官方复核"
+        "8月30日官方复核"
       ],
       "title": "圣安德鲁斯大学线上数据科学硕士",
       "title_en": "Online MSc Data Science",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified_program_open_september_scholarship_deadline_passed_october_scholarship_open"
     },
     {
@@ -3465,7 +3572,7 @@
       "deadline": "2026-08-31",
       "discovery_status": "existing_still_open",
       "id": "hku-slr-ra2-536602",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "中国香港",
       "organization": "The University of Hong Kong",
       "priority": 92,
@@ -3482,11 +3589,11 @@
         "AI／计算建模",
         "粤语要求",
         "既有机会仍开放",
-        "8月29日官方复核"
+        "8月30日官方复核"
       ],
       "title": "香港大学言语、语言与阅读实验室全职科研助理 II",
       "title_en": "Full-time Research Assistant II — Speech, Language and Reading Lab",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified"
     },
     {
@@ -3496,7 +3603,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-07-22",
       "id": "hku-hearing-health-ra1-536914",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Faculty of Education",
       "priority": 91,
@@ -3514,11 +3621,11 @@
         "Python／SPSS",
         "粤语要求",
         "既有机会仍开放",
-        "8月29日官方复核"
+        "8月30日官方复核"
       ],
       "title": "香港大学教育学院听力健康管理全职科研助理 I（2 名）",
       "title_en": "Full-time Research Assistant I — Hearing Health Management (2 posts)",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified"
     },
     {
@@ -3642,7 +3749,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-07-24",
       "id": "hku-sph-lab-ra12-536904",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "中国香港",
       "organization": "The University of Hong Kong · School of Public Health",
       "priority": 89,
@@ -3662,11 +3769,11 @@
         "湿实验",
         "滚动审查",
         "既有机会仍开放",
-        "8月29日官方复核"
+        "8月30日官方复核"
       ],
       "title": "香港大学公共卫生实验室科学科研助理 I/II（多个岗位）",
       "title_en": "Research Assistant I/II — Public Health Laboratory Sciences (several posts)",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified"
     },
     {
@@ -3818,7 +3925,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-07-28",
       "id": "glasgow-integrative-neuroscience-msc-2026",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "英国・格拉斯哥",
       "organization": "University of Glasgow",
       "priority": 100,
@@ -3847,11 +3954,11 @@
         "奖学金截止8月31日11:45英国时间",
         "8月25日官方复核",
         "8月26日官方复核",
-        "8月29日官方复核"
+        "8月30日官方复核"
       ],
       "title": "格拉斯哥大学整合神经科学硕士",
       "title_en": "MSc Integrative Neuroscience",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified_official_program_page_apply_now_still_visible_2026_08_26_after_listed_deadline"
     },
     {
@@ -3860,7 +3967,7 @@
       "deadline": "2026-08-31",
       "discovery_status": "existing_still_open",
       "id": "hku-brain-stim-ra2-536751",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-30",
       "location": "中国香港",
       "organization": "The University of Hong Kong",
       "priority": 87,
@@ -3876,11 +3983,11 @@
         "欢迎应届生",
         "粤语要求",
         "既有机会仍开放",
-        "8月29日官方复核"
+        "8月30日官方复核"
       ],
       "title": "香港大学脑刺激与吞咽障碍全职科研助理 II",
       "title_en": "Full-time Research Assistant II — Brain Stimulation and Swallowing Disorders",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "verification_status": "verified"
     },
     {
@@ -5276,36 +5383,35 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "8d2a60938adc904248e5465baecc4a2372ce9539",
-    "executed_at_beijing": "2026-08-29T16:31:24+08:00",
-    "increment_boundary": "2026-08-29T07:57:08+08:00",
-    "note": "远端回读确认 166 个唯一 ID、166 个唯一官方链接、分类总数一致及 3 个补录 ID 存在；公开 Pages 访问被浏览器权限拒绝，未冒充已刷新。",
-    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed_browser_permission_denied",
-    "repository_write": "completed_and_remote_content_revalidated",
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-08-30T08:01:50+08:00",
+    "increment_boundary": "2026-08-29T16:31:24+08:00",
+    "note": "待内容提交后回读验证并写入最终提交 SHA；公开 Pages 将单独尝试核验。",
+    "public_site_verification": "pending",
+    "repository_write": "pending",
     "result": "completed_with_three_historical_backfills_no_new_publications_or_status_changes",
-    "run_type": "same_day_incremental_scan"
+    "run_type": "daily_full_scan"
   },
-  "notice": "2026-08-29 上午全量扫描后完成下午增量补扫。未发现可严格证明在 07:57 后新发布的高质量条目；历史补录 3 条（NTU 神经影像 RA、NTU 神经 AI RA、Groningen 计算认知科学 MSc），状态变化 0。",
+  "notice": "2026-08-30 完成全量扫描。未发现可严格证明在上次扫描边界后新发布的高质量条目；历史补录 3 条（KCL EEG／机器学习科研助理、全生命周期髓鞘图谱、自监督视觉模型—大脑对齐研究），状态变化 0。",
   "run_summary": {
     "category_counts": {
-      "升学": 1,
-      "实验室": 2,
+      "升学": 0,
+      "实验室": 1,
       "求职": 0,
-      "研究": 0
+      "研究": 2
     },
     "database_category_totals": {
       "升学": 30,
-      "实验室": 30,
+      "实验室": 31,
       "求职": 21,
-      "研究": 85
+      "研究": 87
     },
-    "database_items_total": 166,
+    "database_items_total": 169,
     "excluded_expired_or_ineligible": [
-      "RMIT Master of Data Science and Artificial Intelligence 2027 官方页明确当前不向国际申请者开放。",
-      "Ulm MSc Artificial Intelligence 要求至少 30 ECTS 计算机、22 ECTS 数学并需德语，跨专业门槛过高。",
-      "VU Amsterdam MSc AI 的国际申请要求 18 ECTS AI 相关课程及编程测试，当前页面未给出可用的 2027 国际申请窗口。",
-      "NTU AI／Medicine qualitative RA 与既有医疗数据岗位相比技术相关性较低；NTU Systems Neuroscience 近似岗位存在重复，未重复入库。",
-      "中国大厂与外企中国区下午线索没有同时满足低经验、资格适用、官方开放与可核验发布时间。"
+      "HKU 数据科学研究院 IT Officer／IT Technician 资格正文硬性要求至少 5 年全职经验，即使经验较少者可按 Technician 考虑，仍不符合低经验筛选标准。",
+      "欧洲大陆新结果主要为博士后、教职或要求已完成研究型硕士的博士职位；未以聚合平台线索替代雇主官方核验。",
+      "澳大利亚新结果主要要求博士，属于 Research Associate／Postdoctoral 层级。",
+      "中国大厂与外企中国区新结果主要受在校身份、2027 届毕业要求、计算机专业或硬性经验限制。"
     ],
     "existing_urgent_reverified": 7,
     "historical_backfills_added": 3,
@@ -5313,58 +5419,58 @@
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
     "status_changes": 0,
-    "still_open_urgent_items": 30
+    "still_open_urgent_items": 31
   },
   "source_coverage": [
     {
-      "note": "上午已扫描；下午补录 Groningen Computational Cognitive Science MSc。",
       "source_group": "神经与认知项目",
-      "status": "full_scan_completed_with_afternoon_backfills"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；既有 2026／2027 项目节点继续保留。"
     },
     {
-      "note": "上午已扫描；下午补录 Groningen Computational Cognitive Science MSc，另核验 RMIT、Ulm、VU 后因国际开放或先修门槛未收录。",
       "source_group": "数据／计算／AI项目",
-      "status": "full_scan_completed_with_afternoon_backfills"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；跨专业项目资格和 2027 申请窗口按既有官方记录保留。"
     },
     {
-      "note": "下午补录 NTU 青少年神经影像 RA 与 Nair 组神经 AI RA；7 条紧迫既有机会完成复核。",
       "source_group": "实验室与高校招聘",
-      "status": "full_scan_completed_with_afternoon_backfills"
+      "status": "full_scan_completed_with_historical_backfill",
+      "note": "历史补录 KCL EEG 数据整理与机器学习 RA；7 条紧迫既有机会完成官方复核。"
     },
     {
-      "note": "上午已扫描；下午未发现可证明在增量边界后发布且达到证据门槛的新研究。",
       "source_group": "研究动态",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_with_historical_backfills",
+      "note": "补录 2 篇 8 月 29 日正式发布的高质量研究；因无法证明具体上线时刻晚于既有扫描边界，均未标为今日发布。"
     },
     {
-      "note": "上午已扫描；下午无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增。"
     },
     {
-      "note": "上午已扫描；SAP 新加坡 Graduate AI 岗仍开放，下午无新增。",
       "source_group": "算法与AI岗位",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；SAP 新加坡既有 Graduate AI 岗仍开放。"
     },
     {
-      "note": "下午补录两条 NTU 神经／AI 交叉科研岗位；其他无高质量新增。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scan_completed_with_afternoon_backfills"
+      "status": "full_scan_completed_with_historical_backfill",
+      "note": "补录 KCL 临床 EEG／机器学习科研助理；其他新线索因博士、硬性多年经验或湿实验门槛排除。"
     },
     {
-      "note": "上午已扫描；下午无高质量新增。",
       "source_group": "其他求职",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增。"
     },
     {
-      "note": "下午增量已扫描，无符合低经验与资格条件的高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描百度、字节等官方校招／实习入口，无资格适用的高质量新增。"
     },
     {
-      "note": "下午增量已扫描，无符合低经验与资格条件的高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "full_scan_completed_no_high_quality_afternoon_increment"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 SAP、Microsoft 等官方入口，无符合低经验与资格条件的高质量新增。"
     }
   ]
 }
