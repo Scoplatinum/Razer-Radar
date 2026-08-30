@@ -8,39 +8,39 @@
   },
   "coverage": [
     {
+      "note": "已扫描；历史补录 KCL EEG 数据整理与机器学习 RA。St Andrews 9 月入学仍开放至 9 月 1 日，Glasgow Global Leadership Scholarship 仍开放至 8 月 31 日 11:45 英国时间。",
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_with_historical_backfill",
-      "note": "已扫描；历史补录 KCL EEG 数据整理与机器学习 RA。St Andrews 9 月入学仍开放至 9 月 1 日，Glasgow Global Leadership Scholarship 仍开放至 8 月 31 日 11:45 英国时间。"
+      "status": "full_scan_completed_with_historical_backfill"
     },
     {
+      "note": "已扫描、无高质量新增；AcademicTransfer、苏黎世及欧洲科研入口结果主要为博士后、教职或需硕士的既有博士机会。",
       "region": "欧洲大陆",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；AcademicTransfer、苏黎世及欧洲科研入口结果主要为博士后、教职或需硕士的既有博士机会。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描、无高质量新增；4 条 HKU 8 月 31 日岗位官方页仍显示 Apply now。HKU 数据科学研究院新 IT Officer／Technician 虽可按较低职级考虑，但资格正文硬性列出至少 5 年全职经验，未收录。",
       "region": "香港与新加坡",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；4 条 HKU 8 月 31 日岗位官方页仍显示 Apply now。HKU 数据科学研究院新 IT Officer／Technician 虽可按较低职级考虑，但资格正文硬性列出至少 5 年全职经验，未收录。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描、无高质量新增；OIST 神经计算 Software Curator 仍为既有滚动机会，KAIST 新结果为教职等不匹配层级。",
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；OIST 神经计算 Software Curator 仍为既有滚动机会，KAIST 新结果为教职等不匹配层级。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描；补录 UNC 全生命周期脑髓鞘图谱研究。UBC CODA Lab 神经信息学 RA 仍为 9 月 1 日紧迫项；其他官方结果主要为博士后、教职或湿实验岗位。",
       "region": "美国与加拿大",
-      "status": "full_scan_completed_with_research_backfill",
-      "note": "已扫描；补录 UNC 全生命周期脑髓鞘图谱研究。UBC CODA Lab 神经信息学 RA 仍为 9 月 1 日紧迫项；其他官方结果主要为博士后、教职或湿实验岗位。"
+      "status": "full_scan_completed_with_research_backfill"
     },
     {
+      "note": "已扫描、无高质量新增；UNSW 等官方入口的新结果主要要求博士或属于博士后／研究员层级。",
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；UNSW 等官方入口的新结果主要要求博士或属于博士后／研究员层级。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描中国大厂校招、日常实习及外企中国区 Careers，无同时满足低经验、资格适用与高匹配度的新增；百度与字节新结果主要受在校身份、毕业届别或计算机专业门槛限制。",
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描中国大厂校招、日常实习及外企中国区 Careers，无同时满足低经验、资格适用与高匹配度的新增；百度与字节新结果主要受在校身份、毕业届别或计算机专业门槛限制。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     }
   ],
   "generated_at": "2026-08-30T08:01:50+08:00",
@@ -5383,12 +5383,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "",
+    "content_commit_sha": "dd592d09161a6078bde40647fb6590fe523d3ad5",
     "executed_at_beijing": "2026-08-30T08:01:50+08:00",
     "increment_boundary": "2026-08-29T16:31:24+08:00",
-    "note": "待内容提交后回读验证并写入最终提交 SHA；公开 Pages 将单独尝试核验。",
-    "public_site_verification": "pending",
-    "repository_write": "pending",
+    "note": "远端回读确认 169 个唯一 ID、169 个唯一官方链接、分类总数一致及 3 个补录 ID 存在；公开 Pages 访问被当前环境安全策略拒绝，未冒充已刷新。",
+    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed_safety_restriction",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_three_historical_backfills_no_new_publications_or_status_changes",
     "run_type": "daily_full_scan"
   },
@@ -5423,54 +5423,54 @@
   },
   "source_coverage": [
     {
+      "note": "已扫描、无高质量新增；既有 2026／2027 项目节点继续保留。",
       "source_group": "神经与认知项目",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；既有 2026／2027 项目节点继续保留。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描、无高质量新增；跨专业项目资格和 2027 申请窗口按既有官方记录保留。",
       "source_group": "数据／计算／AI项目",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；跨专业项目资格和 2027 申请窗口按既有官方记录保留。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "历史补录 KCL EEG 数据整理与机器学习 RA；7 条紧迫既有机会完成官方复核。",
       "source_group": "实验室与高校招聘",
-      "status": "full_scan_completed_with_historical_backfill",
-      "note": "历史补录 KCL EEG 数据整理与机器学习 RA；7 条紧迫既有机会完成官方复核。"
+      "status": "full_scan_completed_with_historical_backfill"
     },
     {
+      "note": "补录 2 篇 8 月 29 日正式发布的高质量研究；因无法证明具体上线时刻晚于既有扫描边界，均未标为今日发布。",
       "source_group": "研究动态",
-      "status": "full_scan_completed_with_historical_backfills",
-      "note": "补录 2 篇 8 月 29 日正式发布的高质量研究；因无法证明具体上线时刻晚于既有扫描边界，均未标为今日发布。"
+      "status": "full_scan_completed_with_historical_backfills"
     },
     {
+      "note": "已扫描、无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描、无高质量新增；SAP 新加坡既有 Graduate AI 岗仍开放。",
       "source_group": "算法与AI岗位",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；SAP 新加坡既有 Graduate AI 岗仍开放。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "补录 KCL 临床 EEG／机器学习科研助理；其他新线索因博士、硬性多年经验或湿实验门槛排除。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scan_completed_with_historical_backfill",
-      "note": "补录 KCL 临床 EEG／机器学习科研助理；其他新线索因博士、硬性多年经验或湿实验门槛排除。"
+      "status": "full_scan_completed_with_historical_backfill"
     },
     {
+      "note": "已扫描、无高质量新增。",
       "source_group": "其他求职",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描百度、字节等官方校招／实习入口，无资格适用的高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节等官方校招／实习入口，无资格适用的高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 SAP、Microsoft 等官方入口，无符合低经验与资格条件的高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 SAP、Microsoft 等官方入口，无符合低经验与资格条件的高质量新增。"
+      "status": "full_scan_completed_no_high_quality_new_items"
     }
   ]
 }
