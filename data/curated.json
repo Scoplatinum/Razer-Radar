@@ -8,42 +8,42 @@
   },
   "coverage": [
     {
-      "note": "已扫描；历史补录 KCL EEG 数据整理与机器学习 RA。St Andrews 9 月入学仍开放至 9 月 1 日，Glasgow Global Leadership Scholarship 仍开放至 8 月 31 日 11:45 英国时间。",
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_with_historical_backfill"
+      "status": "full_scan_completed_with_historical_backfill_and_urgent_reverification",
+      "note": "已扫描；历史补录 QMUL 多模态 AI 与医疗 RA。Glasgow £10,000 Global Leadership Scholarship 今天 11:45 英国时间关闭；St Andrews 线上数据科学 MSc 的 9 月入学申请明天截止；QMUL 妊娠用药安全数据科学 RA、KCL EEG／机器学习 RA 仍开放。"
     },
     {
-      "note": "已扫描、无高质量新增；AcademicTransfer、苏黎世及欧洲科研入口结果主要为博士后、教职或需硕士的既有博士机会。",
       "region": "欧洲大陆",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；AcademicTransfer、EURAXESS 及德荷瑞等官方入口的新结果主要为博士后、教职、需研究型硕士的博士职位或不匹配专业方向。"
     },
     {
-      "note": "已扫描、无高质量新增；4 条 HKU 8 月 31 日岗位官方页仍显示 Apply now。HKU 数据科学研究院新 IT Officer／Technician 虽可按较低职级考虑，但资格正文硬性列出至少 5 年全职经验，未收录。",
       "region": "香港与新加坡",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_urgent_reverification_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；NTU 青少年情感神经科学／神经影像 RA 仍显示 Apply。4 条 HKU 8 月 31 日岗位官方页今天仍显示 Apply now；其中言语／阅读、听力健康及脑刺激岗位均有粤语要求。"
     },
     {
-      "note": "已扫描、无高质量新增；OIST 神经计算 Software Curator 仍为既有滚动机会，KAIST 新结果为教职等不匹配层级。",
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；OIST 神经计算 Software Curator 仍为既有滚动机会，韩国官方结果主要为教职、博士后或未能核验到适配层级的雇主原始页面。"
     },
     {
-      "note": "已扫描；补录 UNC 全生命周期脑髓鞘图谱研究。UBC CODA Lab 神经信息学 RA 仍为 9 月 1 日紧迫项；其他官方结果主要为博士后、教职或湿实验岗位。",
       "region": "美国与加拿大",
-      "status": "full_scan_completed_with_research_backfill"
+      "status": "full_scan_completed_with_status_change",
+      "note": "已扫描；UBC CODA Lab 神经信息学 RA 的官方 Workday Posting End Date 核为 8 月 31 日 23:59 温哥华当地时间，修正此前误记的 9 月 1 日。其余新结果主要为博士后、教职、湿实验或工作权限制岗位。"
     },
     {
-      "note": "已扫描、无高质量新增；UNSW 等官方入口的新结果主要要求博士或属于博士后／研究员层级。",
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_with_historical_backfill",
+      "note": "已扫描；历史补录 UNSW 临床 AI Research Officer。岗位无固定多年经验门槛，但官方明确不提供签证担保并要求澳大利亚无限制工作权；其余结果多为博士后、Research Associate 或成熟经验层级。"
     },
     {
-      "note": "已扫描中国大厂校招、日常实习及外企中国区 Careers，无同时满足低经验、资格适用与高匹配度的新增；百度与字节新结果主要受在校身份、毕业届别或计算机专业门槛限制。",
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描中国大厂校招、日常实习与外企中国区 Careers；无同时满足低经验、资格适用及高匹配度的新增。百度与字节的新算法结果主要限 2027 届在校生或计算机／算法强背景，外企结果多为既有岗位或经验层级不符。"
     }
   ],
-  "generated_at": "2026-08-30T08:01:50+08:00",
+  "generated_at": "2026-08-31T08:02:36+08:00",
   "items": [
     {
       "category": "研究",
@@ -118,7 +118,7 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-08-30",
       "id": "kcl-eeg-data-curation-machine-learning-ra-156745",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Psychiatry, Psychology & Neuroscience · Basic & Clinical Neuroscience",
       "priority": 99,
@@ -141,11 +141,12 @@
         "机器学习",
         "硕士或等同经验",
         "9月4日截止",
-        "签证支持未说明"
+        "签证支持未说明",
+        "8月31日官方复核"
       ],
       "title": "伦敦国王学院 EEG 数据整理与机器学习科研助理",
       "title_en": "Research Assistant in EEG Data Curation and Machine Learning",
-      "updated_at": "2026-08-30",
+      "updated_at": "2026-08-31",
       "verification_status": "verified_official_posting_date_deadline_apply_link_essential_criteria_and_early_close_warning"
     },
     {
@@ -225,7 +226,7 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-08-29",
       "id": "ntu-youth-affective-neuroimaging-ra-r00025346",
-      "last_verified_at": "2026-08-29",
+      "last_verified_at": "2026-08-31",
       "location": "新加坡",
       "organization": "Nanyang Technological University · Youth Affective Neuroscience Lab",
       "priority": 97,
@@ -245,21 +246,22 @@
         "行为数据",
         "Python／MATLAB／R",
         "本科可申请",
-        "签证未说明"
+        "签证未说明",
+        "8月31日官方复核"
       ],
       "title": "南洋理工大学青少年情感神经科学／神经影像科研助理",
       "title_en": "Research Assistant / Associate — Neuroimaging and Adolescent Mental Health",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-31",
       "verification_status": "verified_open_official_workday_bachelors_route_exact_posting_date_deadline_and_sponsorship_not_listed"
     },
     {
       "category": "实验室",
-      "current_status": "open_official_workday_until_2026-09-01_2359_local",
-      "deadline": "2026-09-01 23:59（当地时间）",
-      "discovery_status": "historical_backfill",
+      "current_status": "open_official_workday_until_2026-08-31_2359_local",
+      "deadline": "2026-08-31 23:59（温哥华当地时间）",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-29",
       "id": "ubc-coda-lab-neuroinformatics-ra-tech2-jr25768",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "加拿大・温哥华",
       "organization": "University of British Columbia · Wang Laboratory / Djavad Mowafaghian Centre for Brain Health",
       "priority": 98,
@@ -267,12 +269,11 @@
       "relevance": "与认知神经科学、fMRI、神经信息学、可复现数据工作流和统计编程直接重合，是本轮最高匹配机会；工作权优先与现场全职是主要门槛。",
       "section": "实验室机会",
       "source_url": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Research-Assistant-Technician-2_JR25768",
-      "summary": "全职一年期岗位，负责自然情境神经影像数据编目、服务器存储流程、质控、统计报告、fMRI 预处理、数据使用协议与伦理材料。最低资格为相关培训及两年经验，或等同教育／经验组合；优先统计／计算机本科及 R、Python、SQL、Markdown、Git/GitHub、贝叶斯／混合效应模型。月薪 4,597.80–5,469.59 加元；加拿大公民及永久居民优先，未说明工签支持。",
-      "summary_en": "A one-year full-time role curating naturalistic neuroimaging data, creating storage and QC workflows, preprocessing fMRI, producing statistical reports, and supporting data-use and ethics documentation. Two years' experience may be met by an equivalent education/experience combination; statistics/computer-science training, R/Python/SQL, Git/GitHub and Bayesian or mixed-effects methods are preferred. Canadians and permanent residents are prioritised; sponsorship is not stated.",
+      "summary": "全职一年期岗位，负责自然情境神经影像数据编目、服务器存储流程、质控、统计报告、fMRI 预处理、数据使用协议与伦理材料。最低资格为相关培训及两年经验，或等同教育／经验组合；优先统计／计算机本科及 R、Python、SQL、Markdown、Git/GitHub、贝叶斯／混合效应模型。官方 Workday 将 Posting End Date 列为 8 月 31 日 23:59（当地时间）；月薪 4,597.80–5,469.59 加元；加拿大公民及永久居民优先，未说明工签支持。",
+      "summary_en": "A one-year full-time role curating naturalistic neuroimaging data, creating storage and QC workflows, preprocessing fMRI, producing statistical reports, and supporting data-use and ethics documentation. Two years' experience may be met by an equivalent education/experience combination; statistics/computer-science training, R/Python/SQL, Git/GitHub and Bayesian or mixed-effects methods are preferred. The official Workday page lists a posting end date of 31 August at 23:59 local time. Canadians and permanent residents are prioritised; sponsorship is not stated.",
       "tags": [
         "历史补录",
         "需尽快行动",
-        "9月1日截止",
         "认知神经科学",
         "神经信息学",
         "fMRI",
@@ -283,12 +284,15 @@
         "加拿大工作权优先",
         "签证未说明",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核",
+        "状态变化",
+        "截止日更正",
+        "8月31日截止"
       ],
       "title": "英属哥伦比亚大学 CODA 实验室认知神经影像／神经信息学科研助理",
       "title_en": "Research Assistant / Technician 2 — Cognitive Neuroscience and Neuroinformatics (CODA Lab)",
-      "updated_at": "2026-08-30",
-      "verification_status": "verified_open_official_workday_exact_publication_date_not_listed_canadians_and_permanent_residents_prioritized"
+      "updated_at": "2026-08-31",
+      "verification_status": "verified_open_official_workday_posting_end_date_corrected_to_2026-08-31_2359_local_canadians_and_permanent_residents_prioritized"
     },
     {
       "category": "实验室",
@@ -297,7 +301,7 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-08-29",
       "id": "qmul-pregnancy-medication-safety-data-science-ra-10763",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · Wolfson Institute of Population Health",
       "priority": 91,
@@ -321,11 +325,11 @@
         "高门槛",
         "签证未说明",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "伦敦玛丽女王大学妊娠用药安全数据科学科研助理",
       "title_en": "Research Assistant in Data Science — Medication Safety in Pregnancy",
-      "updated_at": "2026-08-30",
+      "updated_at": "2026-08-31",
       "verification_status": "verified_open_official_current_vacancy_and_employer_application_page_exact_publication_date_not_listed_msc_ideal"
     },
     {
@@ -1518,7 +1522,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-19",
       "id": "st-andrews-online-data-science-msc-2026",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "英国・线上",
       "organization": "University of St Andrews",
       "priority": 96,
@@ -1543,11 +1547,11 @@
         "学费约£18,000",
         "发布日期未确认",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "圣安德鲁斯大学线上数据科学硕士",
       "title_en": "Online MSc Data Science",
-      "updated_at": "2026-08-30",
+      "updated_at": "2026-08-31",
       "verification_status": "verified_program_open_september_scholarship_deadline_passed_october_scholarship_open"
     },
     {
@@ -3564,7 +3568,8 @@
       "title": "香港大学禅修／正念神经影像与大数据实验室科研助理 I/II",
       "title_en": "Research Assistant I/II — Contemplative Neuroimaging and Big Data",
       "updated_at": "2026-07-24",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "实验室",
@@ -3572,7 +3577,7 @@
       "deadline": "2026-08-31",
       "discovery_status": "existing_still_open",
       "id": "hku-slr-ra2-536602",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "中国香港",
       "organization": "The University of Hong Kong",
       "priority": 92,
@@ -3589,12 +3594,13 @@
         "AI／计算建模",
         "粤语要求",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "香港大学言语、语言与阅读实验室全职科研助理 II",
       "title_en": "Full-time Research Assistant II — Speech, Language and Reading Lab",
-      "updated_at": "2026-08-30",
-      "verification_status": "verified"
+      "updated_at": "2026-08-31",
+      "verification_status": "verified",
+      "first_seen_at": "2026-08-31"
     },
     {
       "category": "实验室",
@@ -3603,7 +3609,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-07-22",
       "id": "hku-hearing-health-ra1-536914",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Faculty of Education",
       "priority": 91,
@@ -3621,11 +3627,11 @@
         "Python／SPSS",
         "粤语要求",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "香港大学教育学院听力健康管理全职科研助理 I（2 名）",
       "title_en": "Full-time Research Assistant I — Hearing Health Management (2 posts)",
-      "updated_at": "2026-08-30",
+      "updated_at": "2026-08-31",
       "verification_status": "verified"
     },
     {
@@ -3654,7 +3660,8 @@
       "title": "Concept2Brain：从文字或图片生成可复现的合成 EEG 反应",
       "title_en": "Concept2Brain: an AI model for predicting neurophysiological responses to text and pictures",
       "updated_at": "2026-07-23",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "实验室",
@@ -3712,7 +3719,8 @@
       "title": "腾讯游戏数据分析岗位（优秀应届生／泛校招可考虑）",
       "title_en": "",
       "updated_at": "2026-07-25",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "研究",
@@ -3740,7 +3748,8 @@
       "title": "语言模型语义距离揭示知识检索困难时三类脑网络的协同",
       "title_en": "Model-based semantic distance reveals adaptive coordination of distinct cognitive systems in flexible knowledge retrieval",
       "updated_at": "2026-07-23",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "求职",
@@ -3749,7 +3758,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-07-24",
       "id": "hku-sph-lab-ra12-536904",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "中国香港",
       "organization": "The University of Hong Kong · School of Public Health",
       "priority": 89,
@@ -3769,11 +3778,11 @@
         "湿实验",
         "滚动审查",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "香港大学公共卫生实验室科学科研助理 I/II（多个岗位）",
       "title_en": "Research Assistant I/II — Public Health Laboratory Sciences (several posts)",
-      "updated_at": "2026-08-30",
+      "updated_at": "2026-08-31",
       "verification_status": "verified"
     },
     {
@@ -3803,7 +3812,8 @@
       "title": "REM 睡眠的能量悖论：血容量与星形胶质细胞丙酮酸升高，但神经元 ATP 下降",
       "title_en": "Energy paradox in REM sleep: balancing supply and consumption in brain metabolism",
       "updated_at": "2026-07-28",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -3831,7 +3841,8 @@
       "title": "从认知地图进行神经采样，可生成面向目标的想象与规划",
       "title_en": "Neural sampling from cognitive maps enables goal-directed imagination and planning",
       "updated_at": "2026-07-22",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -3859,7 +3870,8 @@
       "title": "人类学习率同时在快、慢两个时间尺度上适应",
       "title_en": "Two time scales of adaptation in human learning rates",
       "updated_at": "2026-07-23",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -3888,7 +3900,8 @@
       "title": "功能肌肉网络可区分卒中运动损伤程度和康复响应",
       "title_en": "Functional muscle networks as biomarkers of post-stroke motor impairment and therapeutic responsiveness",
       "updated_at": "2026-07-24",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -3916,7 +3929,8 @@
       "title": "耳迷走神经刺激改善卒中后抑郁并改变执行控制网络：随机假刺激 fNIRS 试验",
       "title_en": "Effects of transcutaneous auricular vagus nerve stimulation on depressive symptoms and executive function in post-stroke depression: a pilot randomized sham-controlled fNIRS study",
       "updated_at": "2026-07-25",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "升学",
@@ -3925,7 +3939,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-07-28",
       "id": "glasgow-integrative-neuroscience-msc-2026",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "英国・格拉斯哥",
       "organization": "University of Glasgow",
       "priority": 100,
@@ -3954,11 +3968,11 @@
         "奖学金截止8月31日11:45英国时间",
         "8月25日官方复核",
         "8月26日官方复核",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "格拉斯哥大学整合神经科学硕士",
       "title_en": "MSc Integrative Neuroscience",
-      "updated_at": "2026-08-30",
+      "updated_at": "2026-08-31",
       "verification_status": "verified_official_program_page_apply_now_still_visible_2026_08_26_after_listed_deadline"
     },
     {
@@ -3967,7 +3981,7 @@
       "deadline": "2026-08-31",
       "discovery_status": "existing_still_open",
       "id": "hku-brain-stim-ra2-536751",
-      "last_verified_at": "2026-08-30",
+      "last_verified_at": "2026-08-31",
       "location": "中国香港",
       "organization": "The University of Hong Kong",
       "priority": 87,
@@ -3983,12 +3997,13 @@
         "欢迎应届生",
         "粤语要求",
         "既有机会仍开放",
-        "8月30日官方复核"
+        "8月31日官方复核"
       ],
       "title": "香港大学脑刺激与吞咽障碍全职科研助理 II",
       "title_en": "Full-time Research Assistant II — Brain Stimulation and Swallowing Disorders",
-      "updated_at": "2026-08-30",
-      "verification_status": "verified"
+      "updated_at": "2026-08-31",
+      "verification_status": "verified",
+      "first_seen_at": "2026-08-31"
     },
     {
       "category": "研究",
@@ -4016,7 +4031,8 @@
       "title": "跨小鼠、大鼠、灵长类与人类的皮层—皮层下灰质分层共同图谱",
       "title_en": "A hierarchical framework for cortical and subcortical gray-matter parcellation across rodents, primates, and humans",
       "updated_at": "2026-07-25",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "升学",
@@ -4039,7 +4055,10 @@
       "title": "计算机科学 Align 硕士",
       "title_en": "Align MS in Computer Science",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4066,7 +4085,8 @@
       "title": "神经网络自由回忆模型自发学出多种记忆策略",
       "title_en": "A neural network model of free recall learns multiple memory strategies",
       "updated_at": "2026-07-21",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4094,7 +4114,8 @@
       "title": "成人到婴儿的单向神经耦合中介了选择性社会学习",
       "title_en": "Adult-to-infant unidirectional neural coupling mediates selective social learning in infants from the United Kingdom and Singapore",
       "updated_at": "2026-07-23",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4122,7 +4143,8 @@
       "title": "数据驱动分型揭示精神病性障碍相反的皮层与细胞特征",
       "title_en": "Subtyping psychotic disorders using a data-driven approach reveals divergent cortical and cellular signatures",
       "updated_at": "2026-07-24",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4150,7 +4172,8 @@
       "title": "经颅聚焦超声在灵长类丘脑中同时调节放电、LFP 与 BOLD",
       "title_en": "Transcranial focused ultrasound modulates spiking, LFP, and BOLD activity in the primate thalamus",
       "updated_at": "2026-07-22",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4178,7 +4201,8 @@
       "title": "跨数据集机器学习识别睡眠剥夺的脑连接特征",
       "title_en": "A neural signature of sleep deprivation in the human brain",
       "updated_at": "2026-07-23",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "升学",
@@ -4201,7 +4225,10 @@
       "title": "认知与计算神经科学硕士",
       "title_en": "MSc Cognitive and Computational Neuroscience",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "升学",
@@ -4224,7 +4251,10 @@
       "title": "人工智能 Align 硕士",
       "title_en": "Align MS in Artificial Intelligence",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4251,7 +4281,8 @@
       "title": "青春期迷幻剂暴露通过海马—前额叶同步紊乱造成持续竞争回避",
       "title_en": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal–prefrontal synchrony",
       "updated_at": "2026-07-21",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4279,7 +4310,8 @@
       "title": "双敲除显示非典型 PKC 对海马长期增强和空间长时记忆的维持至关重要",
       "title_en": "PKMζ-PKCι/λ double-knockout demonstrates atypical PKC is crucial for the persistence of hippocampal LTP and spatial memory",
       "updated_at": "2026-07-23",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "升学",
@@ -4302,7 +4334,10 @@
       "title": "计算机科学硕士／博士 2027 招生",
       "title_en": "Computer Science Master's and Doctoral Admissions — AY 2027",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4326,7 +4361,10 @@
       "title": "深浅皮层在声音预测、比较与适应中承担不同角色",
       "title_en": "Distinct Roles of Deep and Superficial Cortical Layers in Tone Prediction, Comparison, and Adaptation in Human Auditory Cortices",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "求职",
@@ -4355,7 +4393,8 @@
       "title": "香港大学微生物学系科研助理 I（分子诊断与 NGS）",
       "title_en": "Research Assistant I — Molecular Diagnostics and NGS",
       "updated_at": "2026-07-24",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "升学",
@@ -4382,7 +4421,8 @@
       "title": "认知神经科学研究型硕士（2027 入学观察）",
       "title_en": "Research Master's in Cognitive Neuroscience — 2027 Entry Watch",
       "updated_at": "2026-07-20",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "研究",
@@ -4409,7 +4449,8 @@
       "title": "重复加工的行为促进可能由更早结束、功率增强的神经振荡支持",
       "title_en": "Repetition-related reductions in neural activity support improved behavior through increases in oscillatory power",
       "updated_at": "2026-07-22",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4433,7 +4474,10 @@
       "title": "“压缩式学习”利用高阶网络结构促进知识获取",
       "title_en": "Compressive learning scaffolds higher-order network structure to enhance human knowledge acquisition",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4460,7 +4504,8 @@
       "title": "跨视角人脸身份识别主要依赖稳定的水平信息",
       "title_en": "The view tolerance of human identity recognition depends on horizontal face information",
       "updated_at": "2026-07-21",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4488,7 +4533,8 @@
       "title": "社区认知障碍筛查可按主观、数字测试与血液标志物分层",
       "title_en": "Adaptive pathways for multimodal community-based detection of cognitive impairment: the CogScreen I study",
       "updated_at": "2026-07-24",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "升学",
@@ -4511,7 +4557,10 @@
       "title": "认知神经科学硕士",
       "title_en": "MSc Cognitive Neuroscience",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "升学",
@@ -4534,7 +4583,10 @@
       "title": "数据科学硕士",
       "title_en": "Master of Data Science",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4558,7 +4610,10 @@
       "title": "人脑可能以部分重叠的机制响应预测误差与预测不确定性，从而切分连续事件",
       "title_en": "Multiple event segmentation mechanisms in the human brain",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "求职",
@@ -4611,7 +4666,10 @@
       "title": "信息研究硕士：数据科学方向",
       "title_en": "MSc Information Studies: Data Science",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4635,7 +4693,10 @@
       "title": "视觉工作记忆以节律方式引导注意：额叶 theta—枕叶 alpha 耦合",
       "title_en": "Visual working memory guides attention rhythmically in humans",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "求职",
@@ -4688,7 +4749,10 @@
       "title": "认知神经科学与人类神经影像硕士",
       "title_en": "MSc Cognitive Neuroscience and Human Neuroimaging",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "研究",
@@ -4715,7 +4779,8 @@
       "title": "人群队列未发现体力活动对海马体积、脑龄或认知的一致正向作用",
       "title_en": "The effect of physical activity on brain structure and cognitive function in the population-based LIFE-Adult cohort",
       "updated_at": "2026-07-20",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "求职",
@@ -4743,7 +4808,8 @@
       "title": "香港大学 SmartRehab 全栈开发／软件工程师（多个岗位）",
       "title_en": "Full Stack Developer / Software Engineer — SmartRehab",
       "updated_at": "2026-08-17",
-      "verification_status": "verified_closed_official_listing_removed"
+      "verification_status": "verified_closed_official_listing_removed",
+      "first_seen_at": "2026-08-17"
     },
     {
       "category": "研究",
@@ -4766,7 +4832,10 @@
       "title": "靶向海马网络的 TMS 或可选择性改善情景记忆：元分析",
       "title_en": "A meta-analysis suggests that TMS targeting the hippocampal network selectively improves episodic memory",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "升学",
@@ -4789,7 +4858,10 @@
       "title": "认知神经科学哲学硕士（2027 入学观察）",
       "title_en": "MPhil in Cognitive Neurosciences — 2027 watch",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-07-19"
     },
     {
       "category": "升学",
@@ -4849,7 +4921,8 @@
       "title": "香港大学数字颌面外科科研助理 I/II",
       "title_en": "Research Assistant I/II — Digital Maxillofacial Surgery",
       "updated_at": "2026-07-29",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "求职",
@@ -4914,7 +4987,8 @@
       "title": "数据驱动的神经动力学降维建模",
       "title_en": "Data-driven reduced modeling of neural dynamics",
       "updated_at": "2026-07-29",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4942,7 +5016,8 @@
       "title": "截止压力如何改变努力决策的神经计算机制",
       "title_en": "Neural and computational mechanisms of effort under the pressure of a deadline",
       "updated_at": "2026-07-29",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4970,7 +5045,8 @@
       "title": "人类皮层动态共波动沿感觉运动—联想轴组织",
       "title_en": "Human cortex organizes dynamic co-fluctuations along the sensorimotor-association axis",
       "updated_at": "2026-07-29",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -4998,7 +5074,8 @@
       "title": "早期精神病感觉运动皮层低频波动降低并伴随网络高连接",
       "title_en": "Reduced amplitude of low frequency fluctuation in the sensorimotor cortex in early psychosis",
       "updated_at": "2026-07-29",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "实验室",
@@ -5028,7 +5105,8 @@
       "title": "香港大学流行病学与生物统计科研助理 I/II",
       "title_en": "Research Assistant I/II — Epidemiology and Biostatistics",
       "updated_at": "2026-07-30",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "研究",
@@ -5057,7 +5135,8 @@
       "title": "经验重组猕猴中按内容区分的记忆痕迹",
       "title_en": "Experience reorganizes content-specific memory traces in macaques",
       "updated_at": "2026-07-30",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5086,7 +5165,8 @@
       "title": "用动态图表示学习连接神经元动力学与行为",
       "title_en": "Graph-based representation learning of neuronal dynamics and behavior",
       "updated_at": "2026-07-30",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5114,7 +5194,8 @@
       "title": "面向个体差异的可扩展神经影像流形学习",
       "title_en": "A scalable subject-specific manifold learning framework for neuroimaging data",
       "updated_at": "2026-07-30",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5143,7 +5224,8 @@
       "title": "超越成对连接的高阶脑功能模型比较",
       "title_en": "Charting higher-order models of brain function beyond pairwise interactions",
       "updated_at": "2026-07-30",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5172,7 +5254,8 @@
       "title": "结构—功能多层网络模型解释 tau 蛋白传播",
       "title_en": "Structural and functional connectivity in tau propagation through multilayer modelling",
       "updated_at": "2026-07-30",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "升学",
@@ -5230,7 +5313,8 @@
       "title": "香港大学社区医学与公共卫生科研助理 I/II",
       "title_en": "Research Assistant I/II — Community Medicine and Public Health Practice",
       "updated_at": "2026-07-31",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "legacy_record_status_not_reverified_this_run"
     },
     {
       "category": "研究",
@@ -5259,7 +5343,8 @@
       "title": "从遗忘信息中恢复真实记忆并形成虚假记忆",
       "title_en": "Creating true and false memories from forgotten information in Drosophila",
       "updated_at": "2026-07-31",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5288,7 +5373,8 @@
       "title": "小鼠眶额皮层表征信息的内在价值",
       "title_en": "Representations of the intrinsic value of information in mouse orbitofrontal cortex",
       "updated_at": "2026-07-31",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5317,7 +5403,8 @@
       "title": "SUMMER：29 名患者观看完整电影时的 2,286 个单神经元数据集",
       "title_en": "Human neuron activity during an 83-minute movie from 2,286 neurons and 29 patients",
       "updated_at": "2026-07-31",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "研究",
@@ -5347,7 +5434,8 @@
       "title": "主动树突化学突触与缝隙连接产生相反的细胞外信号特征",
       "title_en": "Dichotomy between extracellular signatures of active dendritic chemical synapses and gap junctions",
       "updated_at": "2026-07-31",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "current_status": "published_record"
     },
     {
       "category": "实验室",
@@ -5380,16 +5468,91 @@
       "title_en": "Research Assistant I/II — Infectious-Disease Bioinformatics and AI Modelling",
       "updated_at": "2026-08-01",
       "verification_status": "verified"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_official_qmul_application_until_2026-09-11_2355_uk",
+      "deadline": "2026-09-11 23:55（英国时间）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-31",
+      "id": "qmul-multimodal-ai-healthcare-ra-10844",
+      "last_verified_at": "2026-08-31",
+      "location": "英国・伦敦",
+      "organization": "Queen Mary University of London · School of Electronic Engineering and Computer Science",
+      "priority": 97,
+      "published_at": "",
+      "relevance": "多模态 AI、医疗临床数据、模型评估与科研软件高度匹配；本科可满足学历门槛，但机器学习／深度学习、基础模型和实验设计能力均为实质要求，属于高竞争度科研型岗位。",
+      "section": "实验室机会",
+      "source_url": "https://qmul-jobs.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/10844-Research-Assistant/en-GB",
+      "summary": "11 个月全职科研助理，参与面向临床决策支持的多模态 AI 与医疗研究。工作包括开发和评估机器学习、深度学习、LLM／VLM 与基础模型，处理大规模临床数据，构建可复现研究软件，并参与验证、论文和项目交付。最低学历为计算机科学或相关专业本科／等同资格，博士仅为加分而非硬门槛；要求已有 ML／DL、多模态或基础模型及模型评估／实验设计能力。官网未列官方发布日期，9 月 11 日 23:55 截止。",
+      "summary_en": "An 11-month full-time Research Assistant role in multimodal AI and healthcare for clinical decision support. Duties include developing and evaluating machine-learning, deep-learning, LLM/VLM and foundation-model methods; working with large clinical datasets; producing reproducible research software; and contributing to validation, publications and project delivery. An undergraduate degree or equivalent in computer science or a related field is required; a PhD is desirable rather than mandatory. Existing ML/DL, multimodal or foundation-model expertise and model-evaluation/experimental-design skills are substantive requirements. The official page does not list a publication date and closes at 23:55 on 11 September.",
+      "tags": [
+        "历史补录",
+        "需尽快行动",
+        "英国",
+        "科研助理",
+        "多模态AI",
+        "医疗AI",
+        "LLM／VLM",
+        "基础模型",
+        "临床数据",
+        "模型评估",
+        "科研软件",
+        "本科可满足学历门槛",
+        "高竞争度",
+        "9月11日截止",
+        "签证支持未说明"
+      ],
+      "title": "伦敦玛丽女王大学多模态 AI 与医疗科研助理",
+      "title_en": "Research Assistant — Multimodal AI and Healthcare",
+      "updated_at": "2026-08-31",
+      "verification_status": "verified_open_official_qmul_page_deadline_and_criteria_publication_date_not_listed"
+    },
+    {
+      "category": "求职",
+      "current_status": "open_apply_now_until_2026-09-15_2355_aest",
+      "deadline": "2026-09-15 23:55（澳大利亚东部标准时间）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-08-31",
+      "id": "unsw-clinical-ai-research-officer-542175",
+      "last_verified_at": "2026-08-31",
+      "location": "澳大利亚・悉尼",
+      "organization": "UNSW Sydney · Centre for Big Data Research in Health",
+      "priority": 94,
+      "published_at": "2026-08-25",
+      "relevance": "临床 AI、电子病历、预测建模、数据分析与研究治理结合度高；没有博士或固定多年经验硬门槛，但必须已有澳大利亚无限制工作权，且不提供签证担保。",
+      "section": "科研／医疗／生物信息岗位",
+      "source_url": "https://external-careers.jobs.unsw.edu.au/en/job/542175/research-officer-clinical-ai-centre-for-big-data-research-in-health",
+      "summary": "两年全职固定期 Research Officer，支持 Centre for Big Data Research in Health 的临床 AI 项目，覆盖电子病历和健康数据、预测建模、数据分析、研究伦理与治理、论文报告和项目协调。要求公共卫生、医学、护理、数字健康、生物统计或相关学位，或等同教育／培训／经验；临床或数字健康研究、EMR 数据和定量分析经验重要，但官网未写固定年限。年薪 108,021–115,233 澳元另加 17% super，9 月 15 日截止。官方明确不提供签证担保，必须已有澳大利亚无限制工作权。",
+      "summary_en": "A two-year full-time fixed-term Research Officer role supporting clinical-AI projects at the Centre for Big Data Research in Health. Work covers electronic medical records and health datasets, predictive modelling, data analysis, research ethics and governance, publications, reporting and project coordination. A degree in public health, medicine, nursing, digital health, biostatistics or a related discipline—or equivalent education/training/experience—is required; clinical or digital-health research, EMR data and quantitative analysis experience matter, but no fixed years are stated. Salary is A$108,021–115,233 plus 17% super and applications close on 15 September. Visa sponsorship is explicitly unavailable and unrestricted Australian work rights are mandatory.",
+      "tags": [
+        "历史补录",
+        "澳大利亚",
+        "临床AI",
+        "电子病历",
+        "预测建模",
+        "数据分析",
+        "研究治理",
+        "两年固定期",
+        "无固定年限",
+        "9月15日截止",
+        "不提供签证担保",
+        "必须已有澳大利亚工作权"
+      ],
+      "title": "新南威尔士大学临床 AI Research Officer",
+      "title_en": "Research Officer (Clinical AI) — Centre for Big Data Research in Health",
+      "updated_at": "2026-08-31",
+      "verification_status": "verified_open_official_unsw_posting_date_deadline_criteria_and_no_sponsorship"
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "dd592d09161a6078bde40647fb6590fe523d3ad5",
-    "executed_at_beijing": "2026-08-30T08:01:50+08:00",
-    "increment_boundary": "2026-08-29T16:31:24+08:00",
-    "note": "远端回读确认 169 个唯一 ID、169 个唯一官方链接、分类总数一致及 3 个补录 ID 存在；公开 Pages 访问被当前环境安全策略拒绝，未冒充已刷新。",
-    "public_site_verification": "repository_commit_verified_public_pages_not_independently_confirmed_safety_restriction",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_three_historical_backfills_no_new_publications_or_status_changes",
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-08-31T08:02:36+08:00",
+    "increment_boundary": "2026-08-30T08:01:50+08:00",
+    "note": "待远端内容提交与回读校验。",
+    "public_site_verification": "pending",
+    "repository_write": "pending_remote_validation",
+    "result": "pending",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-08-30 完成全量扫描。未发现可严格证明在上次扫描边界后新发布的高质量条目；历史补录 3 条（KCL EEG／机器学习科研助理、全生命周期髓鞘图谱、自监督视觉模型—大脑对齐研究），状态变化 0。",
@@ -5397,80 +5560,80 @@
     "category_counts": {
       "升学": 0,
       "实验室": 1,
-      "求职": 0,
-      "研究": 2
+      "求职": 1,
+      "研究": 0
     },
     "database_category_totals": {
       "升学": 30,
-      "实验室": 31,
-      "求职": 21,
+      "实验室": 32,
+      "求职": 22,
       "研究": 87
     },
-    "database_items_total": 169,
+    "database_items_total": 171,
     "excluded_expired_or_ineligible": [
-      "HKU 数据科学研究院 IT Officer／IT Technician 资格正文硬性要求至少 5 年全职经验，即使经验较少者可按 Technician 考虑，仍不符合低经验筛选标准。",
-      "欧洲大陆新结果主要为博士后、教职或要求已完成研究型硕士的博士职位；未以聚合平台线索替代雇主官方核验。",
-      "澳大利亚新结果主要要求博士，属于 Research Associate／Postdoctoral 层级。",
-      "中国大厂与外企中国区新结果主要受在校身份、2027 届毕业要求、计算机专业或硬性经验限制。"
+      "HKUST 2027 MSc AI 对非计算机相关学位申请者硬性要求至少两年相关工作经验，不按跨专业低经验项目收录。",
+      "UNSW Face Research Lab 为 Research Associate 层级且要求承担主导研究职责；欧洲大陆结果主要为博士后、教职或需研究型硕士的博士职位。",
+      "中国大厂新算法岗位主要限定 2027 届在校生或要求计算机／算法强背景；外企中国区无同时满足低经验和高匹配度的新增。",
+      "当日研究入口未发现兼具明确增量时间、主题相关性与足够证据强度的更新，未为增加条数收录。"
     ],
-    "existing_urgent_reverified": 7,
-    "historical_backfills_added": 3,
+    "existing_urgent_reverified": 8,
+    "historical_backfills_added": 2,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 0,
+    "status_changes": 1,
     "still_open_urgent_items": 31
   },
   "source_coverage": [
     {
-      "note": "已扫描、无高质量新增；既有 2026／2027 项目节点继续保留。",
       "source_group": "神经与认知项目",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；既有 2026／2027 项目节点继续保留。"
     },
     {
-      "note": "已扫描、无高质量新增；跨专业项目资格和 2027 申请窗口按既有官方记录保留。",
       "source_group": "数据／计算／AI项目",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；HKUST 2027 AI 对非计算机相关学位申请者硬性要求两年相关工作经验，未作为跨专业低经验机会补录。"
     },
     {
-      "note": "历史补录 KCL EEG 数据整理与机器学习 RA；7 条紧迫既有机会完成官方复核。",
       "source_group": "实验室与高校招聘",
-      "status": "full_scan_completed_with_historical_backfill"
+      "status": "full_scan_completed_with_historical_backfill_and_status_change",
+      "note": "历史补录 QMUL 多模态 AI／医疗 RA；UBC CODA Lab 截止日更正；8 条紧迫既有机会完成官方复核。"
     },
     {
-      "note": "补录 2 篇 8 月 29 日正式发布的高质量研究；因无法证明具体上线时刻晚于既有扫描边界，均未标为今日发布。",
       "source_group": "研究动态",
-      "status": "full_scan_completed_with_historical_backfills"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 Nature 系列、eLife 与相关期刊入口；没有在证据强度、发布时间与主题匹配上均通过筛选的新增，未为凑数收录。"
     },
     {
-      "note": "已扫描、无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增；新结果主要受工作权、毕业届别、专业或经验限制。"
     },
     {
-      "note": "已扫描、无高质量新增；SAP 新加坡既有 Graduate AI 岗仍开放。",
       "source_group": "算法与AI岗位",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_with_historical_backfill",
+      "note": "历史补录 QMUL 多模态 AI／医疗 RA；中国大厂新算法结果主要限 2027 届在校生，外企中国区无合适新增。"
     },
     {
-      "note": "补录 KCL 临床 EEG／机器学习科研助理；其他新线索因博士、硬性多年经验或湿实验门槛排除。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scan_completed_with_historical_backfill"
+      "status": "full_scan_completed_with_historical_backfill",
+      "note": "补录 UNSW 临床 AI Research Officer；不提供签证担保且澳大利亚无限制工作权为硬门槛。"
     },
     {
-      "note": "已扫描、无高质量新增。",
       "source_group": "其他求职",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描、无高质量新增。"
     },
     {
-      "note": "已扫描百度、字节等官方校招／实习入口，无资格适用的高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描百度、字节等官方校招／实习入口；结果主要受在校身份、2027 届毕业要求或计算机／算法强背景限制。"
     },
     {
-      "note": "已扫描 SAP、Microsoft 等官方入口，无符合低经验与资格条件的高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "full_scan_completed_no_high_quality_new_items"
+      "status": "full_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 SAP、Microsoft 等官方入口；无符合低经验、地区与资格条件的高质量新增。"
     }
   ]
 }
