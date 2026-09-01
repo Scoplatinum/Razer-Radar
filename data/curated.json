@@ -5888,10 +5888,10 @@
     "executed_at_beijing": "2026-09-01T12:32:56+08:00",
     "increment_boundary": "2026-09-01T08:02:11+08:00",
     "result": "completed_with_four_historical_backfills_no_strictly_new_publications_no_status_changes",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "content_commit_sha": "",
-    "note": "待写入后回读确认 180 个唯一 ID、180 个唯一官方链接、分类总数一致。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed_browser_permission_denied",
+    "content_commit_sha": "224c2d22ddff59f53a83b196fdba84a18a343116",
+    "note": "远端回读确认 180 个唯一 ID、180 个唯一官方链接、分类总数一致及 4 个补录 ID；公开 Pages 直连受安全策略拒绝，内置浏览器访问权限亦被拒绝，未冒充已刷新。"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
