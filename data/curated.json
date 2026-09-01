@@ -5741,10 +5741,10 @@
     "executed_at_beijing": "2026-09-01T08:02:11+08:00",
     "increment_boundary": "2026-08-31T08:02:36+08:00",
     "result": "completed_with_five_historical_backfills_five_status_changes_no_strictly_new_publications",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "content_commit_sha": "",
-    "note": "待远端写入与回读校验。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
+    "content_commit_sha": "3ab18afe77b6a50cb2a5ceddb981d997b43345aa",
+    "note": "远端回读确认 176 个唯一 ID、176 个唯一官方链接、分类总数一致、必需字段齐全；5 个补录 ID 与 5 项状态变化均存在。"
   },
   "notice": "2026-09-01 完成全量扫描。未发现可严格证明在上次扫描边界后新发布的高质量条目；历史补录 5 条（实验室 2、研究 3），状态变化 5 条（Glasgow 奖学金及 4 条 HKU 岗位关闭）。",
   "run_summary": {
