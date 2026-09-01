@@ -9,41 +9,41 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "full_scan_completed_with_status_change_and_urgent_reverification",
-      "note": "已扫描；Glasgow Global Leadership Scholarship 已关闭。St Andrews 线上数据科学 MSc 的 9 月入学申请今天截止且官网仍显示 Apply；QMUL 妊娠用药安全数据科学 RA 与 KCL EEG／机器学习 RA 仍开放。"
+      "status": "incremental_scan_completed_urgent_reverification",
+      "note": "增量已扫描；St Andrews 线上数据科学 MSc 的 9 月入学今天截止，官网仍显示 Apply；KCL EEG／机器学习 RA 9 月 4 日截止。无高质量新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "full_scan_completed_with_historical_backfill",
-      "note": "已扫描；历史补录苏黎世大学神经科 VR／多模态传感 RA。本轮 EURAXESS、AcademicTransfer 及德荷瑞法比北欧入口其余结果主要为博士后、教职、研究员或资格层级不符。"
+      "status": "incremental_scan_completed_with_research_backfills",
+      "note": "增量已扫描；补录帕金森 VEGFA 外周表达与外骨骼协调研究。岗位与升学入口无高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "full_scan_completed_with_historical_backfill_and_status_changes",
-      "note": "已扫描；历史补录 HKU 内分泌／代谢临床样本库与数据库 RA I/II。4 条 8 月 31 日截止的 HKU 岗位官方链接已转 jobnotfound，标为关闭；其余新岗主要为湿实验、临床试验协调或更高层级。"
+      "status": "incremental_scan_completed_with_two_historical_backfills",
+      "note": "增量已扫描；补录 NTU 认知神经科学／教育 RA 与 entry-level AI 地震数据 RA；香港无高质量新增。"
     },
     {
       "region": "日本与韩国",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；OIST 神经计算 Software Curator 仍为既有滚动机会，韩国官方结果未出现资格与层级均适配的新机会。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增；新增结果未同时满足低经验、开放和方向匹配。"
     },
     {
       "region": "美国与加拿大",
-      "status": "full_scan_completed_urgent_reverification_no_high_quality_new_items",
-      "note": "已扫描；UBC CODA Lab RA 按温哥华当地时间仍处于 8 月 31 日申请日内。美国新结果中密歇根大学生物信息岗硬性要求博士及三年博士后经验，已排除；无其他高质量新增。"
+      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
+      "note": "增量已扫描；UBC CODA Lab 按温哥华时间仍处于 8 月 31 日申请窗口，北京时间约 14:59 截止。无高质量新增。"
     },
     {
       "region": "澳大利亚",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；UNSW 临床 AI Research Officer 仍为既有开放项，但不提供签证担保并要求澳大利亚无限制工作权。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增；RMIT Data Science and AI 2027 明确不向需学生签证的国际申请者开放。"
     },
     {
       "region": "中国大陆",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描中国大厂官方校招／实习及外企中国区 Careers；百度 8 月 31 日新实习和字节结果主要限定在校身份／毕业届别，或要求强算法专业背景，外企中国区未发现低经验高匹配新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增；大厂与外企中国区结果主要为在校／届别限制或 Senior、Principal、Manager 层级。"
     }
   ],
-  "generated_at": "2026-09-01T08:02:11+08:00",
+  "generated_at": "2026-09-01T12:32:56+08:00",
   "items": [
     {
       "category": "研究",
@@ -143,12 +143,13 @@
         "9月4日截止",
         "签证支持未说明",
         "8月31日官方复核",
-        "9月1日官方复核"
+        "9月1日官方复核",
+        "12:32增量复核"
       ],
       "title": "伦敦国王学院 EEG 数据整理与机器学习科研助理",
       "title_en": "Research Assistant in EEG Data Curation and Machine Learning",
       "updated_at": "2026-09-01",
-      "verification_status": "verified_open_official_employer_page_apply_link_2026_09_01"
+      "verification_status": "verified_open_official_employer_page_posting_deadline_criteria_2026_09_01_incremental"
     },
     {
       "category": "升学",
@@ -257,7 +258,7 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_official_workday_until_2026-08-31_2359_local",
+      "current_status": "open_until_2026-08-31_2359_vancouver_local_equivalent_2026-09-01_1459_beijing",
       "deadline": "2026-08-31 23:59（温哥华当地时间）",
       "discovery_status": "status_change",
       "first_seen_at": "2026-08-29",
@@ -290,12 +291,13 @@
         "截止日更正",
         "8月31日截止",
         "9月1日官方复核",
-        "按温哥华当地时间今天截止"
+        "按温哥华当地时间今天截止",
+        "北京时间14:59截止"
       ],
       "title": "英属哥伦比亚大学 CODA 实验室认知神经影像／神经信息学科研助理",
       "title_en": "Research Assistant / Technician 2 — Cognitive Neuroscience and Neuroinformatics (CODA Lab)",
       "updated_at": "2026-09-01",
-      "verification_status": "verified_official_search_listing_and_local_posting_end_time_still_active_at_scan_2026_09_01_beijing"
+      "verification_status": "deadline_window_reverified_from_existing_official_posting_end_time_open_at_2026_09_01_1232_beijing"
     },
     {
       "category": "实验室",
@@ -304,7 +306,7 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-08-29",
       "id": "qmul-pregnancy-medication-safety-data-science-ra-10763",
-      "last_verified_at": "2026-08-31",
+      "last_verified_at": "2026-09-01",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · Wolfson Institute of Population Health",
       "priority": 91,
@@ -328,11 +330,12 @@
         "高门槛",
         "签证未说明",
         "既有机会仍开放",
-        "8月31日官方复核"
+        "8月31日官方复核",
+        "9月1日增量复核"
       ],
       "title": "伦敦玛丽女王大学妊娠用药安全数据科学科研助理",
       "title_en": "Research Assistant in Data Science — Medication Safety in Pregnancy",
-      "updated_at": "2026-08-31",
+      "updated_at": "2026-09-01",
       "verification_status": "verified_open_official_current_vacancy_and_employer_application_page_exact_publication_date_not_listed_msc_ideal"
     },
     {
@@ -1552,12 +1555,13 @@
         "既有机会仍开放",
         "8月31日官方复核",
         "9月1日官方复核",
-        "今天截止"
+        "今天截止",
+        "12:32增量复核"
       ],
       "title": "圣安德鲁斯大学线上数据科学硕士",
       "title_en": "Online MSc Data Science",
       "updated_at": "2026-09-01",
-      "verification_status": "verified_official_program_page_apply_links_visible_september_entry_deadline_today_2026_09_01"
+      "verification_status": "verified_official_program_page_apply_links_visible_september_entry_deadline_today_and_later_intakes_open_2026_09_01_incremental"
     },
     {
       "category": "求职",
@@ -5734,97 +5738,241 @@
       "title_en": "Spatial mapping of RNA turnover kinetics in the mouse brain",
       "updated_at": "2026-09-01",
       "verification_status": "verified_official_peer_reviewed_version_of_record_methods_results_and_sample_size"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_no_deadline_listed",
+      "deadline": "未列明（官网显示 Apply）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-01",
+      "id": "ntu-cradle-cognitive-neuroscience-education-ra-r00024936",
+      "last_verified_at": "2026-09-01",
+      "location": "新加坡・NTU Main Campus",
+      "organization": "Nanyang Technological University · CRADLE@NTU",
+      "priority": 92,
+      "published_at": "",
+      "relevance": "本科荣誉学位即可申请，连接认知神经科学、教育研究、数据管理及 fMRI／fNIRS；技术分析不是岗位唯一核心，项目协调占比较高。",
+      "section": "实验室机会",
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant--Psychology---Cognitive-Neuroscience---Neuroscience---Education-_R00024936",
+      "summary": "CRADLE@NTU Research Assistant，支持心理、认知神经与教育项目的日常协调、受试者与学校合作、数据管理、安全、伦理及研究记录。要求心理学、认知神经科学、神经科学、教育或相关专业本科荣誉学位；认知／神经心理测评、儿童或学校研究、fMRI／fNIRS 和研究伦理经验为加分项。官网显示 Apply，未列截止日期或签证支持。",
+      "summary_en": "A CRADLE@NTU Research Assistant role supporting psychology, cognitive-neuroscience and education projects through coordination, participant and school engagement, data management/security, ethics and research records. A bachelor's honours degree in psychology, cognitive neuroscience, neuroscience, education or a related field is required; cognitive/neuropsychological assessment, child or school research, fMRI/fNIRS and ethics experience are preferred. The official page shows Apply with no deadline or sponsorship information.",
+      "tags": [
+        "历史补录",
+        "新加坡",
+        "科研助理",
+        "认知神经科学",
+        "教育研究",
+        "数据管理",
+        "fMRI／fNIRS加分",
+        "本科荣誉学位",
+        "截止未列明",
+        "签证未说明"
+      ],
+      "title": "南洋理工大学认知神经科学／教育科研助理",
+      "title_en": "Research Assistant — Psychology, Cognitive Neuroscience, Neuroscience and Education",
+      "updated_at": "2026-09-01",
+      "verification_status": "verified_open_official_workday_bachelors_honours_requirements_deadline_and_sponsorship_not_listed"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_no_deadline_listed",
+      "deadline": "未列明（官网显示 Apply）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-01",
+      "id": "ntu-ai-seismic-data-analysis-ra-r00025398",
+      "last_verified_at": "2026-09-01",
+      "location": "新加坡／日本野外数据",
+      "organization": "Nanyang Technological University · School of Physical and Mathematical Sciences",
+      "priority": 91,
+      "published_at": "",
+      "relevance": "明确欢迎 entry-level，覆盖 Python、AI／机器学习、自动化科学数据管线和跨国地震数据；需要真实地球物理野外与地震处理能力，不是纯软件岗。",
+      "section": "实验室机会",
+      "source_url": "https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/Research-Assistant--AI-for-Seismic-Data-Analysis-_R00025398-1",
+      "summary": "AI 地震数据分析 Research Assistant，负责新加坡与日本地震台网的野外采集、连续数据预处理、自动化管线，以及用 AI 自动提取面波频散曲线。接受地球物理、计算机、AI、数据科学、数学、软件工程等相关本科，要求 Python、机器学习和地震采集／处理能力；PyTorch／TensorFlow 为重要加分。官方明确欢迎学业记录和 AI／软件潜力强的 entry-level 候选人，显示 Apply，未列截止与签证支持。",
+      "summary_en": "An AI-for-seismic-data Research Assistant role covering field acquisition in Singapore/Japan, continuous-data preprocessing, automated pipelines and AI extraction of surface-wave dispersion curves. A related bachelor's degree, Python, machine learning and seismic acquisition/processing skills are required; PyTorch/TensorFlow is desirable. Entry-level candidates with strong academic records and AI/software potential are explicitly welcomed. The official page shows Apply but no deadline or sponsorship details.",
+      "tags": [
+        "历史补录",
+        "新加坡",
+        "科研助理",
+        "entry-level欢迎",
+        "AI／机器学习",
+        "Python",
+        "PyTorch／TensorFlow加分",
+        "自动化数据管线",
+        "地震数据",
+        "野外工作",
+        "本科可申请",
+        "截止未列明",
+        "签证未说明"
+      ],
+      "title": "南洋理工大学 AI 地震数据分析科研助理",
+      "title_en": "Research Assistant — AI for Seismic Data Analysis",
+      "updated_at": "2026-09-01",
+      "verification_status": "verified_open_official_workday_entry_level_bachelors_requirements_deadline_and_sponsorship_not_listed"
+    },
+    {
+      "category": "研究",
+      "current_status": "published_peer_reviewed_early_access_open_access",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-01",
+      "id": "scientific-reports-vegfa-parkinsons-fdr-2026",
+      "last_verified_at": "2026-09-01",
+      "location": "捷克／突尼斯",
+      "organization": "Scientific Reports",
+      "priority": 92,
+      "published_at": "2026-09-01",
+      "relevance": "连接帕金森病、外周转录表达、生物标志物、统计建模和一级亲属风险研究；适合神经退行性疾病与生物信息方向。",
+      "section": "研究动态",
+      "source_url": "https://www.nature.com/articles/s41598-026-68227-w",
+      "summary": "研究以 RT-qPCR 测量 123 名帕金森病患者、一级亲属和健康对照的外周血 VEGFA mRNA，并用 ANOVA、相关、回归与 ROC 分析。患者与一级亲属总体表达高于对照；≤60 岁探索性亚组 AUC 为 0.897。限制是外周单基因、横断面设计与探索性年龄分层，样本量有限且置信区间较宽，不能作为已验证诊断标志物，需独立纵向复现。",
+      "summary_en": "Peripheral-blood VEGFA mRNA was measured by RT-qPCR in 123 participants with Parkinson's disease, first-degree relatives and healthy controls, then analysed with ANOVA, correlation, regression and ROC methods. Patients and relatives showed higher expression; the exploratory <=60 subgroup yielded AUC 0.897. The single peripheral marker, cross-sectional design, exploratory age stratification, modest sample and wide confidence interval preclude diagnostic use without independent longitudinal validation.",
+      "tags": [
+        "历史补录",
+        "2026年9月1日发表",
+        "Scientific Reports",
+        "帕金森病",
+        "VEGFA",
+        "外周血",
+        "RT-qPCR",
+        "生物标志物",
+        "ROC",
+        "横断面",
+        "样本限制",
+        "局限已标注"
+      ],
+      "title": "帕金森病患者与一级亲属的 VEGFA 外周表达升高",
+      "title_en": "VEGFA gene expression in Parkinson's disease and first-degree relatives",
+      "updated_at": "2026-09-01",
+      "verification_status": "verified_official_peer_reviewed_open_access_publication_date_sample_methods_findings_and_limitations"
+    },
+    {
+      "category": "研究",
+      "current_status": "published_peer_reviewed_early_access_open_access",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-01",
+      "id": "scientific-reports-repetitive-exoskeleton-persistent-coordination-2026",
+      "last_verified_at": "2026-09-01",
+      "location": "法国／意大利",
+      "organization": "Scientific Reports · Sorbonne Université / ISIR",
+      "priority": 91,
+      "published_at": "2026-09-01",
+      "relevance": "连接人机交互、运动控制、康复机器人和纵向协调分析，提示穿戴式机器人适应效应可能在移除后持续。",
+      "section": "研究动态",
+      "source_url": "https://www.nature.com/articles/s41598-026-68218-x",
+      "summary": "研究比较多日重复外骨骼力场暴露后的肩—肘协调变化，发现不同力场导致不同适应轨迹，且部分协调改变在装置移除后仍持续，挑战“影响会立即消失”的假设。限制是样本量小，组间基线正式等效性未建立；效应依赖特定装置、任务和低幅力场，尚不能直接推广到临床康复或长期日常使用。",
+      "summary_en": "Across repeated multi-day exposure to exoskeleton force fields, shoulder-elbow coordination followed condition-specific adaptation trajectories and some changes persisted after device removal, challenging the assumption of immediate washout. The sample was small and formal baseline equivalence was not established; effects are specific to the device, task and low-magnitude fields and cannot yet be generalised to clinical rehabilitation or long-term everyday use.",
+      "tags": [
+        "历史补录",
+        "2026年9月1日发表",
+        "Scientific Reports",
+        "外骨骼",
+        "运动控制",
+        "人机交互",
+        "康复机器人",
+        "纵向适应",
+        "肩肘协调",
+        "小样本",
+        "基线等效性未建立",
+        "局限已标注"
+      ],
+      "title": "重复使用外骨骼会留下持续的肩—肘协调改变",
+      "title_en": "Repetitive exoskeleton use induces persistent coordination changes",
+      "updated_at": "2026-09-01",
+      "verification_status": "verified_official_peer_reviewed_open_access_publication_date_findings_and_sample_limitations"
     }
   ],
   "last_run_receipt": {
-    "run_type": "daily_full_scan",
-    "executed_at_beijing": "2026-09-01T08:02:11+08:00",
-    "increment_boundary": "2026-08-31T08:02:36+08:00",
-    "result": "completed_with_five_historical_backfills_five_status_changes_no_strictly_new_publications",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "content_commit_sha": "3ab18afe77b6a50cb2a5ceddb981d997b43345aa",
-    "note": "远端回读确认 176 个唯一 ID、176 个唯一官方链接、分类总数一致、必需字段齐全；5 个补录 ID 与 5 项状态变化均存在。"
+    "run_type": "same_day_incremental_scan",
+    "executed_at_beijing": "2026-09-01T12:32:56+08:00",
+    "increment_boundary": "2026-09-01T08:02:11+08:00",
+    "result": "completed_with_four_historical_backfills_no_strictly_new_publications_no_status_changes",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "content_commit_sha": "",
+    "note": "待写入后回读确认 180 个唯一 ID、180 个唯一官方链接、分类总数一致。"
   },
-  "notice": "2026-09-01 完成全量扫描。未发现可严格证明在上次扫描边界后新发布的高质量条目；历史补录 5 条（实验室 2、研究 3），状态变化 5 条（Glasgow 奖学金及 4 条 HKU 岗位关闭）。",
+  "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "newItemsOfficiallyDatedToday": 0,
-    "historical_backfills_added": 5,
-    "status_changes": 5,
+    "newItemsOfficiallyDatedToday": 2,
+    "historical_backfills_added": 4,
+    "status_changes": 0,
     "existing_urgent_reverified": 4,
     "still_open_urgent_items": 29,
     "category_counts": {
       "升学": 0,
       "实验室": 2,
       "求职": 0,
-      "研究": 3
+      "研究": 2
     },
     "database_category_totals": {
       "升学": 30,
-      "实验室": 34,
+      "实验室": 36,
       "求职": 22,
-      "研究": 90
+      "研究": 92
     },
-    "database_items_total": 176,
+    "database_items_total": 180,
     "excluded_expired_or_ineligible": [
-      "4 条 HKU 8 月 31 日截止岗位的官方链接已转 jobnotfound；Glasgow £10,000 Global Leadership Scholarship 已关闭。",
-      "HKU 新增职位中，干细胞／小鼠基因治疗、辅助生殖及临床试验协调岗位以湿实验、临床操作或专业沟通为核心，未收录。",
-      "密歇根大学 8 月 31 日新发布生物信息岗硬性要求博士及三年博士后经验；欧洲大陆其余结果主要为博士后、教职或更高研究层级。",
-      "百度、字节等新结果主要限定在校身份／毕业届别或要求强算法背景；外企中国区无适配低经验新增。"
+      "本轮没有可严格证明晚于 08:02 上线的条目；两篇 9 月 1 日论文只有日级发布日期，保守标为历史补录。",
+      "Apple 中国区当前新增主线为 Senior／Principal／Manager 层级；国内大厂结果仍多受在校身份、毕业届别或强算法经验限制。",
+      "RMIT Data Science and AI 2027 页面明确不向需要学生签证的国际申请者开放；Oxford Neuroscience 2027 申请尚未开放。",
+      "UNSW Face Research Lab 为 Research Associate 且层级与经验画像偏高；KCL CONNECT 岗要求既有 NHS 严重精神疾病人群工作经验。",
+      "Nature 当日多篇结果偏肿瘤、免疫、道路／工程或与神经认知主线弱，未因含 AI／neuro 关键词机械收录。"
     ]
   },
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；既有项目节点继续保留。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "full_scan_completed_urgent_reverification_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；St Andrews 9 月入学申请今天截止，官网仍显示申请链接。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "full_scan_completed_with_two_historical_backfills_and_four_closures",
-      "note": "补录 HKU 内分泌／代谢 RA 与 UZH VR／多模态神经科 RA；4 条 HKU 8 月 31 日岗位关闭，UBC、KCL 等紧迫项完成官方复核。"
+      "status": "incremental_scan_completed_with_two_historical_backfills",
+      "note": "补录 2 个 NTU 本科入口 RA；KCL、UBC、QMUL 紧迫项完成增量复核。"
     },
     {
       "source_group": "研究动态",
-      "status": "full_scan_completed_with_three_historical_backfills",
-      "note": "扫描 Nature 系列、Communications Biology、eLife 等官方入口，补录 3 条 8 月 31 日高质量研究；因无精确上线时刻，均未误标为上次扫描后新发布。"
+      "status": "incremental_scan_completed_with_two_historical_backfills",
+      "note": "补录 2 篇 9 月 1 日研究；只有日级发布日期，均未误标为 08:02 后新发布。"
     },
     {
       "source_group": "数据分析岗位",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；新结果主要受学历、工作权、毕业届别或经验限制。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增；中国大厂结果多限定在校生，外企中国区未同时满足低经验和高匹配。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "full_scan_completed_with_historical_backfill",
-      "note": "补录 HKU 内分泌／代谢临床样本库与数据库 RA；其余新增主要为湿实验或成熟临床试验层级。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "其他求职",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描、无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节等官方入口；新结果主要受在校身份、毕业届别或强算法背景限制。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
-      "status": "full_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 SAP、Microsoft 等官方入口；无符合低经验、地区与资格条件的高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "今日已扫描，无高质量新增。"
     }
   ]
 }
