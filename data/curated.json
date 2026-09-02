@@ -10,40 +10,40 @@
     {
       "region": "英国与爱尔兰",
       "status": "incremental_scan_completed_urgent_reverification",
-      "note": "增量已扫描；St Andrews 线上数据科学 MSc 的 9 月入学今天截止，官网仍显示 Apply；KCL EEG／机器学习 RA 9 月 4 日截止。无高质量新增。"
+      "note": "已扫描；QMUL 妊娠用药安全数据科学 RA 今天截止且仍在官方 Current Opportunities，KCL EEG／机器学习 RA 9 月 4 日截止。无其他高质量新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_with_research_backfills",
-      "note": "增量已扫描；补录帕金森 VEGFA 外周表达与外骨骼协调研究。岗位与升学入口无高质量新增。"
+      "status": "incremental_scan_completed_with_one_historical_backfill",
+      "note": "已扫描；补录马斯特里赫特大学 NeuroAI 听觉神经科学博士。法国、德国、瑞士、比利时、北欧及荷兰其余入口无高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_with_two_historical_backfills",
-      "note": "增量已扫描；补录 NTU 认知神经科学／教育 RA 与 entry-level AI 地震数据 RA；香港无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描；HKU、NTU、NUS 官方入口无通过层级、资格和开放状态核验的高质量新增。"
     },
     {
       "region": "日本与韩国",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增；新增结果未同时满足低经验、开放和方向匹配。"
+      "note": "已扫描；OIST 及日韩高校入口无高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
-      "note": "增量已扫描；UBC CODA Lab 按温哥华时间仍处于 8 月 31 日申请窗口，北京时间约 14:59 截止。无高质量新增。"
+      "status": "incremental_scan_completed_with_status_change",
+      "note": "已扫描；UBC CODA Lab 岗位官方截止已过且当前官方检索不再可发现，转为关闭。无高质量新增。"
     },
     {
       "region": "澳大利亚",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增；RMIT Data Science and AI 2027 明确不向需学生签证的国际申请者开放。"
+      "note": "已扫描；UNSW、墨尔本等官方入口无符合低经验与工作权现实性的高质量新增。"
     },
     {
       "region": "中国大陆",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增；大厂与外企中国区结果主要为在校／届别限制或 Senior、Principal、Manager 层级。"
+      "note": "已扫描；百度、字节等大厂官方校招及外企中国区 Careers 无高质量新增，结果仍多受在校／毕业届别、相关学位或成熟经验限制。"
     }
   ],
-  "generated_at": "2026-09-01T12:32:56+08:00",
+  "generated_at": "2026-09-02T08:00:10+08:00",
   "items": [
     {
       "category": "研究",
@@ -115,10 +115,10 @@
       "category": "实验室",
       "current_status": "open_apply_now_until_2026-09-04_may_close_early",
       "deadline": "2026-09-04 23:59（英国时间；可能提前关闭）",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-30",
       "id": "kcl-eeg-data-curation-machine-learning-ra-156745",
-      "last_verified_at": "2026-09-01",
+      "last_verified_at": "2026-09-02",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Psychiatry, Psychology & Neuroscience · Basic & Clinical Neuroscience",
       "priority": 99,
@@ -129,7 +129,7 @@
       "summary": "12 个月全职 Research Assistant，负责汇集皮下长程 EEG、临床头皮 EEG 与公共数据集，建立标准化预处理、通道协调、质控和特征工程管线，并参与自监督学习任务及高性能计算训练。要求计算神经科学、生物信息、机器学习、数据科学、生物医学工程等硕士，或等同资格／经验；Python、Git、复杂数据管线、生理时间序列、机器学习和 EEG 经验均列为必需。9 月 4 日 23:59 截止，但官网提示可能提前关闭。",
       "summary_en": "A 12-month full-time Research Assistant role curating subcutaneous, clinical scalp and public EEG into a documented, quality-controlled resource; building preprocessing, channel-harmonisation, QC and feature-engineering pipelines; and contributing to self-supervised learning and HPC training. A relevant master's degree or equivalent experience is required, alongside Python/Git, complex data pipelines, physiological time-series, machine learning and EEG experience. Applications close at 23:59 on 4 September and may close early.",
       "tags": [
-        "历史补录",
+        "既有机会仍开放",
         "需尽快行动",
         "英国",
         "科研助理",
@@ -141,15 +141,14 @@
         "机器学习",
         "硕士或等同经验",
         "9月4日截止",
+        "可能提前关闭",
         "签证支持未说明",
-        "8月31日官方复核",
-        "9月1日官方复核",
-        "12:32增量复核"
+        "9月2日官方复核"
       ],
       "title": "伦敦国王学院 EEG 数据整理与机器学习科研助理",
       "title_en": "Research Assistant in EEG Data Curation and Machine Learning",
-      "updated_at": "2026-09-01",
-      "verification_status": "verified_open_official_employer_page_posting_deadline_criteria_2026_09_01_incremental"
+      "updated_at": "2026-09-02",
+      "verification_status": "verified_open_official_employer_page_apply_link_posting_deadline_and_may_close_early_warning_2026_09_02"
     },
     {
       "category": "升学",
@@ -258,15 +257,15 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_until_2026-08-31_2359_vancouver_local_equivalent_2026-09-01_1459_beijing",
+      "current_status": "closed_after_official_posting_end_2026-08-31_2359_vancouver_local",
       "deadline": "2026-08-31 23:59（温哥华当地时间）",
       "discovery_status": "status_change",
       "first_seen_at": "2026-08-29",
       "id": "ubc-coda-lab-neuroinformatics-ra-tech2-jr25768",
-      "last_verified_at": "2026-09-01",
+      "last_verified_at": "2026-09-02",
       "location": "加拿大・温哥华",
       "organization": "University of British Columbia · Wang Laboratory / Djavad Mowafaghian Centre for Brain Health",
-      "priority": 98,
+      "priority": 60,
       "published_at": "",
       "relevance": "与认知神经科学、fMRI、神经信息学、可复现数据工作流和统计编程直接重合，是本轮最高匹配机会；工作权优先与现场全职是主要门槛。",
       "section": "实验室机会",
@@ -274,42 +273,34 @@
       "summary": "全职一年期岗位，负责自然情境神经影像数据编目、服务器存储流程、质控、统计报告、fMRI 预处理、数据使用协议与伦理材料。最低资格为相关培训及两年经验，或等同教育／经验组合；优先统计／计算机本科及 R、Python、SQL、Markdown、Git/GitHub、贝叶斯／混合效应模型。官方 Workday 将 Posting End Date 列为 8 月 31 日 23:59（当地时间）；月薪 4,597.80–5,469.59 加元；加拿大公民及永久居民优先，未说明工签支持。",
       "summary_en": "A one-year full-time role curating naturalistic neuroimaging data, creating storage and QC workflows, preprocessing fMRI, producing statistical reports, and supporting data-use and ethics documentation. Two years' experience may be met by an equivalent education/experience combination; statistics/computer-science training, R/Python/SQL, Git/GitHub and Bayesian or mixed-effects methods are preferred. The official Workday page lists a posting end date of 31 August at 23:59 local time. Canadians and permanent residents are prioritised; sponsorship is not stated.",
       "tags": [
-        "历史补录",
-        "需尽快行动",
+        "状态变化",
+        "已关闭",
         "认知神经科学",
         "神经信息学",
         "fMRI",
         "R／Python／SQL",
         "Git／GitHub",
         "贝叶斯统计",
-        "等同教育与经验组合",
         "加拿大工作权优先",
-        "签证未说明",
-        "既有机会仍开放",
-        "8月31日官方复核",
-        "状态变化",
-        "截止日更正",
-        "8月31日截止",
-        "9月1日官方复核",
-        "按温哥华当地时间今天截止",
-        "北京时间14:59截止"
+        "官方截止已过",
+        "9月2日复核"
       ],
       "title": "英属哥伦比亚大学 CODA 实验室认知神经影像／神经信息学科研助理",
       "title_en": "Research Assistant / Technician 2 — Cognitive Neuroscience and Neuroinformatics (CODA Lab)",
-      "updated_at": "2026-09-01",
-      "verification_status": "deadline_window_reverified_from_existing_official_posting_end_time_open_at_2026_09_01_1232_beijing"
+      "updated_at": "2026-09-02",
+      "verification_status": "official_posting_end_passed_and_listing_no_longer_discoverable_in_current_official_search_2026_09_02"
     },
     {
       "category": "实验室",
-      "current_status": "open_on_official_current_vacancy_list_until_2026-09-02",
+      "current_status": "open_on_official_current_vacancy_list_closes_today_2026-09-02",
       "deadline": "2026-09-02",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-29",
       "id": "qmul-pregnancy-medication-safety-data-science-ra-10763",
-      "last_verified_at": "2026-09-01",
+      "last_verified_at": "2026-09-02",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · Wolfson Institute of Population Health",
-      "priority": 91,
+      "priority": 96,
       "published_at": "",
       "relevance": "与医疗数据、电子病历、统计和 AI 应用直接相关，但应仅在能证明相关硕士层级训练或等效健康数据能力时优先。",
       "section": "科研／医疗／生物信息岗位",
@@ -317,8 +308,9 @@
       "summary": "固定期限全职 RA，使用大规模匿名电子健康记录研究妊娠期药物安全及子代长期结局，结合流行病学、医学统计、数据科学与高级统计／AI 方法。官网确认 Ref 10763、薪资 £38,419–£39,022、9 月 2 日截止；招聘说明最适合健康数据科学、临床流行病学或医学统计硕士，属于高门槛岗位，签证支持未列明。",
       "summary_en": "A fixed-term full-time RA analysing large anonymised health records for medication safety in pregnancy and longer-term offspring outcomes, combining epidemiology, medical statistics, data science and advanced statistical/AI methods. The official list confirms Ref 10763, £38,419–£39,022 and a 2 September deadline. An MSc in health data science, clinical epidemiology or medical statistics is the ideal profile; sponsorship is not stated.",
       "tags": [
-        "历史补录",
+        "既有机会仍开放",
         "需尽快行动",
+        "今天截止",
         "9月2日截止",
         "医疗数据科学",
         "电子健康记录",
@@ -329,14 +321,12 @@
         "硕士偏好",
         "高门槛",
         "签证未说明",
-        "既有机会仍开放",
-        "8月31日官方复核",
-        "9月1日增量复核"
+        "9月2日官方复核"
       ],
       "title": "伦敦玛丽女王大学妊娠用药安全数据科学科研助理",
       "title_en": "Research Assistant in Data Science — Medication Safety in Pregnancy",
-      "updated_at": "2026-09-01",
-      "verification_status": "verified_open_official_current_vacancy_and_employer_application_page_exact_publication_date_not_listed_msc_ideal"
+      "updated_at": "2026-09-02",
+      "verification_status": "verified_open_official_current_vacancy_list_closing_2026_09_02"
     },
     {
       "category": "研究",
@@ -1523,28 +1513,28 @@
     },
     {
       "category": "升学",
-      "current_status": "september_entry_open_until_2026-09-01_october_entry_open_until_2026-09-28_october_scholarship_open_until_2026-09-23",
-      "deadline": "2026-09-01",
-      "discovery_status": "existing_still_open",
+      "current_status": "september_entry_deadline_passed_october_entry_open_until_2026-09-28_october_scholarship_open_until_2026-09-23",
+      "deadline": "2026-09-28",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-19",
       "id": "st-andrews-online-data-science-msc-2026",
-      "last_verified_at": "2026-09-01",
+      "last_verified_at": "2026-09-02",
       "location": "英国・线上",
       "organization": "University of St Andrews",
-      "priority": 96,
+      "priority": 95,
       "published_at": "",
-      "relevance": "跨专业入口清晰；9 月入学申请今天截止且官网仍显示 Apply。若无法当天完成，10 月入学截止 9 月 28 日，对应奖学金截止 9 月 23 日。",
+      "relevance": "跨专业入口清晰；9 月入学截止日已过，但官网仍提供 10 月及后续入学申请。若资金重要，应先提交课程申请，再赶 9 月 23 日的 10 月入学奖学金节点。",
       "scholarship_url": "https://www.st-andrews.ac.uk/study/scholarships/scholarships-catalogue/school-of-computer-science/data-science-online-msc-scholarship/",
       "section": "数据／计算／AI项目",
       "source_url": "https://www.st-andrews.ac.uk/subjects/computer-science/data-science/",
-      "summary": "灵活线上、自定进度的三年制 MSc，可于 2026 年 9 月、10 月或之后入学；9 月入学课程申请截止 9 月 1 日。接受任意学科 2:1 本科学位，课程覆盖 Python、机器学习算法、端到端机器学习、数据可视化、复杂系统、优化和数据驱动系统，并以软件成果型论文项目收尾。2026 年 9／10 月学费按每 15 学分 £1,500 计，估算全程 £18,000。最高 £6,000 的 9 月入学奖学金已于 8 月 19 日截止；课程本身仍开放，10 月入学奖学金截止 9 月 23 日。",
-      "summary_en": "A flexible, self-paced three-year online MSc with September, October and later starts. The September 2026 course-application deadline is 1 September. It accepts a 2:1 bachelor's degree in any subject and covers Python, machine-learning algorithms, end-to-end machine learning, data visualisation, complex systems, optimisation and data-driven systems, culminating in a software-artifact dissertation. For September/October 2026 entry, tuition is £1,500 per 15 credits, about £18,000 overall. The September scholarship of up to £6,000 closed on 19 August; the programme remains open, and the October-entry scholarship deadline is 23 September.",
+      "summary": "灵活线上、自定进度的三年制 MSc，接受任意学科 2:1 本科学位，课程覆盖 Python、机器学习算法、端到端机器学习、数据可视化、复杂系统、优化和数据驱动系统，并以软件成果型论文项目收尾。9 月入学的 9 月 1 日截止日已过；官网仍开放 10 月入学（9 月 28 日截止）。10 月入学最高 £6,000 奖学金于 9 月 23 日截止，且须先提交课程申请；账户开通可能需要最多两个工作日。",
+      "summary_en": "A flexible, self-paced three-year online MSc accepting a 2:1 bachelor's degree in any subject. It covers Python, machine-learning algorithms, end-to-end ML, visualisation, complex systems and optimisation, ending in a software-artifact dissertation. The 1 September deadline for September entry has passed; October entry remains open until 28 September. The October-entry scholarship of up to £6,000 closes on 23 September, requires a course application first, and portal access may take up to two working days.",
       "tags": [
         "状态变化",
         "需尽快行动",
-        "9月奖学金已关闭",
-        "9月入学申请截止9月1日",
+        "9月入学截止已过",
         "10月奖学金截止9月23日",
+        "10月入学截止9月28日",
         "接受任意专业",
         "线上硕士",
         "Python",
@@ -1552,16 +1542,12 @@
         "数据可视化",
         "学费约£18,000",
         "发布日期未确认",
-        "既有机会仍开放",
-        "8月31日官方复核",
-        "9月1日官方复核",
-        "今天截止",
-        "12:32增量复核"
+        "9月2日官方复核"
       ],
       "title": "圣安德鲁斯大学线上数据科学硕士",
       "title_en": "Online MSc Data Science",
-      "updated_at": "2026-09-01",
-      "verification_status": "verified_official_program_page_apply_links_visible_september_entry_deadline_today_and_later_intakes_open_2026_09_01_incremental"
+      "updated_at": "2026-09-02",
+      "verification_status": "verified_official_program_page_september_deadline_passed_october_entry_apply_link_and_deadline_visible_scholarship_officially_reverified_2026_09_02"
     },
     {
       "category": "求职",
@@ -5881,98 +5867,138 @@
       "title_en": "Repetitive exoskeleton use induces persistent coordination changes",
       "updated_at": "2026-09-01",
       "verification_status": "verified_official_peer_reviewed_open_access_publication_date_findings_and_sample_limitations"
+    },
+    {
+      "category": "升学",
+      "current_status": "open_apply_now_until_2026-09-20",
+      "deadline": "2026-09-20",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-02",
+      "last_verified_at": "2026-09-02",
+      "updated_at": "2026-09-02",
+      "id": "maastricht-neuroai-auditory-neuroscience-phd-3722",
+      "location": "荷兰・马斯特里赫特",
+      "organization": "Maastricht University · Faculty of Psychology and Neuroscience · ARCHIE Lab",
+      "priority": 99,
+      "published_at": "",
+      "relevance": "把 7T fMRI、自然声音认知、表征建模和深度学习放在同一博士项目中；官网明确只要求在神经影像或 AI／机器学习两端至少精通一端，并为另一端提供强化训练，跨方向入口罕见且高度匹配。",
+      "section": "神经与认知项目",
+      "source_url": "https://vacancies.maastrichtuniversity.nl/job/Maastricht-PhD-Candidate-in-NeuroAI-for-Auditory-Neuroscience/1370912857/",
+      "summary": "NASCE ERC Synergy 项目中的全职博士，研究真实听觉场景在大脑与人工神经网络中的表征。工作包括采集和分析自然声音知觉的 7T fMRI、开发深度学习／NeuroAI 模型、以多变量和表征方法连接行为、脑与模型数据，并建设开放可复现管线。要求认知／计算神经科学、AI、计算机、生物医学工程、定量认知科学、数据科学或相关硕士；只需在神经影像或 AI／机器学习其中一端具备实践经验，但须愿意补足另一端。Python、统计和数据分析为核心，英语至少 C1。9 月 20 日截止；首份合同 12 个月，评估通过后延至完整博士期，月薪 €3,204–4,051。官方页未列发布日期，因此虽为今日首次发现，保守标为历史补录。",
+      "summary_en": "A full-time PhD within the NASCE ERC Synergy project, studying representations of natural auditory scenes across the brain and artificial neural networks. The role combines 7T fMRI acquisition/analysis, deep-learning and NeuroAI models, multivariate/representational modelling of behavioural-brain-model data, and reproducible pipelines. A relevant master's is required. Practical experience is needed in either neuroimaging or AI/ML—not both—together with motivation to train in the complementary field, plus Python, statistics and C1 English. Applications close on 20 September; the initial 12-month contract can extend for the full PhD after positive evaluation, with €3,204–4,051 gross monthly salary. The official page does not state a posting date, so this first discovery is conservatively recorded as a historical backfill.",
+      "tags": [
+        "历史补录",
+        "今日首次发现",
+        "官方发布日期未列",
+        "需尽快行动",
+        "博士",
+        "NeuroAI",
+        "听觉神经科学",
+        "7T fMRI",
+        "自然声音",
+        "深度学习",
+        "表征建模",
+        "Python",
+        "跨方向训练",
+        "硕士要求",
+        "英语C1",
+        "9月20日截止",
+        "全职带薪博士"
+      ],
+      "title": "马斯特里赫特大学 NeuroAI 听觉神经科学博士",
+      "title_en": "PhD Candidate in NeuroAI for Auditory Neuroscience",
+      "verification_status": "verified_open_official_employer_page_job_id_3722_deadline_salary_eligibility_methods_and_cross_training_official_posting_date_not_listed"
     }
   ],
   "last_run_receipt": {
-    "run_type": "same_day_incremental_scan",
-    "executed_at_beijing": "2026-09-01T12:32:56+08:00",
-    "increment_boundary": "2026-09-01T08:02:11+08:00",
-    "result": "completed_with_four_historical_backfills_no_strictly_new_publications_no_status_changes",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed_browser_permission_denied",
-    "content_commit_sha": "224c2d22ddff59f53a83b196fdba84a18a343116",
-    "note": "远端回读确认 180 个唯一 ID、180 个唯一官方链接、分类总数一致及 4 个补录 ID；公开 Pages 直连受安全策略拒绝，内置浏览器访问权限亦被拒绝，未冒充已刷新。"
+    "run_type": "daily_full_scan",
+    "executed_at_beijing": "2026-09-02T08:00:10+08:00",
+    "increment_boundary": "2026-09-01T12:32:56+08:00",
+    "result": "completed_with_one_historical_backfill_two_status_changes_no_strictly_new_officially_dated_items",
+    "repository_write": "pending",
+    "public_site_verification": "pending",
+    "content_commit_sha": "",
+    "note": "待完成远端写入与回读校验。"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
     "newly_published_today": 0,
     "newly_published_since_last_scan": 0,
-    "newItemsOfficiallyDatedToday": 2,
-    "historical_backfills_added": 4,
-    "status_changes": 0,
-    "existing_urgent_reverified": 4,
-    "still_open_urgent_items": 29,
+    "newItemsOfficiallyDatedToday": 0,
+    "historical_backfills_added": 1,
+    "status_changes": 2,
+    "existing_urgent_reverified": 2,
+    "still_open_urgent_items": 26,
     "category_counts": {
-      "升学": 0,
-      "实验室": 2,
+      "升学": 1,
+      "实验室": 0,
       "求职": 0,
-      "研究": 2
+      "研究": 0
     },
     "database_category_totals": {
-      "升学": 30,
+      "研究": 92,
       "实验室": 36,
-      "求职": 22,
-      "研究": 92
+      "升学": 31,
+      "求职": 22
     },
-    "database_items_total": 180,
+    "database_items_total": 181,
     "excluded_expired_or_ineligible": [
-      "本轮没有可严格证明晚于 08:02 上线的条目；两篇 9 月 1 日论文只有日级发布日期，保守标为历史补录。",
-      "Apple 中国区当前新增主线为 Senior／Principal／Manager 层级；国内大厂结果仍多受在校身份、毕业届别或强算法经验限制。",
-      "RMIT Data Science and AI 2027 页面明确不向需要学生签证的国际申请者开放；Oxford Neuroscience 2027 申请尚未开放。",
-      "UNSW Face Research Lab 为 Research Associate 且层级与经验画像偏高；KCL CONNECT 岗要求既有 NHS 严重精神疾病人群工作经验。",
-      "Nature 当日多篇结果偏肿瘤、免疫、道路／工程或与神经认知主线弱，未因含 AI／neuro 关键词机械收录。"
+      "Maastricht NeuroAI 博士今日首次发现，但官方页未列发布日期，严格标为历史补录而非今日新发布。",
+      "QMUL Clinical Trials Database Developer 要求既有临床试验 EDC 数据库与监管／信息治理经验，未按初级通用数据岗收录。",
+      "欧洲检索到的认知发展岗位为博士后；中国大厂和外企中国区结果多受在校／届别、相关学位或成熟经验限制。",
+      "9月1日检索到的脑信号引导机器推理内容为 News & Views，非原始研究；其余高相关论文并非本轮新发表，未重复收录。"
     ]
   },
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_with_one_historical_backfill",
+      "note": "补录 Maastricht NeuroAI 听觉神经科学博士；官方未列发布日期，未误标为今日发布。"
     },
     {
       "source_group": "数据／计算／AI项目",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_with_one_status_change",
+      "note": "St Andrews 9 月入学截止已过；10 月入学与 9 月 23 日奖学金节点仍开放。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_with_two_historical_backfills",
-      "note": "补录 2 个 NTU 本科入口 RA；KCL、UBC、QMUL 紧迫项完成增量复核。"
+      "status": "incremental_scan_completed_urgent_reverification",
+      "note": "QMUL 今天截止、KCL 9 月 4 日截止；UBC CODA 转关闭。"
     },
     {
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_with_two_historical_backfills",
-      "note": "补录 2 篇 9 月 1 日研究；只有日级发布日期，均未误标为 08:02 后新发布。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 Nature、eLife、Oxford Academic 等官方入口；9 月 1 日高相关新结果以评论、非原始研究或证据／增量不足为主，未为凑数收录。"
     },
     {
       "source_group": "数据分析岗位",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "note": "已扫描，无高质量新增。"
     },
     {
       "source_group": "算法与AI岗位",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "note": "已扫描，无高质量新增。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_urgent_reverification",
+      "note": "QMUL 医疗数据 RA 今天截止；无高质量新增。"
     },
     {
       "source_group": "其他求职",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "note": "已扫描，无高质量新增。"
     },
     {
       "source_group": "中国大厂官方招聘",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "note": "已扫描百度、字节等官方入口，无高质量新增。"
     },
     {
       "source_group": "外企中国区 Careers",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "今日已扫描，无高质量新增。"
+      "note": "已扫描 SAP、Microsoft 等官方 Careers，无高质量新增。"
     }
   ]
 }
