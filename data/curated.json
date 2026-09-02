@@ -5915,10 +5915,10 @@
     "executed_at_beijing": "2026-09-02T08:00:10+08:00",
     "increment_boundary": "2026-09-01T12:32:56+08:00",
     "result": "completed_with_one_historical_backfill_two_status_changes_no_strictly_new_officially_dated_items",
-    "repository_write": "pending",
-    "public_site_verification": "pending",
-    "content_commit_sha": "",
-    "note": "待完成远端写入与回读校验。"
+    "repository_write": "completed_and_remote_content_revalidated",
+    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed_safe_open_denied",
+    "content_commit_sha": "230a035269be033d83f2277a113ec922e33f5743",
+    "note": "远端回读确认 181 个唯一 ID、181 个唯一官方链接、分类总数一致、Maastricht 新补录及 St Andrews／UBC 两项状态变化；公开 Pages 直连被安全策略拒绝，未冒充已刷新。"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
