@@ -8,39 +8,39 @@
   },
   "coverage": [
     {
+      "note": "已扫描；QMUL 妊娠用药安全数据科学 RA 的 9 月 2 日截止已过，官方职位表仍可见但未发现正式延期；KCL EEG／机器学习 RA 9 月 4 日截止并仍可申请。无其他高质量新增。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_with_one_status_change_and_urgent_reverification",
-      "note": "已扫描；QMUL 妊娠用药安全数据科学 RA 的 9 月 2 日截止已过，官方职位表仍可见但未发现正式延期；KCL EEG／机器学习 RA 9 月 4 日截止并仍可申请。无其他高质量新增。"
+      "status": "incremental_scan_completed_with_one_status_change_and_urgent_reverification"
     },
     {
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口；无通过层级、资格与开放状态核验的高质量新增。",
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口；无通过层级、资格与开放状态核验的高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描；两条 HKU 9 月 4 日截止岗位仍显示 Apply now，NTU／NUS 官方入口无高质量新增。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
-      "note": "已扫描；两条 HKU 9 月 4 日截止岗位仍显示 Apply now，NTU／NUS 官方入口无高质量新增。"
+      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 OIST、RIKEN、SNU／KAIST 等官方入口；无高质量新增。",
       "region": "日本与韩国",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 OIST、RIKEN、SNU／KAIST 等官方入口；无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描；UC San Diego 2027 Neurosciences PhD 于美国当地 9 月 2 日开放，时间明确晚于上次扫描边界。加拿大官方入口无高质量新增。",
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_with_one_strictly_new_program",
-      "note": "已扫描；UC San Diego 2027 Neurosciences PhD 于美国当地 9 月 2 日开放，时间明确晚于上次扫描边界。加拿大官方入口无高质量新增。"
+      "status": "incremental_scan_completed_with_one_strictly_new_program"
     },
     {
+      "note": "已扫描；补录 UNSW Kirby Institute 临床 Data Officer，澳大利亚完整工作权为硬门槛。其余官方入口无高质量新增。",
       "region": "澳大利亚",
-      "status": "incremental_scan_completed_with_one_historical_backfill",
-      "note": "已扫描；补录 UNSW Kirby Institute 临床 Data Officer，澳大利亚完整工作权为硬门槛。其余官方入口无高质量新增。"
+      "status": "incremental_scan_completed_with_one_historical_backfill"
     },
     {
+      "note": "已扫描中国大厂校招／应届入口及外企中国区 Careers；可见结果仍主要受在校／毕业届别、相关学位或成熟经验限制，无高质量新增。",
       "region": "中国大陆",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描中国大厂校招／应届入口及外企中国区 Careers；可见结果仍主要受在校／毕业届别、相关学位或成熟经验限制，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     }
   ],
   "generated_at": "2026-09-03T07:58:04+08:00",
@@ -2906,6 +2906,7 @@
       "discovery_status": "existing_opportunity_still_open",
       "first_seen_at": "2026-08-06",
       "id": "hku-ctc-site-management-ra-537036",
+      "last_verified_at": "2026-09-03",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Clinical Trials Centre",
       "priority": 79,
@@ -2933,8 +2934,7 @@
       "title": "香港大学临床试验中心项目执行／研究助理 I/II（研究中心管理）",
       "title_en": "Project Executive, Site Management — Technical Officer / Research Assistant I/II",
       "updated_at": "2026-09-03",
-      "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03",
-      "last_verified_at": "2026-09-03"
+      "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03"
     },
     {
       "category": "实验室",
@@ -3233,6 +3233,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-05",
       "id": "hku-surgery-clinical-trials-ra2-537054",
+      "last_verified_at": "2026-09-03",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Surgery, School of Clinical Medicine",
       "priority": 91,
@@ -3260,8 +3261,7 @@
       "title": "香港大学外科学系临床试验与医学统计科研助理 II",
       "title_en": "Research Assistant II — Clinical Trials and Medical Statistics",
       "updated_at": "2026-09-03",
-      "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03",
-      "last_verified_at": "2026-09-03"
+      "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03"
     },
     {
       "category": "研究",
@@ -5927,10 +5927,10 @@
       "id": "ucsd-neurosciences-phd-fall-2027",
       "last_verified_at": "2026-09-03",
       "location": "美国・加州圣迭戈",
+      "official_opened_at": "2026-09-02",
       "organization": "University of California San Diego · Neurosciences Graduate Program",
       "priority": 96,
       "published_at": "2026-09-02",
-      "official_opened_at": "2026-09-02",
       "relevance": "顶尖神经科学博士项目，研究范围与跨学科入口广；适合愿意承担长期研究训练并能用问题驱动方式呈现既往研究思考的申请者。并非授课型硕士替代项。",
       "section": "神经与认知项目",
       "source_url": "https://neurograd.ucsd.edu/apply/application-info.html",
@@ -6032,24 +6032,17 @@
     }
   ],
   "last_run_receipt": {
-    "run_type": "daily_full_scan",
+    "content_commit_sha": "ef0a9a2021c9c4bd89392e6754c67eee8d698d9e",
     "executed_at_beijing": "2026-09-03T07:58:04+08:00",
     "increment_boundary": "2026-09-02T08:00:10+08:00",
+    "note": "内容提交已完成；将以最终回执提交再次回读，核验 184 个唯一 ID、184 个唯一官方链接、分类总数、必需字段及本轮 3 条新增／补录与 1 条状态变化。公开 Pages 直连被安全策略拒绝，未冒充已刷新。",
+    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed_safe_open_denied",
+    "repository_write": "content_commit_completed_pending_final_receipt_commit",
     "result": "completed_with_one_strictly_new_program_two_historical_backfills_one_status_change",
-    "repository_write": "pending_content_commit",
-    "public_site_verification": "pending",
-    "content_commit_sha": "",
-    "note": "待写入并回读核验。"
+    "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
-    "newly_published_today": 0,
-    "newly_published_since_last_scan": 1,
-    "newItemsOfficiallyDatedToday": 0,
-    "historical_backfills_added": 2,
-    "status_changes": 1,
-    "existing_urgent_reverified": 3,
-    "still_open_urgent_items": 27,
     "category_counts": {
       "升学": 1,
       "实验室": 0,
@@ -6057,10 +6050,10 @@
       "研究": 1
     },
     "database_category_totals": {
-      "研究": 93,
-      "实验室": 36,
       "升学": 32,
-      "求职": 23
+      "实验室": 36,
+      "求职": 23,
+      "研究": 93
     },
     "database_items_total": 184,
     "excluded_expired_or_ineligible": [
@@ -6068,58 +6061,65 @@
       "UNSW Data Officer 虽符合临床数据方向，但官网明确要求澳大利亚完整工作权且不提供签证担保，已显著标注而未列为普遍可行动项。",
       "欧洲、日本、韩国及企业入口结果多为博士后、研究员、管理岗、硬性成熟经验岗或受届别／在校身份限制的职位，未纳入。",
       "研究侧仅保留能改变 EEG／LFP 分析判断的方法学更新；其余新论文未为增加条目而收录。"
-    ]
+    ],
+    "existing_urgent_reverified": 3,
+    "historical_backfills_added": 2,
+    "newItemsOfficiallyDatedToday": 0,
+    "newly_published_since_last_scan": 1,
+    "newly_published_today": 0,
+    "status_changes": 1,
+    "still_open_urgent_items": 27
   },
   "source_coverage": [
     {
+      "note": "UC San Diego 2027 Neurosciences PhD 于 9 月 2 日开放；官网两处截止日相差一天，按较早的 11 月 18 日准备。",
       "source_group": "神经与认知项目",
-      "status": "incremental_scan_completed_with_one_strictly_new_program",
-      "note": "UC San Diego 2027 Neurosciences PhD 于 9 月 2 日开放；官网两处截止日相差一天，按较早的 11 月 18 日准备。"
+      "status": "incremental_scan_completed_with_one_strictly_new_program"
     },
     {
+      "note": "已扫描，无高质量新增。",
       "source_group": "数据／计算／AI项目",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "QMUL 9 月 2 日截止已过但列表仍可见；KCL 与两条 HKU 9 月 4 日截止项仍开放。",
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_one_status_change_and_three_urgent_reverifications",
-      "note": "QMUL 9 月 2 日截止已过但列表仍可见；KCL 与两条 HKU 9 月 4 日截止项仍开放。"
+      "status": "incremental_scan_completed_one_status_change_and_three_urgent_reverifications"
     },
     {
+      "note": "补录一项对 EEG／LFP 变异度量有直接方法意义的 Communications Biology 研究；其余结果未达到增量与证据门槛。",
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_with_one_historical_backfill",
-      "note": "补录一项对 EEG／LFP 变异度量有直接方法意义的 Communications Biology 研究；其余结果未达到增量与证据门槛。"
+      "status": "incremental_scan_completed_with_one_historical_backfill"
     },
     {
+      "note": "补录 UNSW Kirby Institute 临床 Data Officer；完整澳大利亚工作权为硬门槛。",
       "source_group": "数据分析岗位",
-      "status": "incremental_scan_completed_with_one_historical_backfill",
-      "note": "补录 UNSW Kirby Institute 临床 Data Officer；完整澳大利亚工作权为硬门槛。"
+      "status": "incremental_scan_completed_with_one_historical_backfill"
     },
     {
+      "note": "已扫描，无高质量新增。",
       "source_group": "算法与AI岗位",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "UNSW 临床数据岗补录；QMUL 截止已过但官方列表仍可见。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_one_historical_backfill_one_status_change",
-      "note": "UNSW 临床数据岗补录；QMUL 截止已过但官方列表仍可见。"
+      "status": "incremental_scan_completed_one_historical_backfill_one_status_change"
     },
     {
+      "note": "已扫描，无高质量新增。",
       "source_group": "其他求职",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描百度、字节、阿里、华为等官方入口，无高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节、阿里、华为等官方入口，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 Google、SAP、Microsoft 等官方 Careers，无高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 Google、SAP、Microsoft 等官方 Careers，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     }
   ]
 }
