@@ -6035,9 +6035,9 @@
     "content_commit_sha": "ef0a9a2021c9c4bd89392e6754c67eee8d698d9e",
     "executed_at_beijing": "2026-09-03T07:58:04+08:00",
     "increment_boundary": "2026-09-02T08:00:10+08:00",
-    "note": "内容提交已完成；将以最终回执提交再次回读，核验 184 个唯一 ID、184 个唯一官方链接、分类总数、必需字段及本轮 3 条新增／补录与 1 条状态变化。公开 Pages 直连被安全策略拒绝，未冒充已刷新。",
+    "note": "远端回读确认 184 个唯一 ID、184 个唯一官方链接、分类总数一致、必需字段完整，并核验 UCSD／UNSW／Communications Biology 三条本轮记录及 QMUL 状态变化；公开 Pages 直连被安全策略拒绝，未冒充已刷新。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed_safe_open_denied",
-    "repository_write": "content_commit_completed_pending_final_receipt_commit",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_one_strictly_new_program_two_historical_backfills_one_status_change",
     "run_type": "daily_full_scan"
   },
