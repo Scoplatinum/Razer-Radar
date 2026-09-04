@@ -8,42 +8,42 @@
   },
   "coverage": [
     {
-      "note": "已扫描；QMUL 妊娠用药安全数据科学 RA 的 9 月 2 日截止已过，官方职位表仍可见但未发现正式延期；KCL EEG／机器学习 RA 9 月 4 日截止并仍可申请。无其他高质量新增。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_with_one_status_change_and_urgent_reverification"
+      "status": "incremental_scan_completed_one_status_change_three_urgent_reverifications_one_research_backfill",
+      "note": "已扫描；KCL EEG／机器学习 RA 今日仍显示 Apply now，QMUL 妊娠用药安全数据科学 RA 已从官方职位表撤下；补录一项 eLife EEG–层级 fMRI 研究。无其他高质量新增。"
     },
     {
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方高校／研究入口；无通过层级、资格与开放状态核验的高质量新增。",
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_with_one_high_match_phd_historical_backfill",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；补录 Radboudumc 抑郁症脑刺激神经可塑性博士。其余无高质量新增。"
     },
     {
-      "note": "已扫描；两条 HKU 9 月 4 日截止岗位仍显示 Apply now，NTU／NUS 官方入口无高质量新增。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items"
+      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
+      "note": "已扫描；两条 HKU 9 月 4 日截止岗位仍显示 Apply now，NUS／NTU 官方入口无高质量新增。"
     },
     {
-      "note": "已扫描 OIST、RIKEN、SNU／KAIST 等官方入口；无高质量新增。",
       "region": "日本与韩国",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 OIST、RIKEN、SNU／KAIST 等官方入口；无高质量新增。"
     },
     {
-      "note": "已扫描；UC San Diego 2027 Neurosciences PhD 于美国当地 9 月 2 日开放，时间明确晚于上次扫描边界。加拿大官方入口无高质量新增。",
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_with_one_strictly_new_program"
+      "status": "incremental_scan_completed_with_one_research_historical_backfill",
+      "note": "已扫描官方项目、实验室与招聘入口；补录一项 Nature Neuroscience 计算学习研究，加拿大入口无高质量新增。"
     },
     {
-      "note": "已扫描；补录 UNSW Kirby Institute 临床 Data Officer，澳大利亚完整工作权为硬门槛。其余官方入口无高质量新增。",
       "region": "澳大利亚",
-      "status": "incremental_scan_completed_with_one_historical_backfill"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 UNSW、悉尼大学等官方入口；无高质量新增。"
     },
     {
-      "note": "已扫描中国大厂校招／应届入口及外企中国区 Careers；可见结果仍主要受在校／毕业届别、相关学位或成熟经验限制，无高质量新增。",
       "region": "中国大陆",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；结果主要受 2027 届／在校身份、相关学位或成熟经验限制，无高质量新增。"
     }
   ],
-  "generated_at": "2026-09-03T07:58:04+08:00",
+  "generated_at": "2026-09-04T07:58:25+08:00",
   "items": [
     {
       "category": "研究",
@@ -118,7 +118,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-30",
       "id": "kcl-eeg-data-curation-machine-learning-ra-156745",
-      "last_verified_at": "2026-09-03",
+      "last_verified_at": "2026-09-04",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Psychiatry, Psychology & Neuroscience · Basic & Clinical Neuroscience",
       "priority": 99,
@@ -129,6 +129,7 @@
       "summary": "12 个月全职 Research Assistant，负责汇集皮下长程 EEG、临床头皮 EEG 与公共数据集，建立标准化预处理、通道协调、质控和特征工程管线，并参与自监督学习任务及高性能计算训练。要求计算神经科学、生物信息、机器学习、数据科学、生物医学工程等硕士，或等同资格／经验；Python、Git、复杂数据管线、生理时间序列、机器学习和 EEG 经验均列为必需。9 月 4 日 23:59 截止，但官网提示可能提前关闭。",
       "summary_en": "A 12-month full-time Research Assistant role curating subcutaneous, clinical scalp and public EEG into a documented, quality-controlled resource; building preprocessing, channel-harmonisation, QC and feature-engineering pipelines; and contributing to self-supervised learning and HPC training. A relevant master's degree or equivalent experience is required, alongside Python/Git, complex data pipelines, physiological time-series, machine learning and EEG experience. Applications close at 23:59 on 4 September and may close early.",
       "tags": [
+        "2026年9月4日复核仍开放",
         "既有机会仍开放",
         "需尽快行动",
         "明天截止",
@@ -148,7 +149,7 @@
       ],
       "title": "伦敦国王学院 EEG 数据整理与机器学习科研助理",
       "title_en": "Research Assistant in EEG Data Curation and Machine Learning",
-      "updated_at": "2026-09-03",
+      "updated_at": "2026-09-04",
       "verification_status": "verified_open_official_employer_page_apply_link_posting_deadline_and_may_close_early_warning_2026_09_03"
     },
     {
@@ -293,12 +294,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "deadline_passed_still_listed_on_official_current_opportunities_no_formal_extension",
+      "current_status": "closed_removed_from_official_current_opportunities_after_2026-09-02_deadline",
       "deadline": "2026-09-02",
       "discovery_status": "status_change",
       "first_seen_at": "2026-08-29",
       "id": "qmul-pregnancy-medication-safety-data-science-ra-10763",
-      "last_verified_at": "2026-09-03",
+      "last_verified_at": "2026-09-04",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · Wolfson Institute of Population Health",
       "priority": 70,
@@ -309,9 +310,9 @@
       "summary": "固定期限全职 RA，使用大规模匿名电子健康记录研究妊娠期药物安全及子代长期结局，结合流行病学、医学统计、数据科学与高级统计／AI 方法。官网确认 Ref 10763、薪资 £38,419–£39,022、9 月 2 日截止；招聘说明最适合健康数据科学、临床流行病学或医学统计硕士，属于高门槛岗位，签证支持未列明。",
       "summary_en": "A fixed-term full-time RA analysing large anonymised health records for medication safety in pregnancy and longer-term offspring outcomes, combining epidemiology, medical statistics, data science and advanced statistical/AI methods. The official list confirms Ref 10763, £38,419–£39,022 and a 2 September deadline. An MSc in health data science, clinical epidemiology or medical statistics is the ideal profile; sponsorship is not stated.",
       "tags": [
+        "官方列表已撤下",
         "状态变化",
         "9月2日截止已过",
-        "官方职位表仍可见",
         "未发现正式延期",
         "不按正常开放处理",
         "医疗数据科学",
@@ -327,8 +328,8 @@
       ],
       "title": "伦敦玛丽女王大学妊娠用药安全数据科学科研助理",
       "title_en": "Research Assistant in Data Science — Medication Safety in Pregnancy",
-      "updated_at": "2026-09-03",
-      "verification_status": "verified_official_current_opportunities_listing_still_visible_after_2026_09_02_deadline_no_formal_extension_2026_09_03"
+      "updated_at": "2026-09-04",
+      "verification_status": "verified_closed_removed_from_official_qmul_current_opportunities_2026_09_04"
     },
     {
       "category": "研究",
@@ -2903,10 +2904,10 @@
       "category": "求职",
       "current_status": "open_rolling_review_started_until_2026-09-04_or_filled",
       "deadline": "2026-09-04",
-      "discovery_status": "existing_opportunity_still_open",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-06",
       "id": "hku-ctc-site-management-ra-537036",
-      "last_verified_at": "2026-09-03",
+      "last_verified_at": "2026-09-04",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Clinical Trials Centre",
       "priority": 79,
@@ -2917,6 +2918,7 @@
       "summary": "HKU 临床试验中心的全职项目执行岗位，可按 Technical Officer／RA I／RA II 聘用，官网明确提供完整在职培训并欢迎应届毕业生。接受生物或生命科学本科；工作包括项目可行性评估、物流和排期协调、伦理申请、预算与财务管理、临床研究合同及内外部沟通。8 月 19 日开始审查，9 月 4 日截止或招满即止。英语和粤语书面及口语能力为明确要求，普通话为加分项。",
       "summary_en": "A full-time clinical-trial site-management role appointable at Technical Officer or RA I/II level. HKU explicitly provides comprehensive on-the-job training and welcomes fresh graduates with a bachelor's degree in biological or life sciences. Duties cover feasibility assessment, logistics and scheduling, ethics submissions, budgets and financial administration, clinical-study contracts, and communication with internal and external collaborators. Review starts on 19 August and continues until 4 September or until filled. Written and spoken English and Cantonese are required; Putonghua is advantageous.",
       "tags": [
+        "2026年9月4日复核仍开放",
         "既有机会仍开放",
         "需尽快行动",
         "明天截止",
@@ -2933,7 +2935,7 @@
       ],
       "title": "香港大学临床试验中心项目执行／研究助理 I/II（研究中心管理）",
       "title_en": "Project Executive, Site Management — Technical Officer / Research Assistant I/II",
-      "updated_at": "2026-09-03",
+      "updated_at": "2026-09-04",
       "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03"
     },
     {
@@ -3233,7 +3235,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-05",
       "id": "hku-surgery-clinical-trials-ra2-537054",
-      "last_verified_at": "2026-09-03",
+      "last_verified_at": "2026-09-04",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Surgery, School of Clinical Medicine",
       "priority": 91,
@@ -3244,6 +3246,7 @@
       "summary": "两年期全职 RA II，可续约。岗位参与临床试验与临床研究，工作涉及患者接触、研究数据库管理、医学统计分析及研究执行，并有机会参与论文署名。官网要求本科，未规定固定工作年限；患者接触、数据库管理和深入医学统计能力属于优先条件。申请滚动审查，最迟至 9 月 4 日或招满即止。官方页面未列明粤语或其他具体语言要求，涉及患者沟通的实际语言门槛应在投递前确认。",
       "summary_en": "A two-year, renewable full-time RA II role supporting clinical trials and clinical research. Duties include patient contact, research-database management, in-depth medical statistics and study execution, with potential authorship opportunities. A bachelor's degree is required, with no fixed years-of-experience threshold; patient-facing experience, database management and stronger medical-statistics skills are prioritized. Applications are reviewed rolling until 4 September or until filled. The official listing does not specify Cantonese or another language requirement, so the practical language needs for patient contact should be confirmed before applying.",
       "tags": [
+        "2026年9月4日复核仍开放",
         "既有机会仍开放",
         "需尽快行动",
         "明天截止",
@@ -3260,7 +3263,7 @@
       ],
       "title": "香港大学外科学系临床试验与医学统计科研助理 II",
       "title_en": "Research Assistant II — Clinical Trials and Medical Statistics",
-      "updated_at": "2026-09-03",
+      "updated_at": "2026-09-04",
       "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03"
     },
     {
@@ -6029,16 +6032,130 @@
       "title_en": "On variability in local field potentials",
       "updated_at": "2026-09-03",
       "verification_status": "verified_official_peer_reviewed_version_of_record_abstract_methods_findings_data_code_and_limitations_2026_09_03"
+    },
+    {
+      "id": "radboudumc-phd-neuroplasticity-brain-stimulation-depression-379145",
+      "category": "升学",
+      "section": "神经与认知项目",
+      "title": "Radboudumc 抑郁症脑刺激神经可塑性博士",
+      "title_en": "PhD Candidate in Neuroplasticity of Brain Stimulation in Depression",
+      "organization": "Radboud university medical center · Donders Institute",
+      "location": "荷兰・奈梅亨",
+      "published_at": "2026-08-31",
+      "updated_at": "2026-09-04",
+      "deadline": "2026-09-23",
+      "summary": "四年博士项目研究电休克治疗如何改变重度抑郁症的神经可塑性。将协调患者纵向研究，并在治疗前、中、后采集结构／功能 MRI、EEG 与 TMS-EEG，整合临床、认知和神经生理数据；联盟还结合 PET、死后脑研究与多尺度建模。要求定量相关硕士，统计或 R／Python／MATLAB 经验为必需；MRI 或 TMS-EEG 仅要求兴趣／契合，官网明确学习意愿重于已有完整技能。9 月 23 日截止，首轮面试 9 月 28 日。需注意患者招募、临床协调和现场采集占比高，并非纯计算岗位。",
+      "summary_en": "A four-year PhD investigating how electroconvulsive therapy alters neuroplasticity in major depression. The candidate will coordinate a longitudinal patient study with structural/functional MRI, EEG and TMS-EEG before, during and after treatment, integrating clinical, cognitive and neurophysiological data within a consortium that also uses PET, post-mortem neuroscience and multiscale modelling. A master's in a numerate or related discipline is required, with statistics or R/Python/MATLAB essential; willingness to learn is explicitly valued over already having every method. Applications close 23 September, with first interviews on 28 September. Patient recruitment and clinical coordination are substantial parts of the role.",
+      "relevance": "把 MRI、EEG／TMS-EEG、临床抑郁研究和计算建模结合在同一带薪博士中；资格文本对跨方向候选人相对友好，但需接受大量患者协调与现场采集。",
+      "tags": [
+        "历史补录",
+        "官方8月31日发布",
+        "今日首次发现",
+        "需尽快行动",
+        "博士",
+        "抑郁症",
+        "神经可塑性",
+        "ECT",
+        "MRI",
+        "EEG",
+        "TMS-EEG",
+        "计算神经科学",
+        "R",
+        "Python",
+        "MATLAB",
+        "患者招募",
+        "9月23日截止"
+      ],
+      "verification_status": "verified_open_official_employer_page_posting_date_deadline_salary_methods_eligibility_and_interview_date_2026_09_04",
+      "source_url": "https://www.werkenbijradboudumc.nl/vacatures/phd-candidate-neuroplasticity-of-brain-stimulation-in-depression-nijmegen-379145",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-04",
+      "last_verified_at": "2026-09-04",
+      "current_status": "open_apply_now_until_2026-09-23",
+      "priority": 99
+    },
+    {
+      "id": "elife-interleaved-eeg-fmri-laminar-visual-activity-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "交错 EEG–层级 fMRI 分离视觉特异性振荡的频率与皮层层次",
+      "title_en": "Frequency and laminar profile of feature-specific visual activity revealed by interleaved EEG–fMRI",
+      "organization": "eLife",
+      "location": "英国／荷兰",
+      "published_at": "2026-09-03",
+      "updated_at": "2026-09-04",
+      "deadline": "",
+      "summary": "研究用交错 EEG 与层级 fMRI 解析人类视觉皮层的特征选择性活动：特征特异性 γ 活动与较浅层信号相关，而 α 频段中较低频成分更一般化、较高频成分更具特征选择性，并呈不同层级分布。eLife 评价为 Fundamental／Compelling。价值在于把非侵入电生理频率与皮层层次联系起来；限制是层级 BOLD 仍是间接指标，EEG 源定位与血管层级偏差会影响解释，且视觉范式中的机制未必推广到其他认知域。",
+      "summary_en": "Interleaved EEG and laminar fMRI linked feature-specific visual gamma activity to superficial-layer signals and dissociated more general lower-frequency from feature-specific higher-frequency alpha activity across cortical depths. eLife assessed the work as Fundamental/Compelling. The study directly connects non-invasive electrophysiological frequencies with cortical laminar organisation, but laminar BOLD remains indirect, EEG source localisation and vascular depth biases constrain interpretation, and generalisation beyond the visual paradigm is untested.",
+      "relevance": "对 EEG–fMRI、多模态成像及视觉预测／振荡研究的方法设计有直接参考价值。",
+      "tags": [
+        "历史补录",
+        "2026年9月3日发表",
+        "eLife",
+        "Version of Record",
+        "Fundamental",
+        "Compelling",
+        "EEG",
+        "层级fMRI",
+        "视觉皮层",
+        "alpha",
+        "gamma",
+        "多模态成像",
+        "局限已标注"
+      ],
+      "verification_status": "verified_official_elife_version_of_record_editorial_assessment_methods_findings_and_limitations_2026_09_04",
+      "source_url": "https://elifesciences.org/articles/108408",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-04",
+      "last_verified_at": "2026-09-04",
+      "current_status": "published_version_of_record_open_access",
+      "priority": 96
+    },
+    {
+      "id": "nature-neuroscience-structured-experience-strategy-learning-mec-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "结构化早期经验塑造策略学习与内嗅皮层神经动力学",
+      "title_en": "Structured experience shapes strategy learning and neural dynamics in the medial entorhinal cortex",
+      "organization": "Nature Neuroscience",
+      "location": "美国",
+      "published_at": "2026-09-03",
+      "updated_at": "2026-09-04",
+      "deadline": "",
+      "summary": "研究先用气味计时任务训练循环神经网络，再以小鼠行为和内侧内嗅皮层记录检验模型预测。缺少结构化早期训练时，模型与小鼠都更容易形成僵化、易错的策略；结构化课程则促进反映任务时间结构的神经活动，并改善随任务复杂度上升时的抽象与泛化。限制是动物任务和 RNN 都高度简化，模型—脑动力学相似不能证明内嗅皮层实现同一算法，课程效应对人类复杂学习的外推仍需验证。",
+      "summary_en": "Recurrent neural networks were trained on an odour-timing task and their predictions tested with mouse behaviour and medial entorhinal cortex recordings. Without structured early experience, both networks and mice developed rigid, error-prone strategies; structured curricula promoted neural dynamics reflecting temporal task structure and better abstraction/generalisation as complexity increased. The task and RNN are simplified, model–brain dynamical similarity does not establish identical implementation, and translation to complex human learning remains untested.",
+      "relevance": "把课程学习、RNN 动力系统分析与神经记录连接起来，是计算认知中“经验结构如何影响抽象与泛化”的强证据案例。",
+      "tags": [
+        "历史补录",
+        "2026年9月3日发表",
+        "Nature Neuroscience",
+        "策略学习",
+        "课程学习",
+        "RNN",
+        "动力系统",
+        "内侧内嗅皮层",
+        "小鼠",
+        "抽象",
+        "泛化",
+        "局限已标注"
+      ],
+      "verification_status": "verified_official_nature_neuroscience_version_of_record_methods_findings_data_source_and_limitations_2026_09_04",
+      "source_url": "https://www.nature.com/articles/s41593-026-02409-7",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-04",
+      "last_verified_at": "2026-09-04",
+      "current_status": "published_peer_reviewed_version_of_record",
+      "priority": 95
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "ef0a9a2021c9c4bd89392e6754c67eee8d698d9e",
-    "executed_at_beijing": "2026-09-03T07:58:04+08:00",
-    "increment_boundary": "2026-09-02T08:00:10+08:00",
-    "note": "远端回读确认 184 个唯一 ID、184 个唯一官方链接、分类总数一致、必需字段完整，并核验 UCSD／UNSW／Communications Biology 三条本轮记录及 QMUL 状态变化；公开 Pages 直连被安全策略拒绝，未冒充已刷新。",
-    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed_safe_open_denied",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_one_strictly_new_program_two_historical_backfills_one_status_change",
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-09-04T07:58:25+08:00",
+    "increment_boundary": "2026-09-03T07:58:04+08:00",
+    "note": "完整地区、项目、招聘与期刊入口扫描已完成；远端写入前通过唯一 ID、唯一官方链接、必需字段、分类计数与隐私措辞检查。",
+    "public_site_verification": "pending_repository_write",
+    "repository_write": "in_progress",
+    "result": "completed_with_three_historical_backfills_one_status_change",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
@@ -6046,80 +6163,80 @@
     "category_counts": {
       "升学": 1,
       "实验室": 0,
-      "求职": 1,
-      "研究": 1
+      "求职": 0,
+      "研究": 2
     },
     "database_category_totals": {
-      "升学": 32,
+      "研究": 95,
       "实验室": 36,
-      "求职": 23,
-      "研究": 93
+      "升学": 33,
+      "求职": 23
     },
-    "database_items_total": 184,
+    "database_items_total": 187,
     "excluded_expired_or_ineligible": [
-      "QMUL 妊娠用药安全数据科学 RA 的官方截止日已过；职位表仍可见但无正式延期，因此不继续计作正常开放。",
-      "UNSW Data Officer 虽符合临床数据方向，但官网明确要求澳大利亚完整工作权且不提供签证担保，已显著标注而未列为普遍可行动项。",
-      "欧洲、日本、韩国及企业入口结果多为博士后、研究员、管理岗、硬性成熟经验岗或受届别／在校身份限制的职位，未纳入。",
-      "研究侧仅保留能改变 EEG／LFP 分析判断的方法学更新；其余新论文未为增加条目而收录。"
+      "QMUL 妊娠用药安全数据科学 RA 已从官方 Current Opportunities 撤下，转为关闭。",
+      "HKU 学生助理只接受 HKU 在读生；中国大厂可见新增多受 2027 届或在校身份限制，未纳入。",
+      "澳大利亚新增岗位多要求已有完整工作权；欧洲部分新博士以湿实验、动物模型或基因治疗为主，未纳入。",
+      "研究侧只保留两项主题相关且证据较强的更新，其余未为增加条目而收录。"
     ],
     "existing_urgent_reverified": 3,
-    "historical_backfills_added": 2,
+    "historical_backfills_added": 3,
     "newItemsOfficiallyDatedToday": 0,
-    "newly_published_since_last_scan": 1,
+    "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
     "status_changes": 1,
-    "still_open_urgent_items": 27
+    "still_open_urgent_items": 28
   },
   "source_coverage": [
     {
-      "note": "UC San Diego 2027 Neurosciences PhD 于 9 月 2 日开放；官网两处截止日相差一天，按较早的 11 月 18 日准备。",
       "source_group": "神经与认知项目",
-      "status": "incremental_scan_completed_with_one_strictly_new_program"
+      "status": "incremental_scan_completed_with_one_historical_backfill",
+      "note": "补录 Radboudumc 抑郁症脑刺激神经可塑性博士；KCL 与两条 HKU 今日截止项已复核。"
     },
     {
-      "note": "已扫描，无高质量新增。",
       "source_group": "数据／计算／AI项目",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描，无高质量新增。"
     },
     {
-      "note": "QMUL 9 月 2 日截止已过但列表仍可见；KCL 与两条 HKU 9 月 4 日截止项仍开放。",
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_one_status_change_and_three_urgent_reverifications"
+      "status": "incremental_scan_completed_one_status_change_three_urgent_reverifications",
+      "note": "KCL 与两条 HKU 今日仍开放；QMUL 逾期岗位已从官方列表撤下。"
     },
     {
-      "note": "补录一项对 EEG／LFP 变异度量有直接方法意义的 Communications Biology 研究；其余结果未达到增量与证据门槛。",
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_with_one_historical_backfill"
+      "status": "incremental_scan_completed_with_two_historical_backfills",
+      "note": "补录 EEG–层级 fMRI 与结构化经验／策略学习两项高质量研究；均含方法、发现与限制。"
     },
     {
-      "note": "补录 UNSW Kirby Institute 临床 Data Officer；完整澳大利亚工作权为硬门槛。",
       "source_group": "数据分析岗位",
-      "status": "incremental_scan_completed_with_one_historical_backfill"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描，无高质量新增。"
     },
     {
-      "note": "已扫描，无高质量新增。",
       "source_group": "算法与AI岗位",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描，无高质量新增。"
     },
     {
-      "note": "UNSW 临床数据岗补录；QMUL 截止已过但官方列表仍可见。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_one_historical_backfill_one_status_change"
+      "status": "incremental_scan_completed_one_status_change_and_urgent_reverification",
+      "note": "QMUL 已关闭；KCL 与 HKU 临床研究岗已复核。"
     },
     {
-      "note": "已扫描，无高质量新增。",
       "source_group": "其他求职",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描，无高质量新增。"
     },
     {
-      "note": "已扫描百度、字节、阿里、华为等官方入口，无高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描百度、字节、阿里、华为等官方入口；无高质量新增。"
     },
     {
-      "note": "已扫描 Google、SAP、Microsoft 等官方 Careers，无高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 Microsoft、SAP、Google 等官方 Careers；无高质量新增。"
     }
   ]
 }
