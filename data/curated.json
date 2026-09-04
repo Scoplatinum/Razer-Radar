@@ -6149,12 +6149,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "",
+    "content_commit_sha": "65cddc5f4ef9a5e50ddc05634ea78a4aa215b8bb",
     "executed_at_beijing": "2026-09-04T07:58:25+08:00",
     "increment_boundary": "2026-09-03T07:58:04+08:00",
-    "note": "完整地区、项目、招聘与期刊入口扫描已完成；远端写入前通过唯一 ID、唯一官方链接、必需字段、分类计数与隐私措辞检查。",
-    "public_site_verification": "pending_repository_write",
-    "repository_write": "in_progress",
+    "note": "远端内容写入后确认 187 个唯一 ID、187 个唯一官方链接、分类总数一致、必需字段完整，并核验 Radboudumc、KCL、两条 HKU、QMUL 及两项研究记录；公开 Pages 缓存刷新未独立确认。",
+    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_three_historical_backfills_one_status_change",
     "run_type": "daily_full_scan"
   },
