@@ -9,18 +9,18 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_one_status_change_three_urgent_reverifications_one_research_backfill",
-      "note": "已扫描；KCL EEG／机器学习 RA 今日仍显示 Apply now，QMUL 妊娠用药安全数据科学 RA 已从官方职位表撤下；补录一项 eLife EEG–层级 fMRI 研究。无其他高质量新增。"
+      "status": "incremental_scan_completed_one_status_change_no_high_quality_new_opportunities",
+      "note": "已扫描；KCL EEG／机器学习 RA 的 9 月 4 日截止日已过，申请入口仍可见但无正式延期，已停止按正常开放处理。无高质量新增机会。"
     },
     {
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_with_one_high_match_phd_historical_backfill",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；补录 Radboudumc 抑郁症脑刺激神经可塑性博士。其余无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；医学影像 AI 博士要求已完成相关硕士，其余多为湿实验或不匹配方向，无高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
-      "note": "已扫描；两条 HKU 9 月 4 日截止岗位仍显示 Apply now，NUS／NTU 官方入口无高质量新增。"
+      "status": "incremental_scan_completed_two_status_changes_no_high_quality_new_items",
+      "note": "已扫描；HKU 临床试验中心岗位已从官网撤下，外科学系 RA 截止后入口仍可见但无正式延期；新肝癌 RA 因湿实验门槛排除。NUS／NTU 无高质量新增。"
     },
     {
       "region": "日本与韩国",
@@ -29,21 +29,21 @@
     },
     {
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_with_one_research_historical_backfill",
-      "note": "已扫描官方项目、实验室与招聘入口；补录一项 Nature Neuroscience 计算学习研究，加拿大入口无高质量新增。"
+      "status": "incremental_scan_completed_with_one_new_research_item",
+      "note": "已扫描官方项目、实验室、招聘及期刊入口；新增一项 hd-DOT 自然电影语义编码原始研究，加拿大机会入口无高质量新增。"
     },
     {
       "region": "澳大利亚",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 UNSW、悉尼大学等官方入口；无高质量新增。"
+      "note": "已扫描 UNSW、悉尼大学等官方入口；无高质量新增，现有岗位仍主要受完整工作权限制。"
     },
     {
       "region": "中国大陆",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；结果主要受 2027 届／在校身份、相关学位或成熟经验限制，无高质量新增。"
+      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；结果主要受毕业届别、在校身份、相关专业或成熟经验限制，无高质量新增。"
     }
   ],
-  "generated_at": "2026-09-04T07:58:25+08:00",
+  "generated_at": "2026-09-05T07:59:26+08:00",
   "items": [
     {
       "category": "研究",
@@ -113,12 +113,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_apply_now_until_2026-09-04_may_close_early",
+      "current_status": "official_deadline_passed_apply_link_still_visible_no_formal_extension",
       "deadline": "2026-09-04 23:59（英国时间；可能提前关闭）",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-30",
       "id": "kcl-eeg-data-curation-machine-learning-ra-156745",
-      "last_verified_at": "2026-09-04",
+      "last_verified_at": "2026-09-05",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Psychiatry, Psychology & Neuroscience · Basic & Clinical Neuroscience",
       "priority": 99,
@@ -129,10 +129,6 @@
       "summary": "12 个月全职 Research Assistant，负责汇集皮下长程 EEG、临床头皮 EEG 与公共数据集，建立标准化预处理、通道协调、质控和特征工程管线，并参与自监督学习任务及高性能计算训练。要求计算神经科学、生物信息、机器学习、数据科学、生物医学工程等硕士，或等同资格／经验；Python、Git、复杂数据管线、生理时间序列、机器学习和 EEG 经验均列为必需。9 月 4 日 23:59 截止，但官网提示可能提前关闭。",
       "summary_en": "A 12-month full-time Research Assistant role curating subcutaneous, clinical scalp and public EEG into a documented, quality-controlled resource; building preprocessing, channel-harmonisation, QC and feature-engineering pipelines; and contributing to self-supervised learning and HPC training. A relevant master's degree or equivalent experience is required, alongside Python/Git, complex data pipelines, physiological time-series, machine learning and EEG experience. Applications close at 23:59 on 4 September and may close early.",
       "tags": [
-        "2026年9月4日复核仍开放",
-        "既有机会仍开放",
-        "需尽快行动",
-        "明天截止",
         "英国",
         "科研助理",
         "EEG",
@@ -145,12 +141,16 @@
         "9月4日截止",
         "可能提前关闭",
         "签证支持未说明",
-        "9月3日官方复核"
+        "状态变化",
+        "截止日已过",
+        "申请入口仍可见",
+        "未发现正式延期",
+        "2026年9月5日官方复核"
       ],
       "title": "伦敦国王学院 EEG 数据整理与机器学习科研助理",
       "title_en": "Research Assistant in EEG Data Curation and Machine Learning",
-      "updated_at": "2026-09-04",
-      "verification_status": "verified_open_official_employer_page_apply_link_posting_deadline_and_may_close_early_warning_2026_09_03"
+      "updated_at": "2026-09-05",
+      "verification_status": "verified_official_deadline_passed_apply_link_still_visible_no_formal_extension_2026_09_05"
     },
     {
       "category": "升学",
@@ -2902,12 +2902,12 @@
     },
     {
       "category": "求职",
-      "current_status": "open_rolling_review_started_until_2026-09-04_or_filled",
+      "current_status": "closed_official_jobnotfound_after_2026-09-04_deadline",
       "deadline": "2026-09-04",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-06",
       "id": "hku-ctc-site-management-ra-537036",
-      "last_verified_at": "2026-09-04",
+      "last_verified_at": "2026-09-05",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Clinical Trials Centre",
       "priority": 79,
@@ -2918,10 +2918,6 @@
       "summary": "HKU 临床试验中心的全职项目执行岗位，可按 Technical Officer／RA I／RA II 聘用，官网明确提供完整在职培训并欢迎应届毕业生。接受生物或生命科学本科；工作包括项目可行性评估、物流和排期协调、伦理申请、预算与财务管理、临床研究合同及内外部沟通。8 月 19 日开始审查，9 月 4 日截止或招满即止。英语和粤语书面及口语能力为明确要求，普通话为加分项。",
       "summary_en": "A full-time clinical-trial site-management role appointable at Technical Officer or RA I/II level. HKU explicitly provides comprehensive on-the-job training and welcomes fresh graduates with a bachelor's degree in biological or life sciences. Duties cover feasibility assessment, logistics and scheduling, ethics submissions, budgets and financial administration, clinical-study contracts, and communication with internal and external collaborators. Review starts on 19 August and continues until 4 September or until filled. Written and spoken English and Cantonese are required; Putonghua is advantageous.",
       "tags": [
-        "2026年9月4日复核仍开放",
-        "既有机会仍开放",
-        "需尽快行动",
-        "明天截止",
         "欢迎应届生",
         "临床试验",
         "项目协调",
@@ -2931,12 +2927,15 @@
         "粤语硬门槛",
         "在职培训",
         "9月4日截止",
-        "9月3日官方复核"
+        "状态变化",
+        "官方页面已撤下",
+        "已关闭",
+        "2026年9月5日官方复核"
       ],
       "title": "香港大学临床试验中心项目执行／研究助理 I/II（研究中心管理）",
       "title_en": "Project Executive, Site Management — Technical Officer / Research Assistant I/II",
-      "updated_at": "2026-09-04",
-      "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03"
+      "updated_at": "2026-09-05",
+      "verification_status": "verified_closed_official_jobnotfound_2026_09_05"
     },
     {
       "category": "实验室",
@@ -3230,12 +3229,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_apply_now_rolling_until_2026-09-04_or_filled",
+      "current_status": "official_deadline_passed_apply_link_still_visible_no_formal_extension",
       "deadline": "2026-09-04",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-05",
       "id": "hku-surgery-clinical-trials-ra2-537054",
-      "last_verified_at": "2026-09-04",
+      "last_verified_at": "2026-09-05",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Surgery, School of Clinical Medicine",
       "priority": 91,
@@ -3246,10 +3245,6 @@
       "summary": "两年期全职 RA II，可续约。岗位参与临床试验与临床研究，工作涉及患者接触、研究数据库管理、医学统计分析及研究执行，并有机会参与论文署名。官网要求本科，未规定固定工作年限；患者接触、数据库管理和深入医学统计能力属于优先条件。申请滚动审查，最迟至 9 月 4 日或招满即止。官方页面未列明粤语或其他具体语言要求，涉及患者沟通的实际语言门槛应在投递前确认。",
       "summary_en": "A two-year, renewable full-time RA II role supporting clinical trials and clinical research. Duties include patient contact, research-database management, in-depth medical statistics and study execution, with potential authorship opportunities. A bachelor's degree is required, with no fixed years-of-experience threshold; patient-facing experience, database management and stronger medical-statistics skills are prioritized. Applications are reviewed rolling until 4 September or until filled. The official listing does not specify Cantonese or another language requirement, so the practical language needs for patient contact should be confirmed before applying.",
       "tags": [
-        "2026年9月4日复核仍开放",
-        "既有机会仍开放",
-        "需尽快行动",
-        "明天截止",
         "科研助理",
         "临床试验",
         "数据库管理",
@@ -3259,12 +3254,16 @@
         "滚动审查",
         "语言要求需确认",
         "9月4日截止",
-        "9月3日官方复核"
+        "状态变化",
+        "截止日已过",
+        "申请入口仍可见",
+        "未发现正式延期",
+        "2026年9月5日官方复核"
       ],
       "title": "香港大学外科学系临床试验与医学统计科研助理 II",
       "title_en": "Research Assistant II — Clinical Trials and Medical Statistics",
-      "updated_at": "2026-09-04",
-      "verification_status": "verified_open_official_employer_listing_apply_now_closes_2026_09_04_or_filled_2026_09_03"
+      "updated_at": "2026-09-05",
+      "verification_status": "verified_official_deadline_passed_apply_link_still_visible_no_formal_extension_2026_09_05"
     },
     {
       "category": "研究",
@@ -6146,52 +6145,88 @@
       "last_verified_at": "2026-09-04",
       "current_status": "published_peer_reviewed_version_of_record",
       "priority": 95
+    },
+    {
+      "id": "communications-biology-hddot-naturalistic-movie-semantics-2026",
+      "category": "研究",
+      "section": "研究动态",
+      "title": "高密度弥散光学断层成像解码自然电影的视觉语义",
+      "title_en": "Visual semantic encoding and identification of naturalistic movies via high-density diffuse optical tomography",
+      "organization": "Communications Biology",
+      "location": "美国",
+      "published_at": "2026-09-04",
+      "updated_at": "2026-09-05",
+      "deadline": "",
+      "summary": "研究检验高密度弥散光学断层成像（hd-DOT）能否在自然电影观看中恢复视觉语义表征。六名参与者完成约3.5小时自然电影观看，刺激以1,708个语义类别标注；编码模型能够预测皮层体素反应，单一语义类别图与fMRI结果总体一致，并可由hd-DOT反应识别所观看片段。低维语义空间突出生命体与社会行动者等维度。限制是样本仅六人，hd-DOT的深度与覆盖范围弱于fMRI，结果也依赖刺激标签和编码模型假设，尚需更大样本与外部数据验证。",
+      "summary_en": "This study asked whether high-density diffuse optical tomography (hd-DOT) can recover visual-semantic representations during naturalistic movie viewing. Six participants completed about 3.5 hours of viewing, with stimuli annotated across 1,708 semantic categories. Encoding models predicted cortical voxel responses, single-category maps broadly aligned with fMRI, and hd-DOT responses could identify viewed clips; a low-dimensional semantic space emphasized animate and social-agent dimensions. Limitations include the six-person sample, shallower and narrower coverage than fMRI, and dependence on semantic labels and encoding-model assumptions; larger external validation is needed.",
+      "relevance": "为自然情境下的非侵入式脑成像与语义解码提供了可复用的方法范式，也适合关注计算认知、脑成像分析和模型—脑表征比较；当前证据更像方法可行性证明，不能替代大样本fMRI验证。",
+      "tags": [
+        "上次扫描后新发布",
+        "2026年9月4日发表",
+        "Communications Biology",
+        "hd-DOT",
+        "自然电影",
+        "语义编码",
+        "编码模型",
+        "脑解码",
+        "计算认知",
+        "六名参与者",
+        "开放获取",
+        "局限已标注"
+      ],
+      "verification_status": "verified_official_journal_page_2026_09_05",
+      "source_url": "https://www.nature.com/articles/s42003-026-10854-0",
+      "discovery_status": "newly_published_since_last_scan",
+      "first_seen_at": "2026-09-05",
+      "last_verified_at": "2026-09-05",
+      "current_status": "published_peer_reviewed_version_of_record_open_access",
+      "priority": 94
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "189637deb3de8c1c516bd505d44dbc134e905939",
-    "executed_at_beijing": "2026-09-04T07:58:25+08:00",
-    "increment_boundary": "2026-09-03T07:58:04+08:00",
-    "note": "远端内容写入后确认 187 个唯一 ID、187 个唯一官方链接、分类总数一致、必需字段完整，并核验 Radboudumc、KCL、两条 HKU、QMUL 及两项研究记录；Radboudumc 官方页未列发布日期，已保守标为历史补录；公开 Pages 缓存刷新未独立确认。",
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-09-05T07:59:26+08:00",
+    "increment_boundary": "2026-09-04T07:58:25+08:00",
+    "note": "远端内容写入前已确认 188 个唯一 ID、188 个唯一官方链接、分类总数一致；新增研究严格按 9 月 4 日正式发表标记，KCL 与两条 HKU 均按官方当前状态更新；公开 Pages 缓存刷新未独立确认。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_three_historical_backfills_one_status_change",
+    "repository_write": "pending",
+    "result": "completed_with_one_new_research_item_three_status_changes",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
     "category_counts": {
-      "升学": 1,
+      "升学": 0,
       "实验室": 0,
       "求职": 0,
-      "研究": 2
+      "研究": 1
     },
     "database_category_totals": {
-      "研究": 95,
+      "研究": 96,
       "实验室": 36,
       "升学": 33,
       "求职": 23
     },
-    "database_items_total": 187,
+    "database_items_total": 188,
     "excluded_expired_or_ineligible": [
-      "QMUL 妊娠用药安全数据科学 RA 已从官方 Current Opportunities 撤下，转为关闭。",
-      "HKU 学生助理只接受 HKU 在读生；中国大厂可见新增多受 2027 届或在校身份限制，未纳入。",
-      "澳大利亚新增岗位多要求已有完整工作权；欧洲部分新博士以湿实验、动物模型或基因治疗为主，未纳入。",
-      "研究侧只保留两项主题相关且证据较强的更新，其余未为增加条目而收录。"
+      "HKU 9 月 4 日新发布的肝癌／代谢病理 RA 以小鼠移植瘤、给药、细胞培养、Western blot、qPCR 和克隆为核心，因湿实验门槛不匹配未纳入。",
+      "马斯特里赫特医学影像 AI 博士要求已完成相关硕士；欧洲其余新博士多以湿实验、动物模型或基因治疗为主，未纳入。",
+      "中国大厂可见岗位仍多受 2027 届、在校身份或相关专业限制；SAP 中国新职位为资深渠道管理，未纳入。",
+      "研究侧未收录综述、Perspective 和证据较弱条目，只保留一项直接相关的自然电影语义解码原始研究。"
     ],
-    "existing_urgent_reverified": 3,
-    "historical_backfills_added": 3,
+    "existing_urgent_reverified": 0,
+    "historical_backfills_added": 0,
     "newItemsOfficiallyDatedToday": 0,
-    "newly_published_since_last_scan": 0,
+    "newly_published_since_last_scan": 1,
     "newly_published_today": 0,
-    "status_changes": 1,
-    "still_open_urgent_items": 28
+    "status_changes": 3,
+    "still_open_urgent_items": 25
   },
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "incremental_scan_completed_with_one_historical_backfill",
-      "note": "补录 Radboudumc 抑郁症脑刺激神经可塑性博士；KCL 与两条 HKU 今日截止项已复核。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描官方项目与博士入口；无通过资格及开放状态核验的高质量新增。"
     },
     {
       "source_group": "数据／计算／AI项目",
@@ -6200,13 +6235,13 @@
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_one_status_change_three_urgent_reverifications",
-      "note": "KCL 与两条 HKU 今日仍开放；QMUL 逾期岗位已从官方列表撤下。"
+      "status": "incremental_scan_completed_three_status_changes_no_high_quality_new_items",
+      "note": "KCL 与两条 HKU 9 月 4 日截止项已更新状态；无高质量新增。"
     },
     {
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_with_two_historical_backfills",
-      "note": "补录 EEG–层级 fMRI 与结构化经验／策略学习两项高质量研究；均含方法、发现与限制。"
+      "status": "incremental_scan_completed_with_one_newly_published_original_research_item",
+      "note": "新增一项 9 月 4 日发表的 hd-DOT 自然电影视觉语义编码研究，已记录问题、方法、发现与限制。"
     },
     {
       "source_group": "数据分析岗位",
@@ -6220,8 +6255,8 @@
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_one_status_change_and_urgent_reverification",
-      "note": "QMUL 已关闭；KCL 与 HKU 临床研究岗已复核。"
+      "status": "incremental_scan_completed_three_status_changes_no_high_quality_new_items",
+      "note": "KCL 与 HKU 截止项均已复核；HKU 新湿实验 RA 因资格方向不匹配排除。"
     },
     {
       "source_group": "其他求职",
