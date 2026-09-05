@@ -6184,12 +6184,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "",
+    "content_commit_sha": "71e39f577bfeace1dab066338122557ab29d9fa2",
     "executed_at_beijing": "2026-09-05T07:59:26+08:00",
     "increment_boundary": "2026-09-04T07:58:25+08:00",
-    "note": "远端内容写入前已确认 188 个唯一 ID、188 个唯一官方链接、分类总数一致；新增研究严格按 9 月 4 日正式发表标记，KCL 与两条 HKU 均按官方当前状态更新；公开 Pages 缓存刷新未独立确认。",
+    "note": "远端内容写入后确认 188 个唯一 ID、188 个唯一官方链接、分类总数一致；新增研究严格按 9 月 4 日正式发表标记，KCL 与两条 HKU 均按官方当前状态更新；公开 Pages 缓存刷新未独立确认。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "pending",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_one_new_research_item_three_status_changes",
     "run_type": "daily_full_scan"
   },
