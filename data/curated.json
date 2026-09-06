@@ -6234,12 +6234,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "",
+    "content_commit_sha": "9fccccd94ebc004e0691b46cf0cb36efc672100e",
     "executed_at_beijing": "2026-09-06T08:00:50+08:00",
     "increment_boundary": "2026-09-05T07:59:26+08:00",
-    "note": "写入前确认 189 个唯一 ID、189 个唯一官方链接、分类总数一致；补录记录按 9 月 3 日官方发布日期与 9 月 6 日首次发现严格区分，HKU 外科学系 RA 按 jobnotfound 状态更新；公开 Pages 缓存刷新未独立确认。",
+    "note": "远端内容写入后确认 189 个唯一 ID、189 个唯一官方链接、分类总数一致；补录记录按 9 月 3 日官方发布日期与 9 月 6 日首次发现严格区分，HKU 外科学系 RA 按 jobnotfound 状态更新；公开 Pages 缓存刷新未独立确认。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "pending",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_one_historical_backfill_one_status_change",
     "run_type": "daily_full_scan"
   },
