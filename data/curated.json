@@ -9,41 +9,41 @@
   "coverage": [
     {
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_one_status_change_no_high_quality_new_opportunities",
-      "note": "已扫描；KCL EEG／机器学习 RA 的 9 月 4 日截止日已过，申请入口仍可见但无正式延期，已停止按正常开放处理。无高质量新增机会。"
+      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
+      "note": "已扫描；QMUL 多模态 AI／医疗 RA 仍在官方 Current Opportunities，9 月 11 日截止。Bath CEREBRIS 因博士层级排除，其余无高质量新增。"
     },
     {
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；医学影像 AI 博士要求已完成相关硕士，其余多为湿实验或不匹配方向，无高质量新增。"
+      "status": "incremental_scan_completed_two_urgent_reverifications_no_high_quality_new_items",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；马斯特里赫特 NeuroAI 与 Radboudumc 脑刺激博士仍开放，其余无高质量新增。"
     },
     {
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_two_status_changes_no_high_quality_new_items",
-      "note": "已扫描；HKU 临床试验中心岗位已从官网撤下，外科学系 RA 截止后入口仍可见但无正式延期；新肝癌 RA 因湿实验门槛排除。NUS／NTU 无高质量新增。"
+      "status": "incremental_scan_completed_one_historical_backfill_one_status_change_three_reverifications",
+      "note": "已扫描；历史补录 HKU iEarth 地理空间 AI／科研软件 RA；外科学系 RA 官网已撤下。急诊医学 Senior RA 与 AI Engineer 仍开放。新湿实验 RA 已排除。"
     },
     {
       "region": "日本与韩国",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 OIST、RIKEN、SNU／KAIST 等官方入口；无高质量新增。"
+      "note": "已扫描 OIST、RIKEN、东京大学、SNU／KAIST 等官方入口；无高质量新增。"
     },
     {
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_with_one_new_research_item",
-      "note": "已扫描官方项目、实验室、招聘及期刊入口；新增一项 hd-DOT 自然电影语义编码原始研究，加拿大机会入口无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描官方项目、实验室、招聘与期刊入口；Princeton 2027 申请将于 9 月 15 日开放，尚未误标为已开放；本轮无高质量新增。"
     },
     {
       "region": "澳大利亚",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 UNSW、悉尼大学等官方入口；无高质量新增，现有岗位仍主要受完整工作权限制。"
+      "note": "已扫描 UNSW、悉尼大学、墨尔本大学等官方入口；无高质量新增，岗位端仍主要受工作权或更高研究资历限制。"
     },
     {
       "region": "中国大陆",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；结果主要受毕业届别、在校身份、相关专业或成熟经验限制，无高质量新增。"
+      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；无通过毕业届别、层级与经验核验的高质量新增。"
     }
   ],
-  "generated_at": "2026-09-05T07:59:26+08:00",
+  "generated_at": "2026-09-06T08:00:50+08:00",
   "items": [
     {
       "category": "研究",
@@ -1450,7 +1450,7 @@
       "category": "实验室",
       "current_status": "open_rolling_until_2026-09-10_or_filled",
       "deadline": "2026-09-10",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-21",
       "id": "hku-emergency-medicine-senior-ra-537148",
       "location": "中国香港",
@@ -1473,12 +1473,16 @@
         "病历数据提取",
         "SPSS／R",
         "滚动审查",
-        "研究生准备"
+        "研究生准备",
+        "既有机会仍开放",
+        "2026年9月6日复核仍开放",
+        "9月10日截止"
       ],
       "title": "香港大学急诊医学临床研究高级科研助理",
       "title_en": "Senior Research Assistant — Emergency Medicine Clinical Research",
-      "updated_at": "2026-08-21",
-      "verification_status": "verified_open_official_employer_listing_exact_release_time_unavailable"
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_open_official_employer_listing_2026_09_06",
+      "last_verified_at": "2026-09-06"
     },
     {
       "category": "升学",
@@ -2172,7 +2176,7 @@
       "category": "求职",
       "current_status": "open_rolling_until_2026-09-15_or_filled",
       "deadline": "2026-09-15",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-14",
       "id": "hku-ai-engineer-ra2-537095",
       "location": "中国香港",
@@ -2197,12 +2201,16 @@
         "PostgreSQL",
         "Azure OpenAI",
         "滚动审查",
-        "竞争风险"
+        "竞争风险",
+        "既有机会仍开放",
+        "2026年9月6日复核仍开放",
+        "9月15日截止"
       ],
       "title": "香港大学计算与数据科学学院 AI 工程师（科研助理 II）",
       "title_en": "AI Engineer (at the rank of Research Assistant II) — School of Computing and Data Science",
-      "updated_at": "2026-08-14",
-      "verification_status": "verified_open_official_employer_listing"
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_open_official_employer_listing_2026_09_06",
+      "last_verified_at": "2026-09-06"
     },
     {
       "category": "研究",
@@ -3229,12 +3237,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "official_deadline_passed_apply_link_still_visible_no_formal_extension",
+      "current_status": "closed_official_jobnotfound_after_2026-09-04_deadline",
       "deadline": "2026-09-04",
       "discovery_status": "status_change",
       "first_seen_at": "2026-08-05",
       "id": "hku-surgery-clinical-trials-ra2-537054",
-      "last_verified_at": "2026-09-05",
+      "last_verified_at": "2026-09-06",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Surgery, School of Clinical Medicine",
       "priority": 91,
@@ -3256,14 +3264,14 @@
         "9月4日截止",
         "状态变化",
         "截止日已过",
-        "申请入口仍可见",
-        "未发现正式延期",
-        "2026年9月5日官方复核"
+        "官方页面已撤下",
+        "已关闭",
+        "2026年9月6日官方复核"
       ],
       "title": "香港大学外科学系临床试验与医学统计科研助理 II",
       "title_en": "Research Assistant II — Clinical Trials and Medical Statistics",
-      "updated_at": "2026-09-05",
-      "verification_status": "verified_official_deadline_passed_apply_link_still_visible_no_formal_extension_2026_09_05"
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_closed_official_jobnotfound_2026_09_06"
     },
     {
       "category": "研究",
@@ -5488,10 +5496,10 @@
       "category": "实验室",
       "current_status": "open_official_qmul_application_until_2026-09-11_2355_uk",
       "deadline": "2026-09-11 23:55（英国时间）",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-31",
       "id": "qmul-multimodal-ai-healthcare-ra-10844",
-      "last_verified_at": "2026-08-31",
+      "last_verified_at": "2026-09-06",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · School of Electronic Engineering and Computer Science",
       "priority": 97,
@@ -5516,12 +5524,14 @@
         "本科可满足学历门槛",
         "高竞争度",
         "9月11日截止",
-        "签证支持未说明"
+        "签证支持未说明",
+        "既有机会仍开放",
+        "2026年9月6日复核仍开放"
       ],
       "title": "伦敦玛丽女王大学多模态 AI 与医疗科研助理",
       "title_en": "Research Assistant — Multimodal AI and Healthcare",
-      "updated_at": "2026-08-31",
-      "verification_status": "verified_open_official_qmul_page_deadline_and_criteria_publication_date_not_listed"
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_open_official_employer_current_opportunities_2026_09_06"
     },
     {
       "category": "求职",
@@ -5883,10 +5893,10 @@
       "category": "升学",
       "current_status": "open_apply_now_until_2026-09-20",
       "deadline": "2026-09-20",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-02",
       "id": "maastricht-neuroai-auditory-neuroscience-phd-3722",
-      "last_verified_at": "2026-09-02",
+      "last_verified_at": "2026-09-06",
       "location": "荷兰・马斯特里赫特",
       "organization": "Maastricht University · Faculty of Psychology and Neuroscience · ARCHIE Lab",
       "priority": 99,
@@ -5913,12 +5923,14 @@
         "硕士要求",
         "英语C1",
         "9月20日截止",
-        "全职带薪博士"
+        "全职带薪博士",
+        "既有机会仍开放",
+        "2026年9月6日复核仍开放"
       ],
       "title": "马斯特里赫特大学 NeuroAI 听觉神经科学博士",
       "title_en": "PhD Candidate in NeuroAI for Auditory Neuroscience",
-      "updated_at": "2026-09-02",
-      "verification_status": "verified_open_official_employer_page_job_id_3722_deadline_salary_eligibility_methods_and_cross_training_official_posting_date_not_listed"
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_open_official_employer_listing_2026_09_06"
     },
     {
       "category": "升学",
@@ -6041,7 +6053,7 @@
       "organization": "Radboud university medical center · Donders Institute",
       "location": "荷兰・奈梅亨",
       "published_at": "",
-      "updated_at": "2026-09-04",
+      "updated_at": "2026-09-06",
       "deadline": "2026-09-23",
       "summary": "四年博士项目研究电休克治疗如何改变重度抑郁症的神经可塑性。将协调患者纵向研究，并在治疗前、中、后采集结构／功能 MRI、EEG 与 TMS-EEG，整合临床、认知和神经生理数据；联盟还结合 PET、死后脑研究与多尺度建模。要求定量相关硕士，统计或 R／Python／MATLAB 经验为必需；MRI 或 TMS-EEG 仅要求兴趣／契合，官网明确学习意愿重于已有完整技能。9 月 23 日截止，首轮面试 9 月 28 日。官方页未列发布日期，因此按今日首次发现保守归为历史补录。需注意患者招募、临床协调和现场采集占比高，并非纯计算岗位。",
       "summary_en": "A four-year PhD investigating how electroconvulsive therapy alters neuroplasticity in major depression. The candidate will coordinate a longitudinal patient study with structural/functional MRI, EEG and TMS-EEG before, during and after treatment, integrating clinical, cognitive and neurophysiological data within a consortium that also uses PET, post-mortem neuroscience and multiscale modelling. A master's in a numerate or related discipline is required, with statistics or R/Python/MATLAB essential; willingness to learn is explicitly valued over already having every method. Applications close 23 September, with first interviews on 28 September. The official employer page does not state a posting date, so this first discovery is conservatively treated as a historical backfill. Patient recruitment and clinical coordination are substantial parts of the role.",
@@ -6063,13 +6075,15 @@
         "Python",
         "MATLAB",
         "患者招募",
-        "9月23日截止"
+        "9月23日截止",
+        "既有机会仍开放",
+        "2026年9月6日复核仍开放"
       ],
-      "verification_status": "verified_open_official_employer_page_deadline_salary_methods_eligibility_and_interview_date_official_posting_date_not_listed_2026_09_04",
+      "verification_status": "verified_open_official_employer_listing_2026_09_06",
       "source_url": "https://www.werkenbijradboudumc.nl/vacatures/phd-candidate-neuroplasticity-of-brain-stimulation-in-depression-nijmegen-379145",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-04",
-      "last_verified_at": "2026-09-04",
+      "last_verified_at": "2026-09-06",
       "current_status": "open_apply_now_until_2026-09-23",
       "priority": 99
     },
@@ -6181,16 +6195,52 @@
       "last_verified_at": "2026-09-05",
       "current_status": "published_peer_reviewed_version_of_record_open_access",
       "priority": 94
+    },
+    {
+      "id": "hku-iearth-geospatial-ai-ra-537278",
+      "category": "求职",
+      "section": "算法与 AI 岗位",
+      "title": "香港大学 iEarth 地理空间 AI／科研软件助理",
+      "title_en": "Research Assistant — Geospatial AI and Research Software for iEarth",
+      "organization": "The University of Hong Kong · Institute for Climate and Carbon Neutrality",
+      "location": "中国香港",
+      "published_at": "2026-09-03",
+      "updated_at": "2026-09-06",
+      "deadline": "2026-12-30（或招满即止）",
+      "summary": "一年期全职科研岗位，可续约。Research Assistant 职级接受相关本科，负责 iEarth 地球智能平台的遥感、地理空间 AI、时空数据分析，设计和评估 AI／机器学习模型、数据工作流及软件原型，并把研究成果转化为平台功能。官网未规定固定工作年限，但要求较强的 Python 编程能力及遥感、地理空间分析、机器学习等至少一项实践经验；大规模空间数据处理、模型部署、科研软件或可扩展平台经验为加分项。滚动审查至 12 月 30 日或招满即止。",
+      "summary_en": "A one-year, renewable full-time research appointment supporting the iEarth intelligence platform. The Research Assistant level accepts a relevant bachelor’s degree and covers remote sensing, geospatial AI, spatiotemporal analytics, AI/ML model evaluation, data workflows, software prototypes and translation of research outputs into platform features. No fixed years-of-experience threshold is stated, but strong Python and hands-on experience in remote sensing, geospatial analytics or machine learning are required; large-scale spatial processing, model deployment, research software and scalable platforms are advantageous. Review continues until 30 December or until filled.",
+      "relevance": "这是少见的本科层级“领域数据＋AI＋科研软件”入口，工作产物比纯论文型岗位更接近数据管线、模型原型和平台功能。它不要求博士或固定多年经验，但“高级 Python”与地理空间／遥感实践是实质门槛；没有可展示的空间数据或机器学习项目时，匹配度会明显下降。",
+      "tags": [
+        "历史补录",
+        "本科可申请",
+        "无固定年限",
+        "地理空间 AI",
+        "遥感",
+        "时空数据",
+        "Python",
+        "机器学习",
+        "科研软件",
+        "平台原型",
+        "滚动审查",
+        "12月30日截止"
+      ],
+      "verification_status": "verified_open_official_employer_listing_2026_09_06",
+      "source_url": "https://jobs.hku.hk/en/job/537278/postdoctoral-fellow-senior-research-assistant-or-research-assistant",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-06",
+      "last_verified_at": "2026-09-06",
+      "current_status": "open_rolling_until_2026-12-30_or_filled",
+      "priority": 88
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "71e39f577bfeace1dab066338122557ab29d9fa2",
-    "executed_at_beijing": "2026-09-05T07:59:26+08:00",
-    "increment_boundary": "2026-09-04T07:58:25+08:00",
-    "note": "远端内容写入后确认 188 个唯一 ID、188 个唯一官方链接、分类总数一致；新增研究严格按 9 月 4 日正式发表标记，KCL 与两条 HKU 均按官方当前状态更新；公开 Pages 缓存刷新未独立确认。",
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-09-06T08:00:50+08:00",
+    "increment_boundary": "2026-09-05T07:59:26+08:00",
+    "note": "写入前确认 189 个唯一 ID、189 个唯一官方链接、分类总数一致；补录记录按 9 月 3 日官方发布日期与 9 月 6 日首次发现严格区分，HKU 外科学系 RA 按 jobnotfound 状态更新；公开 Pages 缓存刷新未独立确认。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_one_new_research_item_three_status_changes",
+    "repository_write": "pending",
+    "result": "completed_with_one_historical_backfill_one_status_change",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
@@ -6198,50 +6248,51 @@
     "category_counts": {
       "升学": 0,
       "实验室": 0,
-      "求职": 0,
-      "研究": 1
+      "求职": 1,
+      "研究": 0
     },
     "database_category_totals": {
       "研究": 96,
       "实验室": 36,
       "升学": 33,
-      "求职": 23
+      "求职": 24
     },
-    "database_items_total": 188,
+    "database_items_total": 189,
     "excluded_expired_or_ineligible": [
-      "HKU 9 月 4 日新发布的肝癌／代谢病理 RA 以小鼠移植瘤、给药、细胞培养、Western blot、qPCR 和克隆为核心，因湿实验门槛不匹配未纳入。",
-      "马斯特里赫特医学影像 AI 博士要求已完成相关硕士；欧洲其余新博士多以湿实验、动物模型或基因治疗为主，未纳入。",
-      "中国大厂可见岗位仍多受 2027 届、在校身份或相关专业限制；SAP 中国新职位为资深渠道管理，未纳入。",
-      "研究侧未收录综述、Perspective 和证据较弱条目，只保留一项直接相关的自然电影语义解码原始研究。"
+      "University of Bath CEREBRIS AI for Neurotechnology Research Associate 要求博士或等同专业资历，并把 EEG／fNIRS 与机器学习研究经验列为必需，层级不匹配，未纳入。",
+      "QMUL Edge AI／分布式学习 RA 虽接受本科或硕士，但硬性要求分布式 AI／网络系统专长及高水平论文记录，未纳入。",
+      "HKU 社区儿童健康 RA 以细胞培养、样本处理等湿实验和粤语为核心；HKU 新肝癌 RA 同样以动物与分子实验为主，均未纳入。",
+      "中国大厂与外企中国区可见岗位仍主要受毕业届别、在校身份、资深职级或相关专业限制。",
+      "本轮期刊入口未发现同时满足发布时间、主题相关性和证据强度要求的新原始研究，因此未收录综述或弱证据条目。"
     ],
-    "existing_urgent_reverified": 0,
-    "historical_backfills_added": 0,
+    "existing_urgent_reverified": 5,
+    "historical_backfills_added": 1,
     "newItemsOfficiallyDatedToday": 0,
-    "newly_published_since_last_scan": 1,
+    "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 3,
+    "status_changes": 1,
     "still_open_urgent_items": 25
   },
   "source_coverage": [
     {
       "source_group": "神经与认知项目",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描官方项目与博士入口；无通过资格及开放状态核验的高质量新增。"
+      "status": "incremental_scan_completed_two_existing_opportunities_reverified",
+      "note": "马斯特里赫特 NeuroAI 与 Radboudumc 脑刺激博士仍开放；无新项目。"
     },
     {
       "source_group": "数据／计算／AI项目",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "note": "已扫描；Princeton 2027 申请尚未开放，其余无高质量新增。"
     },
     {
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_three_status_changes_no_high_quality_new_items",
-      "note": "KCL 与两条 HKU 9 月 4 日截止项已更新状态；无高质量新增。"
+      "status": "incremental_scan_completed_one_historical_backfill_one_status_change",
+      "note": "补录 HKU iEarth RA；HKU 外科学系 RA 官方页已撤下。"
     },
     {
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_with_one_newly_published_original_research_item",
-      "note": "新增一项 9 月 4 日发表的 hd-DOT 自然电影视觉语义编码研究，已记录问题、方法、发现与限制。"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描主要期刊入口；无满足主题相关性和证据强度要求的新原始研究。"
     },
     {
       "source_group": "数据分析岗位",
@@ -6250,13 +6301,13 @@
     },
     {
       "source_group": "算法与AI岗位",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_one_historical_backfill_two_urgent_reverifications",
+      "note": "补录 HKU iEarth 地理空间 AI／科研软件 RA；HKU AI Engineer 与 QMUL 多模态 AI RA 仍开放。"
     },
     {
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_three_status_changes_no_high_quality_new_items",
-      "note": "KCL 与 HKU 截止项均已复核；HKU 新湿实验 RA 因资格方向不匹配排除。"
+      "status": "incremental_scan_completed_one_status_change_one_urgent_reverification",
+      "note": "HKU 外科学系 RA 已关闭；急诊医学 Senior RA 仍开放。"
     },
     {
       "source_group": "其他求职",
