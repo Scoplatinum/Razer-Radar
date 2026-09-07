@@ -8,42 +8,42 @@
   },
   "coverage": [
     {
+      "note": "已扫描；QMUL 多模态 AI／医疗 RA 仍在官方 Current Opportunities，9 月 11 日截止；KCL EEG 岗截止后仍无正式延期，其余无高质量新增。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_urgent_reverification_no_high_quality_new_items",
-      "note": "已扫描；QMUL 多模态 AI／医疗 RA 仍在官方 Current Opportunities，9 月 11 日截止。Bath CEREBRIS 因博士层级排除，其余无高质量新增。"
+      "status": "incremental_scan_completed_two_urgent_reverifications_no_high_quality_new_items"
     },
     {
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；马斯特里赫特 NeuroAI 博士（9 月 20 日）与 Radboudumc 脑刺激博士（9 月 23 日）仍开放，其余无高质量新增。",
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_two_urgent_reverifications_no_high_quality_new_items",
-      "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方入口；马斯特里赫特 NeuroAI 与 Radboudumc 脑刺激博士仍开放，其余无高质量新增。"
+      "status": "incremental_scan_completed_two_urgent_reverifications_no_high_quality_new_items"
     },
     {
+      "note": "已扫描；HKU 急诊医学 Senior RA（9 月 10 日）、AI Engineer（9 月 15 日）及 iEarth 地理空间 AI RA 仍开放；无高质量新增。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_one_historical_backfill_one_status_change_three_reverifications",
-      "note": "已扫描；历史补录 HKU iEarth 地理空间 AI／科研软件 RA；外科学系 RA 官网已撤下。急诊医学 Senior RA 与 AI Engineer 仍开放。新湿实验 RA 已排除。"
+      "status": "incremental_scan_completed_three_urgent_reverifications_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 OIST、RIKEN、东京大学、SNU／KAIST 等官方入口；无高质量新增。",
       "region": "日本与韩国",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 OIST、RIKEN、东京大学、SNU／KAIST 等官方入口；无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描官方项目、实验室、招聘与期刊入口；Princeton 2027 申请将于 9 月 15 日开放，尚未误标为开放；无高质量新增。",
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描官方项目、实验室、招聘与期刊入口；Princeton 2027 申请将于 9 月 15 日开放，尚未误标为已开放；本轮无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 UNSW、悉尼大学、墨尔本大学等官方入口；无高质量新增，岗位端仍主要受完整工作权或更高研究资历限制。",
       "region": "澳大利亚",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 UNSW、悉尼大学、墨尔本大学等官方入口；无高质量新增，岗位端仍主要受工作权或更高研究资历限制。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；无通过毕业届别、层级与经验核验的高质量新增。",
       "region": "中国大陆",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；无通过毕业届别、层级与经验核验的高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     }
   ],
-  "generated_at": "2026-09-06T08:00:50+08:00",
+  "generated_at": "2026-09-07T07:58:25+08:00",
   "items": [
     {
       "category": "研究",
@@ -1453,6 +1453,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-21",
       "id": "hku-emergency-medicine-senior-ra-537148",
+      "last_verified_at": "2026-09-06",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Emergency Medicine",
       "priority": 94,
@@ -1481,8 +1482,7 @@
       "title": "香港大学急诊医学临床研究高级科研助理",
       "title_en": "Senior Research Assistant — Emergency Medicine Clinical Research",
       "updated_at": "2026-09-06",
-      "verification_status": "verified_open_official_employer_listing_2026_09_06",
-      "last_verified_at": "2026-09-06"
+      "verification_status": "verified_open_official_employer_listing_2026_09_06"
     },
     {
       "category": "升学",
@@ -2179,6 +2179,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-14",
       "id": "hku-ai-engineer-ra2-537095",
+      "last_verified_at": "2026-09-06",
       "location": "中国香港",
       "organization": "The University of Hong Kong · School of Computing and Data Science",
       "priority": 92,
@@ -2209,8 +2210,7 @@
       "title": "香港大学计算与数据科学学院 AI 工程师（科研助理 II）",
       "title_en": "AI Engineer (at the rank of Research Assistant II) — School of Computing and Data Science",
       "updated_at": "2026-09-06",
-      "verification_status": "verified_open_official_employer_listing_2026_09_06",
-      "last_verified_at": "2026-09-06"
+      "verification_status": "verified_open_official_employer_listing_2026_09_06"
     },
     {
       "category": "研究",
@@ -6045,19 +6045,22 @@
       "verification_status": "verified_official_peer_reviewed_version_of_record_abstract_methods_findings_data_code_and_limitations_2026_09_03"
     },
     {
-      "id": "radboudumc-phd-neuroplasticity-brain-stimulation-depression-379145",
       "category": "升学",
-      "section": "神经与认知项目",
-      "title": "Radboudumc 抑郁症脑刺激神经可塑性博士",
-      "title_en": "PhD Candidate in Neuroplasticity of Brain Stimulation in Depression",
-      "organization": "Radboud university medical center · Donders Institute",
-      "location": "荷兰・奈梅亨",
-      "published_at": "",
-      "updated_at": "2026-09-06",
+      "current_status": "open_apply_now_until_2026-09-23",
       "deadline": "2026-09-23",
+      "discovery_status": "existing_still_open",
+      "first_seen_at": "2026-09-04",
+      "id": "radboudumc-phd-neuroplasticity-brain-stimulation-depression-379145",
+      "last_verified_at": "2026-09-06",
+      "location": "荷兰・奈梅亨",
+      "organization": "Radboud university medical center · Donders Institute",
+      "priority": 99,
+      "published_at": "",
+      "relevance": "把 MRI、EEG／TMS-EEG、临床抑郁研究和计算建模结合在同一带薪博士中；资格文本对跨方向候选人相对友好，但需接受大量患者协调与现场采集。",
+      "section": "神经与认知项目",
+      "source_url": "https://www.werkenbijradboudumc.nl/vacatures/phd-candidate-neuroplasticity-of-brain-stimulation-in-depression-nijmegen-379145",
       "summary": "四年博士项目研究电休克治疗如何改变重度抑郁症的神经可塑性。将协调患者纵向研究，并在治疗前、中、后采集结构／功能 MRI、EEG 与 TMS-EEG，整合临床、认知和神经生理数据；联盟还结合 PET、死后脑研究与多尺度建模。要求定量相关硕士，统计或 R／Python／MATLAB 经验为必需；MRI 或 TMS-EEG 仅要求兴趣／契合，官网明确学习意愿重于已有完整技能。9 月 23 日截止，首轮面试 9 月 28 日。官方页未列发布日期，因此按今日首次发现保守归为历史补录。需注意患者招募、临床协调和现场采集占比高，并非纯计算岗位。",
       "summary_en": "A four-year PhD investigating how electroconvulsive therapy alters neuroplasticity in major depression. The candidate will coordinate a longitudinal patient study with structural/functional MRI, EEG and TMS-EEG before, during and after treatment, integrating clinical, cognitive and neurophysiological data within a consortium that also uses PET, post-mortem neuroscience and multiscale modelling. A master's in a numerate or related discipline is required, with statistics or R/Python/MATLAB essential; willingness to learn is explicitly valued over already having every method. Applications close 23 September, with first interviews on 28 September. The official employer page does not state a posting date, so this first discovery is conservatively treated as a historical backfill. Patient recruitment and clinical coordination are substantial parts of the role.",
-      "relevance": "把 MRI、EEG／TMS-EEG、临床抑郁研究和计算建模结合在同一带薪博士中；资格文本对跨方向候选人相对友好，但需接受大量患者协调与现场采集。",
       "tags": [
         "历史补录",
         "官方发布日期未列",
@@ -6079,28 +6082,28 @@
         "既有机会仍开放",
         "2026年9月6日复核仍开放"
       ],
-      "verification_status": "verified_open_official_employer_listing_2026_09_06",
-      "source_url": "https://www.werkenbijradboudumc.nl/vacatures/phd-candidate-neuroplasticity-of-brain-stimulation-in-depression-nijmegen-379145",
-      "discovery_status": "existing_still_open",
-      "first_seen_at": "2026-09-04",
-      "last_verified_at": "2026-09-06",
-      "current_status": "open_apply_now_until_2026-09-23",
-      "priority": 99
+      "title": "Radboudumc 抑郁症脑刺激神经可塑性博士",
+      "title_en": "PhD Candidate in Neuroplasticity of Brain Stimulation in Depression",
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_open_official_employer_listing_2026_09_06"
     },
     {
-      "id": "elife-interleaved-eeg-fmri-laminar-visual-activity-2026",
       "category": "研究",
-      "section": "研究动态",
-      "title": "交错 EEG–层级 fMRI 分离视觉特异性振荡的频率与皮层层次",
-      "title_en": "Frequency and laminar profile of feature-specific visual activity revealed by interleaved EEG–fMRI",
-      "organization": "eLife",
-      "location": "英国／荷兰",
-      "published_at": "2026-09-03",
-      "updated_at": "2026-09-04",
+      "current_status": "published_version_of_record_open_access",
       "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-04",
+      "id": "elife-interleaved-eeg-fmri-laminar-visual-activity-2026",
+      "last_verified_at": "2026-09-04",
+      "location": "英国／荷兰",
+      "organization": "eLife",
+      "priority": 96,
+      "published_at": "2026-09-03",
+      "relevance": "对 EEG–fMRI、多模态成像及视觉预测／振荡研究的方法设计有直接参考价值。",
+      "section": "研究动态",
+      "source_url": "https://elifesciences.org/articles/108408",
       "summary": "研究用交错 EEG 与层级 fMRI 解析人类视觉皮层的特征选择性活动：特征特异性 γ 活动与较浅层信号相关，而 α 频段中较低频成分更一般化、较高频成分更具特征选择性，并呈不同层级分布。eLife 评价为 Fundamental／Compelling。价值在于把非侵入电生理频率与皮层层次联系起来；限制是层级 BOLD 仍是间接指标，EEG 源定位与血管层级偏差会影响解释，且视觉范式中的机制未必推广到其他认知域。",
       "summary_en": "Interleaved EEG and laminar fMRI linked feature-specific visual gamma activity to superficial-layer signals and dissociated more general lower-frequency from feature-specific higher-frequency alpha activity across cortical depths. eLife assessed the work as Fundamental/Compelling. The study directly connects non-invasive electrophysiological frequencies with cortical laminar organisation, but laminar BOLD remains indirect, EEG source localisation and vascular depth biases constrain interpretation, and generalisation beyond the visual paradigm is untested.",
-      "relevance": "对 EEG–fMRI、多模态成像及视觉预测／振荡研究的方法设计有直接参考价值。",
       "tags": [
         "历史补录",
         "2026年9月3日发表",
@@ -6116,28 +6119,28 @@
         "多模态成像",
         "局限已标注"
       ],
-      "verification_status": "verified_official_elife_version_of_record_editorial_assessment_methods_findings_and_limitations_2026_09_04",
-      "source_url": "https://elifesciences.org/articles/108408",
-      "discovery_status": "historical_backfill",
-      "first_seen_at": "2026-09-04",
-      "last_verified_at": "2026-09-04",
-      "current_status": "published_version_of_record_open_access",
-      "priority": 96
+      "title": "交错 EEG–层级 fMRI 分离视觉特异性振荡的频率与皮层层次",
+      "title_en": "Frequency and laminar profile of feature-specific visual activity revealed by interleaved EEG–fMRI",
+      "updated_at": "2026-09-04",
+      "verification_status": "verified_official_elife_version_of_record_editorial_assessment_methods_findings_and_limitations_2026_09_04"
     },
     {
-      "id": "nature-neuroscience-structured-experience-strategy-learning-mec-2026",
       "category": "研究",
-      "section": "研究动态",
-      "title": "结构化早期经验塑造策略学习与内嗅皮层神经动力学",
-      "title_en": "Structured experience shapes strategy learning and neural dynamics in the medial entorhinal cortex",
-      "organization": "Nature Neuroscience",
-      "location": "美国",
-      "published_at": "2026-09-03",
-      "updated_at": "2026-09-04",
+      "current_status": "published_peer_reviewed_version_of_record",
       "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-04",
+      "id": "nature-neuroscience-structured-experience-strategy-learning-mec-2026",
+      "last_verified_at": "2026-09-04",
+      "location": "美国",
+      "organization": "Nature Neuroscience",
+      "priority": 95,
+      "published_at": "2026-09-03",
+      "relevance": "把课程学习、RNN 动力系统分析与神经记录连接起来，是计算认知中“经验结构如何影响抽象与泛化”的强证据案例。",
+      "section": "研究动态",
+      "source_url": "https://www.nature.com/articles/s41593-026-02409-7",
       "summary": "研究先用气味计时任务训练循环神经网络，再以小鼠行为和内侧内嗅皮层记录检验模型预测。缺少结构化早期训练时，模型与小鼠都更容易形成僵化、易错的策略；结构化课程则促进反映任务时间结构的神经活动，并改善随任务复杂度上升时的抽象与泛化。限制是动物任务和 RNN 都高度简化，模型—脑动力学相似不能证明内嗅皮层实现同一算法，课程效应对人类复杂学习的外推仍需验证。",
       "summary_en": "Recurrent neural networks were trained on an odour-timing task and their predictions tested with mouse behaviour and medial entorhinal cortex recordings. Without structured early experience, both networks and mice developed rigid, error-prone strategies; structured curricula promoted neural dynamics reflecting temporal task structure and better abstraction/generalisation as complexity increased. The task and RNN are simplified, model–brain dynamical similarity does not establish identical implementation, and translation to complex human learning remains untested.",
-      "relevance": "把课程学习、RNN 动力系统分析与神经记录连接起来，是计算认知中“经验结构如何影响抽象与泛化”的强证据案例。",
       "tags": [
         "历史补录",
         "2026年9月3日发表",
@@ -6152,28 +6155,28 @@
         "泛化",
         "局限已标注"
       ],
-      "verification_status": "verified_official_nature_neuroscience_version_of_record_methods_findings_data_source_and_limitations_2026_09_04",
-      "source_url": "https://www.nature.com/articles/s41593-026-02409-7",
-      "discovery_status": "historical_backfill",
-      "first_seen_at": "2026-09-04",
-      "last_verified_at": "2026-09-04",
-      "current_status": "published_peer_reviewed_version_of_record",
-      "priority": 95
+      "title": "结构化早期经验塑造策略学习与内嗅皮层神经动力学",
+      "title_en": "Structured experience shapes strategy learning and neural dynamics in the medial entorhinal cortex",
+      "updated_at": "2026-09-04",
+      "verification_status": "verified_official_nature_neuroscience_version_of_record_methods_findings_data_source_and_limitations_2026_09_04"
     },
     {
-      "id": "communications-biology-hddot-naturalistic-movie-semantics-2026",
       "category": "研究",
-      "section": "研究动态",
-      "title": "高密度弥散光学断层成像解码自然电影的视觉语义",
-      "title_en": "Visual semantic encoding and identification of naturalistic movies via high-density diffuse optical tomography",
-      "organization": "Communications Biology",
-      "location": "美国",
-      "published_at": "2026-09-04",
-      "updated_at": "2026-09-05",
+      "current_status": "published_peer_reviewed_version_of_record_open_access",
       "deadline": "",
+      "discovery_status": "newly_published_since_last_scan",
+      "first_seen_at": "2026-09-05",
+      "id": "communications-biology-hddot-naturalistic-movie-semantics-2026",
+      "last_verified_at": "2026-09-05",
+      "location": "美国",
+      "organization": "Communications Biology",
+      "priority": 94,
+      "published_at": "2026-09-04",
+      "relevance": "为自然情境下的非侵入式脑成像与语义解码提供了可复用的方法范式，也适合关注计算认知、脑成像分析和模型—脑表征比较；当前证据更像方法可行性证明，不能替代大样本fMRI验证。",
+      "section": "研究动态",
+      "source_url": "https://www.nature.com/articles/s42003-026-10854-0",
       "summary": "研究检验高密度弥散光学断层成像（hd-DOT）能否在自然电影观看中恢复视觉语义表征。六名参与者完成约3.5小时自然电影观看，刺激以1,708个语义类别标注；编码模型能够预测皮层体素反应，单一语义类别图与fMRI结果总体一致，并可由hd-DOT反应识别所观看片段。低维语义空间突出生命体与社会行动者等维度。限制是样本仅六人，hd-DOT的深度与覆盖范围弱于fMRI，结果也依赖刺激标签和编码模型假设，尚需更大样本与外部数据验证。",
       "summary_en": "This study asked whether high-density diffuse optical tomography (hd-DOT) can recover visual-semantic representations during naturalistic movie viewing. Six participants completed about 3.5 hours of viewing, with stimuli annotated across 1,708 semantic categories. Encoding models predicted cortical voxel responses, single-category maps broadly aligned with fMRI, and hd-DOT responses could identify viewed clips; a low-dimensional semantic space emphasized animate and social-agent dimensions. Limitations include the six-person sample, shallower and narrower coverage than fMRI, and dependence on semantic labels and encoding-model assumptions; larger external validation is needed.",
-      "relevance": "为自然情境下的非侵入式脑成像与语义解码提供了可复用的方法范式，也适合关注计算认知、脑成像分析和模型—脑表征比较；当前证据更像方法可行性证明，不能替代大样本fMRI验证。",
       "tags": [
         "上次扫描后新发布",
         "2026年9月4日发表",
@@ -6188,28 +6191,28 @@
         "开放获取",
         "局限已标注"
       ],
-      "verification_status": "verified_official_journal_page_2026_09_05",
-      "source_url": "https://www.nature.com/articles/s42003-026-10854-0",
-      "discovery_status": "newly_published_since_last_scan",
-      "first_seen_at": "2026-09-05",
-      "last_verified_at": "2026-09-05",
-      "current_status": "published_peer_reviewed_version_of_record_open_access",
-      "priority": 94
+      "title": "高密度弥散光学断层成像解码自然电影的视觉语义",
+      "title_en": "Visual semantic encoding and identification of naturalistic movies via high-density diffuse optical tomography",
+      "updated_at": "2026-09-05",
+      "verification_status": "verified_official_journal_page_2026_09_05"
     },
     {
-      "id": "hku-iearth-geospatial-ai-ra-537278",
       "category": "求职",
-      "section": "算法与 AI 岗位",
-      "title": "香港大学 iEarth 地理空间 AI／科研软件助理",
-      "title_en": "Research Assistant — Geospatial AI and Research Software for iEarth",
-      "organization": "The University of Hong Kong · Institute for Climate and Carbon Neutrality",
-      "location": "中国香港",
-      "published_at": "2026-09-03",
-      "updated_at": "2026-09-06",
+      "current_status": "open_rolling_until_2026-12-30_or_filled",
       "deadline": "2026-12-30（或招满即止）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-06",
+      "id": "hku-iearth-geospatial-ai-ra-537278",
+      "last_verified_at": "2026-09-06",
+      "location": "中国香港",
+      "organization": "The University of Hong Kong · Institute for Climate and Carbon Neutrality",
+      "priority": 88,
+      "published_at": "2026-09-03",
+      "relevance": "这是少见的本科层级“领域数据＋AI＋科研软件”入口，工作产物比纯论文型岗位更接近数据管线、模型原型和平台功能。它不要求博士或固定多年经验，但“高级 Python”与地理空间／遥感实践是实质门槛；没有可展示的空间数据或机器学习项目时，匹配度会明显下降。",
+      "section": "算法与 AI 岗位",
+      "source_url": "https://jobs.hku.hk/en/job/537278/postdoctoral-fellow-senior-research-assistant-or-research-assistant",
       "summary": "一年期全职科研岗位，可续约。Research Assistant 职级接受相关本科，负责 iEarth 地球智能平台的遥感、地理空间 AI、时空数据分析，设计和评估 AI／机器学习模型、数据工作流及软件原型，并把研究成果转化为平台功能。官网未规定固定工作年限，但要求较强的 Python 编程能力及遥感、地理空间分析、机器学习等至少一项实践经验；大规模空间数据处理、模型部署、科研软件或可扩展平台经验为加分项。滚动审查至 12 月 30 日或招满即止。",
       "summary_en": "A one-year, renewable full-time research appointment supporting the iEarth intelligence platform. The Research Assistant level accepts a relevant bachelor’s degree and covers remote sensing, geospatial AI, spatiotemporal analytics, AI/ML model evaluation, data workflows, software prototypes and translation of research outputs into platform features. No fixed years-of-experience threshold is stated, but strong Python and hands-on experience in remote sensing, geospatial analytics or machine learning are required; large-scale spatial processing, model deployment, research software and scalable platforms are advantageous. Review continues until 30 December or until filled.",
-      "relevance": "这是少见的本科层级“领域数据＋AI＋科研软件”入口，工作产物比纯论文型岗位更接近数据管线、模型原型和平台功能。它不要求博士或固定多年经验，但“高级 Python”与地理空间／遥感实践是实质门槛；没有可展示的空间数据或机器学习项目时，匹配度会明显下降。",
       "tags": [
         "历史补录",
         "本科可申请",
@@ -6224,23 +6227,20 @@
         "滚动审查",
         "12月30日截止"
       ],
-      "verification_status": "verified_open_official_employer_listing_2026_09_06",
-      "source_url": "https://jobs.hku.hk/en/job/537278/postdoctoral-fellow-senior-research-assistant-or-research-assistant",
-      "discovery_status": "historical_backfill",
-      "first_seen_at": "2026-09-06",
-      "last_verified_at": "2026-09-06",
-      "current_status": "open_rolling_until_2026-12-30_or_filled",
-      "priority": 88
+      "title": "香港大学 iEarth 地理空间 AI／科研软件助理",
+      "title_en": "Research Assistant — Geospatial AI and Research Software for iEarth",
+      "updated_at": "2026-09-06",
+      "verification_status": "verified_open_official_employer_listing_2026_09_06"
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "9fccccd94ebc004e0691b46cf0cb36efc672100e",
-    "executed_at_beijing": "2026-09-06T08:00:50+08:00",
-    "increment_boundary": "2026-09-05T07:59:26+08:00",
-    "note": "远端内容写入后确认 189 个唯一 ID、189 个唯一官方链接、分类总数一致；补录记录按 9 月 3 日官方发布日期与 9 月 6 日首次发现严格区分，HKU 外科学系 RA 按 jobnotfound 状态更新；公开 Pages 缓存刷新未独立确认。",
+    "content_commit_sha": "pending",
+    "executed_at_beijing": "2026-09-07T07:58:25+08:00",
+    "increment_boundary": "2026-09-06T08:00:50+08:00",
+    "note": "完整地区、项目、企业招聘与期刊入口已扫描；远端写入后将复核唯一 ID、唯一官方链接、分类与必需字段。无新增或状态变化；五条临近／高优先机会完成官方复核。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_one_historical_backfill_one_status_change",
+    "repository_write": "pending_remote_validation",
+    "result": "completed_no_new_items_no_status_changes",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
@@ -6248,7 +6248,7 @@
     "category_counts": {
       "升学": 0,
       "实验室": 0,
-      "求职": 1,
+      "求职": 0,
       "研究": 0
     },
     "database_category_totals": {
@@ -6261,68 +6261,68 @@
     "excluded_expired_or_ineligible": [
       "University of Bath CEREBRIS AI for Neurotechnology Research Associate 要求博士或等同专业资历，并把 EEG／fNIRS 与机器学习研究经验列为必需，层级不匹配，未纳入。",
       "QMUL Edge AI／分布式学习 RA 虽接受本科或硕士，但硬性要求分布式 AI／网络系统专长及高水平论文记录，未纳入。",
-      "HKU 社区儿童健康 RA 以细胞培养、样本处理等湿实验和粤语为核心；HKU 新肝癌 RA 同样以动物与分子实验为主，均未纳入。",
+      "HKU 本轮新增可见科研岗主要为细胞培养、动物或分子实验方向，与目标方向不匹配，未纳入。",
       "中国大厂与外企中国区可见岗位仍主要受毕业届别、在校身份、资深职级或相关专业限制。",
-      "本轮期刊入口未发现同时满足发布时间、主题相关性和证据强度要求的新原始研究，因此未收录综述或弱证据条目。"
+      "9 月 1 日显示更新的 Nature 人类海马论文实为 5 月原论文的作者更正；9 月 6 日耳鸣听觉适应研究样本与期刊层级不足以改变当前研究判断，均未作为新研究补录。"
     ],
     "existing_urgent_reverified": 5,
-    "historical_backfills_added": 1,
+    "historical_backfills_added": 0,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 1,
+    "status_changes": 0,
     "still_open_urgent_items": 25
   },
   "source_coverage": [
     {
+      "note": "马斯特里赫特 NeuroAI 与 Radboudumc 脑刺激博士仍开放；无高质量新增。",
       "source_group": "神经与认知项目",
-      "status": "incremental_scan_completed_two_existing_opportunities_reverified",
-      "note": "马斯特里赫特 NeuroAI 与 Radboudumc 脑刺激博士仍开放；无新项目。"
+      "status": "incremental_scan_completed_two_existing_opportunities_reverified"
     },
     {
+      "note": "已扫描；Princeton 2027 申请尚未开放，其余无高质量新增。",
       "source_group": "数据／计算／AI项目",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描；Princeton 2027 申请尚未开放，其余无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "HKU 急诊医学 Senior RA、AI Engineer 与 iEarth RA 仍开放；无高质量新增。",
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_one_historical_backfill_one_status_change",
-      "note": "补录 HKU iEarth RA；HKU 外科学系 RA 官方页已撤下。"
+      "status": "incremental_scan_completed_three_existing_opportunities_reverified_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 Nature、Nature Neuroscience、Communications Biology、eLife 等官方入口；未发现值得新增的高相关高证据原始研究。9 月 1 日的人类海马论文记录实为 5 月论文的作者更正，未误作新研究。",
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描主要期刊入口；无满足主题相关性和证据强度要求的新原始研究。"
+      "status": "incremental_scan_completed_no_high_quality_new_research"
     },
     {
+      "note": "已扫描，无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描；无高质量新增。",
       "source_group": "算法与AI岗位",
-      "status": "incremental_scan_completed_one_historical_backfill_two_urgent_reverifications",
-      "note": "补录 HKU iEarth 地理空间 AI／科研软件 RA；HKU AI Engineer 与 QMUL 多模态 AI RA 仍开放。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "HKU 外科学系 RA 已关闭；急诊医学 Senior RA 仍开放。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_one_status_change_one_urgent_reverification",
-      "note": "HKU 外科学系 RA 已关闭；急诊医学 Senior RA 仍开放。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描，无高质量新增。",
       "source_group": "其他求职",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描，无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描百度、字节、阿里、华为等官方入口；无高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描百度、字节、阿里、华为等官方入口；无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
+      "note": "已扫描 Microsoft、SAP、Google 等官方 Careers；无高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "已扫描 Microsoft、SAP、Google 等官方 Careers；无高质量新增。"
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     }
   ]
 }
