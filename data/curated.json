@@ -6234,12 +6234,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "pending",
+    "content_commit_sha": "0612a54110d7083221f1a526ab00633b564a4fe3",
     "executed_at_beijing": "2026-09-07T07:58:25+08:00",
     "increment_boundary": "2026-09-06T08:00:50+08:00",
-    "note": "完整地区、项目、企业招聘与期刊入口已扫描；远端写入后将复核唯一 ID、唯一官方链接、分类与必需字段。无新增或状态变化；五条临近／高优先机会完成官方复核。",
+    "note": "远端内容写入后确认 189 个唯一 ID、189 个唯一官方链接、分类总数与现有字段结构一致；完整地区、项目、企业招聘及期刊入口均已扫描。本轮无新增或状态变化，五条临近／高优先机会完成官方复核。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "pending_remote_validation",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_no_new_items_no_status_changes",
     "run_type": "daily_full_scan"
   },
