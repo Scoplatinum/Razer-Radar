@@ -6316,12 +6316,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "pending",
+    "content_commit_sha": "fd6a549180ad7a0b03c8514b3aca58ced97192d6",
     "executed_at_beijing": "2026-09-09T08:02:00+08:00",
     "increment_boundary": "2026-09-08T08:00:42+08:00",
-    "note": "等待远端写入后回读验证。",
-    "public_site_verification": "repository_update_pending",
-    "repository_write": "pending",
+    "note": "远端内容写入后确认 191 个唯一 ID、191 个唯一官方链接及分类总数一致；完整地区、项目、企业招聘与期刊入口均已扫描。本轮新增一条严格标记为历史补录的 HKU AI 多语视觉术语库 RA，无状态变化，六条临近／高优先机会完成官方复核。",
+    "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
+    "repository_write": "completed_and_remote_content_revalidated",
     "result": "completed_with_one_historical_backfill_no_status_changes",
     "run_type": "daily_full_scan"
   },
