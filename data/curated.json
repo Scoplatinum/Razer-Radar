@@ -6590,12 +6590,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "pending_commit",
+    "content_commit_sha": "15144ce315497101b1198246b93df84d13b2c296",
     "executed_at_beijing": "2026-09-10T22:17:36+08:00",
     "increment_boundary": "2026-09-10T07:58:15+08:00",
     "note": "当日全量扫描后因目标重大转向，完成首轮国际 BME 申请基线重建。新增 10 条均按历史补录处理，未把今日首次发现写成今日发布；每条使用学校官方页面核验。旧方向 192 条历史记录完整保留，并在网页侧栏归入历史资料。",
     "public_site_verification": "pending_after_push",
-    "repository_write": "local_update_completed_push_pending",
+    "repository_write": "content_committed_push_pending",
     "result": "bme_focus_transition_baseline_completed_with_ten_historical_backfills",
     "run_type": "same_day_incremental_focus_transition"
   },
