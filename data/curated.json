@@ -6407,13 +6407,13 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "",
+    "content_commit_sha": "016863d3642bdd0512258b10f86a04603f6607e0",
     "executed_at_beijing": "2026-09-11T07:58:41+08:00",
     "increment_boundary": "2026-09-10T07:58:15+08:00",
-    "note": "待写入后回读验证；计划总计 193 条，新增一项研究历史补录、一项状态变化，七条临近／高优先机会完成官方复核。",
+    "note": "远端内容写入后确认 193 个唯一 ID、193 个唯一官方链接及分类总数一致；完整地区、项目、企业招聘与期刊入口均已扫描。本轮新增一项严格标记为历史补录的空间认知研究，一项 HKU 岗位状态变化，七条临近／高优先机会完成官方复核。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "pending",
-    "result": "pending_remote_validation",
+    "repository_write": "completed_and_remote_content_revalidated",
+    "result": "completed_with_one_historical_backfill_one_status_change",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
@@ -6443,7 +6443,7 @@
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
     "status_changes": 1,
-    "still_open_urgent_items": 27
+    "still_open_urgent_items": 28
   },
   "source_coverage": [
     {
