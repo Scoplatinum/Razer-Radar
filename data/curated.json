@@ -6613,7 +6613,7 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "15144ce315497101b1198246b93df84d13b2c296",
+    "content_commit_sha": "0a19aaed6e688977247682ee19a1c2f3eabd27e3",
     "executed_at_beijing": "2026-09-11T13:58:16+08:00",
     "increment_boundary": "2026-09-10T22:17:36+08:00",
     "note": "完成国际 BME 申请增量扫描。新增匹兹堡大学职业型生物工程硕士神经工程方向 1 条，因无法核验项目今日发布而严格标为历史补录；复核既有 10 个 BME 候选，未发现截止日期或资格状态变化。",
