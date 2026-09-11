@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "重点复核 Strathclyde 转换型 MSc BME：明确面向生命科学背景，含基础工程补修与 Healthcare AI 路径；2027 申请日期尚未发布。爱尔兰未发现同等匹配且已发布 2027 轮次的项目。",
+      "note": "Strathclyde 转换型 MSc BME 今日复核无状态变化：仍明确面向生命科学背景，含基础工程补修与 Healthcare AI 路径，2027 申请日期尚未发布。Dundee 与 Trinity 因常规专业范围或数学／项目负担未纳入。",
       "region": "英国与爱尔兰",
-      "status": "bme_baseline_completed_one_strong_conversion_option_2027_dates_pending"
+      "status": "incremental_scan_completed_one_existing_option_reverified_no_status_change"
     },
     {
-      "note": "补录 Basel 联合 MSc BME，环境／生命科学背景可进入但需数学、物理和编程基础，且包含必修硕士论文；Aalto 与 Bern 因先修要求、GRE 或论文负担暂列低优先观察。",
+      "note": "Basel 联合 MSc BME 今日复核仍为自然科学可申请、4 月 30 日截止，需数学／物理／编程且论文必修；Aalto 与 Bern 的先修、GRE 或论文风险无变化。",
       "region": "欧洲大陆",
-      "status": "bme_baseline_completed_one_conditional_option_two_low_priority_exclusions"
+      "status": "incremental_scan_completed_one_existing_option_reverified_two_exclusions_unchanged"
     },
     {
-      "note": "补录 PolyU BME、PolyU Brain-Machine Interface、CUHK BME、CityUHK BME 与 NUS BME。PolyU 两项目 10 月 20 日首轮截止，CUHK 10 月 30 日首轮截止；NUS 已公布 2026 年 10 月 1 日至 2027 年 2 月 28 日申请期。CityUHK 2027 页面尚未发布。",
+      "note": "PolyU BME／BMI、CUHK BME、CityUHK BME 与 NUS BME 今日均完成官方复核，无状态变化。PolyU 两项目 10 月 20 日首轮截止，CUHK 10 月 30 日首轮截止；NUS 10 月 1 日开放，CityUHK 2027 页面仍未发布。",
       "region": "香港与新加坡",
-      "status": "bme_baseline_completed_five_programmes_three_upcoming_or_urgent_deadlines"
+      "status": "incremental_scan_completed_five_existing_programmes_reverified_no_status_change"
     },
     {
-      "note": "东京大学 G30 International Bioengineering 要求 GRE 与英语成绩，并以实验室研究和硕士论文为核心；本轮未确认仍可进入的 2027 申请窗口，韩国未找到适合非工程背景的优质授课／转换型项目，因此未收录。",
+      "note": "东京大学 G30 International Bioengineering 仍要求 GRE 与英语成绩且偏研究／论文，本轮仍未确认可行动的 2027 窗口；韩国未找到明确接受非工程生命科学背景的优质授课／转换型项目。",
       "region": "日本与韩国",
-      "status": "bme_scan_completed_no_eligible_taught_conversion_addition"
+      "status": "incremental_scan_completed_no_eligible_taught_conversion_addition"
     },
     {
-      "note": "补录 Toronto MEng BME 与 Boston University LEAP→BME。Toronto 官方学院与研究生院页面对可接受本科学位表述存在冲突，须邮件确认；BU LEAP 接受非工程 STEM，但要求 GRE 与入学前五年内的 Calculus I。",
+      "note": "今日历史补录 Pitt 职业型神经工程 MS：接受生命科学 STEM、非论文且实习必修，但非工程背景可能需补较多工程／数学。Toronto 的官方资格表述冲突仍在，BU LEAP 的 GRE、英语重考与五年内 Calculus I 要求无变化；McGill Translational BME 仍仅显示 Fall 2026，待 9 月 15 日复核。",
       "region": "美国与加拿大",
-      "status": "bme_baseline_completed_two_conditional_options"
+      "status": "incremental_scan_completed_one_historical_backfill_two_existing_options_reverified"
     },
     {
-      "note": "补录 Melbourne Master of Biomedical Engineering：非工程背景可走三年路径，但需微积分、线性代数及生物／化学等先修，2027 年 2 月入学申请截止 2026 年 11 月 30 日。",
+      "note": "Melbourne Master of Biomedical Engineering 今日复核无状态变化：非工程背景仍可走三年路径，需微积分、线性代数及生物／化学等先修，2027 年 2 月入学截止 2026 年 11 月 30 日。新西兰未发现同等匹配新增。",
       "region": "澳大利亚",
-      "status": "bme_baseline_completed_one_long_conversion_option"
+      "status": "incremental_scan_completed_one_existing_option_reverified_no_status_change"
     }
   ],
-  "generated_at": "2026-09-10T22:17:36+08:00",
+  "generated_at": "2026-09-11T13:58:16+08:00",
   "items": [
     {
       "category": "研究",
@@ -6587,41 +6587,64 @@
       "title_en": "LEAP to Biomedical Engineering",
       "updated_at": "2026-09-10",
       "verification_status": "verified_official_leap_eligibility_fall_2027_deadlines_and_test_requirements"
+    },
+    {
+      "category": "升学",
+      "current_status": "fall_2027_deadlines_published_application_opening_not_confirmed",
+      "deadline": "奖助考虑 2026-12-01；国际生最终 2027-04-01",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-11",
+      "id": "pitt-professional-ms-bioengineering-neural-engineering-2027",
+      "last_verified_at": "2026-09-11",
+      "location": "美国・匹兹堡",
+      "organization": "University of Pittsburgh · Swanson School of Engineering",
+      "priority": 96,
+      "published_at": "",
+      "relevance": "这是美国方向中与用户经历最直接的职业型选项：非论文、必修实习，并覆盖 BCI、神经成像与信号、神经器件、机器学习和神经数据分析。官网明确接受生命科学 STEM 背景，Open Ephys／Intan、MATLAB 与神经生理经验可直接形成申请叙事；主要风险是非工程申请者可能被要求补较多工程／数学课程。",
+      "section": "神经工程／脑机接口",
+      "source_url": "https://www.engineering.pitt.edu/departments/bioengineering/programs/graduate/graduate-overview/",
+      "summary": "Professional MS in Bioengineering — Neural Engineering Focus 为 30 学分、通常 2–3 学期完成的非论文项目，要求在 BCI、神经组织界面、神经成像与信号、神经器件等至少两个方向形成能力，并完成职业发展课和与职业目标一致的实习。可接受 biological sciences 等非工程 STEM，本科 GPA 最低 3.0，线性代数优先；非工程背景可能需额外工程与数学先修。GRE optional。国际生英语最低 IELTS 6.5、Duolingo 120，或新版 TOEFL 总分 4.5；成绩入学时不得超过两年。2026–27 外州／国际参考学费为两学期 US$54,002，另有 US$2,006 强制费用，第三学期可能另计；MS 通常不获资助。咨询：ms-neural@pitt.edu。",
+      "summary_en": "A 30-credit, non-thesis professional MS normally completed in two or three terms, with required career development and an internship. Concentrations include BCI, neural imaging and signals, neural devices, machine learning and neural data analysis. Biological-science STEM graduates are eligible, though non-engineers may need substantial foundation coursework. GRE is optional; current English scores are mandatory.",
+      "tags": ["历史补录","Fall 2027","12月1日奖助截止","4月1日国际生截止","生命科学可申请","直接适配","非论文","实习必修","脑机接口","神经信号","机器学习","线性代数优先","可能需补工程数学","GRE可选","英语需重考","两学期参考学费US$54,002"],
+      "title": "匹兹堡大学 职业型生物工程硕士（神经工程方向）",
+      "title_en": "Professional MS in Bioengineering — Neural Engineering Focus",
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_official_programme_curriculum_background_deadlines_tuition_and_english_2026_09_11"
     }
   ],
   "last_run_receipt": {
     "content_commit_sha": "15144ce315497101b1198246b93df84d13b2c296",
-    "executed_at_beijing": "2026-09-10T22:17:36+08:00",
-    "increment_boundary": "2026-09-10T07:58:15+08:00",
-    "note": "当日全量扫描后因目标重大转向，完成首轮国际 BME 申请基线重建。新增 10 条均按历史补录处理，未把今日首次发现写成今日发布；每条使用学校官方页面核验。旧方向 192 条历史记录完整保留，并在网页侧栏归入历史资料。",
+    "executed_at_beijing": "2026-09-11T13:58:16+08:00",
+    "increment_boundary": "2026-09-10T22:17:36+08:00",
+    "note": "完成国际 BME 申请增量扫描。新增匹兹堡大学职业型生物工程硕士神经工程方向 1 条，因无法核验项目今日发布而严格标为历史补录；复核既有 10 个 BME 候选，未发现截止日期或资格状态变化。",
     "public_site_verification": "not_updated_push_failed",
     "repository_write": "local_commits_completed_push_failed_missing_github_credentials",
-    "result": "bme_focus_transition_baseline_completed_with_ten_historical_backfills",
-    "run_type": "same_day_incremental_focus_transition"
+    "result": "bme_incremental_scan_completed_with_one_historical_backfill_no_status_changes",
+    "run_type": "daily_incremental_bme_scan"
   },
-  "notice": "2026-09-10 22:17 完成目标转向后的国际 BME 申请基线重建：上次扫描后新发布 0，历史补录 10，既有条目状态变化 0，仍开放且需尽快行动 4。NUS 已确认 2027 申请期，但因无法核验页面具体发布日期，未标为今日发布。",
+  "notice": "2026-09-11 13:58 完成国际 BME 申请增量扫描：上次扫描后新发布 0，历史补录 1，既有项目状态变化 0，仍开放且需尽快行动 4。新增 Pitt 职业型神经工程 MS；既有项目均完成官方复核。",
   "run_summary": {
     "category_counts": {
-      "升学": 10,
+      "升学": 1,
       "实验室": 0,
       "求职": 0,
       "研究": 0
     },
     "database_category_totals": {
-      "升学": 43,
+      "升学": 44,
       "实验室": 38,
       "求职": 25,
       "研究": 96
     },
-    "database_items_total": 202,
+    "database_items_total": 203,
     "excluded_expired_or_ineligible": [
-      "东京大学 G30 International Bioengineering 需要 GRE 和有效英语成绩，培养以实验室研究及必修硕士论文为核心；本轮未确认仍可进入的 2027 申请期，故不作为可行动机会收录。",
-      "Aalto Life Science Technologies 的 BME 路径要求较强数学与物理学分，且 30 ECTS 论文必修；工作经验不能替代先修。当前先修风险与研究负担较高，暂不进入主清单。",
-      "Bern MSc BME 对自然科学背景逐案审核、国际学历通常需 GRE，并可能补至 30 ECTS；两年研究／论文导向与当前职业型偏好不匹配，暂不收录。",
-      "韩国本轮未找到已发布 2027 轮次、明确接受非工程生命科学背景且以授课／转换为主的优质 BME 项目；不以聚合平台线索凑数。"
+      "McGill Translational BME 职业与实习匹配度高，也允许科学背景补先修，但官网仍只显示 Fall 2026 轮次；预计 9 月 15 日更新前不作为 2027 可申请条目入库。",
+      "McGill BBME Biomanufacturing 非论文且接受生命科学背景，但核心偏生物制造、细胞／基因治疗与工艺工程，和用户优先的神经工程、成像与医疗 AI 偏离，未纳入主清单。",
+      "Dundee BME 主要接受 BME、电气、电子、机械、物理或数学，生命科学背景不在常规范围；Trinity BME 要求工程／物理科学或经证明的强数学能力且项目研究占比高，均未在本轮加入。",
+      "东京大学 G30 International Bioengineering 仍要求 GRE 和有效英语成绩且以研究／论文为核心；韩国仍未找到明确接受非工程生命科学背景的高质量授课／转换型 2027 项目。"
     ],
-    "existing_urgent_reverified": 0,
-    "historical_backfills_added": 10,
+    "existing_urgent_reverified": 4,
+    "historical_backfills_added": 1,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
@@ -6630,29 +6653,29 @@
   },
   "source_coverage": [
     {
-      "note": "CUHK、CityUHK、NUS 及其他官方 BME 项目入口已扫描；补录 3 条主项目，CityUHK 2027 轮次待发布。",
+      "note": "CUHK、CityUHK、NUS 等官方入口已复核，无状态变化；CityUHK 2027 轮次仍待发布。",
       "source_group": "BME申请",
-      "status": "baseline_completed_three_programmes_one_needs_cycle_refresh"
+      "status": "incremental_scan_completed_three_existing_programmes_reverified"
     },
     {
-      "note": "PolyU Brain-Machine Interface 为本轮最高匹配项目：接受基础科学背景，课程直接覆盖脑肌信号、神经调控与医疗 AI。",
+      "note": "新增 Pitt 职业型神经工程 MS，并复核 PolyU Brain-Machine Interface；两者分别提供必修实习与论文可选路径，均直接连接用户神经电生理和信号分析经历。",
       "source_group": "神经工程／脑机接口",
-      "status": "baseline_completed_one_direct_fit_urgent_option"
+      "status": "incremental_scan_completed_one_historical_backfill_one_urgent_reverification"
     },
     {
-      "note": "PolyU BME Digital Health 路径已核验，含医疗 AI、功能成像、可穿戴与微器件，论文可选。",
+      "note": "PolyU BME Digital Health 路径今日复核无变化，仍含医疗 AI、功能成像、可穿戴与微器件，论文可选。",
       "source_group": "数字健康／医疗AI",
-      "status": "baseline_completed_one_direct_fit_urgent_option"
+      "status": "incremental_scan_completed_one_urgent_reverification_no_status_change"
     },
     {
       "note": "Strathclyde、Basel、Melbourne 与 BU LEAP 已核验；均接受或专门服务非工程／生命科学背景，但在论文、先修、时长或考试上存在不同代价。",
       "source_group": "Conversion／补修项目",
-      "status": "baseline_completed_four_conditional_conversion_options"
+      "status": "incremental_scan_completed_four_existing_options_reverified_no_status_change"
     },
     {
-      "note": "Toronto MEng 的官方资格表述冲突；Aalto、Bern 与 UTokyo 因先修、GRE、论文或申请期不确定被降级／排除。",
+      "note": "Toronto MEng 的官方资格表述冲突仍在；McGill Translational BME 的 2027 页面尚未上线；Aalto、Bern、UTokyo、Dundee 与 Trinity 因先修、GRE、论文、专业范围或申请期不确定被降级／排除。",
       "source_group": "需确认／不建议",
-      "status": "baseline_completed_one_listed_three_material_exclusions_documented"
+      "status": "incremental_scan_completed_one_existing_confirmation_item_five_exclusions_documented"
     }
   ]
 }
