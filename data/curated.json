@@ -8,9 +8,9 @@
   },
   "coverage": [
     {
-      "note": "已扫描 QMUL、KCL 等官方入口；QMUL 多模态 AI／医疗 RA（9 月 11 日）与 KCL 生物信息 RA（9 月 13 日）仍开放。新见 QMUL RA 线索分别为湿实验果蝇感染项目、要求领先论文记录的 Edge AI 项目或高度专门的化学合成岗位，未纳入；其余无高质量新增。",
+      "note": "已扫描 QMUL、KCL 等官方入口；QMUL 多模态 AI／医疗 RA 今天截止且仍在官方职位表，KCL 生物信息 RA 仍开放至 9 月 13 日；无高质量新增。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_three_urgent_reverifications_no_high_quality_new_items"
+      "status": "incremental_scan_completed_two_urgent_reverifications_no_high_quality_new_items"
     },
     {
       "note": "已扫描德国、荷兰、瑞士、法国、比利时及北欧官方／EURAXESS 入口；马斯特里赫特 NeuroAI 博士（9 月 20 日）与 Radboudumc 脑刺激博士（9 月 23 日）仍开放；无高质量新增。",
@@ -18,14 +18,14 @@
       "status": "incremental_scan_completed_two_urgent_reverifications_no_high_quality_new_items"
     },
     {
-      "note": "已扫描 HKU、NUS、NTU 等官方入口；补录 HKU 护理学院健康服务研究 RA I/II（9 月 9 日公告、10 月 15 日截止）。HKU 急诊医学 Senior RA 今日仍可申请，AI Engineer RA II 与 AI 多语视觉术语库 RA 仍开放；新加坡无高质量新增。",
+      "note": "已扫描 HKU、NUS、NTU 等官方入口；HKU 急诊医学 Senior RA 截止后已从 Current opportunities 移除，详情页申请入口仍残留但无延期公告；AI Engineer RA II 仍开放至 9 月 15 日。HKU 9 月 10 日新岗位主要为湿实验或动物设施工作，未纳入；新加坡无高质量新增。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_one_historical_backfill_four_urgent_reverifications"
+      "status": "incremental_scan_completed_one_status_change_one_urgent_reverification_no_high_quality_new_items"
     },
     {
-      "note": "已扫描 OIST、RIKEN、东京大学、SNU／KAIST 等官方入口；无高质量新增。",
+      "note": "已扫描 OIST、RIKEN、东京大学、SNU／KAIST 等官方入口；OIST 新见认知神经机器人岗位为博士后，按层级排除；无高质量新增。",
       "region": "日本与韩国",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_postdoc_excluded_no_high_quality_new_items"
     },
     {
       "note": "已扫描 UBC、多伦多大学及主要官方项目／实验室入口；无通过层级、资格与开放状态核验的高质量新增。",
@@ -33,17 +33,17 @@
       "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
-      "note": "已扫描 UNSW、悉尼大学、墨尔本大学等官方入口；无高质量新增，近期结果主要为博士后、研究管理、资深基础设施岗位或受完整工作权限制。",
+      "note": "已扫描 UNSW、悉尼大学、墨尔本大学等官方入口；UNSW 临床 AI Research Officer 与 Kirby Institute Data Officer 仍开放，但均要求已有澳大利亚完整工作权且不提供签证担保；无高质量新增。",
       "region": "澳大利亚",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_two_existing_opportunities_reverified_no_high_quality_new_items"
     },
     {
-      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及外企中国区 Careers；无通过毕业届别、层级和经验核验的高质量新增。",
+      "note": "已扫描百度、字节、阿里、华为等大厂官方校招／应届入口及 Microsoft、SAP、Google 等外企中国区 Careers；无通过毕业届别、层级和经验核验的高质量新增。",
       "region": "中国大陆",
       "status": "incremental_scan_completed_no_high_quality_new_items"
     }
   ],
-  "generated_at": "2026-09-10T07:58:15+08:00",
+  "generated_at": "2026-09-11T07:58:41+08:00",
   "items": [
     {
       "category": "研究",
@@ -1448,12 +1448,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_apply_now_on_deadline_day_2026-09-10_or_filled_earlier",
+      "current_status": "deadline_passed_removed_from_current_opportunities_detail_apply_link_still_visible_no_extension",
       "deadline": "2026-09-10",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-21",
       "id": "hku-emergency-medicine-senior-ra-537148",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Emergency Medicine",
       "priority": 94,
@@ -1465,7 +1465,6 @@
       "summary_en": "A one-year full-time appointment, renewable subject to performance, advertised on 20 August and reviewed immediately until 10 September or until filled. A bachelor's degree or above is accepted and no fixed years of experience are stated. The role supports emergency-department clinical research; literature review, medical-chart data extraction, data analysis, and SPSS/R are preferred rather than universal hard requirements. Applicants planning research postgraduate study are explicitly welcome.",
       "tags": [
         "历史补录",
-        "需尽快行动",
         "8月20日公告",
         "本科可申请",
         "无固定年限",
@@ -1475,14 +1474,17 @@
         "SPSS／R",
         "滚动审查",
         "研究生准备",
-        "既有机会仍开放",
-        "2026年9月10日官方复核仍开放",
-        "今日截止"
+        "状态变化",
+        "截止日已过",
+        "已从Current opportunities移除",
+        "详情页申请入口残留",
+        "无延期公告",
+        "2026年9月11日官方复核"
       ],
       "title": "香港大学急诊医学临床研究高级科研助理",
       "title_en": "Senior Research Assistant — Emergency Medicine Clinical Research",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_deadline_passed_removed_from_official_current_opportunities_detail_apply_link_stale_no_extension_2026_09_11"
     },
     {
       "category": "升学",
@@ -2179,7 +2181,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-14",
       "id": "hku-ai-engineer-ra2-537095",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "中国香港",
       "organization": "The University of Hong Kong · School of Computing and Data Science",
       "priority": 92,
@@ -2205,12 +2207,12 @@
         "竞争风险",
         "既有机会仍开放",
         "9月15日截止",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月11日官方复核仍开放"
       ],
       "title": "香港大学计算与数据科学学院 AI 工程师（科研助理 II）",
       "title_en": "AI Engineer (at the rank of Research Assistant II) — School of Computing and Data Science",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "研究",
@@ -5505,7 +5507,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-31",
       "id": "qmul-multimodal-ai-healthcare-ra-10844",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · School of Electronic Engineering and Computer Science",
       "priority": 97,
@@ -5532,21 +5534,22 @@
         "9月11日截止",
         "签证支持未说明",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月11日官方复核仍开放",
+        "今日截止"
       ],
       "title": "伦敦玛丽女王大学多模态 AI 与医疗科研助理",
       "title_en": "Research Assistant — Multimodal AI and Healthcare",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "求职",
       "current_status": "open_apply_now_until_2026-09-15_2355_aest",
       "deadline": "2026-09-15 23:55（澳大利亚东部标准时间）",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-31",
       "id": "unsw-clinical-ai-research-officer-542175",
-      "last_verified_at": "2026-08-31",
+      "last_verified_at": "2026-09-11",
       "location": "澳大利亚・悉尼",
       "organization": "UNSW Sydney · Centre for Big Data Research in Health",
       "priority": 94,
@@ -5568,12 +5571,14 @@
         "无固定年限",
         "9月15日截止",
         "不提供签证担保",
-        "必须已有澳大利亚工作权"
+        "必须已有澳大利亚工作权",
+        "2026年9月11日官方复核仍开放",
+        "既有机会仍开放"
       ],
       "title": "新南威尔士大学临床 AI Research Officer",
       "title_en": "Research Officer (Clinical AI) — Centre for Big Data Research in Health",
-      "updated_at": "2026-08-31",
-      "verification_status": "verified_open_official_unsw_posting_date_deadline_criteria_and_no_sponsorship"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "实验室",
@@ -5902,7 +5907,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-02",
       "id": "maastricht-neuroai-auditory-neuroscience-phd-3722",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "荷兰・马斯特里赫特",
       "organization": "Maastricht University · Faculty of Psychology and Neuroscience · ARCHIE Lab",
       "priority": 99,
@@ -5931,12 +5936,12 @@
         "9月20日截止",
         "全职带薪博士",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月11日官方复核仍开放"
       ],
       "title": "马斯特里赫特大学 NeuroAI 听觉神经科学博士",
       "title_en": "PhD Candidate in NeuroAI for Auditory Neuroscience",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "升学",
@@ -5979,10 +5984,10 @@
       "category": "求职",
       "current_status": "open_apply_now_until_2026-09-16_full_australian_work_rights_required",
       "deadline": "2026-09-16 23:30（悉尼时间）",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-03",
       "id": "unsw-kirby-clinical-data-officer-542596",
-      "last_verified_at": "2026-09-03",
+      "last_verified_at": "2026-09-11",
       "location": "澳大利亚・悉尼",
       "organization": "UNSW Sydney · The Kirby Institute",
       "priority": 88,
@@ -6006,12 +6011,14 @@
         "9月16日截止",
         "不提供签证担保",
         "澳大利亚完整工作权硬门槛",
-        "9月3日官方核验"
+        "9月3日官方核验",
+        "2026年9月11日官方复核仍开放",
+        "既有机会仍开放"
       ],
       "title": "UNSW Kirby Institute 临床数据官",
       "title_en": "Data Officer — The Kirby Institute",
-      "updated_at": "2026-09-03",
-      "verification_status": "verified_open_official_employer_page_advertised_date_requirements_deadline_and_work_rights_2026_09_03"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "研究",
@@ -6057,7 +6064,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-04",
       "id": "radboudumc-phd-neuroplasticity-brain-stimulation-depression-379145",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "荷兰・奈梅亨",
       "organization": "Radboud university medical center · Donders Institute",
       "priority": 99,
@@ -6086,12 +6093,12 @@
         "患者招募",
         "9月23日截止",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月11日官方复核仍开放"
       ],
       "title": "Radboudumc 抑郁症脑刺激神经可塑性博士",
       "title_en": "PhD Candidate in Neuroplasticity of Brain Stimulation in Depression",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "研究",
@@ -6245,7 +6252,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-08",
       "id": "kcl-bioinformatics-ai-bioimage-rnaseq-ra-155546",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Pharmaceutical Science",
       "priority": 91,
@@ -6270,12 +6277,12 @@
         "高技术门槛",
         "签证支持未说明",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月11日官方复核仍开放"
       ],
       "title": "伦敦国王学院生物信息学与多模态生物数据科研助理",
       "title_en": "Research Assistant in Bioinformatics",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_open_official_employer_listing_2026_09_11"
     },
     {
       "category": "求职",
@@ -6362,46 +6369,81 @@
       "title_en": "Research Assistant I/II — Health Services Research",
       "updated_at": "2026-09-10",
       "verification_status": "verified_open_official_employer_listing_2026_09_10"
+    },
+    {
+      "category": "研究",
+      "current_status": "reviewed_preprint_v1_not_version_of_record",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-11",
+      "id": "elife-topological-spatial-representation-drawing-112077",
+      "last_verified_at": "2026-09-11",
+      "location": "美国・宾夕法尼亚",
+      "organization": "eLife · University of Pennsylvania",
+      "priority": 92,
+      "published_at": "2026-09-10",
+      "relevance": "直接研究人类空间认知表征是以欧氏几何还是拓扑关系为核心，并连接成人、儿童、记忆重构和序列传播；对计算认知、空间表征与行为实验设计有方法价值。",
+      "section": "研究动态",
+      "source_url": "https://elifesciences.org/reviewed-preprints/112077",
+      "summary": "问题：人类记忆中的空间表征主要保存长度、角度等欧氏几何，还是连接、交叉与孔洞等拓扑结构。方法：四项实验让成人与 5–8 岁儿童记忆并绘制简单字母状图形，其中一项采用连续传递式重绘，比较几何属性与拓扑属性的失真。发现：长度和角度会系统性趋向平均值或 90°，T 形交叉与孔洞比 L 形转角更稳定；连续传递后图形趋于简化但保留拓扑，且儿童呈现相似模式。限制：只检验了有限拓扑特征；复杂特征记忆难度、绘画运动约束和有噪压缩等替代解释尚未排除；目前是 eLife reviewed preprint v1，并非 Version of Record。",
+      "summary_en": "The study asks whether human spatial memory primarily preserves Euclidean properties such as length and angle or topological relations such as junctions and holes. Across four drawing-from-memory experiments with adults and children aged 5–8, including a serial-reproduction chain, lengths and angles drifted toward averages or 90 degrees while T-junctions and holes were better preserved than L-junctions; repeated transmission simplified figures while retaining topology, with a similar pattern in children. The tested topological features were limited, and alternatives involving complex-feature memory, motor-production constraints or noisy compression remain unresolved. This is eLife reviewed preprint v1, not a Version of Record.",
+      "tags": [
+        "历史补录",
+        "9月10日发布",
+        "今日首次发现",
+        "eLife reviewed preprint",
+        "空间认知",
+        "拓扑表征",
+        "绘画重构",
+        "记忆",
+        "成人与儿童",
+        "连续传递",
+        "Important / Convincing"
+      ],
+      "title": "绘画重构揭示人类空间表征的拓扑结构",
+      "title_en": "Topological structure in human spatial representation revealed through drawing",
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_official_elife_reviewed_preprint_date_question_methods_findings_assessment_and_limitations_2026_09_11"
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "12e6d1982bfa7ec30272508ca97e46e2a59aa099",
-    "executed_at_beijing": "2026-09-10T07:58:15+08:00",
-    "increment_boundary": "2026-09-09T08:02:00+08:00",
-    "note": "远端内容写入后确认 192 个唯一 ID、192 个唯一官方链接及分类总数一致；完整地区、项目、企业招聘与期刊入口均已扫描。本轮新增一条严格标记为历史补录的 HKU 护理学院健康服务研究 RA I/II，无状态变化，九条临近／高优先机会完成官方复核。",
+    "content_commit_sha": "",
+    "executed_at_beijing": "2026-09-11T07:58:41+08:00",
+    "increment_boundary": "2026-09-10T07:58:15+08:00",
+    "note": "待写入后回读验证；计划总计 193 条，新增一项研究历史补录、一项状态变化，七条临近／高优先机会完成官方复核。",
     "public_site_verification": "repository_verified_public_pages_not_independently_confirmed",
-    "repository_write": "completed_and_remote_content_revalidated",
-    "result": "completed_with_one_historical_backfill_no_status_changes",
+    "repository_write": "pending",
+    "result": "pending_remote_validation",
     "run_type": "daily_full_scan"
   },
   "notice": "2026-09-01 12:32 完成当日增量补扫。未发现可严格证明在 08:02 全量扫描后新发布的高质量条目；历史补录 4 条（实验室 2、研究 2），状态变化 0。",
   "run_summary": {
     "category_counts": {
       "升学": 0,
-      "实验室": 1,
+      "实验室": 0,
       "求职": 0,
-      "研究": 0
+      "研究": 1
     },
     "database_category_totals": {
       "升学": 33,
       "实验室": 38,
       "求职": 25,
-      "研究": 96
+      "研究": 97
     },
-    "database_items_total": 192,
+    "database_items_total": 193,
     "excluded_expired_or_ineligible": [
-      "QMUL 新见的健康与行为科学 RA 是果蝇感染／代谢湿实验岗位，要求果蝇和分子实验；Edge AI RA 要求领先同行评议论文记录；神经形态材料 RA 要求复杂有机合成，均未纳入。",
-      "HKU 同批 Senior RA 要求相关硕士及至少一年经验；医学 Technical Officer 要求相关硕士且每周工作 5.5 天，均不如新补录 RA I/II 适配。",
-      "UNSW 本轮新增主要为博士后、研究管理或资深 AI 基础设施岗位；美国、加拿大、日本、韩国官方入口无符合层级的高质量新增。",
-      "9 月 9 日 eLife 最新较强结果聚焦雌鼠前额叶 OXTR 抑制性回路与社会性选择，证据为 Important / Convincing，但对当前升学与求职行动帮助有限，未为凑数收录。"
+      "HKU 9 月 10 日新见 AIDS Institute RA 以分子生物学、免疫检测、原代细胞与小动物湿实验为核心；实验动物设施岗位以运输、笼具清洁和粤语沟通为主，均未纳入。",
+      "OIST 新见 Cognitive Neurorobotics 职位为博士后，按层级排除；UNSW 新见系统支持岗位以用户工单、培训和服务台支持为主，未作为数据／算法机会收录。",
+      "中国大厂与外企中国区本轮未发现同时满足应届／低经验、专业可迁移和官方开放状态要求的高质量新增。",
+      "研究侧仅保留直接涉及空间认知且获 eLife Important / Convincing 评价的 reviewed preprint；较弱或行动相关性低的结果未收录。"
     ],
-    "existing_urgent_reverified": 9,
+    "existing_urgent_reverified": 7,
     "historical_backfills_added": 1,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 0,
-    "still_open_urgent_items": 29
+    "status_changes": 1,
+    "still_open_urgent_items": 27
   },
   "source_coverage": [
     {
@@ -6415,29 +6457,29 @@
       "status": "incremental_scan_completed_no_high_quality_new_items"
     },
     {
-      "note": "补录 HKU 护理学院健康服务研究 RA I/II；九条临近或高优先机会完成官方复核。",
+      "note": "QMUL 多模态 AI／医疗 RA、KCL 生物信息 RA、HKU AI Engineer RA II 及两项荷兰博士完成官方复核；HKU 急诊医学 Senior RA 转为截止后状态。",
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_one_historical_backfill_nine_existing_opportunities_reverified"
+      "status": "incremental_scan_completed_five_existing_opportunities_reverified_one_status_change"
     },
     {
-      "note": "已扫描 Nature Neuroscience、Nature Human Behaviour、Communications Biology、Scientific Data、eLife 等官方入口；9 月 9 日最新较强结果为雌鼠前额叶社会性选择回路，直接行动相关性有限，未增加阅读负担。",
+      "note": "历史补录 eLife 空间表征拓扑结构 reviewed preprint；其余最新研究未通过相关性与证据强度筛选。",
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_no_high_quality_new_research"
+      "status": "incremental_scan_completed_one_high_quality_historical_backfill"
     },
     {
-      "note": "已扫描，无高质量新增。",
+      "note": "UNSW Kirby Institute Data Officer 仍开放，但有澳大利亚完整工作权硬门槛；无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_one_existing_opportunity_reverified_no_high_quality_new_items"
     },
     {
-      "note": "HKU AI Engineer RA II 与 AI 多语视觉术语库 RA 仍开放；无高质量新增。",
+      "note": "HKU AI Engineer RA II 仍开放至 9 月 15 日；无高质量新增。",
       "source_group": "算法与AI岗位",
-      "status": "incremental_scan_completed_two_existing_opportunities_reverified_no_high_quality_new_items"
+      "status": "incremental_scan_completed_one_existing_opportunity_reverified_no_high_quality_new_items"
     },
     {
-      "note": "补录 HKU 护理学院健康服务研究 RA I/II；HKU 急诊医学、流行病学与生物统计、禅修神经影像、QMUL 多模态 AI 医疗及 KCL 生物信息 RA 均仍开放。",
+      "note": "QMUL 多模态 AI 医疗、KCL 生物信息、UNSW 临床 AI 与临床数据岗位仍开放；HKU 急诊医学 Senior RA 截止后已从当前职位表移除。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_one_historical_backfill_six_existing_opportunities_reverified"
+      "status": "incremental_scan_completed_four_existing_opportunities_reverified_one_status_change"
     },
     {
       "note": "已扫描，无高质量新增。",
