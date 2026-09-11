@@ -6618,7 +6618,7 @@
     "increment_boundary": "2026-09-10T22:17:36+08:00",
     "note": "完成国际 BME 申请增量扫描。新增匹兹堡大学职业型生物工程硕士神经工程方向 1 条，因无法核验项目今日发布而严格标为历史补录；复核既有 10 个 BME 候选，未发现截止日期或资格状态变化。",
     "public_site_verification": "not_updated_push_failed",
-    "repository_write": "local_commits_completed_push_failed_missing_github_credentials",
+    "repository_write": "local_commits_completed_push_failed_github_port_443_unreachable_after_network_permission",
     "result": "bme_incremental_scan_completed_with_one_historical_backfill_no_status_changes",
     "run_type": "daily_incremental_bme_scan"
   },
