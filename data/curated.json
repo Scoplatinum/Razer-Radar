@@ -8,19 +8,19 @@
   },
   "coverage": [
     {
-      "note": "Strathclyde 转换型 MSc BME 今日复核无状态变化：仍明确面向生命科学背景，含基础工程补修与 Healthcare AI 路径，2027 申请日期尚未发布。Dundee 与 Trinity 因常规专业范围或数学／项目负担未纳入。",
+      "note": "BME 主线：Strathclyde 转换型 MSc BME 仍明确面向生命科学背景，含基础工程补修与 Healthcare AI 路径，2027 申请日期尚未发布。同步合并远端岗位扫描：QMUL 多模态 AI／医疗 RA 截止日已过，KCL 生物信息 RA 截止日更新至 9 月 20 日。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_one_existing_option_reverified_no_status_change"
+      "status": "bme_reverified_and_remote_job_status_changes_merged"
     },
     {
-      "note": "Basel 联合 MSc BME 今日复核仍为自然科学可申请、4 月 30 日截止，需数学／物理／编程且论文必修；Aalto 与 Bern 的先修、GRE 或论文风险无变化。",
+      "note": "BME 主线：Basel 联合 MSc BME 仍为自然科学可申请、4 月 30 日截止，需数学／物理／编程且论文必修；Aalto 与 Bern 的先修、GRE 或论文风险无变化。同步的欧洲岗位扫描无高质量新增。",
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_one_existing_option_reverified_two_exclusions_unchanged"
+      "status": "bme_reverified_and_remote_region_scan_merged"
     },
     {
-      "note": "PolyU BME／BMI、CUHK BME、CityUHK BME 与 NUS BME 今日均完成官方复核，无状态变化。PolyU 两项目 10 月 20 日首轮截止，CUHK 10 月 30 日首轮截止；NUS 10 月 1 日开放，CityUHK 2027 页面仍未发布。",
+      "note": "BME 主线：PolyU BME／BMI、CUHK BME、CityUHK BME 与 NUS BME 均完成官方复核。同步合并两项 HKU 历史补录：生物医学 LLM／数据科学 RA，以及卒中与痴呆神经影像／临床研究 RA。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_five_existing_programmes_reverified_no_status_change"
+      "status": "bme_programmes_reverified_and_two_remote_ra_backfills_merged"
     },
     {
       "note": "东京大学 G30 International Bioengineering 仍要求 GRE 与英语成绩且偏研究／论文，本轮仍未确认可行动的 2027 窗口；韩国未找到明确接受非工程生命科学背景的优质授课／转换型项目。",
@@ -33,9 +33,9 @@
       "status": "incremental_scan_completed_one_historical_backfill_two_existing_options_reverified"
     },
     {
-      "note": "Melbourne BME 今日复核无变化；历史补录 Auckland Master of Medical Engineering 180-point taught 路径，science 学位可申请且偏医疗器械与监管，但生态学相关性、2027 截止日和较大的必修项目／论文负担需确认。",
+      "note": "Melbourne BME 复核无变化；历史补录 Auckland Master of Medical Engineering 180-point taught 路径，science 学位可申请且偏医疗器械与监管，但生态学相关性、2027 截止日和较大的必修项目／论文负担需确认。同步的澳大利亚岗位扫描无高质量新增。",
       "region": "澳大利亚与新西兰",
-      "status": "incremental_scan_completed_one_historical_backfill_one_existing_option_reverified"
+      "status": "bme_backfill_reverified_and_remote_region_scan_merged"
     }
   ],
   "generated_at": "2026-09-12T11:43:20+08:00",
@@ -1443,12 +1443,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_apply_now_on_deadline_day_2026-09-10_or_filled_earlier",
+      "current_status": "deadline_passed_removed_from_current_opportunities_detail_apply_link_still_visible_no_extension",
       "deadline": "2026-09-10",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-21",
       "id": "hku-emergency-medicine-senior-ra-537148",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-11",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Department of Emergency Medicine",
       "priority": 94,
@@ -1460,7 +1460,6 @@
       "summary_en": "A one-year full-time appointment, renewable subject to performance, advertised on 20 August and reviewed immediately until 10 September or until filled. A bachelor's degree or above is accepted and no fixed years of experience are stated. The role supports emergency-department clinical research; literature review, medical-chart data extraction, data analysis, and SPSS/R are preferred rather than universal hard requirements. Applicants planning research postgraduate study are explicitly welcome.",
       "tags": [
         "历史补录",
-        "需尽快行动",
         "8月20日公告",
         "本科可申请",
         "无固定年限",
@@ -1470,14 +1469,17 @@
         "SPSS／R",
         "滚动审查",
         "研究生准备",
-        "既有机会仍开放",
-        "2026年9月10日官方复核仍开放",
-        "今日截止"
+        "状态变化",
+        "截止日已过",
+        "已从Current opportunities移除",
+        "详情页申请入口残留",
+        "无延期公告",
+        "2026年9月11日官方复核"
       ],
       "title": "香港大学急诊医学临床研究高级科研助理",
       "title_en": "Senior Research Assistant — Emergency Medicine Clinical Research",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_deadline_passed_removed_from_official_current_opportunities_detail_apply_link_stale_no_extension_2026_09_11"
     },
     {
       "category": "升学",
@@ -2174,7 +2176,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-14",
       "id": "hku-ai-engineer-ra2-537095",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-12",
       "location": "中国香港",
       "organization": "The University of Hong Kong · School of Computing and Data Science",
       "priority": 92,
@@ -2200,12 +2202,12 @@
         "竞争风险",
         "既有机会仍开放",
         "9月15日截止",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "香港大学计算与数据科学学院 AI 工程师（科研助理 II）",
       "title_en": "AI Engineer (at the rank of Research Assistant II) — School of Computing and Data Science",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_listing_2026_09_12"
     },
     {
       "category": "研究",
@@ -5495,12 +5497,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_official_qmul_application_until_2026-09-11_2355_uk",
+      "current_status": "deadline_passed_still_listed_in_official_current_opportunities_no_extension",
       "deadline": "2026-09-11 23:55（英国时间）",
-      "discovery_status": "existing_still_open",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-31",
       "id": "qmul-multimodal-ai-healthcare-ra-10844",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-12",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · School of Electronic Engineering and Computer Science",
       "priority": 97,
@@ -5512,7 +5514,6 @@
       "summary_en": "An 11-month full-time Research Assistant role in multimodal AI and healthcare for clinical decision support. Duties include developing and evaluating machine-learning, deep-learning, LLM/VLM and foundation-model methods; working with large clinical datasets; producing reproducible research software; and contributing to validation, publications and project delivery. An undergraduate degree or equivalent in computer science or a related field is required; a PhD is desirable rather than mandatory. Existing ML/DL, multimodal or foundation-model expertise and model-evaluation/experimental-design skills are substantive requirements. The official page does not list a publication date and closes at 23:55 on 11 September.",
       "tags": [
         "历史补录",
-        "需尽快行动",
         "英国",
         "科研助理",
         "多模态AI",
@@ -5526,22 +5527,25 @@
         "高竞争度",
         "9月11日截止",
         "签证支持未说明",
-        "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "状态变化",
+        "截止日已过",
+        "官方Current Opportunities仍残留",
+        "无延期公告",
+        "2026年9月12日官方复核"
       ],
       "title": "伦敦玛丽女王大学多模态 AI 与医疗科研助理",
       "title_en": "Research Assistant — Multimodal AI and Healthcare",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_deadline_passed_still_on_official_current_opportunities_no_extension_2026_09_12"
     },
     {
       "category": "求职",
       "current_status": "open_apply_now_until_2026-09-15_2355_aest",
       "deadline": "2026-09-15 23:55（澳大利亚东部标准时间）",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-31",
       "id": "unsw-clinical-ai-research-officer-542175",
-      "last_verified_at": "2026-08-31",
+      "last_verified_at": "2026-09-12",
       "location": "澳大利亚・悉尼",
       "organization": "UNSW Sydney · Centre for Big Data Research in Health",
       "priority": 94,
@@ -5563,12 +5567,14 @@
         "无固定年限",
         "9月15日截止",
         "不提供签证担保",
-        "必须已有澳大利亚工作权"
+        "必须已有澳大利亚工作权",
+        "既有机会仍开放",
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "新南威尔士大学临床 AI Research Officer",
       "title_en": "Research Officer (Clinical AI) — Centre for Big Data Research in Health",
-      "updated_at": "2026-08-31",
-      "verification_status": "verified_open_official_unsw_posting_date_deadline_criteria_and_no_sponsorship"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_listing_2026_09_12"
     },
     {
       "category": "实验室",
@@ -5897,7 +5903,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-02",
       "id": "maastricht-neuroai-auditory-neuroscience-phd-3722",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-12",
       "location": "荷兰・马斯特里赫特",
       "organization": "Maastricht University · Faculty of Psychology and Neuroscience · ARCHIE Lab",
       "priority": 99,
@@ -5926,12 +5932,12 @@
         "9月20日截止",
         "全职带薪博士",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "马斯特里赫特大学 NeuroAI 听觉神经科学博士",
       "title_en": "PhD Candidate in NeuroAI for Auditory Neuroscience",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_listing_2026_09_12"
     },
     {
       "category": "升学",
@@ -5974,10 +5980,10 @@
       "category": "求职",
       "current_status": "open_apply_now_until_2026-09-16_full_australian_work_rights_required",
       "deadline": "2026-09-16 23:30（悉尼时间）",
-      "discovery_status": "historical_backfill",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-03",
       "id": "unsw-kirby-clinical-data-officer-542596",
-      "last_verified_at": "2026-09-03",
+      "last_verified_at": "2026-09-12",
       "location": "澳大利亚・悉尼",
       "organization": "UNSW Sydney · The Kirby Institute",
       "priority": 88,
@@ -6001,12 +6007,14 @@
         "9月16日截止",
         "不提供签证担保",
         "澳大利亚完整工作权硬门槛",
-        "9月3日官方核验"
+        "9月3日官方核验",
+        "既有机会仍开放",
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "UNSW Kirby Institute 临床数据官",
       "title_en": "Data Officer — The Kirby Institute",
-      "updated_at": "2026-09-03",
-      "verification_status": "verified_open_official_employer_page_advertised_date_requirements_deadline_and_work_rights_2026_09_03"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_listing_2026_09_12"
     },
     {
       "category": "研究",
@@ -6052,7 +6060,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-04",
       "id": "radboudumc-phd-neuroplasticity-brain-stimulation-depression-379145",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-12",
       "location": "荷兰・奈梅亨",
       "organization": "Radboud university medical center · Donders Institute",
       "priority": 99,
@@ -6081,12 +6089,12 @@
         "患者招募",
         "9月23日截止",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "Radboudumc 抑郁症脑刺激神经可塑性博士",
       "title_en": "PhD Candidate in Neuroplasticity of Brain Stimulation in Depression",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_listing_2026_09_12"
     },
     {
       "category": "研究",
@@ -6235,12 +6243,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "open_apply_now_until_2026-09-13_2359_uk_or_early_close",
-      "deadline": "2026-09-13 23:59（英国时间；可能提前关闭）",
-      "discovery_status": "existing_still_open",
+      "current_status": "open_apply_now_official_deadline_updated_to_2026-09-20_2359_uk_or_early_close",
+      "deadline": "2026-09-20 23:59（英国时间；可能提前关闭）",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-09-08",
       "id": "kcl-bioinformatics-ai-bioimage-rnaseq-ra-155546",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-12",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Pharmaceutical Science",
       "priority": 91,
@@ -6248,8 +6256,8 @@
       "relevance": "直接连接 Python、机器学习、生物影像、RNA-seq 与空间转录组；但官网把生物影像分析、Python、ML/AI 模型及 RNA-seq 经验全部列为必需，属于高门槛延伸机会。只有能用真实项目逐项举证时才值得投递。",
       "section": "实验室机会",
       "source_url": "https://www.kcl.ac.uk/jobs/155546-research-assistant-in-bioinformatics",
-      "summary": "一年期全职科研助理，最迟于 2028 年 1 月 31 日结束，薪资 £39,076。工作包括开发用于生物影像细胞行为分析的 AI 模型、开展跨物种 RNA-seq 分析、结合空间转录组研究细胞信号，并参与可复现分析与论文产出。官网未要求博士或固定工作年限，但把生物影像分析、Python、机器学习／AI 模型训练与使用、RNA-seq 分析均列为必需；9 月 13 日 23:59 英国时间截止，且可能提前关闭。",
-      "summary_en": "A one-year full-time Research Assistant appointment, ending no later than 31 January 2028, with a salary of £39,076. The role develops AI models for analysing cell behaviour in bioimages, performs cross-species RNA-seq analysis, integrates spatial transcriptomics to study cell signalling, and contributes to reproducible analysis and publications. The official listing does not require a PhD or fixed years of experience, but bioimage analysis, Python, machine-learning/AI model training and use, and RNA-seq analysis are all essential. Applications close at 23:59 UK time on 13 September and may close early.",
+      "summary": "一年期全职科研助理，最迟于 2028 年 1 月 31 日结束，薪资 £39,076。工作包括开发用于生物影像细胞行为分析的 AI 模型、开展跨物种 RNA-seq 分析、结合空间转录组研究细胞信号，并参与可复现分析与论文产出。官网未要求博士或固定工作年限，但把生物影像分析、Python、机器学习／AI 模型训练与使用、RNA-seq 分析均列为必需；9 月 20 日 23:59 英国时间截止，且可能提前关闭。",
+      "summary_en": "A one-year full-time Research Assistant appointment, ending no later than 31 January 2028, with a salary of £39,076. The role develops AI models for analysing cell behaviour in bioimages, performs cross-species RNA-seq analysis, integrates spatial transcriptomics to study cell signalling, and contributes to reproducible analysis and publications. The official listing does not require a PhD or fixed years of experience, but bioimage analysis, Python, machine-learning/AI model training and use, and RNA-seq analysis are all essential. Applications close at 23:59 UK time on 20 September and may close early.",
       "tags": [
         "历史补录",
         "需尽快行动",
@@ -6261,16 +6269,18 @@
         "生物影像",
         "RNA-seq",
         "空间转录组",
-        "9月13日截止",
         "高技术门槛",
         "签证支持未说明",
         "既有机会仍开放",
-        "2026年9月10日官方复核仍开放"
+        "状态变化",
+        "官方截止日更新",
+        "9月20日截止",
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "伦敦国王学院生物信息学与多模态生物数据科研助理",
       "title_en": "Research Assistant in Bioinformatics",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_page_deadline_changed_from_database_2026_09_13_to_2026_09_20_on_2026_09_12"
     },
     {
       "category": "求职",
@@ -6279,7 +6289,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-09",
       "id": "hku-ai-multilingual-visual-glossary-ra-537323",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-09-12",
       "location": "中国香港",
       "organization": "The University of Hong Kong · Division of Landscape Architecture",
       "priority": 98,
@@ -6310,12 +6320,13 @@
         "作品示例",
         "滚动审查",
         "10月9日截止",
-        "2026年9月10日官方复核仍开放"
+        "既有机会仍开放",
+        "2026年9月12日官方复核仍开放"
       ],
       "title": "香港大学 AI 多语视觉术语库科研助理 I/II",
       "title_en": "Research Assistant I/II — AI-Curated Multilingual Visual Glossary",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_open_official_employer_listing_2026_09_10"
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_open_official_employer_listing_2026_09_12"
     },
     {
       "category": "实验室",
@@ -6633,46 +6644,167 @@
       "title_en": "Master of Medical Engineering — 180-point Taught Pathway",
       "updated_at": "2026-09-12",
       "verification_status": "verified_official_programme_entry_structure_2027_intakes_and_2026_fee_deadline_and_ecology_fit_need_confirmation"
+    },
+    {
+      "category": "研究",
+      "current_status": "reviewed_preprint_v1_not_version_of_record",
+      "deadline": "",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-11",
+      "id": "elife-topological-spatial-representation-drawing-112077",
+      "last_verified_at": "2026-09-11",
+      "location": "美国・宾夕法尼亚",
+      "organization": "eLife · University of Pennsylvania",
+      "priority": 92,
+      "published_at": "2026-09-10",
+      "relevance": "直接研究人类空间认知表征是以欧氏几何还是拓扑关系为核心，并连接成人、儿童、记忆重构和序列传播；对计算认知、空间表征与行为实验设计有方法价值。",
+      "section": "研究动态",
+      "source_url": "https://elifesciences.org/reviewed-preprints/112077",
+      "summary": "问题：人类记忆中的空间表征主要保存长度、角度等欧氏几何，还是连接、交叉与孔洞等拓扑结构。方法：四项实验让成人与 5–8 岁儿童记忆并绘制简单字母状图形，其中一项采用连续传递式重绘，比较几何属性与拓扑属性的失真。发现：长度和角度会系统性趋向平均值或 90°，T 形交叉与孔洞比 L 形转角更稳定；连续传递后图形趋于简化但保留拓扑，且儿童呈现相似模式。限制：只检验了有限拓扑特征；复杂特征记忆难度、绘画运动约束和有噪压缩等替代解释尚未排除；目前是 eLife reviewed preprint v1，并非 Version of Record。",
+      "summary_en": "The study asks whether human spatial memory primarily preserves Euclidean properties such as length and angle or topological relations such as junctions and holes. Across four drawing-from-memory experiments with adults and children aged 5–8, including a serial-reproduction chain, lengths and angles drifted toward averages or 90 degrees while T-junctions and holes were better preserved than L-junctions; repeated transmission simplified figures while retaining topology, with a similar pattern in children. The tested topological features were limited, and alternatives involving complex-feature memory, motor-production constraints or noisy compression remain unresolved. This is eLife reviewed preprint v1, not a Version of Record.",
+      "tags": [
+        "历史补录",
+        "9月10日发布",
+        "今日首次发现",
+        "eLife reviewed preprint",
+        "空间认知",
+        "拓扑表征",
+        "绘画重构",
+        "记忆",
+        "成人与儿童",
+        "连续传递",
+        "Important / Convincing"
+      ],
+      "title": "绘画重构揭示人类空间表征的拓扑结构",
+      "title_en": "Topological structure in human spatial representation revealed through drawing",
+      "updated_at": "2026-09-11",
+      "verification_status": "verified_official_elife_reviewed_preprint_date_question_methods_findings_assessment_and_limitations_2026_09_11"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_review_from_2026-09-25_until_2026-12-10_or_filled",
+      "deadline": "2026-12-10（9月25日起审查，或招满即止）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-12",
+      "id": "hku-biomedical-data-science-llm-ra-537341",
+      "last_verified_at": "2026-09-12",
+      "location": "中国香港",
+      "organization": "The University of Hong Kong · School of Biomedical Sciences",
+      "priority": 96,
+      "published_at": "2026-09-11",
+      "relevance": "这是本科层级中少见的“Python＋Linux／Bash＋生物医学 LLM”科研工程入口，与可迁移的数据分析和命令行经验高度衔接；但官网优先考虑生物信息、医学信息或计算机背景，申请材料必须用实际代码／数据项目证明技术能力。",
+      "section": "科研／医疗／生物信息岗位",
+      "source_url": "https://jobs.hku.hk/cw/en/job/537341/research-assistant-iii",
+      "summary": "一年期 Research Assistant I/II，可按表现续约，参与将大语言模型部署到生物医学信息学应用。要求本科，优先专业为生物信息学、生物医学信息学、计算机或相关方向；Python 熟练度以及 Linux、Bash 使用能力为必需，官网没有固定工作年限要求。9 月 11 日公告；9 月 25 日开始审查，持续至 12 月 10 日或招满即止。由于官方只列日期而无上线时刻，本轮首次发现保守标为历史补录。",
+      "summary_en": "A one-year Research Assistant I/II appointment, renewable subject to performance, supporting the deployment of large language models for biomedical-informatics applications. A bachelor's degree is required, preferably in bioinformatics, biomedical informatics, computer science or a related field. Python proficiency and familiarity with Linux and Bash are required, while no fixed years-of-experience threshold is stated. Advertised on 11 September; review begins on 25 September and continues until 10 December or until filled. Because the official page provides no posting time, this first discovery is conservatively recorded as a historical backfill.",
+      "tags": [
+        "历史补录",
+        "9月11日公告",
+        "今日首次发现",
+        "本科可申请",
+        "无固定年限",
+        "Python",
+        "Linux",
+        "Bash",
+        "LLM",
+        "生物医学信息学",
+        "数据科学",
+        "科研工程",
+        "9月25日起审查",
+        "12月10日截止",
+        "高匹配",
+        "官方页面已核验"
+      ],
+      "title": "香港大学生物医学 LLM／数据科学科研助理 I/II",
+      "title_en": "Research Assistant I/II (Data Science) — Biomedical LLM Applications",
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_official_employer_posting_date_qualifications_skills_review_start_deadline_and_open_status_2026_09_12"
+    },
+    {
+      "category": "实验室",
+      "current_status": "open_apply_now_rolling_until_2026-10-11_or_filled",
+      "deadline": "2026-10-11（滚动审查，或招满即止）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-12",
+      "id": "hku-neurology-stroke-dementia-ra-537324",
+      "last_verified_at": "2026-09-12",
+      "location": "中国香港",
+      "organization": "The University of Hong Kong · Division of Neurology · HKU Stroke",
+      "priority": 78,
+      "published_at": "2026-09-11",
+      "relevance": "项目涉及卒中、痴呆、神经影像、临床数据库和认知评估，且经验较少者可按 RA II 聘用并获得医学统计与神经影像培训；但粤语是硬要求，受试者招募、问卷评估、临床协调和多方沟通是主要职责，按个人工作偏好显著降权。",
+      "section": "实验室机会",
+      "source_url": "https://jobs.hku.hk/cw/en/job/537324/research-assistant-iii-in-division-of-neurology",
+      "summary": "一年期 Research Assistant I/II，支持 HKU Stroke 的卒中与痴呆登记、临床试验、先进神经影像及血液生物标志物研究。工作包括临床场景受试者联络与招募、问卷和评估、项目协调、数据收集／整理／分析以及报告和论文；提供医学统计、神经影像解读、血管及认知评估等培训。接受健康科学、社会科学、心理学、医学统计或相关本科，经验较少者可按 RA II 聘用；英语、中文及粤语为要求。9 月 11 日公告，10 月 11 日截止或招满即止；因无精确上线时间，保守标为历史补录。",
+      "summary_en": "A one-year Research Assistant I/II role supporting HKU Stroke projects in stroke and dementia registries, clinical trials, advanced neuroimaging and blood-based biomarkers. Duties include participant liaison and recruitment in clinical settings, questionnaires and assessments, study coordination, data collection/organisation/analysis, and reports or manuscripts. Training is available in medical statistics, neuroimaging interpretation, vascular and cognitive assessments. A bachelor's degree in health sciences, social sciences, psychology, medical statistics or a related field is accepted, and less-experienced applicants may be appointed at RA II level; English, Chinese and Cantonese are required. Advertised on 11 September and open until 11 October or until filled. With no exact posting time, it is conservatively treated as a historical backfill.",
+      "tags": [
+        "历史补录",
+        "9月11日公告",
+        "今日首次发现",
+        "本科可申请",
+        "经验较少可按RA II",
+        "神经内科",
+        "卒中",
+        "痴呆",
+        "神经影像",
+        "临床试验",
+        "数据分析",
+        "认知评估",
+        "提供培训",
+        "粤语硬要求",
+        "受试者招募",
+        "高沟通占比",
+        "个人适配度较低",
+        "10月11日截止",
+        "滚动审查",
+        "官方页面已核验"
+      ],
+      "title": "香港大学卒中与痴呆神经影像／临床研究助理 I/II",
+      "title_en": "Research Assistant I/II — Stroke, Dementia, Neuroimaging and Clinical Research",
+      "updated_at": "2026-09-12",
+      "verification_status": "verified_official_employer_posting_date_duties_qualifications_language_training_deadline_and_open_status_2026_09_12"
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "1b71a6d641f1ce7b97316e9aa6267b2642a658d3",
-    "executed_at_beijing": "2026-09-12T11:43:20+08:00",
-    "increment_boundary": "2026-09-11T13:58:16+08:00",
-    "note": "完成国际 BME 申请增量扫描。新增奥克兰大学 180-point taught Master of Medical Engineering 1 条，官方项目目录发布日为 2026-06-21，故严格标为历史补录；复核既有 11 个 BME 候选，未发现截止日期或资格状态变化。",
-    "public_site_verification": "not_updated_push_failed",
-    "repository_write": "local_commits_completed_push_failed_github_cli_token_invalid_and_port_443_unreachable",
-    "result": "bme_incremental_scan_completed_with_one_auckland_historical_backfill_no_status_changes",
-    "run_type": "daily_incremental_bme_scan"
+    "content_commit_sha": "merge_commit_contains_this_receipt",
+    "executed_at_beijing": "2026-09-12T13:54:30+08:00",
+    "increment_boundary": "2026-09-11T07:58:41+08:00",
+    "note": "已合并远端 9 月 12 日全量扫描与本地 BME 专项更新：保留 3 条远端历史补录（eLife 研究动态及两项 HKU RA）、2 项既有岗位状态变化，以及 12 条本地 BME 候选（含 Auckland 医疗工程历史补录）。合并后继续以国际 BME 申请为主要展示方向。",
+    "public_site_verification": "pending_after_push",
+    "repository_write": "merge_conflicts_resolved_local_merge_commit_completed_push_pending",
+    "result": "remote_daily_scan_and_local_bme_update_merged",
+    "run_type": "manual_merge_remote_daily_scan_and_bme_focus"
   },
-  "notice": "2026-09-12 11:43 完成国际 BME 申请增量扫描：上次扫描后新发布 0，历史补录 1，既有项目状态变化 0，仍开放且需尽快行动 4。新增 Auckland 医疗工程授课型 180-point 路径；既有项目均完成官方复核。",
+  "notice": "2026-09-12 13:54 已合并远端全量扫描与本地国际 BME 专项更新：合并新增／补录共 4 条（BME 项目 1、实验室 2、研究动态 1），既有岗位状态变化 2 条；BME 申请仍为主要展示方向。",
   "run_summary": {
     "category_counts": {
       "升学": 1,
-      "实验室": 0,
+      "实验室": 2,
       "求职": 0,
-      "研究": 0
+      "研究": 1
     },
     "database_category_totals": {
       "升学": 45,
-      "实验室": 38,
+      "实验室": 40,
       "求职": 25,
-      "研究": 96
+      "研究": 97
     },
-    "database_items_total": 204,
+    "database_items_total": 207,
     "excluded_expired_or_ineligible": [
       "Northwestern BME MS 已公布 2027 截止日且接受 quantitative sciences，但至少要求单／多变量微积分、线性代数、微分方程和统计；用户成绩单尚未证明全部先修，暂不入库。",
       "Case Western BME MS 接受自然科学，但要求微积分至微分方程及合计三年物理、化学、工程科学；对生态学本科补课成本过高，未纳入。",
       "Tohoku BME 2027 项目需事先取得导师同意并赴仙台参加含数学／专业科目的入学考试，且研究导向明显；Science Tokyo 2027 考试已于 8 月举行，均不作为当前可行动授课型机会。",
-      "Auckland Bioengineering ME 为 120-point 全论文研究学位；Otago MSc(Applied) Bioengineering 仍强调跨学科研究且未给出清晰的非工程先修与职业型结构，均不与 Auckland Medical Engineering 重复收录。"
+      "Auckland Bioengineering ME 为 120-point 全论文研究学位；Otago MSc(Applied) Bioengineering 仍强调跨学科研究且未给出清晰的非工程先修与职业型结构，均不与 Auckland Medical Engineering 重复收录。",
+      "QMUL Edge AI RA/PDRA 硬性要求分布式 AI／网络专长及领先同行评议论文记录；临床试验数据库开发岗要求已有 EDC 临床数据库与治理经验，均未纳入。",
+      "UNSW 新近结果主要为资深岗位、研究管理或博士后；日本、韩国、美国、加拿大官方入口未发现符合层级的高质量新增。"
     ],
-    "existing_urgent_reverified": 4,
-    "historical_backfills_added": 1,
+    "existing_urgent_reverified": 10,
+    "historical_backfills_added": 4,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 0,
-    "still_open_urgent_items": 4
+    "status_changes": 2,
+    "still_open_urgent_items": 31
   },
   "source_coverage": [
     {
@@ -6699,6 +6831,46 @@
       "note": "Toronto MEng 的官方资格表述冲突仍在；Auckland 需确认生态学相关性及 2027 截止日；Northwestern、Case、Tohoku、Science Tokyo、Auckland research ME 与 Otago 因先修、考试、研究负担或结构不清被排除。",
       "source_group": "需确认／不建议",
       "status": "incremental_scan_completed_two_confirmation_items_six_exclusions_documented"
+    },
+    {
+      "note": "历史补录两项 HKU RA；QMUL 多模态 AI／医疗 RA 转为截止后入口残留，KCL 生物信息 RA 截止日更新至 9 月 20 日。",
+      "source_group": "实验室与高校招聘",
+      "status": "incremental_scan_completed_two_historical_backfills_two_status_changes"
+    },
+    {
+      "note": "已扫描 Nature 系列、Communications Biology、Scientific Data 与 eLife 官方入口；9 月 11 日较强更新主要为旧 reviewed preprint 修订或基础离子通道研究，对当前行动决策帮助有限，未收录。",
+      "source_group": "研究动态",
+      "status": "incremental_scan_completed_no_high_quality_action_relevant_new_research"
+    },
+    {
+      "note": "UNSW Kirby Institute Data Officer 仍开放，但有澳大利亚完整工作权硬门槛；无高质量新增。",
+      "source_group": "数据分析岗位",
+      "status": "incremental_scan_completed_one_existing_opportunity_reverified_no_high_quality_new_items"
+    },
+    {
+      "note": "历史补录 HKU 生物医学 LLM／数据科学 RA；HKU AI Engineer RA II 与多语视觉术语库 RA 仍开放。",
+      "source_group": "算法与AI岗位",
+      "status": "incremental_scan_completed_one_historical_backfill_two_existing_opportunities_reverified"
+    },
+    {
+      "note": "历史补录 HKU 生物医学 LLM／数据科学 RA 与卒中痴呆 RA；KCL 生物信息 RA 截止日更新，UNSW 两项临床数据岗位仍开放。",
+      "source_group": "科研／医疗／生物信息岗位",
+      "status": "incremental_scan_completed_two_historical_backfills_one_status_change_two_existing_opportunities_reverified"
+    },
+    {
+      "note": "已扫描，无高质量新增。",
+      "source_group": "其他求职",
+      "status": "incremental_scan_completed_no_high_quality_new_items"
+    },
+    {
+      "note": "已扫描百度、字节、阿里、华为等官方入口；无符合毕业届别和层级要求的高质量新增。",
+      "source_group": "中国大厂官方招聘",
+      "status": "incremental_scan_completed_no_high_quality_new_items"
+    },
+    {
+      "note": "已扫描 Microsoft、SAP、Google 等官方 Careers；无高质量新增。",
+      "source_group": "外企中国区 Careers",
+      "status": "incremental_scan_completed_no_high_quality_new_items"
     }
   ]
 }
