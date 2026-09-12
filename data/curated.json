@@ -6641,7 +6641,7 @@
     "increment_boundary": "2026-09-11T13:58:16+08:00",
     "note": "完成国际 BME 申请增量扫描。新增奥克兰大学 180-point taught Master of Medical Engineering 1 条，官方项目目录发布日为 2026-06-21，故严格标为历史补录；复核既有 11 个 BME 候选，未发现截止日期或资格状态变化。",
     "public_site_verification": "not_updated_push_failed",
-    "repository_write": "content_committed_push_pending_github_cli_token_invalid",
+    "repository_write": "local_commits_completed_push_failed_github_cli_token_invalid_and_port_443_unreachable",
     "result": "bme_incremental_scan_completed_with_one_auckland_historical_backfill_no_status_changes",
     "run_type": "daily_incremental_bme_scan"
   },
