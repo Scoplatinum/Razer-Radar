@@ -8,38 +8,77 @@
   },
   "coverage": [
     {
-      "note": "BME 主线：Strathclyde 转换型 MSc BME 仍明确面向生命科学背景，含基础工程补修与 Healthcare AI 路径，2027 申请日期尚未发布。同步合并远端岗位扫描：QMUL 多模态 AI／医疗 RA 截止日已过，KCL 生物信息 RA 截止日更新至 9 月 20 日。",
       "region": "英国与爱尔兰",
-      "status": "bme_reverified_and_remote_job_status_changes_merged"
+      "status": "incremental_scan_completed_one_historical_backfill_one_status_change",
+      "note": "已扫描官方大学招聘／博士项目、jobs.ac.uk 线索及高校原始页面。历史补录 Exeter GW4 BioMed3 的 AI＋痴呆风险全额资助博士；QMUL 多模态 AI／医疗 RA 已从官方 Current Opportunities 撤下；KCL 生物信息 RA 仍开放至 9 月 20 日。爱尔兰入口无通过层级与适配度核验的高质量新增。"
     },
     {
-      "note": "BME 主线：Basel 联合 MSc BME 仍为自然科学可申请、4 月 30 日截止，需数学／物理／编程且论文必修；Aalto 与 Bern 的先修、GRE 或论文风险无变化。同步的欧洲岗位扫描无高质量新增。",
       "region": "欧洲大陆",
-      "status": "bme_reverified_and_remote_region_scan_merged"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描德国、荷兰、瑞士、法国、比利时与北欧的 EURAXESS／高校官方入口。马斯特里赫特 NeuroAI 博士与 Radboudumc 脑刺激博士仍分别开放至 9 月 20 日、23 日；无其他高质量新增。"
     },
     {
-      "note": "BME 主线：PolyU BME／BMI、CUHK BME、CityUHK BME 与 NUS BME 均完成官方复核。同步合并两项 HKU 历史补录：生物医学 LLM／数据科学 RA，以及卒中与痴呆神经影像／临床研究 RA。",
       "region": "香港与新加坡",
-      "status": "bme_programmes_reverified_and_two_remote_ra_backfills_merged"
+      "status": "incremental_scan_completed_existing_urgent_items_reverified_no_high_quality_new_items",
+      "note": "已扫描 HKU、PolyU、CUHK、NUS、NTU 与 A*STAR 官方入口。HKU AI Engineer RA II 仍开放至 9 月 15 日；周末新列岗位主要为临床协调、湿实验或资深层级，无高质量新增。"
     },
     {
-      "note": "东京大学 G30 International Bioengineering 仍要求 GRE 与英语成绩且偏研究／论文，本轮仍未确认可行动的 2027 窗口；韩国未找到明确接受非工程生命科学背景的优质授课／转换型项目。",
       "region": "日本与韩国",
-      "status": "incremental_scan_completed_no_eligible_taught_conversion_addition"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描东京大学医学、计算生物与工程招生入口，以及日本／韩国主要高校和研究机构官方入口；现有 2027 批次多已进入考试或结果阶段，未发现适合当前背景且仍可行动的高质量新增。"
     },
     {
-      "note": "今日历史补录 Pitt 职业型神经工程 MS：接受生命科学 STEM、非论文且实习必修，但非工程背景可能需补较多工程／数学。Toronto 的官方资格表述冲突仍在，BU LEAP 的 GRE、英语重考与五年内 Calculus I 要求无变化；McGill Translational BME 仍仅显示 Fall 2026，待 9 月 15 日复核。",
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_one_historical_backfill_two_existing_options_reverified"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描美国、加拿大的神经科学、数据／AI 与生物医学相关博士／硕士及高校岗位入口；未发现上次扫描后通过资格、层级和官方开放状态核验的高质量新增。"
     },
     {
-      "note": "Melbourne BME 复核无变化；历史补录 Auckland Master of Medical Engineering 180-point taught 路径，science 学位可申请且偏医疗器械与监管，但生态学相关性、2027 截止日和较大的必修项目／论文负担需确认。同步的澳大利亚岗位扫描无高质量新增。",
       "region": "澳大利亚与新西兰",
-      "status": "bme_backfill_reverified_and_remote_region_scan_merged"
+      "status": "incremental_scan_completed_two_existing_unsw_items_reverified_no_high_quality_new_items",
+      "note": "已扫描澳大利亚主要高校与研究机构官方入口。UNSW 临床 AI Research Officer 与 Kirby Data Officer 仍分别开放至 9 月 15 日、16 日，但均硬性要求澳大利亚完整工作权且不提供签证担保；无高质量新增。"
     }
   ],
-  "generated_at": "2026-09-12T11:43:20+08:00",
+  "generated_at": "2026-09-13T08:02:24+08:00",
   "items": [
+    {
+      "category": "升学",
+      "current_status": "open_until_2026-10-21_1700_uk_may_close_early",
+      "deadline": "2026-10-21 17:00（英国时间；可能提前关闭）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-13",
+      "id": "exeter-gw4biomed-ai-dementia-risk-phd-5936",
+      "last_verified_at": "2026-09-13",
+      "location": "英国・埃克塞特",
+      "organization": "University of Exeter · Department of Computer Science · GW4 BioMed3",
+      "priority": 99,
+      "published_at": "2026-09-09",
+      "relevance": "将 LLM、因果知识图谱、认知测评和早期痴呆风险建模放在同一全额资助博士中，直接连接 AI 应用、数据科学与认知／临床研究；对医学、计算、数学或物理科学背景开放，跨方向边界相对友好。",
+      "section": "神经与认知项目",
+      "source_url": "https://www.exeter.ac.uk/study/funding/award/?id=5936",
+      "summary": "GW4 BioMed3 四年制全额资助博士，2027 年 10 月入学。项目先从科研文献和认知测评问卷构建因果知识图谱，再把知识图谱与 Transformer 大语言模型、因果学习结合，用于可解释的早期痴呆风险建模。医学科学、计算、数学或物理科学相关的一等／2:1 本科或国际同等学历可申请；2:2 通常需再有硕士。国际生可获本土与国际学费差额资助及 UKRI 标准津贴，但国际名额受 30% 上限约束，签证、医疗附加费与搬迁费用自理。官网明确申请于 9 月 9 日开放，10 月 21 日 17:00 英国时间截止，并可能因申请量提前关闭。",
+      "summary_en": "A four-year fully funded GW4 BioMed3 PhD starting in October 2027. The project will build a causal knowledge graph from scientific literature and cognitive-test questionnaire data, then integrate it with transformer-based large language models and causal learning for explainable early-dementia risk modelling. Applicants need a first or upper-second-class degree (or international equivalent) in medical sciences, computing, mathematics or physical sciences; a 2:2 normally also requires a master's. International tuition differences and a UKRI-rate stipend are covered, but international awards are capped at 30% and applicants must pay visa, health-surcharge and relocation costs. The official page states that applications opened on 9 September and close at 17:00 UK time on 21 October, with possible early closure.",
+      "tags": [
+        "历史补录",
+        "9月9日开放",
+        "2027入学",
+        "全额资助博士",
+        "国际生可申请",
+        "国际生名额上限30%",
+        "痴呆",
+        "认知测评",
+        "因果知识图谱",
+        "大语言模型",
+        "因果推断",
+        "可解释AI",
+        "数据科学",
+        "10月21日截止",
+        "可能提前关闭"
+      ],
+      "title": "埃克塞特大学 AI 与可干预痴呆风险全额资助博士",
+      "title_en": "AI Scientists for Understanding Dementia Modifiable Risk Factors — MRC GW4 BioMed3 PhD",
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_official_university_application_open_date_deadline_funding_eligibility_and_project_methods_2026_09_13"
+    },
     {
       "category": "研究",
       "current_status": "published_version_of_record",
@@ -2176,7 +2215,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-14",
       "id": "hku-ai-engineer-ra2-537095",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "中国香港",
       "organization": "The University of Hong Kong · School of Computing and Data Science",
       "priority": 92,
@@ -2202,12 +2241,12 @@
         "竞争风险",
         "既有机会仍开放",
         "9月15日截止",
-        "2026年9月12日官方复核仍开放"
+        "2026年9月13日官方复核仍开放"
       ],
       "title": "香港大学计算与数据科学学院 AI 工程师（科研助理 II）",
       "title_en": "AI Engineer (at the rank of Research Assistant II) — School of Computing and Data Science",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_open_official_employer_listing_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_open_official_employer_listing_2026_09_13"
     },
     {
       "category": "研究",
@@ -5497,12 +5536,12 @@
     },
     {
       "category": "实验室",
-      "current_status": "deadline_passed_still_listed_in_official_current_opportunities_no_extension",
+      "current_status": "closed_removed_from_official_current_opportunities_after_2026-09-11_deadline",
       "deadline": "2026-09-11 23:55（英国时间）",
       "discovery_status": "status_change",
       "first_seen_at": "2026-08-31",
       "id": "qmul-multimodal-ai-healthcare-ra-10844",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "英国・伦敦",
       "organization": "Queen Mary University of London · School of Electronic Engineering and Computer Science",
       "priority": 97,
@@ -5529,14 +5568,13 @@
         "签证支持未说明",
         "状态变化",
         "截止日已过",
-        "官方Current Opportunities仍残留",
-        "无延期公告",
-        "2026年9月12日官方复核"
+        "截止后已从官方职位表撤下",
+        "2026年9月13日官方核验关闭"
       ],
       "title": "伦敦玛丽女王大学多模态 AI 与医疗科研助理",
       "title_en": "Research Assistant — Multimodal AI and Healthcare",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_deadline_passed_still_on_official_current_opportunities_no_extension_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_closed_removed_from_official_current_opportunities_2026_09_13"
     },
     {
       "category": "求职",
@@ -5545,7 +5583,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-08-31",
       "id": "unsw-clinical-ai-research-officer-542175",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "澳大利亚・悉尼",
       "organization": "UNSW Sydney · Centre for Big Data Research in Health",
       "priority": 94,
@@ -5569,12 +5607,12 @@
         "不提供签证担保",
         "必须已有澳大利亚工作权",
         "既有机会仍开放",
-        "2026年9月12日官方复核仍开放"
+        "2026年9月13日官方复核仍开放"
       ],
       "title": "新南威尔士大学临床 AI Research Officer",
       "title_en": "Research Officer (Clinical AI) — Centre for Big Data Research in Health",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_open_official_employer_listing_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_open_official_employer_listing_2026_09_13"
     },
     {
       "category": "实验室",
@@ -5903,7 +5941,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-02",
       "id": "maastricht-neuroai-auditory-neuroscience-phd-3722",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "荷兰・马斯特里赫特",
       "organization": "Maastricht University · Faculty of Psychology and Neuroscience · ARCHIE Lab",
       "priority": 99,
@@ -5932,12 +5970,12 @@
         "9月20日截止",
         "全职带薪博士",
         "既有机会仍开放",
-        "2026年9月12日官方复核仍开放"
+        "2026年9月13日官方复核仍开放"
       ],
       "title": "马斯特里赫特大学 NeuroAI 听觉神经科学博士",
       "title_en": "PhD Candidate in NeuroAI for Auditory Neuroscience",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_open_official_employer_listing_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_open_official_employer_listing_2026_09_13"
     },
     {
       "category": "升学",
@@ -5983,7 +6021,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-03",
       "id": "unsw-kirby-clinical-data-officer-542596",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "澳大利亚・悉尼",
       "organization": "UNSW Sydney · The Kirby Institute",
       "priority": 88,
@@ -6009,12 +6047,12 @@
         "澳大利亚完整工作权硬门槛",
         "9月3日官方核验",
         "既有机会仍开放",
-        "2026年9月12日官方复核仍开放"
+        "2026年9月13日官方复核仍开放"
       ],
       "title": "UNSW Kirby Institute 临床数据官",
       "title_en": "Data Officer — The Kirby Institute",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_open_official_employer_listing_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_open_official_employer_listing_2026_09_13"
     },
     {
       "category": "研究",
@@ -6060,7 +6098,7 @@
       "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-04",
       "id": "radboudumc-phd-neuroplasticity-brain-stimulation-depression-379145",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "荷兰・奈梅亨",
       "organization": "Radboud university medical center · Donders Institute",
       "priority": 99,
@@ -6089,12 +6127,12 @@
         "患者招募",
         "9月23日截止",
         "既有机会仍开放",
-        "2026年9月12日官方复核仍开放"
+        "2026年9月13日官方复核仍开放"
       ],
       "title": "Radboudumc 抑郁症脑刺激神经可塑性博士",
       "title_en": "PhD Candidate in Neuroplasticity of Brain Stimulation in Depression",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_open_official_employer_listing_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_open_official_employer_listing_2026_09_13"
     },
     {
       "category": "研究",
@@ -6245,10 +6283,10 @@
       "category": "实验室",
       "current_status": "open_apply_now_official_deadline_updated_to_2026-09-20_2359_uk_or_early_close",
       "deadline": "2026-09-20 23:59（英国时间；可能提前关闭）",
-      "discovery_status": "status_change",
+      "discovery_status": "existing_still_open",
       "first_seen_at": "2026-09-08",
       "id": "kcl-bioinformatics-ai-bioimage-rnaseq-ra-155546",
-      "last_verified_at": "2026-09-12",
+      "last_verified_at": "2026-09-13",
       "location": "英国・伦敦",
       "organization": "King’s College London · Institute of Pharmaceutical Science",
       "priority": 91,
@@ -6272,15 +6310,15 @@
         "高技术门槛",
         "签证支持未说明",
         "既有机会仍开放",
-        "状态变化",
         "官方截止日更新",
         "9月20日截止",
-        "2026年9月12日官方复核仍开放"
+        "9月12日官方将截止日由9月13日更新至9月20日",
+        "2026年9月13日官方复核仍开放"
       ],
       "title": "伦敦国王学院生物信息学与多模态生物数据科研助理",
       "title_en": "Research Assistant in Bioinformatics",
-      "updated_at": "2026-09-12",
-      "verification_status": "verified_open_official_employer_page_deadline_changed_from_database_2026_09_13_to_2026_09_20_on_2026_09_12"
+      "updated_at": "2026-09-13",
+      "verification_status": "verified_open_official_employer_listing_2026_09_13"
     },
     {
       "category": "求职",
@@ -6386,7 +6424,19 @@
       "source_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47002-bmf-bmp",
       "summary": "2027 年 9 月入学，1 年全日制、31 学分，可选 Biomedical Engineering、Rehabilitation Engineering 或 Digital Health。Digital Health 方向含 Medical AI and Data Analytics、Molecular and Functional Imaging、Wearable Technology 等课程；可修 10 门课，或 7 门课加 dissertation。申请要求工程、应用科学、医疗健康或密切相关学士；健康相关经验优先。学费为每学分 HK$7,900，1 学分学术诚信课程免费。",
       "summary_en": "One-year, 31-credit taught MSc with Biomedical Engineering, Rehabilitation Engineering and Digital Health routes. The Digital Health route includes medical AI, functional imaging and wearable technology, with either an all-coursework route or an optional dissertation. Applicants need an engineering, applied-science, healthcare or closely related degree; ecology should be confirmed in writing.",
-      "tags": ["历史补录","2027入学","首轮10月20日","应用科学可申请","需确认专业相关性","数字健康","医疗AI","医学成像","可穿戴技术","论文可选","HK$7,900/学分"],
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "首轮10月20日",
+        "应用科学可申请",
+        "需确认专业相关性",
+        "数字健康",
+        "医疗AI",
+        "医学成像",
+        "可穿戴技术",
+        "论文可选",
+        "HK$7,900/学分"
+      ],
       "title": "香港理工大学 生物医学工程理学硕士（数字健康方向）",
       "title_en": "MSc in Biomedical Engineering — Digital Health",
       "updated_at": "2026-09-10",
@@ -6409,7 +6459,19 @@
       "source_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
       "summary": "2027 年 9 月入学，1.5 年全日制、31 学分。课程覆盖 Introduction to Brain-Machine Interfaces and Neuroengineering、Brain and Muscle Signal and Image、Medical AI and Data Analytics、Neuromodulation 及 BMI Applications；可全授课或选择 dissertation。申请要求工程、基础科学或密切相关学士。学费为每学分 HK$9,000，1 学分学术诚信课程免费。",
       "summary_en": "A 1.5-year, 31-credit programme covering neuroengineering, brain and muscle signals, medical AI, neuromodulation and BMI applications. Basic-science graduates are eligible, and a dissertation is optional. This is the strongest direct match to the user's neurophysiology and electrophysiology experience.",
-      "tags": ["历史补录","2027入学","首轮10月20日","基础科学可申请","直接适配","脑机接口","神经工程","脑肌信号","神经调控","论文可选","HK$9,000/学分"],
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "首轮10月20日",
+        "基础科学可申请",
+        "直接适配",
+        "脑机接口",
+        "神经工程",
+        "脑肌信号",
+        "神经调控",
+        "论文可选",
+        "HK$9,000/学分"
+      ],
       "title": "香港理工大学 脑机接口理学硕士",
       "title_en": "MSc in Brain-Machine Interface",
       "updated_at": "2026-09-10",
@@ -6432,7 +6494,20 @@
       "source_url": "https://www.bme.cuhk.edu.hk/new/msc.php",
       "summary": "2027 年全日制 1 年，30 学分；可修 10 门授课课程，或 8 门课加项目。接受相关工程、科学或医学学位，通常要求二等荣誉或同等成绩。课程覆盖 Biomedical Informatics、Medical Imaging、E-health Technologies、Medical Instrumentation and Design、Regulatory Affairs。学费 HK$240,000，分三轮滚动审理。",
       "summary_en": "One-year, 30-unit MSc open to relevant engineering, science or medical degrees. Students may complete ten taught courses or eight courses plus a project. The curriculum includes biomedical informatics, imaging, e-health, devices and regulation; tuition is HK$240,000 and admissions are rolling.",
-      "tags": ["历史补录","2027入学","首轮10月30日","滚动审理","科学学位可申请","直接适配","生物信息","医学成像","电子健康","器械法规","项目可选","HK$240,000"],
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "首轮10月30日",
+        "滚动审理",
+        "科学学位可申请",
+        "直接适配",
+        "生物信息",
+        "医学成像",
+        "电子健康",
+        "器械法规",
+        "项目可选",
+        "HK$240,000"
+      ],
       "title": "香港中文大学 生物医学工程理学硕士",
       "title_en": "MSc in Biomedical Engineering",
       "updated_at": "2026-09-10",
@@ -6455,7 +6530,15 @@
       "source_url": "https://www.cityu.edu.hk/pg/programme/program-list/2026/college-of-biomedicine/department-of-biomedical-engineering/p69",
       "summary": "最新官方 2026 页面显示：1 年全日制、30 学分，接受工程、科学或同等学位，生物医学工程／科学／生物工程背景优先；可修 10 门选修而不做论文，或 dissertation 加 7 门课。2026 学费为每学分 HK$7,100。2027 轮次、学费和英语要求尚未发布；当前官网页面对 IELTS 6.0/6.5 与 CET-6 的表述存在差异，须以 2027 页面或书面回复为准。",
       "summary_en": "The latest available 2026 page accepts engineering or science degrees and permits an all-coursework route. The 2027 cycle is not yet published, and current official pages conflict on English thresholds, so eligibility and the user's CET-6 score must be reconfirmed when the new page appears.",
-      "tags": ["历史补录","2027待发布","科学学位可申请","全授课可选","需确认英语要求","CET-6可能可用","2026参考学费HK$7,100/学分"],
+      "tags": [
+        "历史补录",
+        "2027待发布",
+        "科学学位可申请",
+        "全授课可选",
+        "需确认英语要求",
+        "CET-6可能可用",
+        "2026参考学费HK$7,100/学分"
+      ],
       "title": "香港城市大学 生物医学工程理学硕士（2027 待发布）",
       "title_en": "MSc Biomedical Engineering — 2027 Cycle Watch",
       "updated_at": "2026-09-10",
@@ -6478,7 +6561,18 @@
       "source_url": "https://cde.nus.edu.sg/bme/admission/",
       "summary": "2027 年 8 月入学申请期已公布为 2026 年 10 月 1 日至 2027 年 2 月 28 日。通常 1 年全日制、40 units，结构为 1 门核心课加 9 门选修；Medical Imaging、Neurotechnology、Advanced Machine Learning in BME、Brain-Computer Interface、Regulatory 及 Industrial Attachment 可选，研究项目不是必修。申请要求相关学士及相当于二等荣誉；AY2027/28 全日制总学费 S$53,100。",
       "summary_en": "Applications for the August 2027 intake run from 1 October 2026 to 28 February 2027. The usual one-year, 40-unit structure has one core and nine electives, including imaging, neurotechnology, machine learning, BCI, regulation and optional industrial attachment or research project. Whether ecology counts as a relevant degree needs written confirmation.",
-      "tags": ["历史补录","2027申请期已公布","10月1日开放","需确认专业相关性","医疗AI","神经技术","脑机接口","实习可选","研究项目可选","S$53,100"],
+      "tags": [
+        "历史补录",
+        "2027申请期已公布",
+        "10月1日开放",
+        "需确认专业相关性",
+        "医疗AI",
+        "神经技术",
+        "脑机接口",
+        "实习可选",
+        "研究项目可选",
+        "S$53,100"
+      ],
       "title": "新加坡国立大学 生物医学工程理学硕士",
       "title_en": "MSc Biomedical Engineering — August 2027",
       "updated_at": "2026-09-10",
@@ -6501,7 +6595,16 @@
       "source_url": "https://www.strath.ac.uk/courses/postgraduatetaught/biomedicalengineering/",
       "summary": "12 个月全日制，可 1 月或 9 月入学。接受工程、物理科学、医学、生命科学或相关健康专业学位；Foundation Engineering Science 为生命科学背景补充力学、流体与电子基础，并提供 Healthcare AI 路径。学位为 120 学分授课加 60 学分 MSc project。当前国际学费页面为 £32,800；2027 截止日期和学费仍待发布。",
       "summary_en": "A 12-month conversion MSc explicitly designed for life-science and engineering graduates. Life-science entrants take foundation engineering covering mechanics, fluids and electronics, and a Healthcare AI route is available. The 60-credit MSc project is one third of the degree; 2027 dates are pending.",
-      "tags": ["历史补录","2027待发布","生命科学可申请","转换型项目","工程基础补修","Healthcare AI","硕士项目必修","当前参考学费£32,800"],
+      "tags": [
+        "历史补录",
+        "2027待发布",
+        "生命科学可申请",
+        "转换型项目",
+        "工程基础补修",
+        "Healthcare AI",
+        "硕士项目必修",
+        "当前参考学费£32,800"
+      ],
       "title": "思克莱德大学 生物医学工程理学硕士（转换型）",
       "title_en": "MSc Biomedical Engineering — Conversion Programme",
       "updated_at": "2026-09-10",
@@ -6524,7 +6627,17 @@
       "source_url": "https://dbe.unibas.ch/en/education/msc-in-biomedical-engineering/",
       "summary": "英语授课，4 学期、120 ECTS。项目会按背景安排 Biomedical 或 Engineering Basics，并含项目／实践技能与必修硕士论文；方向包括医学图像、诊疗技术、机器人手术及植入／再生工程。自然科学资格列表明确包含 Biology 和 Environmental Sciences，但要求数学、物理和编程基础。学费 CHF850/学期；秋季申请通常 4 月 30 日截止。",
       "summary_en": "A two-year, 120-ECTS English programme that explicitly lists biology and environmental sciences among eligible backgrounds. Bridging basics depend on prior study, but calculus, mechanics, electricity and programming are expected. A master's thesis is mandatory; tuition is CHF850 per semester.",
-      "tags": ["历史补录","自然科学可申请","环境科学明确可申请","工程基础补修","数学物理先修","编程先修","两年制","论文必修","CHF850/学期"],
+      "tags": [
+        "历史补录",
+        "自然科学可申请",
+        "环境科学明确可申请",
+        "工程基础补修",
+        "数学物理先修",
+        "编程先修",
+        "两年制",
+        "论文必修",
+        "CHF850/学期"
+      ],
       "title": "巴塞尔大学 联合生物医学工程理学硕士",
       "title_en": "Joint MSc in Biomedical Engineering",
       "updated_at": "2026-09-10",
@@ -6547,7 +6660,16 @@
       "source_url": "https://sgs.calendar.utoronto.ca/biomedical-engineering-biomedical-engineering-meng",
       "summary": "全日制通常 1 年／3 学期、5.0 FCE，至少含 2.0 FCE BME、1.0 FCE 商业化／创业及 1.0 FCE 四个月 practical applied research。研究生院日历写明工程、医学、牙科或物理／生物科学四年制学士可申请，但学院招生页使用 engineering degree or equivalent 的更窄表述；官网信息不一致，需邮件确认。2027 截止日期尚未发布。",
       "summary_en": "A one-year professional MEng combining BME coursework, commercialization and a four-month practical applied research component. The graduate calendar accepts physical or biological sciences, while the department page is narrower, so ecology eligibility must be confirmed in writing before investing in the application.",
-      "tags": ["历史补录","2027待发布","官网资格表述冲突","需书面确认","职业型MEng","商业化","应用研究必修","非论文型"],
+      "tags": [
+        "历史补录",
+        "2027待发布",
+        "官网资格表述冲突",
+        "需书面确认",
+        "职业型MEng",
+        "商业化",
+        "应用研究必修",
+        "非论文型"
+      ],
       "title": "多伦多大学 生物医学工程 MEng（资格需书面确认）",
       "title_en": "MEng in Biomedical Engineering — Eligibility Confirmation Needed",
       "updated_at": "2026-09-10",
@@ -6570,7 +6692,17 @@
       "source_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-engineering/entry-requirements/",
       "summary": "非工程背景通常走 3 年路径，已有相关工程背景者可缩短至 2–2.5 年。入学要求通常为至少 65% 加权均分，并具备 Calculus 2、Linear Algebra，以及两门生物／化学课程或等效工程数学背景。2027 年 2 月入学截止 2026 年 11 月 30 日，7 月入学截止 2027 年 5 月 31 日；英语要求 IELTS 6.5（单项 6.0）或 TOEFL 81。",
       "summary_en": "A formal three-year pathway for non-engineering graduates, with advanced standing for relevant engineering study. Applicants need calculus, linear algebra and specified biology or chemistry prerequisites, plus a 65% equivalent average. The long duration and prerequisite audit make it a conditional rather than top-priority choice.",
-      "tags": ["历史补录","2027开放","11月30日截止","非工程背景三年路径","微积分先修","线性代数先修","需核对成绩单","IELTS 6.5","TOEFL 81"],
+      "tags": [
+        "历史补录",
+        "2027开放",
+        "11月30日截止",
+        "非工程背景三年路径",
+        "微积分先修",
+        "线性代数先修",
+        "需核对成绩单",
+        "IELTS 6.5",
+        "TOEFL 81"
+      ],
       "title": "墨尔本大学 生物医学工程硕士（非工程背景路径）",
       "title_en": "Master of Biomedical Engineering — Non-engineering Pathway",
       "updated_at": "2026-09-10",
@@ -6593,7 +6725,18 @@
       "source_url": "https://www.bu.edu/eng/admissions/graduate/leap/",
       "summary": "LEAP 允许非工程本科先修工程基础课，再进入包括 Biomedical Engineering 在内的硕士项目。Fall 2027 已开放，优先截止 2027 年 1 月 15 日、最终截止 3 月 15 日。申请需 GRE；需在入学前五年内完成认可院校的 STEM Calculus I。英语门槛为 TOEFL 90 或 IELTS 7.0，你 2022 年 TOEFL 已过有效期，需要重考。",
       "summary_en": "LEAP provides foundation engineering study for non-engineering graduates before progression into an engineering master's such as BME. Fall 2027 is open, but GRE, current English scores and a STEM Calculus I course completed within five years of matriculation are required; the user's older calculus may need retaking.",
-      "tags": ["历史补录","Fall 2027开放","非工程转工程","基础课桥接","GRE必需","微积分五年限制","英语需重考","TOEFL 90","IELTS 7.0","高成本低优先"],
+      "tags": [
+        "历史补录",
+        "Fall 2027开放",
+        "非工程转工程",
+        "基础课桥接",
+        "GRE必需",
+        "微积分五年限制",
+        "英语需重考",
+        "TOEFL 90",
+        "IELTS 7.0",
+        "高成本低优先"
+      ],
       "title": "波士顿大学 LEAP 非工程背景转生物医学工程",
       "title_en": "LEAP to Biomedical Engineering",
       "updated_at": "2026-09-10",
@@ -6616,7 +6759,24 @@
       "source_url": "https://www.engineering.pitt.edu/departments/bioengineering/programs/graduate/graduate-overview/",
       "summary": "Professional MS in Bioengineering — Neural Engineering Focus 为 30 学分、通常 2–3 学期完成的非论文项目，要求在 BCI、神经组织界面、神经成像与信号、神经器件等至少两个方向形成能力，并完成职业发展课和与职业目标一致的实习。可接受 biological sciences 等非工程 STEM，本科 GPA 最低 3.0，线性代数优先；非工程背景可能需额外工程与数学先修。GRE optional。国际生英语最低 IELTS 6.5、Duolingo 120，或新版 TOEFL 总分 4.5；成绩入学时不得超过两年。2026–27 外州／国际参考学费为两学期 US$54,002，另有 US$2,006 强制费用，第三学期可能另计；MS 通常不获资助。咨询：ms-neural@pitt.edu。",
       "summary_en": "A 30-credit, non-thesis professional MS normally completed in two or three terms, with required career development and an internship. Concentrations include BCI, neural imaging and signals, neural devices, machine learning and neural data analysis. Biological-science STEM graduates are eligible, though non-engineers may need substantial foundation coursework. GRE is optional; current English scores are mandatory.",
-      "tags": ["历史补录","Fall 2027","12月1日奖助截止","4月1日国际生截止","生命科学可申请","直接适配","非论文","实习必修","脑机接口","神经信号","机器学习","线性代数优先","可能需补工程数学","GRE可选","英语需重考","两学期参考学费US$54,002"],
+      "tags": [
+        "历史补录",
+        "Fall 2027",
+        "12月1日奖助截止",
+        "4月1日国际生截止",
+        "生命科学可申请",
+        "直接适配",
+        "非论文",
+        "实习必修",
+        "脑机接口",
+        "神经信号",
+        "机器学习",
+        "线性代数优先",
+        "可能需补工程数学",
+        "GRE可选",
+        "英语需重考",
+        "两学期参考学费US$54,002"
+      ],
       "title": "匹兹堡大学 职业型生物工程硕士（神经工程方向）",
       "title_en": "Professional MS in Bioengineering — Neural Engineering Focus",
       "updated_at": "2026-09-11",
@@ -6639,7 +6799,22 @@
       "source_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-medical-engineering-mmedicaleng.html?intEntryReq=yes",
       "summary": "Master of Medical Engineering 提供 120 或 180 points 的 taught pathway；非工程国际申请者可凭相关 science／technology 本科进入 180-point、约 18 个月路径，最低 GPE 4.0。Medical Devices and Technologies 方向含 Medical Device and Technology Development、Medical Device Industry Practice、Advanced Biomedical Imaging、MEMS、项目管理与监管／商业知识；须完成 45-point research project 或 60-point dissertation。IELTS 6.5（单项 6.0）；2026 国际参考学费 NZ$55,484/120 points，180 points 总学费按当前费率约 NZ$83,226，2027 费用待发布。2027 年 3 月和 7 月入学已列出，但硕士申请截止日期仍为空，须向 programme adviser 确认。",
       "summary_en": "An 18-month, 180-point taught route that may accept relevant science degrees and offers a Medical Devices and Technologies specialisation with industry practice, imaging and product-development content. It nevertheless requires a 45-point research project or 60-point dissertation. Ecology relevance and 2027 application deadlines need written confirmation.",
-      "tags": ["历史补录","2027入学","新西兰","science可申请","需确认生态学相关性","医疗器械","医学成像","行业实践","监管与商业","18个月","项目或论文必修","IELTS 6.5","2027截止日待发布","2026参考学费NZ$55,484/年"],
+      "tags": [
+        "历史补录",
+        "2027入学",
+        "新西兰",
+        "science可申请",
+        "需确认生态学相关性",
+        "医疗器械",
+        "医学成像",
+        "行业实践",
+        "监管与商业",
+        "18个月",
+        "项目或论文必修",
+        "IELTS 6.5",
+        "2027截止日待发布",
+        "2026参考学费NZ$55,484/年"
+      ],
       "title": "奥克兰大学 医疗工程硕士（180-point 授课路径）",
       "title_en": "Master of Medical Engineering — 180-point Taught Pathway",
       "updated_at": "2026-09-12",
@@ -6766,111 +6941,94 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "merge_commit_contains_this_receipt",
-    "executed_at_beijing": "2026-09-12T13:54:30+08:00",
-    "increment_boundary": "2026-09-11T07:58:41+08:00",
-    "note": "已合并远端 9 月 12 日全量扫描与本地 BME 专项更新：保留 3 条远端历史补录（eLife 研究动态及两项 HKU RA）、2 项既有岗位状态变化，以及 12 条本地 BME 候选（含 Auckland 医疗工程历史补录）。合并后继续以国际 BME 申请为主要展示方向。",
+    "content_commit_sha": "pending_current_content_commit",
+    "executed_at_beijing": "2026-09-13T08:02:24+08:00",
+    "increment_boundary": "2026-09-12T11:43:20+08:00",
+    "note": "完成全地区、升学／实验室／岗位／研究官方入口扫描；历史补录 Exeter AI＋痴呆风险全额资助博士，确认 QMUL 多模态 AI／医疗 RA 已撤下，并复核 6 项近期截止机会仍开放。",
     "public_site_verification": "pending_after_push",
-    "repository_write": "merge_conflicts_resolved_local_merge_commit_completed_push_pending",
-    "result": "remote_daily_scan_and_local_bme_update_merged",
-    "run_type": "manual_merge_remote_daily_scan_and_bme_focus"
+    "repository_write": "content_update_in_progress",
+    "result": "one_historical_backfill_one_status_change",
+    "run_type": "scheduled_full_scan"
   },
   "notice": "2026-09-12 13:54 已合并远端全量扫描与本地国际 BME 专项更新：合并新增／补录共 4 条（BME 项目 1、实验室 2、研究动态 1），既有岗位状态变化 2 条；BME 申请仍为主要展示方向。",
   "run_summary": {
     "category_counts": {
       "升学": 1,
-      "实验室": 2,
+      "实验室": 0,
       "求职": 0,
-      "研究": 1
+      "研究": 0
     },
     "database_category_totals": {
-      "升学": 45,
+      "升学": 46,
+      "研究": 97,
       "实验室": 40,
-      "求职": 25,
-      "研究": 97
+      "求职": 25
     },
-    "database_items_total": 207,
+    "database_items_total": 208,
     "excluded_expired_or_ineligible": [
-      "Northwestern BME MS 已公布 2027 截止日且接受 quantitative sciences，但至少要求单／多变量微积分、线性代数、微分方程和统计；用户成绩单尚未证明全部先修，暂不入库。",
-      "Case Western BME MS 接受自然科学，但要求微积分至微分方程及合计三年物理、化学、工程科学；对生态学本科补课成本过高，未纳入。",
-      "Tohoku BME 2027 项目需事先取得导师同意并赴仙台参加含数学／专业科目的入学考试，且研究导向明显；Science Tokyo 2027 考试已于 8 月举行，均不作为当前可行动授课型机会。",
-      "Auckland Bioengineering ME 为 120-point 全论文研究学位；Otago MSc(Applied) Bioengineering 仍强调跨学科研究且未给出清晰的非工程先修与职业型结构，均不与 Auckland Medical Engineering 重复收录。",
-      "QMUL Edge AI RA/PDRA 硬性要求分布式 AI／网络专长及领先同行评议论文记录；临床试验数据库开发岗要求已有 EDC 临床数据库与治理经验，均未纳入。",
-      "UNSW 新近结果主要为资深岗位、研究管理或博士后；日本、韩国、美国、加拿大官方入口未发现符合层级的高质量新增。"
+      "QMUL 多模态 AI／医疗 RA 已从官方 Current Opportunities 撤下，转为关闭。",
+      "Scientific Reports 9 月 11 日 NeuroStream EEG 论文使用单一 EEGCVPR40 数据集，严格会话隔离后性能降至多数类基线；方法提醒有价值，但外部泛化不足，未作为高质量研究更新收录。",
+      "HKU 周末新列结果主要为临床协调、湿实验、技术管理或资深岗位；UNSW 新结果未通过工作权或层级过滤。",
+      "日本、韩国、美国、加拿大、新加坡及欧洲大陆官方入口未发现上次扫描后符合层级、资格和开放状态的高质量新增。"
     ],
-    "existing_urgent_reverified": 10,
-    "historical_backfills_added": 4,
+    "existing_urgent_reverified": 6,
+    "historical_backfills_added": 1,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 2,
+    "status_changes": 1,
     "still_open_urgent_items": 31
   },
   "source_coverage": [
     {
-      "note": "CUHK、CityUHK、NUS 等官方入口已复核，无状态变化；CityUHK 2027 轮次仍待发布。",
-      "source_group": "BME申请",
-      "status": "incremental_scan_completed_three_existing_programmes_reverified"
+      "source_group": "神经与认知项目",
+      "status": "incremental_scan_completed_one_historical_backfill_two_existing_phds_reverified",
+      "note": "历史补录 Exeter AI＋痴呆风险全额资助博士；马斯特里赫特 NeuroAI 与 Radboudumc 脑刺激博士仍开放。"
     },
     {
-      "note": "新增 Pitt 职业型神经工程 MS，并复核 PolyU Brain-Machine Interface；两者分别提供必修实习与论文可选路径，均直接连接用户神经电生理和信号分析经历。",
-      "source_group": "神经工程／脑机接口",
-      "status": "incremental_scan_completed_one_historical_backfill_one_urgent_reverification"
+      "source_group": "数据／计算／AI项目",
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描跨专业数据科学、计算机、AI 与生物医学数据项目官方入口；除新补录的 Exeter 研究型博士外，无高质量新增。"
     },
     {
-      "note": "PolyU BME Digital Health 路径今日复核无变化，仍含医疗 AI、功能成像、可穿戴与微器件，论文可选。",
-      "source_group": "数字健康／医疗AI",
-      "status": "incremental_scan_completed_one_urgent_reverification_no_status_change"
-    },
-    {
-      "note": "历史补录 Auckland Medical Engineering 180-point taught 路径；Strathclyde、Basel、Melbourne 与 BU LEAP 今日复核无状态变化。五者均允许或可能接受非工程／生命科学背景，但在项目／论文、先修、时长或考试上存在不同代价。",
-      "source_group": "Conversion／补修项目",
-      "status": "incremental_scan_completed_one_historical_backfill_four_existing_options_reverified"
-    },
-    {
-      "note": "Toronto MEng 的官方资格表述冲突仍在；Auckland 需确认生态学相关性及 2027 截止日；Northwestern、Case、Tohoku、Science Tokyo、Auckland research ME 与 Otago 因先修、考试、研究负担或结构不清被排除。",
-      "source_group": "需确认／不建议",
-      "status": "incremental_scan_completed_two_confirmation_items_six_exclusions_documented"
-    },
-    {
-      "note": "历史补录两项 HKU RA；QMUL 多模态 AI／医疗 RA 转为截止后入口残留，KCL 生物信息 RA 截止日更新至 9 月 20 日。",
       "source_group": "实验室与高校招聘",
-      "status": "incremental_scan_completed_two_historical_backfills_two_status_changes"
+      "status": "incremental_scan_completed_one_status_change_two_existing_items_reverified",
+      "note": "QMUL 多模态 AI／医疗 RA 已从官方职位表撤下；KCL 生物信息 RA 与 HKU AI Engineer RA II 仍开放。"
     },
     {
-      "note": "已扫描 Nature 系列、Communications Biology、Scientific Data 与 eLife 官方入口；9 月 11 日较强更新主要为旧 reviewed preprint 修订或基础离子通道研究，对当前行动决策帮助有限，未收录。",
       "source_group": "研究动态",
-      "status": "incremental_scan_completed_no_high_quality_action_relevant_new_research"
+      "status": "incremental_scan_completed_no_high_quality_action_relevant_new_research",
+      "note": "已扫描 Nature 系列、Communications Biology、Scientific Reports 与 eLife 官方入口。9 月 12 日未发现符合主题和证据强度要求的新原始研究；9 月 11 日 EEG 深度学习论文受单一数据集与会话相关混杂限制，未为凑数收录。"
     },
     {
-      "note": "UNSW Kirby Institute Data Officer 仍开放，但有澳大利亚完整工作权硬门槛；无高质量新增。",
       "source_group": "数据分析岗位",
-      "status": "incremental_scan_completed_one_existing_opportunity_reverified_no_high_quality_new_items"
+      "status": "incremental_scan_completed_one_existing_opportunity_reverified_no_high_quality_new_items",
+      "note": "UNSW Kirby Data Officer 仍开放至 9 月 16 日，但不提供签证担保并要求澳大利亚完整工作权；无高质量新增。"
     },
     {
-      "note": "历史补录 HKU 生物医学 LLM／数据科学 RA；HKU AI Engineer RA II 与多语视觉术语库 RA 仍开放。",
       "source_group": "算法与AI岗位",
-      "status": "incremental_scan_completed_one_historical_backfill_two_existing_opportunities_reverified"
+      "status": "incremental_scan_completed_one_existing_opportunity_reverified_no_high_quality_new_items",
+      "note": "HKU AI Engineer RA II 仍开放至 9 月 15 日；新结果多为资深或硬性多年经验岗位，无高质量新增。"
     },
     {
-      "note": "历史补录 HKU 生物医学 LLM／数据科学 RA 与卒中痴呆 RA；KCL 生物信息 RA 截止日更新，UNSW 两项临床数据岗位仍开放。",
       "source_group": "科研／医疗／生物信息岗位",
-      "status": "incremental_scan_completed_two_historical_backfills_one_status_change_two_existing_opportunities_reverified"
+      "status": "incremental_scan_completed_three_existing_opportunities_reverified_one_status_change",
+      "note": "KCL 生物信息 RA、UNSW 临床 AI Research Officer 与 Kirby Data Officer 仍开放；QMUL 多模态 AI／医疗 RA 转为关闭。"
     },
     {
-      "note": "已扫描，无高质量新增。",
       "source_group": "其他求职",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描，无高质量新增。"
     },
     {
-      "note": "已扫描百度、字节、阿里、华为等官方入口；无符合毕业届别和层级要求的高质量新增。",
       "source_group": "中国大厂官方招聘",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描华为、字节、百度、阿里等官方校招／应届生／低经验入口；无符合毕业届别、层级与方向要求的高质量新增。"
     },
     {
-      "note": "已扫描 Microsoft、SAP、Google 等官方 Careers；无高质量新增。",
       "source_group": "外企中国区 Careers",
-      "status": "incremental_scan_completed_no_high_quality_new_items"
+      "status": "incremental_scan_completed_no_high_quality_new_items",
+      "note": "已扫描 Microsoft、SAP、Google 等外企中国区官方 Careers；无符合层级和经验边界的高质量新增。"
     }
   ]
 }
