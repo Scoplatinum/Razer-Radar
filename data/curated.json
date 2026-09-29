@@ -7079,12 +7079,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "pending_remote_write",
+    "content_commit_sha": "ae7983582f9b65f87db94651e5d5a8a6221f0214",
     "executed_at_beijing": "2026-09-29T17:36:35+08:00",
     "increment_boundary": "2026-09-28T18:03:11+08:00",
     "note": "完成国际 BME 六地区增量扫描：上次扫描后无新增发布或历史补录；纠正 Toronto BME MEng 的 Co-op 信息，确认其不参加新设长期 Co-op，因为项目本身已有四个月必修 practicum。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "pending_after_remote_write",
-    "repository_write": "pending_remote_write",
+    "public_site_verification": "verified_http_200_generated_at_2026-09-29T17:36:35+08:00_items_214_toronto_deadline_corrected",
+    "repository_write": "github_main_updated_commit_ae7983582f9b65f87db94651e5d5a8a6221f0214",
     "result": "zero_newly_published_zero_historical_backfills_one_status_correction_twelve_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
