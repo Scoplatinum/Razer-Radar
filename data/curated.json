@@ -8,27 +8,27 @@
   },
   "coverage": [
     {
-      "note": "历史补录 Glasgow MedTech Innovation 与 Glasgow Biomedical Engineering：前者明确接受生命科学背景并覆盖医疗 AI、数字健康、法规及 NHS／行业项目，后者仅在成绩单含至少两门认可数学课程时接受生命科学背景。PolyU、CUHK、Strathclyde、QMUL 等重点项目完成复核；UCL、Sheffield、Liverpool、Dundee 因工程／物理背景门槛或重研究项目未纳入。",
+      "note": "Glasgow MedTech Innovation、Glasgow Biomedical Engineering、Strathclyde 与 QMUL 等重点项目完成增量复核，2027 开放状态与已公布截止日无变化；Glasgow BME 仍须以完整成绩单证明至少两门认可数学课程。UCL、Sheffield、Liverpool、Dundee 因工程／物理背景门槛或重研究项目未纳入。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_two_historical_backfills_key_uk_programmes_reverified"
+      "status": "incremental_scan_completed_key_uk_programmes_reverified_no_new_or_status_change"
     },
     {
-      "note": "Aalto Life Science Technologies 与 Basel Joint MSc BME 已按 2027 官方信息复核：Aalto 申请期 12 月 7 日至 1 月 5 日且成绩单先修严格；Basel 接受自然科学背景但含阶段性研究与整学期硕士论文。未发现上次扫描后新增且更适合的欧洲授课型项目。",
+      "note": "Aalto Life Science Technologies 与 Basel Joint MSc BME 已按 2027 官方信息复核：Aalto 申请期 12 月 7 日至 1 月 5 日且成绩单先修严格；Basel 接受自然科学背景但含阶段性研究与整学期硕士论文。未发现 9 月 28 日扫描后新增或状态变化。",
       "region": "欧洲大陆",
       "status": "incremental_scan_completed_two_existing_programmes_reverified_no_high_quality_addition"
     },
     {
-      "note": "CityUHK MSc BME 已于 9 月 15 日开放 2027/28 申请，非本地生截止 2027 年 3 月 31 日并滚动审理；接受 science 学位，可全授课完成。PolyU BME／BMI、CUHK、NUS 与 NTU 均完成复核；NUS 将于 10 月 1 日开放，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
+      "note": "CityUHK MSc BME 仍开放，非本地生截止 2027 年 3 月 31 日并滚动审理；接受 science 学位，可全授课完成。PolyU BME／BMI、CUHK、NUS 与 NTU 均完成复核；NUS 将于明日（10 月 1 日）开放，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_one_status_change_five_existing_programmes_reverified"
+      "status": "incremental_scan_completed_six_existing_programmes_reverified_nus_opens_next_day"
     },
     {
       "region": "日本与韩国",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "东京大学 G30 International Bioengineering 仍要求 GRE、有效英语成绩和实验室论文研究；日本／韩国主要高校官方入口未发现明确接受非工程生命科学背景、职业导向且 2027 可行动的高质量授课／转换型项目。"
+      "note": "东京大学 G30 International Bioengineering 已核实 2027 轮次：外部 TOEFL／IELTS 与 GRE 成绩须在 2026 年 10 月 31 日前安排，材料须在 2027 年 1 月 22 日前送达；因强制 GRE、有效英语成绩与实验室论文研究，仍列为不建议申请。韩国主要高校官方入口未发现明确接受非工程生命科学背景、职业导向且 2027 可行动的高质量授课／转换型项目。"
     },
     {
-      "note": "Toronto 工学院已公布 2027 MEng 时间：申请约 10 月下旬开放，Co-op 轮次 2 月 8 日、常规国际生 4 月 15 日截止；生态学资格仍因校历与学院表述冲突而需书面确认。Duke、BU LEAP、Pitt 等完成复核，无其他高质量新增。",
+      "note": "Toronto 工学院已澄清 BME MEng 不参加新设的 Extended Full-Time Co-op，因为本项目本身含四个月必修 practicum；已删除此前误套用的 2 月 8 日 Co-op 截止日，常规国际生截止日为 2027 年 4 月 15 日。生态学资格仍因校历与学院表述冲突而需书面确认；Duke、BU LEAP、Pitt 等无变化。",
       "region": "美国与加拿大",
       "status": "incremental_scan_completed_one_status_change_three_existing_options_reverified"
     },
@@ -38,7 +38,7 @@
       "status": "incremental_scan_completed_two_existing_options_reverified_no_high_quality_addition"
     }
   ],
-  "generated_at": "2026-09-28T18:03:11+08:00",
+  "generated_at": "2026-09-29T17:36:35+08:00",
   "items": [
     {
       "category": "升学",
@@ -6642,25 +6642,25 @@
     {
       "category": "升学",
       "current_status": "upcoming_late_october_2026_eligibility_confirmation_needed",
-      "deadline": "预计 2026 年 10 月下旬开放；MEng Co-op 2027-02-08；常规 MEng 国际生 2027-04-15",
+      "deadline": "预计 2026 年 10 月下旬开放；常规 MEng 国际生 2027-04-15",
       "discovery_status": "status_change",
       "first_seen_at": "2026-09-10",
       "id": "utoronto-meng-biomedical-engineering-2027-watch",
-      "last_verified_at": "2026-09-28",
+      "last_verified_at": "2026-09-29",
       "location": "加拿大・多伦多",
       "organization": "University of Toronto",
       "priority": 90,
       "published_at": "",
-      "relevance": "MEng 有商业化课程和四个月应用研究，职业导向优于纯论文项目；但研究生院日历接受 physical／biological sciences，而学院页面写 engineering or equivalent，生态学资格必须获得书面确认。",
+      "relevance": "MEng 有商业化课程和四个月必修 practicum，职业导向优于纯论文项目；BME 不参加新设的长期 Co-op。研究生院日历接受 physical／biological sciences，而学院页面写 engineering or equivalent，生态学资格必须获得书面确认。",
       "section": "需确认／不建议",
       "source_url": "https://sgs.calendar.utoronto.ca/biomedical-engineering-biomedical-engineering-meng",
-      "summary": "全日制通常 1 年／3 学期、5.0 FCE，至少含 2.0 FCE BME、1.0 FCE 商业化／创业及 1.0 FCE 四个月 practical applied research。工学院现已公布 Fall 2027 MEng 预计于 2026 年 10 月下旬开放；MEng Co-op 轮次 2027-02-08 截止，常规国际生 MEng 2027-04-15 截止。研究生院日历写明工程、医学、牙科或物理／生物科学四年制学士可申请，但学院招生页使用 engineering degree or equivalent 的更窄表述；生态学资格必须先获得书面确认。Co-op 名额有限，且商业化和四个月应用研究均为必修，需评估是否接受较强团队／客户沟通负担。",
-      "summary_en": "The Fall 2027 MEng cycle is expected to open in late October 2026. The limited-space co-op stream closes on 8 February 2027 and the regular international MEng deadline is 15 April 2027. The graduate calendar accepts physical or biological sciences while the department language is narrower, so ecology eligibility must still be confirmed in writing. Commercialisation and a four-month applied-research component are mandatory.",
+      "summary": "全日制通常 1 年／3 学期、5.0 FCE，至少含 2.0 FCE BME、1.0 FCE 商业化／创业及 1.0 FCE 四个月 practical applied research。工学院公布 Fall 2027 MEng 预计于 2026 年 10 月下旬开放，常规国际生截止日为 2027-04-15；官方 Co-op 页面同时明确 BME MEng 不具备新设 Extended Full-Time Co-op 资格，因为 BME 已内置四个月必修 practicum，因此此前记录的 2027-02-08 Co-op 截止日不适用于本项目。研究生院日历写明工程、医学、牙科或物理／生物科学四年制学士可申请，但学院招生页使用 engineering degree or equivalent 的更窄表述；生态学资格必须先获得书面确认。商业化和四个月实践均为必修，需评估较强团队／客户沟通负担。",
+      "summary_en": "The Fall 2027 MEng cycle is expected to open in late October 2026, with a 15 April 2027 deadline for regular international MEng applications. The official co-op page explicitly excludes Biomedical Engineering from the new Extended Full-Time Co-op because BME already includes a mandatory four-month practicum, so the previously recorded 8 February co-op deadline does not apply. The graduate calendar accepts physical or biological sciences while the department language is narrower, so ecology eligibility must still be confirmed in writing. Commercialisation and the practicum are mandatory.",
       "tags": [
         "状态变化",
-        "2027日期已发布",
+        "状态纠正",
         "10月下旬开放",
-        "Co-op 2月8日截止",
+        "BME不可申请新Co-op",
         "常规国际生4月15日截止",
         "官网资格表述冲突",
         "需书面确认",
@@ -6672,8 +6672,8 @@
       ],
       "title": "多伦多大学 生物医学工程 MEng（资格需书面确认）",
       "title_en": "MEng in Biomedical Engineering — Eligibility Confirmation Needed",
-      "updated_at": "2026-09-28",
-      "verification_status": "verified_official_2027_application_timing_and_deadlines_needs_confirmation_conflicting_degree_eligibility_language"
+      "updated_at": "2026-09-29",
+      "verification_status": "verified_official_2027_regular_deadline_bme_coop_ineligibility_and_mandatory_practicum_needs_confirmation_conflicting_degree_eligibility_language_2026_09_29"
     },
     {
       "category": "升学",
@@ -7079,19 +7079,19 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "52f19fb8013a54678d4ed207192d44fcc561a999",
-    "executed_at_beijing": "2026-09-28T18:03:11+08:00",
-    "increment_boundary": "2026-09-13T17:21:36+08:00",
-    "note": "完成国际 BME 六地区增量扫描：历史补录 Glasgow MedTech Innovation 与 Glasgow Biomedical Engineering；CityUHK 由待发布变为已开放，Toronto MEng 新增 2027 开放时间和截止日。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "verified_http_200_generated_at_2026-09-28T18:03:11+08:00_items_214",
-    "repository_write": "github_main_updated_commit_52f19fb8013a54678d4ed207192d44fcc561a999",
-    "result": "zero_newly_published_two_historical_backfills_two_status_changes_twelve_urgent",
+    "content_commit_sha": "pending_remote_write",
+    "executed_at_beijing": "2026-09-29T17:36:35+08:00",
+    "increment_boundary": "2026-09-28T18:03:11+08:00",
+    "note": "完成国际 BME 六地区增量扫描：上次扫描后无新增发布或历史补录；纠正 Toronto BME MEng 的 Co-op 信息，确认其不参加新设长期 Co-op，因为项目本身已有四个月必修 practicum。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
+    "public_site_verification": "pending_after_remote_write",
+    "repository_write": "pending_remote_write",
+    "result": "zero_newly_published_zero_historical_backfills_one_status_correction_twelve_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
-  "notice": "2026-09-28 18:03 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 2，既有项目状态变化 2，仍开放或需尽快行动 12。新增 Glasgow MedTech Innovation 与 Glasgow BME；CityUHK 2027 已开放，Toronto MEng 2027 日期已发布。",
+  "notice": "2026-09-29 17:36 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 0，既有项目状态变化／纠正 1，仍开放或需尽快行动 12。Toronto BME MEng 不参加新设长期 Co-op；常规国际生截止日为 2027 年 4 月 15 日。NUS BME 将于明日开放。",
   "run_summary": {
     "category_counts": {
-      "升学": 2,
+      "升学": 0,
       "实验室": 0,
       "求职": 0,
       "研究": 0
@@ -7109,32 +7109,32 @@
       "Liverpool Biomedical Engineering MSc (Eng) 2027 要求工程或物理科学背景并有 60 学分项目；生态学本科不符合，未纳入。",
       "Dundee Biomedical Engineering MSc 2027 要求 BME、电气、电子、机械、物理或数学等背景，生态学不在入口范围，未纳入。",
       "UNSW Engineering Science BME、Sydney 较短 MEng 与 ETH Zurich BME 均存在工程／物理／数学硬门槛；暂不纳入高优先列表。",
-      "东京大学 G30 International Bioengineering 强制 GRE、有效英语成绩和实验室论文研究；韩国官方入口未发现清晰接受非工程生命科学背景的优质授课／转换型项目。"
+      "东京大学 G30 International Bioengineering 已核实 2027 材料与考试成绩时间，但仍强制 GRE、有效英语成绩和实验室论文研究；韩国官方入口未发现清晰接受非工程生命科学背景的优质授课／转换型项目。"
     ],
     "existing_urgent_reverified": 10,
-    "historical_backfills_added": 2,
+    "historical_backfills_added": 0,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 2,
+    "status_changes": 1,
     "still_open_urgent_items": 12,
     "bme_still_open_urgent_items": 12
   },
   "source_coverage": [
     {
-      "note": "CityUHK 2027 已于 9 月 15 日开放，3 月 31 日截止并滚动审理；CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 首轮 11 月 3 日。",
+      "note": "CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。NUS 将于明日开放；PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 首轮 11 月 3 日。Toronto BME MEng 的 Co-op 适用范围已纠正。",
       "source_group": "BME申请",
-      "status": "incremental_scan_completed_one_status_change_ten_existing_programmes_reverified"
+      "status": "incremental_scan_completed_one_status_correction_twelve_urgent_programmes_reverified"
     },
     {
-      "note": "历史补录 Glasgow BME：医学成像、生物传感器、康复工程与 Biosignature Signal Processing 方向匹配，但生命科学申请者必须有显著数学训练并承担工程核心、团队设计和 MSc Project。PolyU BMI、Aalto、Pitt 等完成复核。",
+      "note": "Glasgow BME、PolyU BMI、Aalto、Pitt 等完成增量复核，无新增或状态变化。Glasgow 的医学成像、生物传感器、康复工程与 Biosignature Signal Processing 方向匹配，但生命科学申请者仍须证明显著数学训练并承担工程核心、团队设计和 MSc Project。",
       "source_group": "神经工程／脑机接口",
-      "status": "incremental_scan_completed_one_historical_backfill_three_existing_options_reverified"
+      "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
     },
     {
-      "note": "历史补录 Glasgow MedTech Innovation：明确接受生命科学本科，覆盖医疗 AI、SaMD、医疗器械法规、多模态医疗数据及 NHS／行业项目；但 60 学分项目、商业化、利益相关者沟通和现场展示均为核心负担。NUS、NTU、PolyU Digital Health 路径复核无变化。",
+      "note": "Glasgow MedTech Innovation、NUS、NTU、PolyU Digital Health 路径完成复核，无新增或状态变化。Glasgow 明确接受生命科学本科并覆盖医疗 AI、SaMD、法规和行业项目，但 60 学分项目、商业化、利益相关者沟通和现场展示仍为核心负担。",
       "source_group": "数字健康／医疗AI",
-      "status": "incremental_scan_completed_one_historical_backfill_three_existing_options_reverified"
+      "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
     },
     {
       "note": "Strathclyde 与 QMUL conversion 路径完成复核：两者均接受生命科学背景并提供数学／工程基础，QMUL 的大型独立研究项目和 Strathclyde 的 60 学分项目仍是主要风险。BU LEAP 与 Melbourne 非工程路径无状态变化。",
@@ -7142,9 +7142,9 @@
       "status": "incremental_scan_completed_four_existing_options_reverified_no_high_quality_addition"
     },
     {
-      "note": "Toronto 的生态学资格仍因校历与学院表述冲突而需书面确认；Glasgow BME 需完整成绩单证明至少两门认可数学课；NTU 学费数字冲突，NUS 的 relevant degree 范围不清；UCL、Sheffield、Liverpool、Dundee、UNSW、Sydney、ETH、东京大学 G30 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
+      "note": "Toronto 的生态学资格仍因校历与学院表述冲突而需书面确认，并已纠正其不适用新设长期 Co-op；Glasgow BME 需完整成绩单证明至少两门认可数学课；NTU 学费数字冲突，NUS 的 relevant degree 范围不清。东京大学 G30 已核实 2027 时间但因 GRE、有效英语与实验室论文要求仍不建议；UCL、Sheffield、Liverpool、Dundee、UNSW、Sydney、ETH 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
       "source_group": "需确认／不建议",
-      "status": "incremental_scan_completed_four_confirmation_items_eight_exclusion_groups_documented"
+      "status": "incremental_scan_completed_one_status_correction_four_confirmation_items_eight_exclusion_groups_documented"
     }
   ]
 }
