@@ -7197,12 +7197,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "resolved_from_repository_head_after_push",
+    "content_commit_sha": "52f19fb8013a54678d4ed207192d44fcc561a999",
     "executed_at_beijing": "2026-09-28T18:03:11+08:00",
     "increment_boundary": "2026-09-13T17:21:36+08:00",
     "note": "完成国际 BME 六地区增量扫描：历史补录 Glasgow MedTech Innovation 与 Glasgow Biomedical Engineering；CityUHK 由待发布变为已开放，Toronto MEng 新增 2027 开放时间和截止日。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "pending_after_push",
-    "repository_write": "local_data_updated_commit_and_push_pending",
+    "public_site_verification": "verified_http_200_generated_at_2026-09-28T18:03:11+08:00_items_214",
+    "repository_write": "github_main_updated_commit_52f19fb8013a54678d4ed207192d44fcc561a999",
     "result": "zero_newly_published_two_historical_backfills_two_status_changes_twelve_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
