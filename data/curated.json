@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "Glasgow MedTech Innovation、Glasgow Biomedical Engineering、Strathclyde 与 QMUL 等重点项目完成增量复核，2027 开放状态与已公布截止日无变化；Glasgow BME 仍须以完整成绩单证明至少两门认可数学课程。UCL、Sheffield、Liverpool、Dundee 因工程／物理背景门槛或重研究项目未纳入。",
+      "note": "历史补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)：两者都接受生命科学背景，但前者要求显著人体生物学课程并含 40 ECTS 独立研究项目，后者须确认生态学是否为 closely related subject，且含 60 学分研究项目、团队设计与较重机械／材料课程。Glasgow、Strathclyde、QMUL 等重点项目复核无其他变化。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_key_uk_programmes_reverified_no_new_or_status_change"
+      "status": "incremental_scan_completed_two_historical_backfills_key_uk_programmes_reverified"
     },
     {
-      "note": "Aalto Life Science Technologies 与 Basel Joint MSc BME 已按 2027 官方信息复核：Aalto 申请期 12 月 7 日至 1 月 5 日且成绩单先修严格；Basel 接受自然科学背景但含阶段性研究与整学期硕士论文。未发现 9 月 28 日扫描后新增或状态变化。",
+      "note": "Aalto Life Science Technologies 与 Basel Joint MSc BME 完成增量复核：Aalto 申请期 12 月 7 日至 1 月 5 日且成绩单先修严格；Basel 接受自然科学背景但含阶段性研究与整学期硕士论文。未发现新增或状态变化。",
       "region": "欧洲大陆",
       "status": "incremental_scan_completed_two_existing_programmes_reverified_no_high_quality_addition"
     },
     {
-      "note": "CityUHK MSc BME 仍开放，非本地生截止 2027 年 3 月 31 日并滚动审理；接受 science 学位，可全授课完成。PolyU BME／BMI、CUHK、NUS 与 NTU 均完成复核；NUS 将于明日（10 月 1 日）开放，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
+      "note": "CityUHK 仍开放且滚动审理；PolyU BME／BMI、CUHK、NUS 与 NTU 均完成复核。NUS BME 将于明日（10 月 1 日）开放，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
       "region": "香港与新加坡",
       "status": "incremental_scan_completed_six_existing_programmes_reverified_nus_opens_next_day"
     },
     {
       "region": "日本与韩国",
       "status": "incremental_scan_completed_no_high_quality_new_items",
-      "note": "东京大学 G30 International Bioengineering 已核实 2027 轮次：外部 TOEFL／IELTS 与 GRE 成绩须在 2026 年 10 月 31 日前安排，材料须在 2027 年 1 月 22 日前送达；因强制 GRE、有效英语成绩与实验室论文研究，仍列为不建议申请。韩国主要高校官方入口未发现明确接受非工程生命科学背景、职业导向且 2027 可行动的高质量授课／转换型项目。"
+      "note": "东京大学 G30 International Bioengineering 的 2027 时间保持不变，但因强制 GRE、有效英语成绩和实验室论文研究仍列为不建议申请；韩国主要高校官方入口未发现明确接受非工程生命科学背景、职业导向且 2027 可行动的高质量授课／转换型项目。"
     },
     {
-      "note": "Toronto 工学院已澄清 BME MEng 不参加新设的 Extended Full-Time Co-op，因为本项目本身含四个月必修 practicum；已删除此前误套用的 2 月 8 日 Co-op 截止日，常规国际生截止日为 2027 年 4 月 15 日。生态学资格仍因校历与学院表述冲突而需书面确认；Duke、BU LEAP、Pitt 等无变化。",
+      "note": "Toronto BME MEng 不参加新设长期 Co-op 的官方口径保持不变，常规国际生截止日为 2027 年 4 月 15 日，生态学资格仍需书面确认。Duke、BU LEAP、Pitt 等完成复核，无新增或状态变化。",
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_one_status_change_three_existing_options_reverified"
+      "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
     },
     {
-      "note": "Melbourne BME 与 Auckland Medical Engineering 已按 2027 页面复核，无状态变化。UNSW Engineering Science BME 与 Sydney 较短 MEng 仍以工程背景为主要入口，未发现更适合生态学本科的新转换型项目。",
+      "note": "Melbourne BME 与 Auckland Medical Engineering 完成增量复核，无状态变化。UNSW Engineering Science BME 与 Sydney 较短 MEng 仍以工程背景为主要入口，未发现更适合生态学本科的新转换型项目。",
       "region": "澳大利亚与新西兰",
       "status": "incremental_scan_completed_two_existing_options_reverified_no_high_quality_addition"
     }
   ],
-  "generated_at": "2026-09-29T17:36:35+08:00",
+  "generated_at": "2026-09-30T10:18:19+08:00",
   "items": [
     {
       "category": "升学",
@@ -7076,33 +7076,79 @@
       "title_en": "MSc Biomedical Engineering — 2027 Entry",
       "updated_at": "2026-09-28",
       "verification_status": "verified_official_2027_page_life_science_conditional_entry_approved_math_modules_curriculum_project_english_reference_fee_and_scholarship_2026_09_28_deadline_pending"
+    },
+    {
+      "category": "升学",
+      "current_status": "open_round_2_since_2026-09-30_closes_2027-01-06",
+      "deadline": "Round 2：2027-01-06；Round 3：2027-03-10；Round 4：2027-04-28（均为英国时间 23:59）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-30",
+      "id": "imperial-msc-engineering-for-biomedicine-2027",
+      "last_verified_at": "2026-09-30",
+      "location": "英国・伦敦",
+      "organization": "Imperial College London · Department of Bioengineering",
+      "priority": 89,
+      "published_at": "",
+      "relevance": "专门接收含显著人体生物学内容的生命科学本科，并用 Fundamentals of Biomedical Engineering 补数学、计算思维、电气、机械与物理基础；你的神经电生理经历有利，但生态学成绩单是否满足 human biology 门槛必须书面确认。40 ECTS 大型独立研究项目约占学位 44%，与偏职业、低论文负担偏好存在明显冲突。",
+      "section": "Conversion／补修项目",
+      "source_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/engineering-biomedicine/",
+      "summary": "2027 年 10 月入学、1 年全日制，申请已于 2026-09-30 开放；Round 2 于 2027-01-06 截止，随后两轮分别于 3 月 10 日和 4 月 28 日截止，晚轮不保证仍有名额。最低背景为 Clinical Science、Life Science 或 Physical Science 的 2:1 学位，且课程须有显著 human biology 内容；生态学并非自动满足，应先向 bg-mscadmissions@imperial.ac.uk 提交课程清单确认。核心覆盖数学、计算思维、电气、机械、物理、研究数据分析与 Journal Club，可选医学影像、生理监测、医疗器械认证／创业和药物发现 AI。Major Individual Project 为 40 ECTS，从第二学期持续至夏季并要求独立性与原创性，是主要不匹配风险。2027 海外学费尚未公布，2026/27 参考 £45,000；申请费 £90，硕士押金通常为学费 10%，ATAS 不需要。英语采用 Higher 标准：IELTS 7.0（单项 6.5）或旧制 TOEFL 100（单项 22）／新制 5.0（各项 5.0），成绩须在入学前两年内有效；旧 TOEFL 99 无效。官网未列 GRE 要求。",
+      "summary_en": "This one-year MSc for October 2027 opened on 30 September 2026. Round 2 closes on 6 January 2027, followed by 10 March and 28 April rounds. It accepts a 2:1 in clinical, life or physical science only where the transcript contains significant human biology, so ecology eligibility must be confirmed in writing. The course bridges mathematics, computational thinking, electrical and mechanical engineering and physics, with relevant options in imaging, physiological monitoring, regulation and AI. A 40-ECTS major individual research project is compulsory and is the main fit risk. The 2027 overseas fee is pending; the 2026/27 reference is £45,000. Higher English scores are required and ATAS is not required.",
+      "tags": ["历史补录","2027申请已开放","需确认专业相关性","生命科学有条件接受","须有显著人体生物学课程","工程基础补修","医学影像","生理信号","医疗器械认证","AI药物发现","40 ECTS独立研究项目","重研究风险","2027学费待公布","2026参考£45,000","IELTS 7.0单项6.5","需重新考语言","无需ATAS"],
+      "title": "帝国理工学院 Engineering for Biomedicine 理学硕士",
+      "title_en": "MSc Engineering for Biomedicine — 2027 Entry",
+      "updated_at": "2026-09-30",
+      "verification_status": "verified_official_2027_open_rounds_life_science_human_biology_condition_curriculum_project_fee_reference_english_and_atas_2026_09_30"
+    },
+    {
+      "category": "升学",
+      "current_status": "upcoming_opens_2026-10-05_international_deadline_2027-08-23",
+      "deadline": "2026-10-05 开放；国际生 2027-08-23 截止（英国本土 2027-09-17）",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-09-30",
+      "id": "liverpool-msc-biomedical-engineering-healthcare-2027",
+      "last_verified_at": "2026-09-30",
+      "location": "英国・利物浦",
+      "organization": "University of Liverpool · School of Engineering",
+      "priority": 82,
+      "published_at": "",
+      "relevance": "官网明确面向 health and life sciences，跨入 BME 的入口清楚；但生态学是否属于 closely related subject 仍需确认。课程重心是生物力学、流体、组织工程、材料、CAD 与制造，并含跨学期团队设计和 60 学分独立研究项目，与神经工程、医疗 AI 和低论文负担偏好仅部分匹配，宜作为保底而非主申。",
+      "section": "Conversion／补修项目",
+      "source_url": "https://www.liverpool.ac.uk/courses/biomedical-engineering-healthcare-msc-eng/2027",
+      "summary": "2027 年 9 月入学、12 个月全日制，申请将于 2026-10-05 开放；国际生截止 2027-08-23。最低要求为 health and life sciences 的 2:2 学位，官网举例 Biomedical Sciences、Optometry、Anatomy、Biochemistry 或 closely related subject；A-level Mathematics 或 Physics 为 desirable 而非明确硬门槛，生态学相关性建议先向 pgrecruitment@liverpool.ac.uk 确认。必修含结构生物材料、CAD、Group Engineering Design、生物力学、组织工程与伦理，夏季 MSc(Eng) Project 为 60/180 学分；团队设计、材料／机械方向和独立研究负担均较重。2027 学费尚未公布，2026/27 国际生参考 £34,000；国际生获 offer 后需交押金。IELTS 6.5（单项 6.0），2026-01-21 后 TOEFL 新制 4.5（单项 4.0）；旧 TOEFL 99 已失效。官网未列 GRE 要求。项目获 IMechE 认证并面向医疗器械、NHS、工程管理和咨询就业。",
+      "summary_en": "This 12-month MSc (Eng) for September 2027 opens on 5 October 2026 and has a 23 August 2027 international deadline. It accepts a 2:2 in health and life sciences, but ecology should be confirmed as a closely related subject. The course is dominated by biomechanics, biomaterials, tissue engineering, CAD, manufacturing, a year-spanning group design module and a compulsory 60-credit individual research project, making it only a partial fit for the user's neuroengineering and low-research preferences. The 2027 fee is pending; the 2026/27 international reference is £34,000. IELTS 6.5 with 6.0 components is required, and no GRE requirement is listed.",
+      "tags": ["历史补录","2027申请10月5日开放","需确认专业相关性","生命科学可申请","生态学需确认","A-level数学或物理为desirable","生物力学","CAD","生物材料","组织工程","团队设计必修","60学分独立研究项目","重机械／材料风险","重研究风险","2027学费待公布","2026参考£34,000","IELTS 6.5单项6.0","需重新考语言","IMechE认证"],
+      "title": "利物浦大学 Biomedical Engineering (Healthcare) MSc (Eng)",
+      "title_en": "MSc (Eng) Biomedical Engineering (Healthcare) — 2027 Entry",
+      "updated_at": "2026-09-30",
+      "verification_status": "verified_official_2027_opening_deadline_life_science_entry_curriculum_project_fee_reference_english_and_career_2026_09_30"
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "ae7983582f9b65f87db94651e5d5a8a6221f0214",
-    "executed_at_beijing": "2026-09-29T17:36:35+08:00",
-    "increment_boundary": "2026-09-28T18:03:11+08:00",
-    "note": "完成国际 BME 六地区增量扫描：上次扫描后无新增发布或历史补录；纠正 Toronto BME MEng 的 Co-op 信息，确认其不参加新设长期 Co-op，因为项目本身已有四个月必修 practicum。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "verified_http_200_generated_at_2026-09-29T17:36:35+08:00_items_214_toronto_deadline_corrected",
-    "repository_write": "github_main_updated_commit_ae7983582f9b65f87db94651e5d5a8a6221f0214",
-    "result": "zero_newly_published_zero_historical_backfills_one_status_correction_twelve_urgent",
+    "content_commit_sha": "pending_remote_write",
+    "executed_at_beijing": "2026-09-30T10:18:19+08:00",
+    "increment_boundary": "2026-09-29T17:36:35+08:00",
+    "note": "完成国际 BME 六地区增量扫描：历史补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)，均按官方 2027 页面核验。前者已于今日开放但页面并非今日首次发布，后者将于 10 月 5 日开放；不得将今日首次发现写成今日发布。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
+    "public_site_verification": "pending_after_remote_write",
+    "repository_write": "pending_remote_write",
+    "result": "zero_newly_published_two_historical_backfills_zero_status_changes_fourteen_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
-  "notice": "2026-09-29 17:36 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 0，既有项目状态变化／纠正 1，仍开放或需尽快行动 12。Toronto BME MEng 不参加新设长期 Co-op；常规国际生截止日为 2027 年 4 月 15 日。NUS BME 将于明日开放。",
+  "notice": "2026-09-30 10:18 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 2，既有项目状态变化 0，仍开放或需尽快行动 14。补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)；两者均接受生命科学背景但有专业相关性和重研究项目风险。",
   "run_summary": {
     "category_counts": {
-      "升学": 0,
+      "升学": 2,
       "实验室": 0,
       "求职": 0,
       "研究": 0
     },
     "database_category_totals": {
-      "升学": 52,
+      "升学": 54,
       "研究": 97,
       "实验室": 40,
       "求职": 25
     },
-    "database_items_total": 214,
+    "database_items_total": 216,
     "excluded_expired_or_ineligible": [
       "UCL Physics and Engineering in Medicine 2027 要求物理、工程、计算机、数学或 closely related 背景，且有 60 学分研究项目和团队器械商业化项目；生态学匹配不足，未纳入。",
       "Sheffield Biomedical Engineering MSc 2027 的官方可接受学科列表未含 Biology、Life Sciences 或 Ecology，并有 60 学分研究项目，未纳入。",
@@ -7111,20 +7157,20 @@
       "UNSW Engineering Science BME、Sydney 较短 MEng 与 ETH Zurich BME 均存在工程／物理／数学硬门槛；暂不纳入高优先列表。",
       "东京大学 G30 International Bioengineering 已核实 2027 材料与考试成绩时间，但仍强制 GRE、有效英语成绩和实验室论文研究；韩国官方入口未发现清晰接受非工程生命科学背景的优质授课／转换型项目。"
     ],
-    "existing_urgent_reverified": 10,
-    "historical_backfills_added": 0,
+    "existing_urgent_reverified": 12,
+    "historical_backfills_added": 2,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 1,
-    "still_open_urgent_items": 12,
-    "bme_still_open_urgent_items": 12
+    "status_changes": 0,
+    "still_open_urgent_items": 14,
+    "bme_still_open_urgent_items": 14
   },
   "source_coverage": [
     {
-      "note": "CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。NUS 将于明日开放；PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 首轮 11 月 3 日。Toronto BME MEng 的 Co-op 适用范围已纠正。",
+      "note": "CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。NUS 将于明日开放；PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 最早审理节点 11 月 3 日。新增两项英国生命科学转 BME 入口。",
       "source_group": "BME申请",
-      "status": "incremental_scan_completed_one_status_correction_twelve_urgent_programmes_reverified"
+      "status": "incremental_scan_completed_two_historical_backfills_fourteen_urgent_programmes_reverified"
     },
     {
       "note": "Glasgow BME、PolyU BMI、Aalto、Pitt 等完成增量复核，无新增或状态变化。Glasgow 的医学成像、生物传感器、康复工程与 Biosignature Signal Processing 方向匹配，但生命科学申请者仍须证明显著数学训练并承担工程核心、团队设计和 MSc Project。",
@@ -7137,14 +7183,14 @@
       "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
     },
     {
-      "note": "Strathclyde 与 QMUL conversion 路径完成复核：两者均接受生命科学背景并提供数学／工程基础，QMUL 的大型独立研究项目和 Strathclyde 的 60 学分项目仍是主要风险。BU LEAP 与 Melbourne 非工程路径无状态变化。",
+      "note": "历史补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)：两者接受生命科学背景并提供工程转换入口，但前者要求显著人体生物学课程且有 40 ECTS 独立项目，后者须确认生态学相关性且有 60 学分项目、团队设计和重机械／材料课程。Strathclyde、QMUL、BU LEAP 与 Melbourne 无变化。",
       "source_group": "Conversion／补修项目",
-      "status": "incremental_scan_completed_four_existing_options_reverified_no_high_quality_addition"
+      "status": "incremental_scan_completed_two_historical_backfills_four_existing_options_reverified"
     },
     {
-      "note": "Toronto 的生态学资格仍因校历与学院表述冲突而需书面确认，并已纠正其不适用新设长期 Co-op；Glasgow BME 需完整成绩单证明至少两门认可数学课；NTU 学费数字冲突，NUS 的 relevant degree 范围不清。东京大学 G30 已核实 2027 时间但因 GRE、有效英语与实验室论文要求仍不建议；UCL、Sheffield、Liverpool、Dundee、UNSW、Sydney、ETH 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
+      "note": "Imperial 要求显著人体生物学课程，Liverpool 需确认生态学是否为 closely related subject；两者均有大型独立研究项目。Toronto、Glasgow、NTU 与 NUS 仍各有资格或信息确认事项。东京大学 G30 因 GRE、有效英语与实验室论文要求仍不建议；UCL、Sheffield、Liverpool 普通 BME、Dundee、UNSW Engineering Science、Sydney、ETH 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
       "source_group": "需确认／不建议",
-      "status": "incremental_scan_completed_one_status_correction_four_confirmation_items_eight_exclusion_groups_documented"
+      "status": "incremental_scan_completed_six_confirmation_items_eight_exclusion_groups_documented"
     }
   ]
 }
