@@ -8,9 +8,9 @@
   },
   "coverage": [
     {
-      "note": "历史补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)：两者都接受生命科学背景，但前者要求显著人体生物学课程并含 40 ECTS 独立研究项目，后者须确认生态学是否为 closely related subject，且含 60 学分研究项目、团队设计与较重机械／材料课程。Glasgow、Strathclyde、QMUL 等重点项目复核无其他变化。",
+      "note": "Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare) 状态保持不变；Glasgow、Strathclyde、QMUL 等重点项目完成增量复核，未发现新增或状态变化。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_two_historical_backfills_key_uk_programmes_reverified"
+      "status": "incremental_scan_completed_key_uk_programmes_reverified_no_new_or_status_change"
     },
     {
       "note": "Aalto Life Science Technologies 与 Basel Joint MSc BME 完成增量复核：Aalto 申请期 12 月 7 日至 1 月 5 日且成绩单先修严格；Basel 接受自然科学背景但含阶段性研究与整学期硕士论文。未发现新增或状态变化。",
@@ -18,9 +18,9 @@
       "status": "incremental_scan_completed_two_existing_programmes_reverified_no_high_quality_addition"
     },
     {
-      "note": "CityUHK 仍开放且滚动审理；PolyU BME／BMI、CUHK、NUS 与 NTU 均完成复核。NUS BME 将于明日（10 月 1 日）开放，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
+      "note": "NUS BME、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已于今日开放；生态学对 NUS BME 的 relevant bachelor's degree 定义及 DSML 的定量学科门槛仍需书面确认。CityUHK 继续滚动审理，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_six_existing_programmes_reverified_nus_opens_next_day"
+      "status": "incremental_scan_completed_three_nus_status_changes_six_existing_programmes_reverified"
     },
     {
       "region": "日本与韩国",
@@ -38,7 +38,7 @@
       "status": "incremental_scan_completed_two_existing_options_reverified_no_high_quality_addition"
     }
   ],
-  "generated_at": "2026-09-30T10:18:19+08:00",
+  "generated_at": "2026-10-01T14:08:40+08:00",
   "items": [
     {
       "category": "升学",
@@ -544,12 +544,12 @@
     },
     {
       "category": "升学",
-      "current_status": "regular_cycle_not_yet_open_opens_2026-10-01",
-      "deadline": "2027-01-31（常规轮次；2026-10-01 开放）",
-      "discovery_status": "historical_backfill",
+      "current_status": "applications_open_regular_cycle_2026-10-01_to_2027-01-31",
+      "deadline": "常规申请已开放；2027-01-31 截止",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-27",
       "id": "nus-msc-data-science-machine-learning-2027",
-      "last_verified_at": "2026-08-27",
+      "last_verified_at": "2026-10-01",
       "location": "新加坡",
       "organization": "National University of Singapore · Centre for Data Science and Machine Learning",
       "priority": 91,
@@ -557,17 +557,17 @@
       "relevance": "学校与项目认可度高，技术训练扎实；但它不是明确开放给任意专业的转专业硕士。适合已有较强统计、编程和定量课程证据者先做资格预确认。",
       "section": "数据／计算／AI项目",
       "source_url": "https://www.math.nus.edu.sg/cdsml/ms-dsml/dsml-prospective-students/",
-      "summary": "跨数学、统计、计算机、机器学习和 AI 的授课型硕士，全日制 1–2 年。2027 年 8 月入学常规申请期为 2026 年 10 月 1 日至 2027 年 1 月 31 日；无需推荐信或 GRE，个人陈述可选。官网要求定量科学（例举数学、统计、物理）、工程或计算机的荣誉／四年制本科，并要求国际申请人提交至少 30,000 新元资金证明。生态与生命科学背景没有被明确列入；应在投入申请前向项目方确认现有定量课程和分析经历能否满足资格。",
-      "summary_en": "An interdisciplinary taught MSc spanning computer science, mathematics, statistics, machine learning and AI, normally completed full-time in one to two years. The regular cycle for August 2027 runs from 1 October 2026 to 31 January 2027. Referee reports and GRE scores are not required, and a personal statement is optional. The official eligibility wording requires an honours/four-year bachelor's in a quantitative science (examples: mathematics, statistics and physics), engineering or computing, plus a SGD 30,000 financial statement for international applicants. Ecology and life science are not explicitly listed, so eligibility should be confirmed before investing in an application.",
+      "summary": "跨数学、统计、计算机、机器学习和 AI 的授课型硕士，全日制 1–2 年。2027 年 8 月入学常规申请现已开放，2027 年 1 月 31 日截止；无需推荐信或 GRE，个人陈述可选。官网要求定量科学（例举数学、统计、物理）、工程或计算机的荣誉／四年制本科，并要求国际申请人提交至少 30,000 新元资金证明。生态与生命科学背景没有被明确列入；应在投入申请前向项目方确认现有定量课程和分析经历能否满足资格。英语要求为 IELTS 6.0 或 TOEFL 85（旧量表）／4.5（新量表），成绩须在两年有效期内；旧 TOEFL 99 已失效。",
+      "summary_en": "The regular application cycle for the August 2027 intake is now open and closes on 31 January 2027. This interdisciplinary taught MSc spans computer science, mathematics, statistics, machine learning and AI and normally takes one to two years full-time. Referee reports and GRE scores are not required, and a personal statement is optional. The official eligibility wording requires an honours/four-year bachelor's in a quantitative science, engineering or computing, plus a SGD 30,000 financial statement for international applicants. Ecology and life science are not explicitly listed, so eligibility should be confirmed before applying. English scores must be valid for two years; the user's previous TOEFL 99 is expired.",
       "tags": [
-        "历史补录",
+        "状态变化",
         "2027入学",
         "数据科学",
         "机器学习",
         "人工智能",
         "定量科学背景",
         "资格需预确认",
-        "10月1日开放",
+        "常规申请已开放",
         "1月31日截止",
         "无需GRE",
         "无需推荐信",
@@ -575,8 +575,8 @@
       ],
       "title": "新加坡国立大学数据科学与机器学习理学硕士（2027）",
       "title_en": "NUS MSc in Data Science and Machine Learning (2027 Intake)",
-      "updated_at": "2026-08-27",
-      "verification_status": "verified_official_programme_page_2027_cycle_not_yet_open_eligibility_needs_preconfirmation"
+      "updated_at": "2026-10-01",
+      "verification_status": "verified_official_programme_page_2027_regular_cycle_open_eligibility_needs_preconfirmation"
     },
     {
       "category": "研究",
@@ -925,12 +925,12 @@
     },
     {
       "category": "升学",
-      "current_status": "regular_cycle_opens_2026-10-01_closes_2027-01-31",
-      "deadline": "2027-01-31（常规轮；2026-10-01 开放）",
-      "discovery_status": "historical_backfill",
+      "current_status": "applications_open_regular_cycle_2026-10-01_to_2027-01-31",
+      "deadline": "常规申请已开放；2027-01-31 截止",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-08-26",
       "id": "nus-msc-ai-for-science-2027",
-      "last_verified_at": "2026-08-26",
+      "last_verified_at": "2026-10-01",
       "location": "新加坡",
       "organization": "National University of Singapore · Department of Physics",
       "priority": 94,
@@ -939,10 +939,10 @@
       "relevance": "科学背景转向 AI 驱动研究的路径非常直接，并保留科研和后续博士训练取向；但对非量化背景只作个案审理，且资金证明和自费成本需要提前核算。",
       "section": "数据／计算／AI项目",
       "source_url": "https://www.physics.nus.edu.sg/student/msc-ai-for-science-application/",
-      "summary": "面向 2027 年 8 月入学的 AI × 科学交叉项目。课程覆盖机器学习、深度学习及其在物理、化学、生物、药学和流行病学等领域的应用。常规申请期为 2026 年 10 月 1 日至 2027 年 1 月 31 日，滚动评审；早申轮已结束。标准背景为科学、工程或应用数学四年制／荣誉学位，相关三年制或其他量化／非量化背景的强申请者可结合专业经历个案审理。IELTS 6.0 或 TOEFL 85（旧量表）／4.5（2026 年 1 月 21 日后新量表）。国际申请还需上传至少 48,000 新元的资金证明。",
-      "summary_en": "An interdisciplinary AI-for-science programme for the August 2027 intake, covering machine learning and deep learning across physics, chemistry, biology, pharmacy and epidemiology. The regular application cycle runs from 1 October 2026 to 31 January 2027 with rolling evaluation; the early cycle has closed. The standard entry profile is a four-year or honours degree in science, engineering or applied mathematics, while strong applicants with relevant three-year degrees or other quantitative/non-quantitative degrees may be considered case by case depending on professional experience. IELTS 6.0 or TOEFL 85 under the old scale / 4.5 under the post-21-January-2026 scale is required where applicable. International applicants must also upload evidence of at least SGD 48,000 in available funds.",
+      "summary": "面向 2027 年 8 月入学的 AI × 科学交叉项目。课程覆盖机器学习、深度学习及其在物理、化学、生物、药学和流行病学等领域的应用。常规申请现已开放，2027 年 1 月 31 日截止并滚动评审；早申轮已结束。标准背景为科学、工程或应用数学四年制／荣誉学位，相关三年制或其他量化／非量化背景的强申请者可结合专业经历个案审理。IELTS 6.0 或 TOEFL 85（旧量表）／4.5（2026 年 1 月 21 日后新量表），成绩须在两年有效期内；旧 TOEFL 99 已失效。国际申请还需上传至少 48,000 新元的资金证明。",
+      "summary_en": "The regular application cycle for the August 2027 intake is now open, closes on 31 January 2027 and is reviewed on a rolling basis. The programme covers machine learning and deep learning across physics, chemistry, biology, pharmacy and epidemiology. The standard profile is a four-year or honours degree in science, engineering or applied mathematics, while strong applicants from other quantitative or non-quantitative backgrounds may be considered case by case. English scores must be valid for two years, and international applicants must upload evidence of at least SGD 48,000 in available funds.",
       "tags": [
-        "历史补录",
+        "状态变化",
         "2027入学",
         "跨学科AI",
         "AI for Science",
@@ -950,13 +950,13 @@
         "科学背景友好",
         "个案接受其他背景",
         "滚动评审",
-        "10月1日开放",
+        "常规申请已开放",
         "1月31日截止"
       ],
       "title": "新加坡国立大学人工智能科学硕士（2027）",
       "title_en": "NUS MSc in AI for Science (2027 intake)",
-      "updated_at": "2026-08-26",
-      "verification_status": "verified_official_program_and_application_pages"
+      "updated_at": "2026-10-01",
+      "verification_status": "verified_official_program_and_application_pages_2027_regular_cycle_open"
     },
     {
       "category": "研究",
@@ -6551,12 +6551,12 @@
     },
     {
       "category": "升学",
-      "current_status": "upcoming_application_window_2026-10-01_to_2027-02-28",
-      "deadline": "申请期 2026-10-01 至 2027-02-28",
-      "discovery_status": "historical_backfill",
+      "current_status": "applications_open_for_august_2027_until_2027-02-28",
+      "deadline": "申请已开放；2027-02-28 截止",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-09-10",
       "id": "nus-msc-biomedical-engineering-august-2027",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-10-01",
       "location": "新加坡",
       "organization": "National University of Singapore",
       "priority": 97,
@@ -6564,12 +6564,11 @@
       "relevance": "课程组合与医疗 AI、神经技术、脑机接口和监管方向高度契合，且研究项目与 industrial attachment 都是可选项；主要风险是官网只写 relevant bachelor's degree，生态学是否属于相关专业需先邮件确认。",
       "section": "BME申请",
       "source_url": "https://cde.nus.edu.sg/bme/admission/",
-      "summary": "2027 年 8 月入学申请期已公布为 2026 年 10 月 1 日至 2027 年 2 月 28 日。通常 1 年全日制、40 units，结构为 1 门核心课加 9 门选修；Medical Imaging、Neurotechnology、Advanced Machine Learning in BME、Brain-Computer Interface、Regulatory 及 Industrial Attachment 可选，研究项目不是必修。申请要求相关学士及相当于二等荣誉；AY2027/28 全日制总学费 S$53,100。",
-      "summary_en": "Applications for the August 2027 intake run from 1 October 2026 to 28 February 2027. The usual one-year, 40-unit structure has one core and nine electives, including imaging, neurotechnology, machine learning, BCI, regulation and optional industrial attachment or research project. Whether ecology counts as a relevant degree needs written confirmation.",
+      "summary": "2027 年 8 月入学申请现已开放，2027 年 2 月 28 日截止。通常 1 年全日制、40 units，结构为 1 门核心课加 9 门选修；Medical Imaging、Neurotechnology、Advanced Machine Learning in BME、Brain-Computer Interface、Regulatory 及 Industrial Attachment 可选，研究项目不是必修。申请要求相关学士及相当于二等荣誉；生态学是否属于 relevant bachelor's degree 仍应在申请前向 bme.msc@nus.edu.sg 书面确认。AY2027/28 全日制总学费 S$53,100，申请费 S$100（未含 GST），接受录取费 S$5,450。GRTII 奖学金为 S$45,000，但附带毕业后在广州黄埔区服务两年的义务，不应视为无条件资助。英语成绩须在有效期内，旧 TOEFL 99 已失效。",
+      "summary_en": "Applications for the August 2027 intake are now open and close on 28 February 2027. The usual one-year, 40-unit structure has one core and nine electives, including imaging, neurotechnology, machine learning, BCI, regulation and optional industrial attachment or research project. Whether ecology counts as a relevant bachelor's degree still needs written confirmation from bme.msc@nus.edu.sg. AY2027/28 full-time tuition is SGD 53,100, with a SGD 100 application fee before GST and SGD 5,450 acceptance fee. The SGD 45,000 GRTII scholarship carries a two-year service obligation in Huangpu District, Guangzhou. The user's previous TOEFL 99 is expired.",
       "tags": [
-        "历史补录",
-        "2027申请期已公布",
-        "10月1日开放",
+        "状态变化",
+        "2027申请已开放",
         "需确认专业相关性",
         "医疗AI",
         "神经技术",
@@ -6580,8 +6579,8 @@
       ],
       "title": "新加坡国立大学 生物医学工程理学硕士",
       "title_en": "MSc Biomedical Engineering — August 2027",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_official_2027_application_window_curriculum_and_fee_eligibility_scope_needs_email"
+      "updated_at": "2026-10-01",
+      "verification_status": "verified_official_2027_applications_open_curriculum_fee_and_scholarship_eligibility_scope_needs_email"
     },
     {
       "category": "升学",
@@ -7125,19 +7124,19 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "6f09ccb067d0225ff322867b8baf73c42b5b86b9",
-    "executed_at_beijing": "2026-09-30T10:18:19+08:00",
-    "increment_boundary": "2026-09-29T17:36:35+08:00",
-    "note": "完成国际 BME 六地区增量扫描：历史补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)，均按官方 2027 页面核验。前者已于今日开放但页面并非今日首次发布，后者将于 10 月 5 日开放；不得将今日首次发现写成今日发布。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "not_verified_local_network_permission_denied_and_browser_provider_unavailable_after_two_attempts",
-    "repository_write": "github_main_updated_commit_6f09ccb067d0225ff322867b8baf73c42b5b86b9",
-    "result": "zero_newly_published_two_historical_backfills_zero_status_changes_fourteen_urgent",
+    "content_commit_sha": "pending_remote_write",
+    "executed_at_beijing": "2026-10-01T14:08:40+08:00",
+    "increment_boundary": "2026-09-30T10:18:19+08:00",
+    "note": "完成国际 BME 六地区增量扫描：NUS Biomedical Engineering、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已于今日开放，记为既有项目状态变化，不重复入库。未发现上次扫描后新发布或需历史补录的高质量项目；数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
+    "public_site_verification": "pending_after_remote_write",
+    "repository_write": "pending_remote_write",
+    "result": "zero_newly_published_zero_historical_backfills_three_status_changes_fourteen_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
-  "notice": "2026-09-30 10:18 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 2，既有项目状态变化 0，仍开放或需尽快行动 14。补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)；两者均接受生命科学背景但有专业相关性和重研究项目风险。",
+  "notice": "2026-10-01 14:08 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 0，既有项目状态变化 3，仍开放或需尽快行动 14。NUS Biomedical Engineering、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已开放。",
   "run_summary": {
     "category_counts": {
-      "升学": 2,
+      "升学": 0,
       "实验室": 0,
       "求职": 0,
       "研究": 0
@@ -7157,20 +7156,20 @@
       "UNSW Engineering Science BME、Sydney 较短 MEng 与 ETH Zurich BME 均存在工程／物理／数学硬门槛；暂不纳入高优先列表。",
       "东京大学 G30 International Bioengineering 已核实 2027 材料与考试成绩时间，但仍强制 GRE、有效英语成绩和实验室论文研究；韩国官方入口未发现清晰接受非工程生命科学背景的优质授课／转换型项目。"
     ],
-    "existing_urgent_reverified": 12,
-    "historical_backfills_added": 2,
+    "existing_urgent_reverified": 14,
+    "historical_backfills_added": 0,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
-    "status_changes": 0,
+    "status_changes": 3,
     "still_open_urgent_items": 14,
     "bme_still_open_urgent_items": 14
   },
   "source_coverage": [
     {
-      "note": "CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。NUS 将于明日开放；PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 最早审理节点 11 月 3 日。新增两项英国生命科学转 BME 入口。",
+      "note": "CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。NUS BME 2027 常规申请已开放，2 月 28 日截止；生态学是否属于 relevant bachelor's degree 仍需邮件确认。PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 最早审理节点 11 月 3 日。",
       "source_group": "BME申请",
-      "status": "incremental_scan_completed_two_historical_backfills_fourteen_urgent_programmes_reverified"
+      "status": "incremental_scan_completed_one_nus_bme_status_change_fourteen_urgent_programmes_reverified"
     },
     {
       "note": "Glasgow BME、PolyU BMI、Aalto、Pitt 等完成增量复核，无新增或状态变化。Glasgow 的医学成像、生物传感器、康复工程与 Biosignature Signal Processing 方向匹配，但生命科学申请者仍须证明显著数学训练并承担工程核心、团队设计和 MSc Project。",
@@ -7178,19 +7177,19 @@
       "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
     },
     {
-      "note": "Glasgow MedTech Innovation、NUS、NTU、PolyU Digital Health 路径完成复核，无新增或状态变化。Glasgow 明确接受生命科学本科并覆盖医疗 AI、SaMD、法规和行业项目，但 60 学分项目、商业化、利益相关者沟通和现场展示仍为核心负担。",
+      "note": "NUS AI for Science 与 Data Science and Machine Learning 的 2027 常规申请已开放，均于 1 月 31 日截止；前者对其他背景个案审理，后者要求定量科学、工程或计算机背景，生态学资格需预确认。Glasgow MedTech Innovation、NTU 与 PolyU Digital Health 路径无其他变化。",
       "source_group": "数字健康／医疗AI",
-      "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
+      "status": "incremental_scan_completed_two_nus_status_changes_four_existing_options_reverified"
     },
     {
-      "note": "历史补录 Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare)：两者接受生命科学背景并提供工程转换入口，但前者要求显著人体生物学课程且有 40 ECTS 独立项目，后者须确认生态学相关性且有 60 学分项目、团队设计和重机械／材料课程。Strathclyde、QMUL、BU LEAP 与 Melbourne 无变化。",
+      "note": "Imperial Engineering for Biomedicine、Liverpool Biomedical Engineering (Healthcare)、Strathclyde、QMUL、BU LEAP 与 Melbourne 完成增量复核，未发现新增或状态变化。Imperial 与 Liverpool 仍分别存在人体生物学课程和生态学相关性确认事项，且均有大型独立研究项目。",
       "source_group": "Conversion／补修项目",
-      "status": "incremental_scan_completed_two_historical_backfills_four_existing_options_reverified"
+      "status": "incremental_scan_completed_six_existing_options_reverified_no_new_or_status_change"
     },
     {
-      "note": "Imperial 要求显著人体生物学课程，Liverpool 需确认生态学是否为 closely related subject；两者均有大型独立研究项目。Toronto、Glasgow、NTU 与 NUS 仍各有资格或信息确认事项。东京大学 G30 因 GRE、有效英语与实验室论文要求仍不建议；UCL、Sheffield、Liverpool 普通 BME、Dundee、UNSW Engineering Science、Sydney、ETH 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
+      "note": "NUS BME 仅写 relevant bachelor's degree，DSML 仅明确量化科学、工程或计算机，均需先确认生态学资格；AI for Science 对其他背景个案审理。Imperial、Liverpool、Toronto、Glasgow 与 NTU 仍各有先修或专业相关性确认事项。东京大学 G30 因 GRE、有效英语与实验室论文要求仍不建议；UCL、Sheffield、Liverpool 普通 BME、Dundee、UNSW Engineering Science、Sydney、ETH 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
       "source_group": "需确认／不建议",
-      "status": "incremental_scan_completed_six_confirmation_items_eight_exclusion_groups_documented"
+      "status": "incremental_scan_completed_eight_confirmation_items_eight_exclusion_groups_documented"
     }
   ]
 }
