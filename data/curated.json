@@ -7124,12 +7124,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "pending_remote_write",
+    "content_commit_sha": "2c7104fe945db3d56b727b8bc1456c6106738bcd",
     "executed_at_beijing": "2026-10-01T14:08:40+08:00",
     "increment_boundary": "2026-09-30T10:18:19+08:00",
     "note": "完成国际 BME 六地区增量扫描：NUS Biomedical Engineering、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已于今日开放，记为既有项目状态变化，不重复入库。未发现上次扫描后新发布或需历史补录的高质量项目；数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "pending_after_remote_write",
-    "repository_write": "pending_remote_write",
+    "public_site_verification": "not_verified_local_network_socket_permission_denied_and_web_reader_inaccessible",
+    "repository_write": "github_main_updated_commit_2c7104fe945db3d56b727b8bc1456c6106738bcd",
     "result": "zero_newly_published_zero_historical_backfills_three_status_changes_fourteen_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
