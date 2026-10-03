@@ -7170,12 +7170,12 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "pending_remote_write",
+    "content_commit_sha": "0eb9e4bc092cc7150038b8e2e153cf5b350b3653",
     "executed_at_beijing": "2026-10-03T14:47:20+08:00",
     "increment_boundary": "2026-10-01T14:08:40+08:00",
     "note": "完成国际 BME 六地区增量扫描：历史补录 Glasgow Medical Devices Engineering 与 Bern Joint MSc BME；Glasgow Biomedical Engineering、Glasgow MedTech Innovation 与 Toronto BME MEng 共 3 项状态变化。两项补录均为此前已存在项目，不得写成今日发布；未发现上次扫描后官方新发布的高质量项目。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "pending_after_remote_write",
-    "repository_write": "pending_remote_write",
+    "public_site_verification": "not_verified_web_reader_inaccessible_and_edge_browser_provider_failed_to_start",
+    "repository_write": "github_main_updated_commit_0eb9e4bc092cc7150038b8e2e153cf5b350b3653",
     "result": "zero_newly_published_two_historical_backfills_three_status_changes_fifteen_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
