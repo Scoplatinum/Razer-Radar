@@ -8,19 +8,19 @@
   },
   "coverage": [
     {
-      "note": "Imperial Engineering for Biomedicine 与 Liverpool Biomedical Engineering (Healthcare) 状态保持不变；Glasgow、Strathclyde、QMUL 等重点项目完成增量复核，未发现新增或状态变化。",
+      "note": "Glasgow Biomedical Engineering 与 MedTech Innovation 已开放 2027 申请，首轮 11 月 5 日截止，且 2027/28 国际学费已更新为 £34,815；历史补录 Glasgow Medical Devices Engineering。Liverpool Biomedical Engineering (Healthcare) 仍将于 10 月 5 日开放，Imperial、Strathclyde、QMUL 无其他变化。",
       "region": "英国与爱尔兰",
-      "status": "incremental_scan_completed_key_uk_programmes_reverified_no_new_or_status_change"
+      "status": "incremental_scan_completed_one_historical_backfill_two_status_changes_key_uk_programmes_reverified"
     },
     {
-      "note": "Aalto Life Science Technologies 与 Basel Joint MSc BME 完成增量复核：Aalto 申请期 12 月 7 日至 1 月 5 日且成绩单先修严格；Basel 接受自然科学背景但含阶段性研究与整学期硕士论文。未发现新增或状态变化。",
+      "note": "历史补录 Bern Joint MSc BME：自然科学本科可个案审理并最多补 30 ECTS，但国际学历必须 GRE 且含 30 ECTS 论文，列为不建议。Aalto 与 Basel 完成复核，无其他变化。",
       "region": "欧洲大陆",
-      "status": "incremental_scan_completed_two_existing_programmes_reverified_no_high_quality_addition"
+      "status": "incremental_scan_completed_one_historical_backfill_two_existing_programmes_reverified"
     },
     {
-      "note": "NUS BME、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已于今日开放；生态学对 NUS BME 的 relevant bachelor's degree 定义及 DSML 的定量学科门槛仍需书面确认。CityUHK 继续滚动审理，PolyU 早轮和 CUHK 首轮分别于 10 月 20 日、30 日截止。",
+      "note": "NUS BME、AI for Science 与 Data Science and Machine Learning 继续开放；CityUHK 继续滚动审理。PolyU BME／BMI 与 CUHK 官方截止日无变化，早轮分别于 10 月 20 日和 30 日截止。未发现新增或状态变化。",
       "region": "香港与新加坡",
-      "status": "incremental_scan_completed_three_nus_status_changes_six_existing_programmes_reverified"
+      "status": "incremental_scan_completed_six_existing_programmes_reverified_no_new_or_status_change"
     },
     {
       "region": "日本与韩国",
@@ -28,9 +28,9 @@
       "note": "东京大学 G30 International Bioengineering 的 2027 时间保持不变，但因强制 GRE、有效英语成绩和实验室论文研究仍列为不建议申请；韩国主要高校官方入口未发现明确接受非工程生命科学背景、职业导向且 2027 可行动的高质量授课／转换型项目。"
     },
     {
-      "note": "Toronto BME MEng 不参加新设长期 Co-op 的官方口径保持不变，常规国际生截止日为 2027 年 4 月 15 日，生态学资格仍需书面确认。Duke、BU LEAP、Pitt 等完成复核，无新增或状态变化。",
+      "note": "Toronto BME MEng 已明确 2026 年 11 月 1 日开放、国际生 2027 年 4 月 15 日截止；生态学资格仍需书面确认。Duke、BU LEAP、Pitt 等完成复核，无其他变化。",
       "region": "美国与加拿大",
-      "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
+      "status": "incremental_scan_completed_one_toronto_status_change_four_existing_options_reverified"
     },
     {
       "note": "Melbourne BME 与 Auckland Medical Engineering 完成增量复核，无状态变化。UNSW Engineering Science BME 与 Sydney 较短 MEng 仍以工程背景为主要入口，未发现更适合生态学本科的新转换型项目。",
@@ -38,7 +38,7 @@
       "status": "incremental_scan_completed_two_existing_options_reverified_no_high_quality_addition"
     }
   ],
-  "generated_at": "2026-10-01T14:08:40+08:00",
+  "generated_at": "2026-10-03T14:47:20+08:00",
   "items": [
     {
       "category": "升学",
@@ -6640,12 +6640,12 @@
     },
     {
       "category": "升学",
-      "current_status": "upcoming_late_october_2026_eligibility_confirmation_needed",
-      "deadline": "预计 2026 年 10 月下旬开放；常规 MEng 国际生 2027-04-15",
+      "current_status": "upcoming_opens_2026-11-01_eligibility_confirmation_needed",
+      "deadline": "2026-11-01 开放；国际生 2027-04-15 截止",
       "discovery_status": "status_change",
       "first_seen_at": "2026-09-10",
       "id": "utoronto-meng-biomedical-engineering-2027-watch",
-      "last_verified_at": "2026-09-29",
+      "last_verified_at": "2026-10-03",
       "location": "加拿大・多伦多",
       "organization": "University of Toronto",
       "priority": 90,
@@ -6653,12 +6653,12 @@
       "relevance": "MEng 有商业化课程和四个月必修 practicum，职业导向优于纯论文项目；BME 不参加新设的长期 Co-op。研究生院日历接受 physical／biological sciences，而学院页面写 engineering or equivalent，生态学资格必须获得书面确认。",
       "section": "需确认／不建议",
       "source_url": "https://sgs.calendar.utoronto.ca/biomedical-engineering-biomedical-engineering-meng",
-      "summary": "全日制通常 1 年／3 学期、5.0 FCE，至少含 2.0 FCE BME、1.0 FCE 商业化／创业及 1.0 FCE 四个月 practical applied research。工学院公布 Fall 2027 MEng 预计于 2026 年 10 月下旬开放，常规国际生截止日为 2027-04-15；官方 Co-op 页面同时明确 BME MEng 不具备新设 Extended Full-Time Co-op 资格，因为 BME 已内置四个月必修 practicum，因此此前记录的 2027-02-08 Co-op 截止日不适用于本项目。研究生院日历写明工程、医学、牙科或物理／生物科学四年制学士可申请，但学院招生页使用 engineering degree or equivalent 的更窄表述；生态学资格必须先获得书面确认。商业化和四个月实践均为必修，需评估较强团队／客户沟通负担。",
-      "summary_en": "The Fall 2027 MEng cycle is expected to open in late October 2026, with a 15 April 2027 deadline for regular international MEng applications. The official co-op page explicitly excludes Biomedical Engineering from the new Extended Full-Time Co-op because BME already includes a mandatory four-month practicum, so the previously recorded 8 February co-op deadline does not apply. The graduate calendar accepts physical or biological sciences while the department language is narrower, so ecology eligibility must still be confirmed in writing. Commercialisation and the practicum are mandatory.",
+      "summary": "全日制通常 1 年／3 学期、5.0 FCE，至少含 2.0 FCE BME、1.0 FCE 商业化／创业及 1.0 FCE 四个月 practical applied research。学院已明确 Fall 2027 MEng 于 2026-11-01 开放，国际生 2027-04-15 截止，并建议尽早申请。BME MEng 不参加新设 Extended Full-Time Co-op，因为项目已内置四个月必修 practicum。研究生院日历写明工程、医学、牙科或物理／生物科学四年制学士可申请，但学院招生页使用 engineering degree or equivalent 的更窄表述；生态学资格必须先向 contact.bme@utoronto.ca 获得书面确认。商业化和四个月实践均为必修，需评估较强团队／客户沟通负担。",
+      "summary_en": "The Fall 2027 MEng cycle will open on 1 November 2026, with a 15 April 2027 deadline for international applicants. BME does not participate in the new Extended Full-Time Co-op because its professional MEng already includes a mandatory four-month practicum. The graduate calendar accepts physical or biological sciences while the department language is narrower, so ecology eligibility must still be confirmed in writing with contact.bme@utoronto.ca. Commercialisation and the practicum are mandatory.",
       "tags": [
         "状态变化",
         "状态纠正",
-        "10月下旬开放",
+        "11月1日开放",
         "BME不可申请新Co-op",
         "常规国际生4月15日截止",
         "官网资格表述冲突",
@@ -6671,8 +6671,8 @@
       ],
       "title": "多伦多大学 生物医学工程 MEng（资格需书面确认）",
       "title_en": "MEng in Biomedical Engineering — Eligibility Confirmation Needed",
-      "updated_at": "2026-09-29",
-      "verification_status": "verified_official_2027_regular_deadline_bme_coop_ineligibility_and_mandatory_practicum_needs_confirmation_conflicting_degree_eligibility_language_2026_09_29"
+      "updated_at": "2026-10-03",
+      "verification_status": "verified_official_2027_open_date_regular_deadline_bme_coop_ineligibility_and_mandatory_practicum_needs_confirmation_conflicting_degree_eligibility_2026_10_03"
     },
     {
       "category": "升学",
@@ -7032,12 +7032,35 @@
     },
     {
       "category": "升学",
-      "current_status": "2027_entry_page_active_deadline_pending_application_portal_temporarily_unavailable",
-      "deadline": "2027 入学截止日待发布；官网申请入口当前因维护暂不可用",
+      "current_status": "fall_2027_cycle_not_yet_confirmed_regular_deadline_expected_2027-04-30",
+      "deadline": "秋季入学常规截止 2027-04-30；2027 申请开放日待官网确认，需签证者不可晚申",
       "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-10-03",
+      "id": "university-bern-joint-msc-biomedical-engineering-2027",
+      "last_verified_at": "2026-10-03",
+      "location": "瑞士・伯尔尼",
+      "organization": "University of Bern · Bern University of Applied Sciences · ARTORG Center",
+      "priority": 80,
+      "published_at": "",
+      "relevance": "自然科学本科可按个人背景审理，并可补最多 30 ECTS；Image-Guided Therapy 覆盖医学成像、计算机视觉与医疗 AI，临床和产业网络强。但国际学历必须提交 GRE，项目两年且含 30 ECTS、最长六个月的必修论文，和低论文负担偏好明显冲突。",
+      "section": "需确认／不建议",
+      "source_url": "https://www.medizin.unibe.ch/studies/study_programs/master_in_biomedical_engineering/index_eng.html",
+      "summary": "University of Bern 与 Bern University of Applied Sciences 联合开设的英语 BME MSc，秋季入学、2 年全日制、120 ECTS，方向包括 Biomechanics、Electronic Implants 与 Image-Guided Therapy。工程、自然科学或医学背景均可申请，但国际学历及未列明学科按个人既有知识审理，最多可被要求补 30 ECTS；生态学须先向 bme.artorg@unibe.ch 或 Admissions Office 确认。国际学历申请者必须提交 GRE，且用于审理的本科学位原则上不得超过五年，用户 2024 年学位仍在范围内。课程含 37 ECTS 基础模块、41–45 ECTS 专业模块及最长六个月的 30 ECTS 必修硕士论文；无强制英语证书，但学生须自行保证英语能力。秋季硕士常规截止通常为 4 月 30 日，需签证者不能使用晚申；2027 轮次开放日尚未明确发布。自 2026 秋季起，一般学费 CHF750 加非瑞士学生附加费 CHF1,700 与约 CHF34 学期费，合计约 CHF2,484／学期，四学期约 CHF9,936，不含生活费。因 GRE、重论文和两年学制，虽方向相关但不列主申。",
+      "summary_en": "A two-year, 120-ECTS joint MSc with tracks in Biomechanics, Electronic Implants and Image-Guided Therapy. Natural-science and medicine graduates may be considered individually and may receive up to 30 ECTS of additional requirements, but international-degree applicants must submit GRE scores. A compulsory 30-ECTS thesis lasting up to six months makes this a poor fit for a low-research preference. The regular fall deadline is normally 30 April; the 2027 opening date is not yet confirmed. Current international fees total about CHF 2,484 per semester.",
+      "tags": ["历史补录","不建议申请","需确认专业相关性","自然科学个案审理","最多补30ECTS","国际学历必须GRE","两年制","120ECTS","30ECTS论文必修","重研究风险","Image-Guided Therapy","医学成像","电子植入物","无强制英语证书","4月30日常规截止","2027开放日待确认","约CHF2,484/学期"],
+      "title": "伯尔尼大学／伯尔尼应用科技大学 联合生物医学工程硕士",
+      "title_en": "Joint MSc in Biomedical Engineering — University of Bern and BFH",
+      "updated_at": "2026-10-03",
+      "verification_status": "verified_official_natural_science_individual_admission_up_to_30ects_additions_gre_thesis_structure_language_fee_and_regular_deadline_2026_10_03_2027_opening_pending"
+    },
+    {
+      "category": "升学",
+      "current_status": "applications_open_round1_2026-10-01_to_2026-11-05",
+      "deadline": "Round 1：2026-11-05；后续轮次：2026-12-17、2027-02-04、03-25、05-13、07-08",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-09-28",
       "id": "glasgow-medtech-innovation-msc-2027",
-      "last_verified_at": "2026-09-28",
+      "last_verified_at": "2026-10-03",
       "location": "英国・格拉斯哥",
       "organization": "University of Glasgow",
       "priority": 96,
@@ -7045,22 +7068,22 @@
       "relevance": "明确接受生命科学本科，直接覆盖医疗 AI、数字健康、医疗器械法规、数据治理与行业实践，是目前对生态学背景最友好的职业转向项目之一；但商业化、利益相关者沟通、现场展示和 60 学分大型项目均为核心要求。",
       "section": "数字健康／医疗AI",
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/medtech-innovation/",
-      "summary": "12 个月全日制，官网 2027 入学页面已上线但截止日待发布，申请系统核验时因维护暂不可用。2.2 英国荣誉学位或同等成绩即可，明确接受 Engineering and Life Sciences；生态学属于生命科学范围，学术背景直接适配。课程涵盖 MedTech 与 AI 设计、临床需求、实施、伦理与法规、AI／Software as a Medical Device、多模态医疗数据、创业与市场路径；第三学期为 60 学分、14 周的 MedTech Innovation Project，可与 NHS、政府或企业合作，并以 Innovation Day 向行业利益相关者展示。可获得 placement 机会，但项目对团队合作、客户沟通、商业化和公开展示要求很高，应视为明显适配风险而非纯技术型选择。2027 学费待公布，2026/27 国际生参考 £34,470；面向中国申请者的 2027/28 World Changers China Excellence Award 为 £12,500 学费减免，另有 Global Leadership Scholarship。英语 IELTS 6.5、单项 6.0；2026-01-21 后 TOEFL 92（R22/L20/S23/W21），成绩在开学时不超过 2 年 5 个月，旧 TOEFL 99 无效。咨询：mvls-msc-med-tech@glasgow.ac.uk。",
-      "summary_en": "A 12-month professional MSc explicitly accepting life-science degrees and covering MedTech/AI design, regulation, digital-health data, implementation and commercialisation. The final semester is a mandatory 60-credit, 14-week project with possible NHS, government or industry placement, followed by an Innovation Day pitch. Academic fit is direct, but the heavy stakeholder, teamwork, commercialisation and presentation load is a material risk. The 2027 deadline and tuition are pending; the 2026/27 international fee is £34,470.",
-      "tags": ["历史补录","直接适配","2027页面已上线","截止日待公布","申请系统维护中","生命科学明确可申请","数字健康","医疗AI","SaMD","医疗器械法规","NHS／行业项目","60学分项目必修","商业化必修","团队／客户沟通风险","现场展示风险","2027学费待公布","2026参考学费£34,470","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言"],
+      "summary": "12 个月全日制，2027 申请现已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。2.2 英国荣誉学位或同等成绩即可，明确接受 Engineering and Life Sciences；生态学属于生命科学范围，学术背景直接适配。课程涵盖 MedTech 与 AI 设计、临床需求、实施、伦理与法规、AI／Software as a Medical Device、多模态医疗数据、创业与市场路径；第三学期为 60 学分、14 周的 MedTech Innovation Project，可与 NHS、政府或企业合作，并以 Innovation Day 向行业利益相关者展示。可获得 placement 机会，但项目对团队合作、客户沟通、商业化和公开展示要求很高，应视为明显适配风险而非纯技术型选择。2027/28 国际生学费 £34,815；面向中国申请者的 World Changers China Excellence Award 为 £12,500 学费减免，另有 Global Leadership Scholarship。英语 IELTS 6.5、单项 6.0；旧 TOEFL 99 无效。咨询：mvls-msc-med-tech@glasgow.ac.uk。",
+      "summary_en": "Applications are now open for this 12-month professional MSc, with international Round 1 closing on 5 November 2026 and five later rounds through 8 July 2027. It explicitly accepts life-science degrees and covers MedTech/AI design, regulation, digital-health data, implementation and commercialisation. The final semester is a mandatory 60-credit, 14-week project with possible NHS, government or industry placement, followed by an Innovation Day pitch. Academic fit is direct, but the heavy stakeholder, teamwork, commercialisation and presentation load is a material risk. The 2027/28 international fee is £34,815.",
+      "tags": ["状态变化","直接适配","2027申请已开放","首轮11月5日截止","生命科学明确可申请","数字健康","医疗AI","SaMD","医疗器械法规","NHS／行业项目","60学分项目必修","商业化必修","团队／客户沟通风险","现场展示风险","2027学费£34,815","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言"],
       "title": "格拉斯哥大学 MedTech Innovation 理学硕士",
       "title_en": "MSc MedTech Innovation — 2027 Entry",
-      "updated_at": "2026-09-28",
-      "verification_status": "verified_official_2027_page_entry_background_curriculum_mandatory_project_industry_placement_risk_english_reference_fee_and_scholarship_2026_09_28_deadline_pending"
+      "updated_at": "2026-10-03",
+      "verification_status": "verified_official_2027_applications_open_rounds_entry_background_curriculum_project_industry_risk_fee_english_and_scholarship_2026_10_03"
     },
     {
       "category": "升学",
-      "current_status": "2027_entry_page_active_deadline_pending_application_portal_temporarily_unavailable",
-      "deadline": "2027 入学截止日待发布；官网申请入口当前因维护暂不可用",
-      "discovery_status": "historical_backfill",
+      "current_status": "applications_open_round1_2026-10-01_to_2026-11-05",
+      "deadline": "Round 1：2026-11-05；后续轮次：2026-12-17、2027-02-04、03-25、05-13、07-08",
+      "discovery_status": "status_change",
       "first_seen_at": "2026-09-28",
       "id": "glasgow-biomedical-engineering-msc-2027",
-      "last_verified_at": "2026-09-28",
+      "last_verified_at": "2026-10-03",
       "location": "英国・格拉斯哥",
       "organization": "University of Glasgow James Watt School of Engineering",
       "priority": 90,
@@ -7068,13 +7091,36 @@
       "relevance": "课程含医学成像、Biosensors、康复工程和 Biosignature Signal Processing，与神经电生理和数据经历高度相关；但生命科学申请者必须有显著数学训练，且核心课包含流体、能量、系统设计和大型 MSc Project。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/biomedical-engineering/",
-      "summary": "12 个月全日制，官网 2027 入学页面已上线但截止日待发布，申请系统核验时因维护暂不可用。生命科学／生物学本科可被考虑，但成绩单须包含显著数学或工程数学；官网对主要入口要求至少两门有学分的认可数学课程，认可范围包括 Calculus、Algebra、Differential Equations、Statistics、Multivariable／Vector Calculus 等。用户必须先提供完整成绩单逐门核对，不能假定生态学专业自动合格。核心含 Biological Fluid Mechanics、Biophysics、Statistics、Energy、Integrated Systems Design Project 和 MSc Project；选修有 Medical Imaging、Biosensors、Rehabilitation Engineering 与 Signal Processing of Biosignatures。方向很合适，但研究项目、团队设计与偏工程核心负担较重，低于 conversion 项目优先级。2027 学费待公布，2026/27 国际生参考 £34,470；2027/28 World Changers China Excellence Award 提供 12 个 £12,500 学费减免名额，另有 Global Leadership Scholarship。英语 IELTS 6.5、单项 6.0；2026-01-21 后 TOEFL 92（R22/L20/S23/W21），旧 TOEFL 99 无效。",
-      "summary_en": "A one-year MSc with strong imaging, biosensor, rehabilitation and biosignal-processing options. Biology or life-science degrees may be accepted only when the transcript demonstrates significant mathematics; the official primary route expects at least two credit-bearing approved maths modules. The mandatory engineering core, integrated design project and MSc project create a substantial workload and fit risk. The 2027 deadline and tuition are pending; the 2026/27 international fee is £34,470.",
-      "tags": ["历史补录","需补数学/物理先修","2027页面已上线","截止日待公布","申请系统维护中","生命科学有条件接受","至少两门认可数学课","需核对完整成绩单","医学成像","生物传感器","生物信号处理","康复工程","MSc Project必修","团队设计项目","工程核心较重","2027学费待公布","2026参考学费£34,470","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言"],
+      "summary": "12 个月全日制，2027 申请现已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。生命科学／生物学本科可被考虑，但成绩单须包含显著数学或工程数学；官网对主要入口要求至少两门有学分的认可数学课程，认可范围包括 Calculus、Algebra、Differential Equations、Statistics、Multivariable／Vector Calculus 等。用户必须先提供完整成绩单逐门核对。核心含 Biological Fluid Mechanics、Biophysics、Statistics、Energy、Integrated Systems Design Project 和 MSc Project；选修有 Medical Imaging、Biosensors、Rehabilitation Engineering 与 Signal Processing of Biosignatures。方向很合适，但研究项目、团队设计与偏工程核心负担较重。2027/28 国际生学费 £34,815、押金 £2,000；World Changers China Excellence Award 提供 12 个 £12,500 学费减免名额。英语 IELTS 6.5、单项 6.0；旧 TOEFL 99 无效。",
+      "summary_en": "Applications are now open for this one-year MSc, with international Round 1 closing on 5 November 2026 and later rounds through 8 July 2027. Biology or life-science degrees may be accepted only when the transcript demonstrates significant mathematics; the primary route expects at least two credit-bearing approved maths modules. The mandatory engineering core, integrated design project and MSc project create a substantial workload and fit risk. The 2027/28 international fee is £34,815 with a £2,000 deposit.",
+      "tags": ["状态变化","需补数学/物理先修","2027申请已开放","首轮11月5日截止","生命科学有条件接受","至少两门认可数学课","需核对完整成绩单","医学成像","生物传感器","生物信号处理","康复工程","MSc Project必修","团队设计项目","工程核心较重","2027学费£34,815","押金£2,000","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言"],
       "title": "格拉斯哥大学 生物医学工程理学硕士",
       "title_en": "MSc Biomedical Engineering — 2027 Entry",
-      "updated_at": "2026-09-28",
-      "verification_status": "verified_official_2027_page_life_science_conditional_entry_approved_math_modules_curriculum_project_english_reference_fee_and_scholarship_2026_09_28_deadline_pending"
+      "updated_at": "2026-10-03",
+      "verification_status": "verified_official_2027_applications_open_rounds_life_science_conditional_entry_math_curriculum_project_fee_english_and_scholarship_2026_10_03"
+    },
+    {
+      "category": "升学",
+      "current_status": "applications_open_round1_2026-10-01_to_2026-11-05",
+      "deadline": "Round 1：2026-11-05；后续轮次：2026-12-17、2027-02-04、03-25、05-13、07-08",
+      "discovery_status": "historical_backfill",
+      "first_seen_at": "2026-10-03",
+      "id": "glasgow-msc-medical-devices-engineering-2027",
+      "last_verified_at": "2026-10-03",
+      "location": "英国・格拉斯哥",
+      "organization": "University of Glasgow James Watt School of Engineering",
+      "priority": 93,
+      "published_at": "",
+      "relevance": "医疗器械、监管、人体因素、生物信号、成像与嵌入式计算方向高度契合，并有 NHS Medical Devices Unit 教学；生命科学本科可申请，但必须有显著数学训练。强制个人 MSc Project、工程设计与创业内容使其并非低研究／低沟通负担项目。",
+      "section": "Conversion／补修项目",
+      "source_url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
+      "summary": "12 个月全日制，2027 申请已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。官网主要面向工程、物理科学或数学本科，但也可接受 Biology、Medicine、Life Science，前提是成绩单含显著 Mathematics 或 Engineering Mathematics；通常须至少两门认可的有学分数学课，包括 Calculus、Algebra、Differential Equations、Statistics、Multivariable／Vector Calculus 等。课程核心含生物物理、统计、Biosignatures Signal Processing、Biosensors、创业、伦理、Human Factors 及个人 MSc Project；选修可走康复工程、DSP、嵌入式编程、超声、先进成像与数据处理。医疗器械监管由 NHS Medical Devices Unit 专家参与，职业方向明确；但个人研究项目、团队工作与创业仍是负担。2027/28 国际生学费 £34,815，押金 £2,000；中国申请者可竞争 £12,500 World Changers China Excellence Award。IELTS 6.5（单项 6.0），旧 TOEFL 99 已失效。官网未列 GRE。",
+      "summary_en": "A one-year Medical Devices Engineering MSc open for 2027 entry, with international Round 1 closing on 5 November 2026. Biology, medicine and life-science degrees may be considered only with significant transcripted mathematics, normally at least two approved credit-bearing modules. The curriculum covers biosignal processing, biosensors, human factors, regulation, imaging and embedded systems, but also requires an individual MSc project and includes entrepreneurship and teamwork. The 2027/28 international fee is £34,815 plus a £2,000 deposit.",
+      "tags": ["历史补录","需补数学/物理先修","2027申请已开放","首轮11月5日截止","生命科学有条件接受","至少两门认可数学课","医疗器械","法规","人体因素","生物信号处理","生物传感器","医学成像","嵌入式编程","个人MSc Project必修","创业与团队负担","2027学费£34,815","押金£2,000","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言","无需GRE"],
+      "title": "格拉斯哥大学 医疗器械工程理学硕士",
+      "title_en": "MSc Medical Devices Engineering — 2027 Entry",
+      "updated_at": "2026-10-03",
+      "verification_status": "verified_official_2027_applications_open_rounds_life_science_math_condition_curriculum_project_regulation_fee_english_and_scholarship_2026_10_03"
     },
     {
       "category": "升学",
@@ -7124,30 +7170,30 @@
     }
   ],
   "last_run_receipt": {
-    "content_commit_sha": "2c7104fe945db3d56b727b8bc1456c6106738bcd",
-    "executed_at_beijing": "2026-10-01T14:08:40+08:00",
-    "increment_boundary": "2026-09-30T10:18:19+08:00",
-    "note": "完成国际 BME 六地区增量扫描：NUS Biomedical Engineering、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已于今日开放，记为既有项目状态变化，不重复入库。未发现上次扫描后新发布或需历史补录的高质量项目；数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
-    "public_site_verification": "not_verified_local_network_socket_permission_denied_and_web_reader_inaccessible",
-    "repository_write": "github_main_updated_commit_2c7104fe945db3d56b727b8bc1456c6106738bcd",
-    "result": "zero_newly_published_zero_historical_backfills_three_status_changes_fourteen_urgent",
+    "content_commit_sha": "pending_remote_write",
+    "executed_at_beijing": "2026-10-03T14:47:20+08:00",
+    "increment_boundary": "2026-10-01T14:08:40+08:00",
+    "note": "完成国际 BME 六地区增量扫描：历史补录 Glasgow Medical Devices Engineering 与 Bern Joint MSc BME；Glasgow Biomedical Engineering、Glasgow MedTech Innovation 与 Toronto BME MEng 共 3 项状态变化。两项补录均为此前已存在项目，不得写成今日发布；未发现上次扫描后官方新发布的高质量项目。数据库按 ID、项目名称、入学年份及官方链接去重并保留历史。",
+    "public_site_verification": "pending_after_remote_write",
+    "repository_write": "pending_remote_write",
+    "result": "zero_newly_published_two_historical_backfills_three_status_changes_fifteen_urgent",
     "run_type": "scheduled_international_bme_incremental_scan"
   },
-  "notice": "2026-10-01 14:08 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 0，既有项目状态变化 3，仍开放或需尽快行动 14。NUS Biomedical Engineering、AI for Science 与 Data Science and Machine Learning 的 2027 常规申请均已开放。",
+  "notice": "2026-10-03 14:47 完成国际 BME 六地区增量扫描：上次扫描后新发布 0，历史补录 2，既有项目状态变化 3，仍开放或需尽快行动 15。Glasgow BME 与 MedTech Innovation 已开放且首轮 11 月 5 日截止；补录 Glasgow Medical Devices Engineering 与 Bern Joint MSc BME。",
   "run_summary": {
     "category_counts": {
-      "升学": 0,
+      "升学": 2,
       "实验室": 0,
       "求职": 0,
       "研究": 0
     },
     "database_category_totals": {
-      "升学": 54,
+      "升学": 56,
       "研究": 97,
       "实验室": 40,
       "求职": 25
     },
-    "database_items_total": 216,
+    "database_items_total": 218,
     "excluded_expired_or_ineligible": [
       "UCL Physics and Engineering in Medicine 2027 要求物理、工程、计算机、数学或 closely related 背景，且有 60 学分研究项目和团队器械商业化项目；生态学匹配不足，未纳入。",
       "Sheffield Biomedical Engineering MSc 2027 的官方可接受学科列表未含 Biology、Life Sciences 或 Ecology，并有 60 学分研究项目，未纳入。",
@@ -7157,39 +7203,39 @@
       "东京大学 G30 International Bioengineering 已核实 2027 材料与考试成绩时间，但仍强制 GRE、有效英语成绩和实验室论文研究；韩国官方入口未发现清晰接受非工程生命科学背景的优质授课／转换型项目。"
     ],
     "existing_urgent_reverified": 14,
-    "historical_backfills_added": 0,
+    "historical_backfills_added": 2,
     "newItemsOfficiallyDatedToday": 0,
     "newly_published_since_last_scan": 0,
     "newly_published_today": 0,
     "status_changes": 3,
-    "still_open_urgent_items": 14,
-    "bme_still_open_urgent_items": 14
+    "still_open_urgent_items": 15,
+    "bme_still_open_urgent_items": 15
   },
   "source_coverage": [
     {
-      "note": "CUHK、PolyU、NUS、NTU、Duke、BU、Melbourne、Auckland、Basel、Toronto 等重点 BME 官方入口完成复核。NUS BME 2027 常规申请已开放，2 月 28 日截止；生态学是否属于 relevant bachelor's degree 仍需邮件确认。PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 最早审理节点 11 月 3 日。",
+      "note": "重点 BME 官方入口完成复核。Glasgow BME 已开放、首轮 11 月 5 日截止；Toronto MEng 明确 11 月 1 日开放、国际生 4 月 15 日截止。历史补录 Bern Joint MSc BME，但因国际学历 GRE 和 30 ECTS 论文列为不建议。PolyU 早轮 10 月 20 日、CUHK 首轮 10 月 30 日、Duke 首轮 11 月 3 日。",
       "source_group": "BME申请",
-      "status": "incremental_scan_completed_one_nus_bme_status_change_fourteen_urgent_programmes_reverified"
+      "status": "incremental_scan_completed_one_historical_backfill_two_bme_status_changes_fifteen_urgent_programmes_reverified"
     },
     {
-      "note": "Glasgow BME、PolyU BMI、Aalto、Pitt 等完成增量复核，无新增或状态变化。Glasgow 的医学成像、生物传感器、康复工程与 Biosignature Signal Processing 方向匹配，但生命科学申请者仍须证明显著数学训练并承担工程核心、团队设计和 MSc Project。",
+      "note": "Glasgow BME 已开放并公布 2027/28 学费 £34,815，生命科学申请者仍须证明显著数学训练并承担工程核心、团队设计和 MSc Project。PolyU BMI、Aalto、Pitt 等完成增量复核，无其他变化。",
       "source_group": "神经工程／脑机接口",
-      "status": "incremental_scan_completed_four_existing_options_reverified_no_new_or_status_change"
+      "status": "incremental_scan_completed_one_glasgow_status_change_four_existing_options_reverified"
     },
     {
-      "note": "NUS AI for Science 与 Data Science and Machine Learning 的 2027 常规申请已开放，均于 1 月 31 日截止；前者对其他背景个案审理，后者要求定量科学、工程或计算机背景，生态学资格需预确认。Glasgow MedTech Innovation、NTU 与 PolyU Digital Health 路径无其他变化。",
+      "note": "Glasgow MedTech Innovation 已开放、首轮 11 月 5 日截止，2027/28 国际学费 £34,815；生命科学直接适配，但 60 学分行业项目、商业化和公开展示是明显风险。NUS AI for Science、DSML、NTU 与 PolyU Digital Health 路径无其他变化。",
       "source_group": "数字健康／医疗AI",
-      "status": "incremental_scan_completed_two_nus_status_changes_four_existing_options_reverified"
+      "status": "incremental_scan_completed_one_glasgow_medtech_status_change_four_existing_options_reverified"
     },
     {
-      "note": "Imperial Engineering for Biomedicine、Liverpool Biomedical Engineering (Healthcare)、Strathclyde、QMUL、BU LEAP 与 Melbourne 完成增量复核，未发现新增或状态变化。Imperial 与 Liverpool 仍分别存在人体生物学课程和生态学相关性确认事项，且均有大型独立研究项目。",
+      "note": "历史补录 Glasgow Medical Devices Engineering：生命科学本科在具备显著数学训练时可申请，覆盖器械监管、生物信号、成像与人体因素，但有个人 MSc Project 和创业／团队负担。Imperial、Liverpool Healthcare、Strathclyde、QMUL、BU LEAP 与 Melbourne 无其他变化。",
       "source_group": "Conversion／补修项目",
-      "status": "incremental_scan_completed_six_existing_options_reverified_no_new_or_status_change"
+      "status": "incremental_scan_completed_one_historical_backfill_six_existing_options_reverified"
     },
     {
-      "note": "NUS BME 仅写 relevant bachelor's degree，DSML 仅明确量化科学、工程或计算机，均需先确认生态学资格；AI for Science 对其他背景个案审理。Imperial、Liverpool、Toronto、Glasgow 与 NTU 仍各有先修或专业相关性确认事项。东京大学 G30 因 GRE、有效英语与实验室论文要求仍不建议；UCL、Sheffield、Liverpool 普通 BME、Dundee、UNSW Engineering Science、Sydney、ETH 与韩国入口因背景硬门槛、研究／团队项目负担或路径不清未纳入。",
+      "note": "Glasgow BME 与 Medical Devices Engineering 均需显著数学训练；Toronto、NUS BME、Imperial、Liverpool、NTU 仍需书面确认专业或先修。Bern 虽接受自然科学个案审理，但国际学历必须 GRE 且含 30 ECTS 论文，列为不建议。东京大学 G30、UCL、Sheffield、Liverpool 普通 BME、Dundee、UNSW、Sydney、ETH 与韩国入口仍因背景硬门槛或研究负担不列优先。",
       "source_group": "需确认／不建议",
-      "status": "incremental_scan_completed_eight_confirmation_items_eight_exclusion_groups_documented"
+      "status": "incremental_scan_completed_nine_confirmation_items_nine_exclusion_or_low_fit_groups_documented"
     }
   ]
 }
