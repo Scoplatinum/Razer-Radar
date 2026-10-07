@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "Liverpool Healthcare BME 已到官网公布的 10 月 5 日开放日期，记录 1 项状态变化，门户 2027 选项待核验。",
+      "note": "本轮未扫描；保留历史数据与原核验日期。",
       "region": "英国与爱尔兰",
-      "status": "incremental_official_page_checks_completed_no_confirmed_new_item"
+      "status": "not_scanned"
     },
     {
-      "note": "本轮复核官方重点项目入口，未确认新的高质量项目；保留既有资格、先修与研究负担风险。",
+      "note": "本轮未扫描；保留历史数据与原核验日期。",
       "region": "欧洲大陆",
-      "status": "incremental_official_page_checks_completed_no_confirmed_new_item"
+      "status": "not_scanned"
     },
     {
-      "note": "PolyU BME／BMI、CUHK 与 NUS 官方入口复核；截止日无变化。CityU 官方页本轮读取失败，未将其视为新核验。",
+      "note": "已读PolyU BMI、NUS招生/课程/费用及IA原文；其余学校、签证与就业数据未覆盖。",
       "region": "香港与新加坡",
-      "status": "incremental_official_page_checks_completed_no_confirmed_new_item"
+      "status": "partially_verified"
     },
     {
       "region": "日本与韩国",
-      "status": "incremental_official_page_checks_completed_no_confirmed_new_item",
-      "note": "东京大学 G30 与 KAIST 官方入口扫描；未确认符合授课型、职业导向、低论文负担偏好的新项目。"
+      "status": "not_scanned",
+      "note": "本轮未扫描；保留历史数据与原核验日期。"
     },
     {
-      "note": "本轮复核官方重点项目入口，未确认新的高质量项目；保留既有资格、先修与研究负担风险。",
+      "note": "已读Pitt手册及2条Neuralink官方岗位；加拿大及其他学校未扫描。",
       "region": "美国与加拿大",
-      "status": "incremental_official_page_checks_completed_no_confirmed_new_item"
+      "status": "partially_verified"
     },
     {
-      "note": "本轮复核官方重点项目入口，未确认新的高质量项目；保留既有资格、先修与研究负担风险。",
+      "note": "本轮未扫描；保留历史数据与原核验日期。",
       "region": "澳大利亚与新西兰",
-      "status": "incremental_official_page_checks_completed_no_confirmed_new_item"
+      "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-05T21:31:58+08:00",
+  "generated_at": "2026-10-07T14:55:21+08:00",
   "items": [
     {
       "category": "升学",
@@ -6449,33 +6449,97 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-09-10",
       "id": "polyu-msc-brain-machine-interface-2027",
-      "last_verified_at": "2026-09-10",
+      "last_verified_at": "2026-10-07",
       "location": "中国香港",
       "organization": "The Hong Kong Polytechnic University",
-      "priority": 100,
+      "priority": 90,
       "published_at": "",
-      "relevance": "这是目前叙事匹配度最高的项目：官网接受 basic science，本科生态学可归入基础科学；MPFI 神经生理、动物行为、Open Ephys／Intan 与 MATLAB 经历可直接连接脑肌信号、神经调控和 BCI 课程。",
+      "relevance": "向招生办书面确认生态学资格，以及2027脑/肌信号课程的编程作业、可用数据与指导项目名额。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-      "summary": "2027 年 9 月入学，1.5 年全日制、31 学分。课程覆盖 Introduction to Brain-Machine Interfaces and Neuroengineering、Brain and Muscle Signal and Image、Medical AI and Data Analytics、Neuromodulation 及 BMI Applications；可全授课或选择 dissertation。申请要求工程、基础科学或密切相关学士。学费为每学分 HK$9,000，1 学分学术诚信课程免费。",
-      "summary_en": "A 1.5-year, 31-credit programme covering neuroengineering, brain and muscle signals, medical AI, neuromodulation and BMI applications. Basic-science graduates are eligible, and a dissertation is optional. This is the strongest direct match to the user's neurophysiology and electrophysiology experience.",
+      "summary": "2027 BMI：31学分；全日制通常1.5年。基础科学可申请但不等于生态学已被认可；神经信号课程存在，实际编程考核与设备/项目名额待确认。",
+      "summary_en": "",
       "tags": [
-        "历史补录",
-        "2027入学",
-        "首轮10月20日",
-        "基础科学可申请",
-        "直接适配",
-        "脑机接口",
-        "神经工程",
-        "脑肌信号",
-        "神经调控",
-        "论文可选",
-        "HK$9,000/学分"
+        "优先深入核实",
+        "四维证据分开",
+        "就业未知不补分"
       ],
       "title": "香港理工大学 脑机接口理学硕士",
       "title_en": "MSc in Brain-Machine Interface",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_official_2027_programme_page_admission_deadlines_curriculum_and_fee"
+      "updated_at": "2026-10-07",
+      "verification_status": "partial_career_evidence_review",
+      "career_review": {
+        "verified_at": "2026-10-07",
+        "decision": "优先深入核实",
+        "axes": {
+          "application": {
+            "status": "部分证实",
+            "facts": [
+              "2027年9月；早轮2026-10-20，主轮2027-02-25。",
+              "工程、基础科学或紧密相关本科；需学术推荐报告。"
+            ],
+            "unknown": [
+              "生态学归类、推荐数量与英语有效证明须核实；未证实工程补修安排。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "training": {
+            "status": "部分证实",
+            "facts": [
+              "研究方法/生物统计必修；六选四核心含医学AI、脑/肌信号与图像、BMI控制应用；15学分选修或选修加论文。"
+            ],
+            "unknown": [
+              "目录存在不等于2027实际开设/可选/可获项目；EEG、spikes等具体数据、代码考核、实时/嵌入式训练未知。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "employment": {
+            "status": "未知",
+            "facts": [],
+            "unknown": [
+              "未读取到保证安排实习、具体企业岗位或毕业去向统计；不能用宣传行业方向证明就业。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "time_cost": {
+            "status": "部分证实",
+            "facts": [
+              "全日制通常每学期5科；每科通常每周3小时、13周、平日晚间。",
+              "30收费学分×HK$9000=HK$270000；1学分伦理免收费。"
+            ],
+            "unknown": [
+              "作业/实验实际工时、生活费、签证工作限制、留位退款和当届项目排期未核实。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          }
+        },
+        "next_action": "向招生办书面确认生态学资格，以及2027脑/肌信号课程的编程作业、可用数据与指导项目名额。",
+        "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
+        "job_mapping": {
+          "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
+          "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
+        }
+      }
     },
     {
       "category": "升学",
@@ -6556,31 +6620,102 @@
       "discovery_status": "status_change",
       "first_seen_at": "2026-09-10",
       "id": "nus-msc-biomedical-engineering-august-2027",
-      "last_verified_at": "2026-10-01",
+      "last_verified_at": "2026-10-07",
       "location": "新加坡",
       "organization": "National University of Singapore",
-      "priority": 97,
+      "priority": 70,
       "published_at": "",
-      "relevance": "课程组合与医疗 AI、神经技术、脑机接口和监管方向高度契合，且研究项目与 industrial attachment 都是可选项；主要风险是官网只写 relevant bachelor's degree，生态学是否属于相关专业需先邮件确认。",
+      "relevance": "向项目办确认生态学是否相关本科、BN5213/BN5212当届开课与先修，以及BN5666是否需延长学制。",
       "section": "BME申请",
       "source_url": "https://cde.nus.edu.sg/bme/admission/",
-      "summary": "2027 年 8 月入学申请现已开放，2027 年 2 月 28 日截止。通常 1 年全日制、40 units，结构为 1 门核心课加 9 门选修；Medical Imaging、Neurotechnology、Advanced Machine Learning in BME、Brain-Computer Interface、Regulatory 及 Industrial Attachment 可选，研究项目不是必修。申请要求相关学士及相当于二等荣誉；生态学是否属于 relevant bachelor's degree 仍应在申请前向 bme.msc@nus.edu.sg 书面确认。AY2027/28 全日制总学费 S$53,100，申请费 S$100（未含 GST），接受录取费 S$5,450。GRTII 奖学金为 S$45,000，但附带毕业后在广州黄埔区服务两年的义务，不应视为无条件资助。英语成绩须在有效期内，旧 TOEFL 99 已失效。",
-      "summary_en": "Applications for the August 2027 intake are now open and close on 28 February 2027. The usual one-year, 40-unit structure has one core and nine electives, including imaging, neurotechnology, machine learning, BCI, regulation and optional industrial attachment or research project. Whether ecology counts as a relevant bachelor's degree still needs written confirmation from bme.msc@nus.edu.sg. AY2027/28 full-time tuition is SGD 53,100, with a SGD 100 application fee before GST and SGD 5,450 acceptance fee. The SGD 45,000 GRTII scholarship carries a two-year service obligation in Huangpu District, Guangzhou. The user's previous TOEFL 99 is expired.",
+      "summary": "2027年8月申请已开放至2027-02-28；40学分、通常两学期。BN5666实习需学生自行寻找，仅限新加坡全职16周，不保证安排，也不能当作自由暑期实习。",
+      "summary_en": "",
       "tags": [
-        "状态变化",
-        "2027申请已开放",
-        "需确认专业相关性",
-        "医疗AI",
-        "神经技术",
-        "脑机接口",
-        "实习可选",
-        "研究项目可选",
-        "S$53,100"
+        "条件保留",
+        "四维证据分开",
+        "就业未知不补分"
       ],
       "title": "新加坡国立大学 生物医学工程理学硕士",
       "title_en": "MSc Biomedical Engineering — August 2027",
-      "updated_at": "2026-10-01",
-      "verification_status": "verified_official_2027_applications_open_curriculum_fee_and_scholarship_eligibility_scope_needs_email"
+      "updated_at": "2026-10-07",
+      "verification_status": "partial_career_evidence_review",
+      "career_review": {
+        "verified_at": "2026-10-07",
+        "decision": "条件保留",
+        "axes": {
+          "application": {
+            "status": "部分证实",
+            "facts": [
+              "相关本科至少二等荣誉或同等；2027-08申请期2026-10-01至2027-02-28。"
+            ],
+            "unknown": [
+              "相关专业未明确包含生态学；英语、推荐信、先修及补修待书面确认。"
+            ],
+            "sources": [
+              {
+                "url": "https://cde.nus.edu.sg/bme/admission/",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "training": {
+            "status": "部分证实",
+            "facts": [
+              "2025及以后40学分：BN5101核心4+选修36；目录列BN5213 BCI、BN5209神经技术、BN5212机器学习。"
+            ],
+            "unknown": [
+              "目录提示会变动；2027开课/可选/代码与信号类型/指导项目未证实。"
+            ],
+            "sources": [
+              {
+                "url": "https://cde.nus.edu.sg/bme/curriculum/",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "employment": {
+            "status": "部分证实",
+            "facts": [
+              "BN5666可选4学分；学生自行找公司，新加坡全职16周；建议同学期不超过两科，不可同时BN5001；报告与展示考核。"
+            ],
+            "unknown": [
+              "非保证实习；国际生许可、名额、企业/去向统计未知。"
+            ],
+            "sources": [
+              {
+                "url": "https://cde.nus.edu.sg/bme/wp-content/uploads/sites/8/2024/12/BN5666-IA-Course-for-MSc-BME-students.pdf",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "time_cost": {
+            "status": "部分证实",
+            "facts": [
+              "全日制通常1年/2学期，最长2年；非PR/无有效工作准证国际申请者只能全日制。",
+              "AY2027/28学费S$53100含GST；留位费5450在总额内，不退不转；另缴杂费。"
+            ],
+            "unknown": [
+              "IA可能改变排期，不能承诺两学期完成；生活费与工作签证未核实。"
+            ],
+            "sources": [
+              {
+                "url": "https://cde.nus.edu.sg/bme/curriculum/",
+                "verified_at": "2026-10-07"
+              },
+              {
+                "url": "https://cde.nus.edu.sg/bme/fees-and-financial-information/",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          }
+        },
+        "next_action": "向项目办确认生态学是否相关本科、BN5213/BN5212当届开课与先修，以及BN5666是否需延长学制。",
+        "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
+        "job_mapping": {
+          "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
+          "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
+        }
+      }
     },
     {
       "category": "升学",
@@ -6599,7 +6734,17 @@
       "source_url": "https://www.strath.ac.uk/courses/postgraduatetaught/biomedicalengineering/",
       "summary": "12 个月全日制，官网现已列出 2027 年 9 月入学并开放申请；国际生具体截止日仍未在项目页列明。接受工程、物理科学、医学、生命科学或相关健康专业学位；Foundation Engineering Science 为生命科学背景补充力学、流体与电子基础，并提供 Healthcare AI 路径。学位为 120 学分授课加 60 学分 MSc project。页面列示国际学费 £32,800，但需以录取通知及 2027/28 最终费率为准。",
       "summary_en": "The September 2027 intake is now listed and open for applications. This 12-month conversion MSc accepts life-science graduates and provides foundation engineering in mechanics, fluids and electronics, with a Healthcare AI pathway. Its 60-credit MSc project remains one third of the degree; the programme page does not yet state a specific international deadline.",
-      "tags": ["状态变化","2027年9月已开放","截止日未列明","生命科学可申请","转换型项目","工程基础补修","Healthcare AI","硕士项目必修","页面学费£32,800"],
+      "tags": [
+        "状态变化",
+        "2027年9月已开放",
+        "截止日未列明",
+        "生命科学可申请",
+        "转换型项目",
+        "工程基础补修",
+        "Healthcare AI",
+        "硕士项目必修",
+        "页面学费£32,800"
+      ],
       "title": "思克莱德大学 生物医学工程理学硕士（转换型）",
       "title_en": "MSc Biomedical Engineering — Conversion Programme",
       "updated_at": "2026-09-13",
@@ -6748,38 +6893,97 @@
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-09-11",
       "id": "pitt-professional-ms-bioengineering-neural-engineering-2027",
-      "last_verified_at": "2026-09-11",
+      "last_verified_at": "2026-10-07",
       "location": "美国・匹兹堡",
       "organization": "University of Pittsburgh · Swanson School of Engineering",
-      "priority": 96,
+      "priority": 80,
       "published_at": "",
-      "relevance": "这是美国方向中与用户经历最直接的职业型选项：非论文、必修实习，并覆盖 BCI、神经成像与信号、神经器件、机器学习和神经数据分析。官网明确接受生命科学 STEM 背景，Open Ephys／Intan、MATLAB 与神经生理经验可直接形成申请叙事；主要风险是非工程申请者可能被要求补较多工程／数学课程。",
+      "relevance": "向msne@pitt.edu确认2027可选课程清单、生态学所需补修，以及有指导的神经信号工程项目与实习支持。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.engineering.pitt.edu/departments/bioengineering/programs/graduate/graduate-overview/",
-      "summary": "Professional MS in Bioengineering — Neural Engineering Focus 为 30 学分、通常 2–3 学期完成的非论文项目，要求在 BCI、神经组织界面、神经成像与信号、神经器件等至少两个方向形成能力，并完成职业发展课和与职业目标一致的实习。可接受 biological sciences 等非工程 STEM，本科 GPA 最低 3.0，线性代数优先；非工程背景可能需额外工程与数学先修。GRE optional。国际生英语最低 IELTS 6.5、Duolingo 120，或新版 TOEFL 总分 4.5；成绩入学时不得超过两年。2026–27 外州／国际参考学费为两学期 US$54,002，另有 US$2,006 强制费用，第三学期可能另计；MS 通常不获资助。咨询：ms-neural@pitt.edu。",
-      "summary_en": "A 30-credit, non-thesis professional MS normally completed in two or three terms, with required career development and an internship. Concentrations include BCI, neural imaging and signals, neural devices, machine learning and neural data analysis. Biological-science STEM graduates are eligible, though non-engineers may need substantial foundation coursework. GRE is optional; current English scores are mandatory.",
+      "summary": "职业型MS Neural Engineering：30学分、两项集中领域；2025手册将实习列为强烈建议而非必修。纠正旧记录，不把其他MPE方向的强制实习套用到NE。",
+      "summary_en": "",
       "tags": [
-        "历史补录",
-        "Fall 2027",
-        "12月1日奖助截止",
-        "4月1日国际生截止",
-        "生命科学可申请",
-        "直接适配",
-        "非论文",
-        "实习必修",
-        "脑机接口",
-        "神经信号",
-        "机器学习",
-        "线性代数优先",
-        "可能需补工程数学",
-        "GRE可选",
-        "英语需重考",
-        "两学期参考学费US$54,002"
+        "优先深入核实",
+        "四维证据分开",
+        "就业未知不补分"
       ],
       "title": "匹兹堡大学 职业型生物工程硕士（神经工程方向）",
       "title_en": "Professional MS in Bioengineering — Neural Engineering Focus",
-      "updated_at": "2026-09-11",
-      "verification_status": "verified_official_programme_curriculum_background_deadlines_tuition_and_english_2026_09_11"
+      "updated_at": "2026-10-07",
+      "verification_status": "partial_career_evidence_review",
+      "career_review": {
+        "verified_at": "2026-10-07",
+        "decision": "优先深入核实",
+        "axes": {
+          "application": {
+            "status": "部分证实",
+            "facts": [
+              "手册允许自然科学等背景并可能要求基础补修；补修课程不计研究生学分。"
+            ],
+            "unknown": [
+              "2027招生轮次/开放、生态学个案、补修量、英语/推荐要求需重新书面确认；旧学年材料非2027承诺。"
+            ],
+            "sources": [
+              {
+                "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "training": {
+            "status": "部分证实",
+            "facts": [
+              "30学分：集中领域12+9，生命科学3、伦理3、数学统计3；含BCI、神经影像信号、器件方向。"
+            ],
+            "unknown": [
+              "具体2027开课、跨系选课批准、编程考核/设备/数据/指导名额未证实；手册自述可能不完整。"
+            ],
+            "sources": [
+              {
+                "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "employment": {
+            "status": "部分证实",
+            "facts": [
+              "NE全日制实习强烈建议，可通过BIOENG2095最多获3学分；并非必修或保证安排。"
+            ],
+            "unknown": [
+              "企业名额、国际生实际资格、实习获得率、毕业岗位数据未知。"
+            ],
+            "sources": [
+              {
+                "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          },
+          "time_cost": {
+            "status": "部分证实",
+            "facts": [
+              "维持GPA3.0；基础补修在30学分外，可能增加成本时间。"
+            ],
+            "unknown": [
+              "2027总费用、生活费、准确逐学期/毕业时间、合法实习许可未核实。"
+            ],
+            "sources": [
+              {
+                "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
+                "verified_at": "2026-10-07"
+              }
+            ]
+          }
+        },
+        "next_action": "向msne@pitt.edu确认2027可选课程清单、生态学所需补修，以及有指导的神经信号工程项目与实习支持。",
+        "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
+        "job_mapping": {
+          "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
+          "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
+        }
+      }
     },
     {
       "category": "升学",
@@ -6955,7 +7159,26 @@
       "source_url": "https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-biomedical-engineering",
       "summary": "2027 年 8 月入学，1 年全日制／3 个 trimester，30 AU；申请期为 2026 年 9 月至 2027 年 3 月并滚动审理。入学要求为 reputable university 的 honours/distinction 本科，未列专业限制；相关工作经历与推荐信按个案加分。课程含 Biomedical Data Analytics、先进医疗器械与系统、数字健康合规、可穿戴医疗技术、器械监管和项目管理，可选 Professional Internship、实验室轮转或多学期研究项目。英语最低 TOEFL 85 或 IELTS 6.0（非全英文授课本科）；旧 TOEFL 99 已过期。官网明确“无桥接课程”，数学／工程基础需以成绩单向 cceb-bme@ntu.edu.sg 确认。同页 2027/28 学费主表为 S$53,083，但说明文字仍写 S$51,012，按较高值预算并要求书面核实。",
       "summary_en": "A one-year, 30-AU coursework/conversion MSc for August 2027 with rolling applications from September 2026 to March 2027. The official page does not restrict the bachelor's discipline and offers data analytics, digital health, wearables, medical-device regulation and an optional professional internship. It also states that no bridging course is available; academic preparation and a same-page tuition discrepancy should be confirmed in writing.",
-      "tags": ["历史补录","直接适配","2027年8月入学","正在滚动申请","本科专业未限定","coursework/conversion","数字健康","医疗器械","数据分析","可穿戴","监管","实习可选","无桥接课程","需确认数学工程基础","TOEFL 85","IELTS 6.0","学费数字冲突","咨询cceb-bme@ntu.edu.sg"],
+      "tags": [
+        "历史补录",
+        "直接适配",
+        "2027年8月入学",
+        "正在滚动申请",
+        "本科专业未限定",
+        "coursework/conversion",
+        "数字健康",
+        "医疗器械",
+        "数据分析",
+        "可穿戴",
+        "监管",
+        "实习可选",
+        "无桥接课程",
+        "需确认数学工程基础",
+        "TOEFL 85",
+        "IELTS 6.0",
+        "学费数字冲突",
+        "咨询cceb-bme@ntu.edu.sg"
+      ],
       "title": "南洋理工大学 生物医学工程理学硕士（授课／转换型）",
       "title_en": "MSc in Biomedical Engineering — Coursework/Conversion",
       "updated_at": "2026-09-13",
@@ -6978,7 +7201,22 @@
       "source_url": "https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/biomedical-engineering-conversion-msc/",
       "summary": "2027 年 9 月入学，1 年全日制，官网已开放申请但未列具体截止日；国际学费尚待公布，接受 offer 的国际生押金 £2,000。要求 science subject 的 2:2 本科，官网示例明确包括 Biology、Life Sciences、Biotechnology 等；复旦生态学背景原则上落在 science／life science 范围。必修 Essential Mathematics Skills for Engineers（不计学分）覆盖微积分、向量与矩阵、常微分方程；核心含 Clinical Sensors and Measurements、Biomedical Imaging、Medical Ethics and Regulatory Affairs，并可选 Digital Signal Acquisition and Processing。风险是 Extended Research Project 贯穿三个学期、属于学位主要组成部分，需要独立完成。英语为 IELTS 6.5、四项不低于 6.0 或同等成绩；旧 TOEFL 99 不能使用。",
       "summary_en": "A one-year conversion MSc explicitly designed for science graduates, including biology and life sciences. It provides a non-credit engineering-mathematics module and strong options in sensors, biomedical imaging, signal acquisition and regulation. The major caveat is an intensive individual research project spanning all three semesters; the September 2027 deadline and international fee are not yet stated.",
-      "tags": ["历史补录","直接适配","2027年9月已开放","截止日待公布","生命科学明确可申请","conversion","工程数学补充","医学成像","临床传感器","生物信号","监管","大型独立项目必修","IELTS 6.5单项6.0","国际学费待公布"],
+      "tags": [
+        "历史补录",
+        "直接适配",
+        "2027年9月已开放",
+        "截止日待公布",
+        "生命科学明确可申请",
+        "conversion",
+        "工程数学补充",
+        "医学成像",
+        "临床传感器",
+        "生物信号",
+        "监管",
+        "大型独立项目必修",
+        "IELTS 6.5单项6.0",
+        "国际学费待公布"
+      ],
       "title": "伦敦玛丽女王大学 生物医学工程转换型硕士",
       "title_en": "MSc Biomedical Engineering (Conversion)",
       "updated_at": "2026-09-13",
@@ -7001,7 +7239,23 @@
       "source_url": "https://masters.pratt.duke.edu/apply/instructions/",
       "summary": "Fall 2027 校园 MEng 已开放，三轮截止分别为 2026-11-03、2027-01-19、2027-03-17。30 学分，通常 3 学期／约 1.5 年，含 6 学分行业准备课程、BME 核心与技术选修，并强制完成 8–12 周、至少 320 小时的实习或经批准项目；实习需学生自行取得，学校提供职业支持。官网接受 engineering or sciences 本科，无最低 GPA、无需工作经验，2027 GRE optional；要求多变量微积分、生物、物理、化学。用户需用成绩单确认多变量微积分和大学物理，否则不应仓促申请。2026/27 参考学费 US$35,680/学期，三学期约 US$107,040，2027/28 费率待确认；可竞争最高 50% 的 Mission Scholarship。英语需重新考试，Duke 偏好 DET，最终入学通常仍需提交有效 DET。",
       "summary_en": "A 30-credit, three-semester professional MEng open to science graduates, with mandatory industry-preparation coursework and an 8–12 week, 320-hour internship or approved project. Fall 2027 deadlines are 3 November, 19 January and 17 March. Multivariable calculus, biology, physics and chemistry are expected, and the estimated three-semester tuition is about US$107,040 at 2026/27 rates.",
-      "tags": ["历史补录","需补数学/物理先修","2027已开放","首轮11月3日","science本科可申请","无需工作经验","GRE可选","职业型MEng","实习或项目必修","320小时","医疗器械","神经工程","学费约US$107,040","奖学金最高50%","需重新考语言"],
+      "tags": [
+        "历史补录",
+        "需补数学/物理先修",
+        "2027已开放",
+        "首轮11月3日",
+        "science本科可申请",
+        "无需工作经验",
+        "GRE可选",
+        "职业型MEng",
+        "实习或项目必修",
+        "320小时",
+        "医疗器械",
+        "神经工程",
+        "学费约US$107,040",
+        "奖学金最高50%",
+        "需重新考语言"
+      ],
       "title": "杜克大学 生物医学工程工程硕士（职业型 MEng）",
       "title_en": "Master of Engineering in Biomedical Engineering",
       "updated_at": "2026-09-13",
@@ -7024,7 +7278,23 @@
       "source_url": "https://www.aalto.fi/en/study-options/life-science-technologies-master-of-science-technology",
       "summary": "2027 秋季入学申请期为 2026-12-07 至 2027-01-05，材料／自评表截止 2027-01-12；官网页面 2026-09-03 更新。2 年、120 ECTS，含 62 ECTS major、28 ECTS 选修和 30 ECTS 必修硕士论文，国际生学费 €17,000/年，少量高排名申请者可获学费减免。Life Science Technologies 要求此前至少 90 ECTS 落在计算科学、数学、自然科学／工程三类中的至少两类；BME major 必备数学与物理，Human Neuroscience and Technology 还要求线性代数、微积分、统计、基础编程与信号处理。最多可能补 20 ECTS，但背景不足也可能直接被拒；工作与研究经历通常不能替代理论课程。适配方向很强，但在看到完整成绩单前应列为高风险冲刺。项目重小组实践与个人项目，并有 30 ECTS 论文，不符合“低论文负担”偏好。",
       "summary_en": "A two-year, 120-ECTS programme with Biomedical Engineering and Human Neuroscience and Technology majors that closely match neurophysiology and signal-analysis interests. The 2027 application runs 7 December to 5 January, with documents due 12 January. Admission requires substantial transcripted preparation across mathematics, physics, computing and signal processing; research experience generally cannot substitute, and a 30-ECTS thesis is mandatory.",
-      "tags": ["历史补录","需补数学/物理先修","2027申请日期已发布","12月7日开放","1月5日截止","神经工程","脑机接口","脑成像","信号处理","需90ECTS相关课程","最多补20ECTS","论文30ECTS必修","€17,000/年","少量学费减免","高风险冲刺"],
+      "tags": [
+        "历史补录",
+        "需补数学/物理先修",
+        "2027申请日期已发布",
+        "12月7日开放",
+        "1月5日截止",
+        "神经工程",
+        "脑机接口",
+        "脑成像",
+        "信号处理",
+        "需90ECTS相关课程",
+        "最多补20ECTS",
+        "论文30ECTS必修",
+        "€17,000/年",
+        "少量学费减免",
+        "高风险冲刺"
+      ],
       "title": "阿尔托大学 Life Science Technologies（BME／人类神经科学方向）",
       "title_en": "MSc Life Science Technologies — Biomedical Engineering or Human Neuroscience and Technology",
       "updated_at": "2026-09-13",
@@ -7047,7 +7317,25 @@
       "source_url": "https://www.medizin.unibe.ch/studies/study_programs/master_in_biomedical_engineering/index_eng.html",
       "summary": "University of Bern 与 Bern University of Applied Sciences 联合开设的英语 BME MSc，秋季入学、2 年全日制、120 ECTS，方向包括 Biomechanics、Electronic Implants 与 Image-Guided Therapy。工程、自然科学或医学背景均可申请，但国际学历及未列明学科按个人既有知识审理，最多可被要求补 30 ECTS；生态学须先向 bme.artorg@unibe.ch 或 Admissions Office 确认。国际学历申请者必须提交 GRE，且用于审理的本科学位原则上不得超过五年，用户 2024 年学位仍在范围内。课程含 37 ECTS 基础模块、41–45 ECTS 专业模块及最长六个月的 30 ECTS 必修硕士论文；无强制英语证书，但学生须自行保证英语能力。秋季硕士常规截止通常为 4 月 30 日，需签证者不能使用晚申；2027 轮次开放日尚未明确发布。自 2026 秋季起，一般学费 CHF750 加非瑞士学生附加费 CHF1,700 与约 CHF34 学期费，合计约 CHF2,484／学期，四学期约 CHF9,936，不含生活费。因 GRE、重论文和两年学制，虽方向相关但不列主申。",
       "summary_en": "A two-year, 120-ECTS joint MSc with tracks in Biomechanics, Electronic Implants and Image-Guided Therapy. Natural-science and medicine graduates may be considered individually and may receive up to 30 ECTS of additional requirements, but international-degree applicants must submit GRE scores. A compulsory 30-ECTS thesis lasting up to six months makes this a poor fit for a low-research preference. The regular fall deadline is normally 30 April; the 2027 opening date is not yet confirmed. Current international fees total about CHF 2,484 per semester.",
-      "tags": ["历史补录","不建议申请","需确认专业相关性","自然科学个案审理","最多补30ECTS","国际学历必须GRE","两年制","120ECTS","30ECTS论文必修","重研究风险","Image-Guided Therapy","医学成像","电子植入物","无强制英语证书","4月30日常规截止","2027开放日待确认","约CHF2,484/学期"],
+      "tags": [
+        "历史补录",
+        "不建议申请",
+        "需确认专业相关性",
+        "自然科学个案审理",
+        "最多补30ECTS",
+        "国际学历必须GRE",
+        "两年制",
+        "120ECTS",
+        "30ECTS论文必修",
+        "重研究风险",
+        "Image-Guided Therapy",
+        "医学成像",
+        "电子植入物",
+        "无强制英语证书",
+        "4月30日常规截止",
+        "2027开放日待确认",
+        "约CHF2,484/学期"
+      ],
       "title": "伯尔尼大学／伯尔尼应用科技大学 联合生物医学工程硕士",
       "title_en": "Joint MSc in Biomedical Engineering — University of Bern and BFH",
       "updated_at": "2026-10-03",
@@ -7070,7 +7358,26 @@
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/medtech-innovation/",
       "summary": "12 个月全日制，2027 申请现已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。2.2 英国荣誉学位或同等成绩即可，明确接受 Engineering and Life Sciences；生态学属于生命科学范围，学术背景直接适配。课程涵盖 MedTech 与 AI 设计、临床需求、实施、伦理与法规、AI／Software as a Medical Device、多模态医疗数据、创业与市场路径；第三学期为 60 学分、14 周的 MedTech Innovation Project，可与 NHS、政府或企业合作，并以 Innovation Day 向行业利益相关者展示。可获得 placement 机会，但项目对团队合作、客户沟通、商业化和公开展示要求很高，应视为明显适配风险而非纯技术型选择。2027/28 国际生学费 £34,815；面向中国申请者的 World Changers China Excellence Award 为 £12,500 学费减免，另有 Global Leadership Scholarship。英语 IELTS 6.5、单项 6.0；旧 TOEFL 99 无效。咨询：mvls-msc-med-tech@glasgow.ac.uk。",
       "summary_en": "Applications are now open for this 12-month professional MSc, with international Round 1 closing on 5 November 2026 and five later rounds through 8 July 2027. It explicitly accepts life-science degrees and covers MedTech/AI design, regulation, digital-health data, implementation and commercialisation. The final semester is a mandatory 60-credit, 14-week project with possible NHS, government or industry placement, followed by an Innovation Day pitch. Academic fit is direct, but the heavy stakeholder, teamwork, commercialisation and presentation load is a material risk. The 2027/28 international fee is £34,815.",
-      "tags": ["状态变化","直接适配","2027申请已开放","首轮11月5日截止","生命科学明确可申请","数字健康","医疗AI","SaMD","医疗器械法规","NHS／行业项目","60学分项目必修","商业化必修","团队／客户沟通风险","现场展示风险","2027学费£34,815","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言"],
+      "tags": [
+        "状态变化",
+        "直接适配",
+        "2027申请已开放",
+        "首轮11月5日截止",
+        "生命科学明确可申请",
+        "数字健康",
+        "医疗AI",
+        "SaMD",
+        "医疗器械法规",
+        "NHS／行业项目",
+        "60学分项目必修",
+        "商业化必修",
+        "团队／客户沟通风险",
+        "现场展示风险",
+        "2027学费£34,815",
+        "中国奖学金£12,500",
+        "IELTS 6.5单项6.0",
+        "需重新考语言"
+      ],
       "title": "格拉斯哥大学 MedTech Innovation 理学硕士",
       "title_en": "MSc MedTech Innovation — 2027 Entry",
       "updated_at": "2026-10-03",
@@ -7093,7 +7400,27 @@
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/biomedical-engineering/",
       "summary": "12 个月全日制，2027 申请现已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。生命科学／生物学本科可被考虑，但成绩单须包含显著数学或工程数学；官网对主要入口要求至少两门有学分的认可数学课程，认可范围包括 Calculus、Algebra、Differential Equations、Statistics、Multivariable／Vector Calculus 等。用户必须先提供完整成绩单逐门核对。核心含 Biological Fluid Mechanics、Biophysics、Statistics、Energy、Integrated Systems Design Project 和 MSc Project；选修有 Medical Imaging、Biosensors、Rehabilitation Engineering 与 Signal Processing of Biosignatures。方向很合适，但研究项目、团队设计与偏工程核心负担较重。2027/28 国际生学费 £34,815、押金 £2,000；World Changers China Excellence Award 提供 12 个 £12,500 学费减免名额。英语 IELTS 6.5、单项 6.0；旧 TOEFL 99 无效。",
       "summary_en": "Applications are now open for this one-year MSc, with international Round 1 closing on 5 November 2026 and later rounds through 8 July 2027. Biology or life-science degrees may be accepted only when the transcript demonstrates significant mathematics; the primary route expects at least two credit-bearing approved maths modules. The mandatory engineering core, integrated design project and MSc project create a substantial workload and fit risk. The 2027/28 international fee is £34,815 with a £2,000 deposit.",
-      "tags": ["状态变化","需补数学/物理先修","2027申请已开放","首轮11月5日截止","生命科学有条件接受","至少两门认可数学课","需核对完整成绩单","医学成像","生物传感器","生物信号处理","康复工程","MSc Project必修","团队设计项目","工程核心较重","2027学费£34,815","押金£2,000","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言"],
+      "tags": [
+        "状态变化",
+        "需补数学/物理先修",
+        "2027申请已开放",
+        "首轮11月5日截止",
+        "生命科学有条件接受",
+        "至少两门认可数学课",
+        "需核对完整成绩单",
+        "医学成像",
+        "生物传感器",
+        "生物信号处理",
+        "康复工程",
+        "MSc Project必修",
+        "团队设计项目",
+        "工程核心较重",
+        "2027学费£34,815",
+        "押金£2,000",
+        "中国奖学金£12,500",
+        "IELTS 6.5单项6.0",
+        "需重新考语言"
+      ],
       "title": "格拉斯哥大学 生物医学工程理学硕士",
       "title_en": "MSc Biomedical Engineering — 2027 Entry",
       "updated_at": "2026-10-03",
@@ -7116,7 +7443,29 @@
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
       "summary": "12 个月全日制，2027 申请已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。官网主要面向工程、物理科学或数学本科，但也可接受 Biology、Medicine、Life Science，前提是成绩单含显著 Mathematics 或 Engineering Mathematics；通常须至少两门认可的有学分数学课，包括 Calculus、Algebra、Differential Equations、Statistics、Multivariable／Vector Calculus 等。课程核心含生物物理、统计、Biosignatures Signal Processing、Biosensors、创业、伦理、Human Factors 及个人 MSc Project；选修可走康复工程、DSP、嵌入式编程、超声、先进成像与数据处理。医疗器械监管由 NHS Medical Devices Unit 专家参与，职业方向明确；但个人研究项目、团队工作与创业仍是负担。2027/28 国际生学费 £34,815，押金 £2,000；中国申请者可竞争 £12,500 World Changers China Excellence Award。IELTS 6.5（单项 6.0），旧 TOEFL 99 已失效。官网未列 GRE。",
       "summary_en": "A one-year Medical Devices Engineering MSc open for 2027 entry, with international Round 1 closing on 5 November 2026. Biology, medicine and life-science degrees may be considered only with significant transcripted mathematics, normally at least two approved credit-bearing modules. The curriculum covers biosignal processing, biosensors, human factors, regulation, imaging and embedded systems, but also requires an individual MSc project and includes entrepreneurship and teamwork. The 2027/28 international fee is £34,815 plus a £2,000 deposit.",
-      "tags": ["历史补录","需补数学/物理先修","2027申请已开放","首轮11月5日截止","生命科学有条件接受","至少两门认可数学课","医疗器械","法规","人体因素","生物信号处理","生物传感器","医学成像","嵌入式编程","个人MSc Project必修","创业与团队负担","2027学费£34,815","押金£2,000","中国奖学金£12,500","IELTS 6.5单项6.0","需重新考语言","无需GRE"],
+      "tags": [
+        "历史补录",
+        "需补数学/物理先修",
+        "2027申请已开放",
+        "首轮11月5日截止",
+        "生命科学有条件接受",
+        "至少两门认可数学课",
+        "医疗器械",
+        "法规",
+        "人体因素",
+        "生物信号处理",
+        "生物传感器",
+        "医学成像",
+        "嵌入式编程",
+        "个人MSc Project必修",
+        "创业与团队负担",
+        "2027学费£34,815",
+        "押金£2,000",
+        "中国奖学金£12,500",
+        "IELTS 6.5单项6.0",
+        "需重新考语言",
+        "无需GRE"
+      ],
       "title": "格拉斯哥大学 医疗器械工程理学硕士",
       "title_en": "MSc Medical Devices Engineering — 2027 Entry",
       "updated_at": "2026-10-03",
@@ -7139,7 +7488,25 @@
       "source_url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/engineering-biomedicine/",
       "summary": "2027 年 10 月入学、1 年全日制，申请已于 2026-09-30 开放；Round 2 于 2027-01-06 截止，随后两轮分别于 3 月 10 日和 4 月 28 日截止，晚轮不保证仍有名额。最低背景为 Clinical Science、Life Science 或 Physical Science 的 2:1 学位，且课程须有显著 human biology 内容；生态学并非自动满足，应先向 bg-mscadmissions@imperial.ac.uk 提交课程清单确认。核心覆盖数学、计算思维、电气、机械、物理、研究数据分析与 Journal Club，可选医学影像、生理监测、医疗器械认证／创业和药物发现 AI。Major Individual Project 为 40 ECTS，从第二学期持续至夏季并要求独立性与原创性，是主要不匹配风险。2027 海外学费尚未公布，2026/27 参考 £45,000；申请费 £90，硕士押金通常为学费 10%，ATAS 不需要。英语采用 Higher 标准：IELTS 7.0（单项 6.5）或旧制 TOEFL 100（单项 22）／新制 5.0（各项 5.0），成绩须在入学前两年内有效；旧 TOEFL 99 无效。官网未列 GRE 要求。",
       "summary_en": "This one-year MSc for October 2027 opened on 30 September 2026. Round 2 closes on 6 January 2027, followed by 10 March and 28 April rounds. It accepts a 2:1 in clinical, life or physical science only where the transcript contains significant human biology, so ecology eligibility must be confirmed in writing. The course bridges mathematics, computational thinking, electrical and mechanical engineering and physics, with relevant options in imaging, physiological monitoring, regulation and AI. A 40-ECTS major individual research project is compulsory and is the main fit risk. The 2027 overseas fee is pending; the 2026/27 reference is £45,000. Higher English scores are required and ATAS is not required.",
-      "tags": ["历史补录","2027申请已开放","需确认专业相关性","生命科学有条件接受","须有显著人体生物学课程","工程基础补修","医学影像","生理信号","医疗器械认证","AI药物发现","40 ECTS独立研究项目","重研究风险","2027学费待公布","2026参考£45,000","IELTS 7.0单项6.5","需重新考语言","无需ATAS"],
+      "tags": [
+        "历史补录",
+        "2027申请已开放",
+        "需确认专业相关性",
+        "生命科学有条件接受",
+        "须有显著人体生物学课程",
+        "工程基础补修",
+        "医学影像",
+        "生理信号",
+        "医疗器械认证",
+        "AI药物发现",
+        "40 ECTS独立研究项目",
+        "重研究风险",
+        "2027学费待公布",
+        "2026参考£45,000",
+        "IELTS 7.0单项6.5",
+        "需重新考语言",
+        "无需ATAS"
+      ],
       "title": "帝国理工学院 Engineering for Biomedicine 理学硕士",
       "title_en": "MSc Engineering for Biomedicine — 2027 Entry",
       "updated_at": "2026-09-30",
@@ -7190,46 +7557,43 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-05T21:31:58+08:00",
-    "increment_boundary": "2026-10-03T14:47:20+08:00",
-    "note": "重点官方入口增量复核；Liverpool 已到官网申请开放日期，门户选项尚未独立核验。无确认的新发布或历史补录。CityU 页面读取失败；公开网站读取失败且本地 TLS 报 SEC_E_NO_CREDENTIALS。未完成每个项目全部字段的逐项全量复核。",
-    "repository_write": "submitted_via_github_contents_api_commit_confirmation_in_chat",
-    "public_site_verification": "not_verified_web_reader_inaccessible_and_local_tls_SEC_E_NO_CREDENTIALS",
-    "result": "zero_confirmed_newly_published_zero_backfills_one_status_change_urgent_count_not_fully_reaudited",
-    "run_type": "scheduled_international_bme_incremental_scan"
+    "executed_at_beijing": "2026-10-07T14:55:21+08:00",
+    "increment_boundary": "2026-10-05T21:31:58+08:00",
+    "counts": {
+      "newly_published": 0,
+      "historical_backfills": 0,
+      "admission_status_changes": 0,
+      "open_urgent_reverified": 1,
+      "career_assessment_revisions": 3,
+      "job_comparison_samples": 2
+    },
+    "urgent_note": "PolyU BMI早轮10月20日；不是最终截止。其余历史紧急数未全量重审。",
+    "search": "限3候选四维部分核实；2官方岗位对照；不声称全量扫描。",
+    "repository_write": "GitHub API提交结果见回执",
+    "public_site_verification": "待核验",
+    "failures": [
+      "公开站web读取器访问失败；项目当届课程、项目名额、毕业数据与签证成本尚未完整核实"
+    ]
   },
-  "notice": "2026-10-05 21:31 增量核验：新发布 0，历史补录 0，状态变化 1。Liverpool Healthcare BME 已到官网申请开放日；PolyU 10月20日、CUHK 10月30日截止。公开网页刷新尚未核验。",
+  "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "category_counts": {
-      "升学": 0,
-      "实验室": 0,
-      "求职": 0,
-      "研究": 0
+    "executed_at_beijing": "2026-10-07T14:55:21+08:00",
+    "increment_boundary": "2026-10-05T21:31:58+08:00",
+    "counts": {
+      "newly_published": 0,
+      "historical_backfills": 0,
+      "admission_status_changes": 0,
+      "open_urgent_reverified": 1,
+      "career_assessment_revisions": 3,
+      "job_comparison_samples": 2
     },
-    "database_category_totals": {
-      "升学": 56,
-      "研究": 97,
-      "实验室": 40,
-      "求职": 25
-    },
-    "database_items_total": 218,
-    "excluded_expired_or_ineligible": [
-      "UCL Physics and Engineering in Medicine 2027 要求物理、工程、计算机、数学或 closely related 背景，且有 60 学分研究项目和团队器械商业化项目；生态学匹配不足，未纳入。",
-      "Sheffield Biomedical Engineering MSc 2027 的官方可接受学科列表未含 Biology、Life Sciences 或 Ecology，并有 60 学分研究项目，未纳入。",
-      "Liverpool Biomedical Engineering MSc (Eng) 2027 要求工程或物理科学背景并有 60 学分项目；生态学本科不符合，未纳入。",
-      "Dundee Biomedical Engineering MSc 2027 要求 BME、电气、电子、机械、物理或数学等背景，生态学不在入口范围，未纳入。",
-      "UNSW Engineering Science BME、Sydney 较短 MEng 与 ETH Zurich BME 均存在工程／物理／数学硬门槛；暂不纳入高优先列表。",
-      "东京大学 G30 International Bioengineering 已核实 2027 材料与考试成绩时间，但仍强制 GRE、有效英语成绩和实验室论文研究；韩国官方入口未发现清晰接受非工程生命科学背景的优质授课／转换型项目。"
-    ],
-    "existing_urgent_reverified": 4,
-    "historical_backfills_added": 0,
-    "newItemsOfficiallyDatedToday": 0,
-    "newly_published_since_last_scan": 0,
-    "newly_published_today": 0,
-    "status_changes": 1,
-    "still_open_urgent_items": 15,
-    "bme_still_open_urgent_items": 15,
-    "urgent_count_verification": "prior_15_retained_not_fully_reaudited_today"
+    "urgent_note": "PolyU BMI早轮10月20日；不是最终截止。其余历史紧急数未全量重审。",
+    "search": "限3候选四维部分核实；2官方岗位对照；不声称全量扫描。",
+    "repository_write": "GitHub API提交结果见回执",
+    "public_site_verification": "待核验",
+    "failures": [
+      "公开站web读取器访问失败；项目当届课程、项目名额、毕业数据与签证成本尚未完整核实"
+    ]
   },
   "source_coverage": [
     {
@@ -7256,6 +7620,38 @@
       "note": "今日已扫描，无高质量新增；保留既有项目风险。",
       "source_group": "需确认／不建议",
       "status": "incremental_checks_completed"
+    }
+  ],
+  "career_job_samples": [
+    {
+      "id": "neuralink-6569018003",
+      "title": "Software Engineer Intern, Implant",
+      "company": "Neuralink",
+      "url": "https://job-boards.greenhouse.io/neuralink/jobs/6569018003",
+      "location": "Austin / South San Francisco，美国，现场",
+      "level": "企业实习",
+      "published_at": null,
+      "first_seen_at": "2026-10-07",
+      "last_verified_at": "2026-10-07",
+      "status": "官方申请表可见；日期未公布",
+      "requirements": "Python与C或Rust、Linux、工程能力证据、生产系统；SDK/录制/监控/验证软件。",
+      "eligibility": "表单询问毕业年份及美国授权/赞助；未证实当前毕业生可申请或保证赞助。",
+      "recommendation": "只作能力对照，资格与能力均待核实，不推荐立即申请"
+    },
+    {
+      "id": "neuralink-6681863003",
+      "title": "Signal Processing Engineer",
+      "company": "Neuralink",
+      "url": "https://job-boards.greenhouse.io/neuralink/jobs/6681863003",
+      "location": "Austin / South San Francisco，美国，现场",
+      "level": "企业社招，3年以上",
+      "published_at": null,
+      "first_seen_at": "2026-10-07",
+      "last_verified_at": "2026-10-07",
+      "status": "官方申请表可见；日期未公布",
+      "requirements": "相关EE/CE/信号专业；DSP真实产品3年以上；spike检测、定点量化、Python/C与硬件约束。",
+      "eligibility": "硬性多年经验；工作授权/赞助需个案核实。",
+      "recommendation": "明确排除为低经验入口，仅作未来能力对照"
     }
   ]
 }
