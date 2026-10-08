@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描；保留历史数据与原核验日期。",
+      "note": "本轮未扫描；历史字段日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描；保留历史数据与原核验日期。",
+      "note": "本轮未扫描；历史字段日期保留。",
       "region": "欧洲大陆",
       "status": "not_scanned"
     },
     {
-      "note": "已读PolyU BMI、NUS招生/课程/费用及IA原文；其余学校、签证与就业数据未覆盖。",
+      "note": "仅NUS招生与BN5666原文、MOM学生工作规则；香港本轮未扫描。",
       "region": "香港与新加坡",
       "status": "partially_verified"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描；保留历史数据与原核验日期。"
+      "note": "本轮未扫描；历史字段日期保留。"
     },
     {
-      "note": "已读Pitt手册及2条Neuralink官方岗位；加拿大及其他学校未扫描。",
+      "note": "仅Neuralink两个官方软件岗位；本轮未读大学项目或加拿大来源。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描；保留历史数据与原核验日期。",
+      "note": "本轮未扫描；历史字段日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-07T14:55:21+08:00",
+  "generated_at": "2026-10-08T19:45:00+08:00",
   "items": [
     {
       "category": "升学",
@@ -6637,7 +6637,7 @@
       ],
       "title": "新加坡国立大学 生物医学工程理学硕士",
       "title_en": "MSc Biomedical Engineering — August 2027",
-      "updated_at": "2026-10-07",
+      "updated_at": "2026-10-08",
       "verification_status": "partial_career_evidence_review",
       "career_review": {
         "verified_at": "2026-10-07",
@@ -6654,7 +6654,7 @@
             "sources": [
               {
                 "url": "https://cde.nus.edu.sg/bme/admission/",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-08"
               }
             ]
           },
@@ -6676,15 +6676,26 @@
           "employment": {
             "status": "部分证实",
             "facts": [
-              "BN5666可选4学分；学生自行找公司，新加坡全职16周；建议同学期不超过两科，不可同时BN5001；报告与展示考核。"
+              "BN5666可选4学分；学生自行找公司，新加坡全职16周；建议同学期不超过两科，不可同时BN5001；报告与展示考核。",
+              "MOM规定：NUS在豁免学校名单；全日制注册且持Student's Pass者，学期内普通工作最多16小时/周，或参加学校组织且计入毕业要求的实习（必修/选修均可）。额外不计毕业的学期内休学实习须工作准证。"
             ],
             "unknown": [
-              "非保证实习；国际生许可、名额、企业/去向统计未知。"
+              "BN5666个案是否获学校批准并计入毕业要求、雇主接受条件仍须确认；政策豁免不等于获得岗位。企业名额、实习获得率与毕业去向统计未知。"
             ],
             "sources": [
               {
                 "url": "https://cde.nus.edu.sg/bme/wp-content/uploads/sites/8/2024/12/BN5666-IA-Course-for-MSc-BME-students.pdf",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-08"
+              },
+              {
+                "url": "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+                "verified_at": "2026-10-08",
+                "fields": [
+                  "Student's Pass",
+                  "学期16小时",
+                  "计入毕业的实习豁免",
+                  "额外实习工作准证"
+                ]
               }
             ]
           },
@@ -6692,7 +6703,8 @@
             "status": "部分证实",
             "facts": [
               "全日制通常1年/2学期，最长2年；非PR/无有效工作准证国际申请者只能全日制。",
-              "AY2027/28学费S$53100含GST；留位费5450在总额内，不退不转；另缴杂费。"
+              "AY2027/28学费S$53100含GST；留位费5450在总额内，不退不转；另缴杂费。",
+              "MOM：完成学业且Student's Pass到期后就业需要雇主申请工作准证；学生工作豁免不是毕业后就业许可。"
             ],
             "unknown": [
               "IA可能改变排期，不能承诺两学期完成；生活费与工作签证未核实。"
@@ -6705,16 +6717,21 @@
               {
                 "url": "https://cde.nus.edu.sg/bme/fees-and-financial-information/",
                 "verified_at": "2026-10-07"
+              },
+              {
+                "url": "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+                "verified_at": "2026-10-08"
               }
             ]
           }
         },
-        "next_action": "向项目办确认生态学是否相关本科、BN5213/BN5212当届开课与先修，以及BN5666是否需延长学制。",
+        "next_action": "请NUS项目办确认BN5666计入毕业要求和国际生个案审批、可安排学期与是否延长毕业；不要先接受学期内不计学分的全职实习。",
         "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
         "job_mapping": {
           "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
-          "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
-        }
+          "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。 本轮裸机嵌入式岗位明确要求至少1年相关经验；NUS所列课程是否提供裸机C/Rust/电路实验与可验证作品仍未知。"
+        },
+        "field_update_at": "2026-10-08"
       }
     },
     {
@@ -7557,42 +7574,50 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-07T14:55:21+08:00",
-    "increment_boundary": "2026-10-05T21:31:58+08:00",
+    "executed_at_beijing": "2026-10-08T19:45:00+08:00",
+    "increment_boundary": "2026-10-07T14:55:21+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "admission_status_changes": 0,
-      "open_urgent_reverified": 1,
-      "career_assessment_revisions": 3,
-      "job_comparison_samples": 2
+      "status_changes": 0,
+      "open_urgent_reverified": 0,
+      "job_comparison_backfills": 1,
+      "evidence_supplements": 1
     },
-    "urgent_note": "PolyU BMI早轮10月20日；不是最终截止。其余历史紧急数未全量重审。",
-    "search": "限3候选四维部分核实；2官方岗位对照；不声称全量扫描。",
-    "repository_write": "GitHub API提交结果见回执",
-    "public_site_verification": "待核验",
+    "search": "NUS招生/IA与MOM规则；2个Neuralink岗位。神经算法、通用数据AI岗位未覆盖；其他地区未扫描。",
+    "actions": [
+      "请NUS项目办确认BN5666计入毕业要求和国际生个案审批、可安排学期与是否延长毕业；不要先接受学期内不计学分的全职实习。"
+    ],
+    "deadline_note": "未本轮复核紧急项目；历史PolyU BMI早轮10月20日待继续核实，不列今日核验数。",
+    "repository_write": "GitHub API提交状态见聊天回执",
+    "public_site_verification": "读取器无法访问，未核验",
     "failures": [
-      "公开站web读取器访问失败；项目当届课程、项目名额、毕业数据与签证成本尚未完整核实"
+      "公开站读取失败",
+      "生态学招生认可、2027可选课与项目、岗位资格及总生活成本仍未确认"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-07T14:55:21+08:00",
-    "increment_boundary": "2026-10-05T21:31:58+08:00",
+    "executed_at_beijing": "2026-10-08T19:45:00+08:00",
+    "increment_boundary": "2026-10-07T14:55:21+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "admission_status_changes": 0,
-      "open_urgent_reverified": 1,
-      "career_assessment_revisions": 3,
-      "job_comparison_samples": 2
+      "status_changes": 0,
+      "open_urgent_reverified": 0,
+      "job_comparison_backfills": 1,
+      "evidence_supplements": 1
     },
-    "urgent_note": "PolyU BMI早轮10月20日；不是最终截止。其余历史紧急数未全量重审。",
-    "search": "限3候选四维部分核实；2官方岗位对照；不声称全量扫描。",
-    "repository_write": "GitHub API提交结果见回执",
-    "public_site_verification": "待核验",
+    "search": "NUS招生/IA与MOM规则；2个Neuralink岗位。神经算法、通用数据AI岗位未覆盖；其他地区未扫描。",
+    "actions": [
+      "请NUS项目办确认BN5666计入毕业要求和国际生个案审批、可安排学期与是否延长毕业；不要先接受学期内不计学分的全职实习。"
+    ],
+    "deadline_note": "未本轮复核紧急项目；历史PolyU BMI早轮10月20日待继续核实，不列今日核验数。",
+    "repository_write": "GitHub API提交状态见聊天回执",
+    "public_site_verification": "读取器无法访问，未核验",
     "failures": [
-      "公开站web读取器访问失败；项目当届课程、项目名额、毕业数据与签证成本尚未完整核实"
+      "公开站读取失败",
+      "生态学招生认可、2027可选课与项目、岗位资格及总生活成本仍未确认"
     ]
   },
   "source_coverage": [
@@ -7632,7 +7657,7 @@
       "level": "企业实习",
       "published_at": null,
       "first_seen_at": "2026-10-07",
-      "last_verified_at": "2026-10-07",
+      "last_verified_at": "2026-10-08",
       "status": "官方申请表可见；日期未公布",
       "requirements": "Python与C或Rust、Linux、工程能力证据、生产系统；SDK/录制/监控/验证软件。",
       "eligibility": "表单询问毕业年份及美国授权/赞助；未证实当前毕业生可申请或保证赞助。",
@@ -7652,6 +7677,42 @@
       "requirements": "相关EE/CE/信号专业；DSP真实产品3年以上；spike检测、定点量化、Python/C与硬件约束。",
       "eligibility": "硬性多年经验；工作授权/赞助需个案核实。",
       "recommendation": "明确排除为低经验入口，仅作未来能力对照"
+    },
+    {
+      "id": "neuralink-6550259003",
+      "title": "Embedded Software Engineer, Implant Embedded Systems",
+      "company": "Neuralink",
+      "url": "https://job-boards.greenhouse.io/neuralink/jobs/6550259003",
+      "location": "Austin / South San Francisco，美国，现场",
+      "level": "企业社招，junior/senior均招，非零经验",
+      "published_at": null,
+      "first_seen_at": "2026-10-08",
+      "last_verified_at": "2026-10-08",
+      "status": "官方申请表可见；发布日期未知",
+      "requirements": "相关CS/EE本科或同等经验；嵌入式经验1年以上（含实习），C或Rust、裸机、EE与信号基础；安全关键固件与测试。",
+      "eligibility": "未证实当前能力/经验达到门槛；赞助询问不等于提供赞助。",
+      "recommendation": "能力对照补录，不加入立即投递清单；1年以上嵌入式门槛不可用学术RA自动替代。"
+    }
+  ],
+  "receipt_history": [
+    {
+      "executed_at_beijing": "2026-10-07T14:55:21+08:00",
+      "increment_boundary": "2026-10-05T21:31:58+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "admission_status_changes": 0,
+        "open_urgent_reverified": 1,
+        "career_assessment_revisions": 3,
+        "job_comparison_samples": 2
+      },
+      "urgent_note": "PolyU BMI早轮10月20日；不是最终截止。其余历史紧急数未全量重审。",
+      "search": "限3候选四维部分核实；2官方岗位对照；不声称全量扫描。",
+      "repository_write": "GitHub API提交结果见回执",
+      "public_site_verification": "待核验",
+      "failures": [
+        "公开站web读取器访问失败；项目当届课程、项目名额、毕业数据与签证成本尚未完整核实"
+      ]
     }
   ]
 }
