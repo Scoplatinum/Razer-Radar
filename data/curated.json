@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描；历史字段日期保留。",
+      "note": "本轮未扫描；历史证据日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描；历史字段日期保留。",
+      "note": "本轮未扫描；历史证据日期保留。",
       "region": "欧洲大陆",
       "status": "not_scanned"
     },
     {
-      "note": "仅NUS招生与BN5666原文、MOM学生工作规则；香港本轮未扫描。",
+      "note": "仅PolyU BMI官方招生/目录/费用/联系入口；新加坡未扫描。",
       "region": "香港与新加坡",
       "status": "partially_verified"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描；历史字段日期保留。"
+      "note": "本轮未扫描；历史证据日期保留。"
     },
     {
-      "note": "仅Neuralink两个官方软件岗位；本轮未读大学项目或加拿大来源。",
+      "note": "仅Neuralink Implant软件实习复核；加拿大未扫描。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描；历史字段日期保留。",
+      "note": "本轮未扫描；历史证据日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-08T19:45:00+08:00",
+  "generated_at": "2026-10-10T22:48:05+08:00",
   "items": [
     {
       "category": "升学",
@@ -6454,7 +6454,7 @@
       "organization": "The Hong Kong Polytechnic University",
       "priority": 90,
       "published_at": "",
-      "relevance": "向招生办书面确认生态学资格，以及2027脑/肌信号课程的编程作业、可用数据与指导项目名额。",
+      "relevance": "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
       "summary": "2027 BMI：31学分；全日制通常1.5年。基础科学可申请但不等于生态学已被认可；神经信号课程存在，实际编程考核与设备/项目名额待确认。",
@@ -6466,7 +6466,7 @@
       ],
       "title": "香港理工大学 脑机接口理学硕士",
       "title_en": "MSc in Brain-Machine Interface",
-      "updated_at": "2026-10-07",
+      "updated_at": "2026-10-10",
       "verification_status": "partial_career_evidence_review",
       "career_review": {
         "verified_at": "2026-10-07",
@@ -6476,7 +6476,8 @@
             "status": "部分证实",
             "facts": [
               "2027年9月；早轮2026-10-20，主轮2027-02-25。",
-              "工程、基础科学或紧密相关本科；需学术推荐报告。"
+              "工程、基础科学或紧密相关本科；需学术推荐报告。",
+              "本轮官网咨询入口为BEST General Office，best.info@polyu.edu.hk；较此前读取的BME办公室入口变化。"
             ],
             "unknown": [
               "生态学归类、推荐数量与英语有效证明须核实；未证实工程补修安排。"
@@ -6484,7 +6485,7 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-10"
               }
             ]
           },
@@ -6499,7 +6500,7 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-10"
               }
             ]
           },
@@ -6528,16 +6529,23 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-10"
               }
             ]
           }
         },
-        "next_action": "向招生办书面确认生态学资格，以及2027脑/肌信号课程的编程作业、可用数据与指导项目名额。",
+        "next_action": "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。",
         "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
         "job_mapping": {
           "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
           "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
+        },
+        "field_update_at": "2026-10-10",
+        "contact": {
+          "email": "best.info@polyu.edu.hk",
+          "verified_at": "2026-10-10",
+          "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
+          "note": "当前官方页为BEST General Office；旧回执bme.info不再作为当前咨询入口。"
         }
       }
     },
@@ -7574,77 +7582,67 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-08T19:45:00+08:00",
-    "increment_boundary": "2026-10-07T14:55:21+08:00",
+    "executed_at_beijing": "2026-10-10T22:48:05+08:00",
+    "increment_boundary": "2026-10-08T19:45:00+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 0,
-      "open_urgent_reverified": 0,
-      "job_comparison_backfills": 1,
-      "evidence_supplements": 1
+      "status_changes": 1,
+      "open_urgent_reverified": 1
     },
-    "search": "NUS招生/IA与MOM规则；2个Neuralink岗位。神经算法、通用数据AI岗位未覆盖；其他地区未扫描。",
+    "status_change_note": "仅PolyU官方咨询办公室/邮箱变化，不是招生门槛或开放日期变化。",
     "actions": [
-      "请NUS项目办确认BN5666计入毕业要求和国际生个案审批、可安排学期与是否延长毕业；不要先接受学期内不计学分的全职实习。"
+      "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。"
     ],
-    "deadline_note": "未本轮复核紧急项目；历史PolyU BMI早轮10月20日待继续核实，不列今日核验数。",
-    "repository_write": "GitHub API提交状态见聊天回执",
-    "public_site_verification": "读取器无法访问，未核验",
+    "search": "限定PolyU BMI与1既有企业实习，部分覆盖；未全量扫描。",
+    "repository_write": "提交结果见聊天回执",
+    "public_site_verification": "网页读取失败，未确认刷新",
+    "pending_previous_run": "2026-10-09 Glasgow重审与Arm对照未出现在当前仓库；需后续重新合并，未谎报恢复。",
     "failures": [
-      "公开站读取失败",
-      "生态学招生认可、2027可选课与项目、岗位资格及总生活成本仍未确认"
+      "公开站无法访问；未核验部署",
+      "2027实际训练/生态学资格/就业及完整成本未知"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-08T19:45:00+08:00",
-    "increment_boundary": "2026-10-07T14:55:21+08:00",
+    "executed_at_beijing": "2026-10-10T22:48:05+08:00",
+    "increment_boundary": "2026-10-08T19:45:00+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 0,
-      "open_urgent_reverified": 0,
-      "job_comparison_backfills": 1,
-      "evidence_supplements": 1
+      "status_changes": 1,
+      "open_urgent_reverified": 1
     },
-    "search": "NUS招生/IA与MOM规则；2个Neuralink岗位。神经算法、通用数据AI岗位未覆盖；其他地区未扫描。",
+    "status_change_note": "仅PolyU官方咨询办公室/邮箱变化，不是招生门槛或开放日期变化。",
     "actions": [
-      "请NUS项目办确认BN5666计入毕业要求和国际生个案审批、可安排学期与是否延长毕业；不要先接受学期内不计学分的全职实习。"
+      "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。"
     ],
-    "deadline_note": "未本轮复核紧急项目；历史PolyU BMI早轮10月20日待继续核实，不列今日核验数。",
-    "repository_write": "GitHub API提交状态见聊天回执",
-    "public_site_verification": "读取器无法访问，未核验",
+    "search": "限定PolyU BMI与1既有企业实习，部分覆盖；未全量扫描。",
+    "repository_write": "提交结果见聊天回执",
+    "public_site_verification": "网页读取失败，未确认刷新",
+    "pending_previous_run": "2026-10-09 Glasgow重审与Arm对照未出现在当前仓库；需后续重新合并，未谎报恢复。",
     "failures": [
-      "公开站读取失败",
-      "生态学招生认可、2027可选课与项目、岗位资格及总生活成本仍未确认"
+      "公开站无法访问；未核验部署",
+      "2027实际训练/生态学资格/就业及完整成本未知"
     ]
   },
   "source_coverage": [
     {
-      "note": "今日已扫描，无高质量新增；保留既有项目风险。",
-      "source_group": "BME申请",
-      "status": "incremental_checks_completed"
-    },
-    {
-      "note": "今日已扫描，无高质量新增；保留既有项目风险。",
       "source_group": "神经工程／脑机接口",
-      "status": "incremental_checks_completed"
+      "status": "partially_verified",
+      "note": "仅PolyU BMI目录，真实2027项目/考核未知。",
+      "verified_at": "2026-10-10"
     },
     {
-      "note": "今日已扫描，无高质量新增；保留既有项目风险。",
-      "source_group": "数字健康／医疗AI",
-      "status": "incremental_checks_completed"
+      "source_group": "软件实现岗位",
+      "status": "partially_verified",
+      "note": "仅Neuralink既有实习，无新证据证明资格或赞助。",
+      "verified_at": "2026-10-10"
     },
     {
-      "note": "Liverpool Healthcare BME 已到官网开放日；生态学相关性须向 pgrecruitment@liverpool.ac.uk 确认，60学分研究项目和机械／材料课程风险仍在。",
-      "source_group": "Conversion／补修项目",
-      "status": "incremental_checks_completed"
-    },
-    {
-      "note": "今日已扫描，无高质量新增；保留既有项目风险。",
-      "source_group": "需确认／不建议",
-      "status": "incremental_checks_completed"
+      "source_group": "CS／数据／AI转换",
+      "status": "not_scanned",
+      "note": "昨日Glasgow与Arm结果未入库，本轮尚未恢复，不声称已同步。"
     }
   ],
   "career_job_samples": [
@@ -7657,7 +7655,7 @@
       "level": "企业实习",
       "published_at": null,
       "first_seen_at": "2026-10-07",
-      "last_verified_at": "2026-10-08",
+      "last_verified_at": "2026-10-10",
       "status": "官方申请表可见；日期未公布",
       "requirements": "Python与C或Rust、Linux、工程能力证据、生产系统；SDK/录制/监控/验证软件。",
       "eligibility": "表单询问毕业年份及美国授权/赞助；未证实当前毕业生可申请或保证赞助。",
@@ -7712,6 +7710,29 @@
       "public_site_verification": "待核验",
       "failures": [
         "公开站web读取器访问失败；项目当届课程、项目名额、毕业数据与签证成本尚未完整核实"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-08T19:45:00+08:00",
+      "increment_boundary": "2026-10-07T14:55:21+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 0,
+        "job_comparison_backfills": 1,
+        "evidence_supplements": 1
+      },
+      "search": "NUS招生/IA与MOM规则；2个Neuralink岗位。神经算法、通用数据AI岗位未覆盖；其他地区未扫描。",
+      "actions": [
+        "请NUS项目办确认BN5666计入毕业要求和国际生个案审批、可安排学期与是否延长毕业；不要先接受学期内不计学分的全职实习。"
+      ],
+      "deadline_note": "未本轮复核紧急项目；历史PolyU BMI早轮10月20日待继续核实，不列今日核验数。",
+      "repository_write": "GitHub API提交状态见聊天回执",
+      "public_site_verification": "读取器无法访问，未核验",
+      "failures": [
+        "公开站读取失败",
+        "生态学招生认可、2027可选课与项目、岗位资格及总生活成本仍未确认"
       ]
     }
   ]
