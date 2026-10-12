@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描；历史证据日期保留。",
+      "note": "仅Glasgow现有项目及旧ENG5220原文；爱尔兰未扫描。",
       "region": "英国与爱尔兰",
-      "status": "not_scanned"
-    },
-    {
-      "note": "本轮未扫描；历史证据日期保留。",
-      "region": "欧洲大陆",
-      "status": "not_scanned"
-    },
-    {
-      "note": "仅PolyU BMI官方招生/目录/费用/联系入口；新加坡未扫描。",
-      "region": "香港与新加坡",
       "status": "partially_verified"
+    },
+    {
+      "note": "仅Arm Budapest岗位；大学及其他欧洲国家未扫描。",
+      "region": "欧洲大陆",
+      "status": "partially_verified"
+    },
+    {
+      "note": "本轮未扫描，历史日期保留。",
+      "region": "香港与新加坡",
+      "status": "not_scanned"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描；历史证据日期保留。"
+      "note": "本轮未扫描，历史日期保留。"
     },
     {
-      "note": "仅Neuralink Implant软件实习复核；加拿大未扫描。",
+      "note": "本轮未扫描，历史日期保留。",
       "region": "美国与加拿大",
-      "status": "partially_verified"
+      "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描；历史证据日期保留。",
+      "note": "本轮未扫描，历史日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-10T22:48:05+08:00",
+  "generated_at": "2026-10-12T18:29:34+08:00",
   "items": [
     {
       "category": "升学",
@@ -7461,40 +7461,104 @@
       "last_verified_at": "2026-10-03",
       "location": "英国・格拉斯哥",
       "organization": "University of Glasgow James Watt School of Engineering",
-      "priority": 93,
+      "priority": 75,
       "published_at": "",
-      "relevance": "医疗器械、监管、人体因素、生物信号、成像与嵌入式计算方向高度契合，并有 NHS Medical Devices Unit 教学；生命科学本科可申请，但必须有显著数学训练。强制个人 MSc Project、工程设计与创业内容使其并非低研究／低沟通负担项目。",
+      "relevance": "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。",
       "section": "Conversion／补修项目",
       "source_url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
-      "summary": "12 个月全日制，2027 申请已开放；国际生 Round 1 于 2026-11-05 截止，之后依次为 12-17、2027-02-04、03-25、05-13、07-08。官网主要面向工程、物理科学或数学本科，但也可接受 Biology、Medicine、Life Science，前提是成绩单含显著 Mathematics 或 Engineering Mathematics；通常须至少两门认可的有学分数学课，包括 Calculus、Algebra、Differential Equations、Statistics、Multivariable／Vector Calculus 等。课程核心含生物物理、统计、Biosignatures Signal Processing、Biosensors、创业、伦理、Human Factors 及个人 MSc Project；选修可走康复工程、DSP、嵌入式编程、超声、先进成像与数据处理。医疗器械监管由 NHS Medical Devices Unit 专家参与，职业方向明确；但个人研究项目、团队工作与创业仍是负担。2027/28 国际生学费 £34,815，押金 £2,000；中国申请者可竞争 £12,500 World Changers China Excellence Award。IELTS 6.5（单项 6.0），旧 TOEFL 99 已失效。官网未列 GRE。",
-      "summary_en": "A one-year Medical Devices Engineering MSc open for 2027 entry, with international Round 1 closing on 5 November 2026. Biology, medicine and life-science degrees may be considered only with significant transcripted mathematics, normally at least two approved credit-bearing modules. The curriculum covers biosignal processing, biosensors, human factors, regulation, imaging and embedded systems, but also requires an individual MSc project and includes entrepreneurship and teamwork. The 2027/28 international fee is £34,815 plus a £2,000 deposit.",
+      "summary": "条件保留：旧学年ENG5220有具体Linux/C++工程项目证据；2027开课、生态学数学资格和实际就业仍待确认。",
+      "summary_en": "",
       "tags": [
-        "历史补录",
-        "需补数学/物理先修",
-        "2027申请已开放",
-        "首轮11月5日截止",
-        "生命科学有条件接受",
-        "至少两门认可数学课",
-        "医疗器械",
-        "法规",
-        "人体因素",
-        "生物信号处理",
-        "生物传感器",
-        "医学成像",
-        "嵌入式编程",
-        "个人MSc Project必修",
-        "创业与团队负担",
-        "2027学费£34,815",
-        "押金£2,000",
-        "中国奖学金£12,500",
-        "IELTS 6.5单项6.0",
-        "需重新考语言",
-        "无需GRE"
+        "条件保留",
+        "旧学年训练证据",
+        "2027选课待确认",
+        "生态学数学资格待确认"
       ],
       "title": "格拉斯哥大学 医疗器械工程理学硕士",
       "title_en": "MSc Medical Devices Engineering — 2027 Entry",
-      "updated_at": "2026-10-03",
-      "verification_status": "verified_official_2027_applications_open_rounds_life_science_math_condition_curriculum_project_regulation_fee_english_and_scholarship_2026_10_03"
+      "updated_at": "2026-10-12",
+      "verification_status": "verified_official_2027_applications_open_rounds_life_science_math_condition_curriculum_project_regulation_fee_english_and_scholarship_2026_10_03",
+      "career_review": {
+        "verified_at": "2026-10-12",
+        "decision": "条件保留",
+        "axes": {
+          "application": {
+            "status": "部分证实",
+            "facts": [
+              "生命科学可考虑但须显著数学训练；生态学未自动认可。",
+              "IELTS6.5各项6.0；旧语言成绩不得自动视为有效。"
+            ],
+            "unknown": [
+              "数学课程认可、补修、推荐与完整申请材料待确认。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
+                "verified_at": "2026-10-12"
+              }
+            ]
+          },
+          "training": {
+            "status": "部分证实",
+            "facts": [
+              "项目目录含信号处理及实时嵌入式选修。",
+              "2025-26 ENG5220：20学分，Linux/C++、多线程/接口/时延与项目，100%持续考核。"
+            ],
+            "unknown": [
+              "2027开课/名额/先修与个人工程课题指导未知；旧课程不等于当届可做项目。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
+                "verified_at": "2026-10-12"
+              },
+              {
+                "url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/?card=course&code=ENG5220",
+                "verified_at": "2026-10-12"
+              }
+            ]
+          },
+          "employment": {
+            "status": "部分证实",
+            "facts": [
+              "官网列少量毕业雇主例子，未提供人数/年份/岗位统计。"
+            ],
+            "unknown": [
+              "不证明总体就业或保证实习；国际生去向、项目名额未知。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
+                "verified_at": "2026-10-12"
+              }
+            ]
+          },
+          "time_cost": {
+            "status": "部分证实",
+            "facts": [
+              "12个月；独立项目必修；旧嵌入式课每周4小时教学实验、实验出勤要求。"
+            ],
+            "unknown": [
+              "2027逐学期项目排期、总工时、完整费用/生活与签证本轮未重新核验。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/",
+                "verified_at": "2026-10-12"
+              },
+              {
+                "url": "https://www.gla.ac.uk/postgraduate/taught/medicaldevicesengineering/?card=course&code=ENG5220",
+                "verified_at": "2026-10-12"
+              }
+            ]
+          }
+        },
+        "next_action": "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。",
+        "job_mapping": {
+          "can_help": "若课程延续且可选，推断可补Linux/C++与部分实时系统实践。",
+          "remaining_gaps": "Arm另需CPU架构与性能知识；OS/驱动/RTOS/CI等未证实被课程覆盖，不承诺达到岗位门槛。"
+        }
+      }
     },
     {
       "category": "升学",
@@ -7582,67 +7646,62 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-10T22:48:05+08:00",
-    "increment_boundary": "2026-10-08T19:45:00+08:00",
+    "executed_at_beijing": "2026-10-12T18:29:34+08:00",
+    "increment_boundary": "2026-10-10T22:48:05+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 1,
-      "open_urgent_reverified": 1
+      "status_changes": 0,
+      "open_urgent_reverified": 0,
+      "career_review_backfills": 1,
+      "job_comparison_backfills": 1
     },
-    "status_change_note": "仅PolyU官方咨询办公室/邮箱变化，不是招生门槛或开放日期变化。",
+    "search": "Glasgow+ENG5220及Arm官方原文；部分扫描。",
     "actions": [
-      "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。"
+      "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。"
     ],
-    "search": "限定PolyU BMI与1既有企业实习，部分覆盖；未全量扫描。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "网页读取失败，未确认刷新",
-    "pending_previous_run": "2026-10-09 Glasgow重审与Arm对照未出现在当前仓库；需后续重新合并，未谎报恢复。",
+    "public_site_verification": "读取失败，未核验",
+    "pending_previous_run": "Glasgow与Arm重新核验并合并；不是10月12日新发布。",
     "failures": [
-      "公开站无法访问；未核验部署",
-      "2027实际训练/生态学资格/就业及完整成本未知"
+      "公开网页无法读取",
+      "2027课程/资格/完整成本与就业统计未证实"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-10T22:48:05+08:00",
-    "increment_boundary": "2026-10-08T19:45:00+08:00",
+    "executed_at_beijing": "2026-10-12T18:29:34+08:00",
+    "increment_boundary": "2026-10-10T22:48:05+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 1,
-      "open_urgent_reverified": 1
+      "status_changes": 0,
+      "open_urgent_reverified": 0,
+      "career_review_backfills": 1,
+      "job_comparison_backfills": 1
     },
-    "status_change_note": "仅PolyU官方咨询办公室/邮箱变化，不是招生门槛或开放日期变化。",
+    "search": "Glasgow+ENG5220及Arm官方原文；部分扫描。",
     "actions": [
-      "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。"
+      "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。"
     ],
-    "search": "限定PolyU BMI与1既有企业实习，部分覆盖；未全量扫描。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "网页读取失败，未确认刷新",
-    "pending_previous_run": "2026-10-09 Glasgow重审与Arm对照未出现在当前仓库；需后续重新合并，未谎报恢复。",
+    "public_site_verification": "读取失败，未核验",
+    "pending_previous_run": "Glasgow与Arm重新核验并合并；不是10月12日新发布。",
     "failures": [
-      "公开站无法访问；未核验部署",
-      "2027实际训练/生态学资格/就业及完整成本未知"
+      "公开网页无法读取",
+      "2027课程/资格/完整成本与就业统计未证实"
     ]
   },
   "source_coverage": [
     {
-      "source_group": "神经工程／脑机接口",
+      "source_group": "实时系统／工程补修",
       "status": "partially_verified",
-      "note": "仅PolyU BMI目录，真实2027项目/考核未知。",
-      "verified_at": "2026-10-10"
+      "note": "Glasgow重审补同步，非今日新发布。"
     },
     {
-      "source_group": "软件实现岗位",
+      "source_group": "邻近软件岗位",
       "status": "partially_verified",
-      "note": "仅Neuralink既有实习，无新证据证明资格或赞助。",
-      "verified_at": "2026-10-10"
-    },
-    {
-      "source_group": "CS／数据／AI转换",
-      "status": "not_scanned",
-      "note": "昨日Glasgow与Arm结果未入库，本轮尚未恢复，不声称已同步。"
+      "note": "Arm历史对照补同步；神经算法/通用AI未扫描。"
     }
   ],
   "career_job_samples": [
@@ -7690,6 +7749,21 @@
       "requirements": "相关CS/EE本科或同等经验；嵌入式经验1年以上（含实习），C或Rust、裸机、EE与信号基础；安全关键固件与测试。",
       "eligibility": "未证实当前能力/经验达到门槛；赞助询问不等于提供赞助。",
       "recommendation": "能力对照补录，不加入立即投递清单；1年以上嵌入式门槛不可用学术RA自动替代。"
+    },
+    {
+      "id": "arm-2026-19562",
+      "title": "Graduate Software Engineer",
+      "company": "Arm",
+      "url": "https://careers.arm.com/en/job/budapest/graduate-software-engineer/33099/101386258448",
+      "location": "Budapest，匈牙利",
+      "level": "企业Graduate，邻近软件非神经岗位",
+      "published_at": "2026-10-01",
+      "first_seen_at": "2026-10-09",
+      "last_verified_at": "2026-10-12",
+      "status": "官方Apply可见，滚动审核，无列明截止",
+      "requirements": "入职前学位及相关经验；C/C++、CPU架构与性能；Linux/驱动/RTOS/测试/CI为优势。",
+      "eligibility": "官网提供签证赞助支持；2024毕业资格、入职时间、个案许可待确认。",
+      "recommendation": "历史能力对照补同步，不推荐立即申请；先核实Graduate毕业年份与技能缺口。"
     }
   ],
   "receipt_history": [
@@ -7733,6 +7807,28 @@
       "failures": [
         "公开站读取失败",
         "生态学招生认可、2027可选课与项目、岗位资格及总生活成本仍未确认"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-10T22:48:05+08:00",
+      "increment_boundary": "2026-10-08T19:45:00+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 1,
+        "open_urgent_reverified": 1
+      },
+      "status_change_note": "仅PolyU官方咨询办公室/邮箱变化，不是招生门槛或开放日期变化。",
+      "actions": [
+        "早轮10月20日前，用当前官网best.info@polyu.edu.hk确认生态学资格、学术推荐数量、2027编程/信号课考核与指导项目名额；不自动发送邮件。"
+      ],
+      "search": "限定PolyU BMI与1既有企业实习，部分覆盖；未全量扫描。",
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "网页读取失败，未确认刷新",
+      "pending_previous_run": "2026-10-09 Glasgow重审与Arm对照未出现在当前仓库；需后续重新合并，未谎报恢复。",
+      "failures": [
+        "公开站无法访问；未核验部署",
+        "2027实际训练/生态学资格/就业及完整成本未知"
       ]
     }
   ]
