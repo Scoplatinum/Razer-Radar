@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "仅Glasgow现有项目及旧ENG5220原文；爱尔兰未扫描。",
+      "note": "本轮未扫描；旧核验日期保留。",
       "region": "英国与爱尔兰",
-      "status": "partially_verified"
+      "status": "not_scanned"
     },
     {
-      "note": "仅Arm Budapest岗位；大学及其他欧洲国家未扫描。",
+      "note": "仅Arm Budapest官方岗位原文，大学与其他地区未扫描。",
       "region": "欧洲大陆",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描，历史日期保留。",
+      "note": "本轮未扫描；旧核验日期保留。",
       "region": "香港与新加坡",
       "status": "not_scanned"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描，历史日期保留。"
+      "note": "本轮未扫描；旧核验日期保留。"
     },
     {
-      "note": "本轮未扫描，历史日期保留。",
+      "note": "Align项目403及目录不可访问，未核验；加拿大未扫描。",
       "region": "美国与加拿大",
-      "status": "not_scanned"
+      "status": "inaccessible"
     },
     {
-      "note": "本轮未扫描，历史日期保留。",
+      "note": "本轮未扫描；旧核验日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-12T18:29:34+08:00",
+  "generated_at": "2026-10-13T10:21:50+08:00",
   "items": [
     {
       "category": "升学",
@@ -4120,7 +4120,14 @@
       "title": "计算机科学 Align 硕士",
       "title_en": "Align MS in Computer Science",
       "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "verification_status": "verified",
+      "access_checks": [
+        {
+          "checked_at": "2026-10-13",
+          "url": "https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/",
+          "result": "403 Forbidden；未核验招生/课程/实习，不刷新这些字段日期"
+        }
+      ]
     },
     {
       "category": "研究",
@@ -7646,62 +7653,65 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-12T18:29:34+08:00",
-    "increment_boundary": "2026-10-10T22:48:05+08:00",
+    "executed_at_beijing": "2026-10-13T10:21:50+08:00",
+    "increment_boundary": "2026-10-12T18:29:34+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
-      "open_urgent_reverified": 0,
-      "career_review_backfills": 1,
-      "job_comparison_backfills": 1
+      "open_urgent_reverified": 0
     },
-    "search": "Glasgow+ENG5220及Arm官方原文；部分扫描。",
+    "evidence_supplements": 1,
+    "search": "Align未完成核验；Arm官方岗位复核。不得称全量检索完成。",
     "actions": [
-      "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。"
+      "准备岗位对应的真实C/C++/系统作品；Arm指定考核不使用AI代做；先确认Graduate届别资格。"
     ],
-    "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "读取失败，未核验",
-    "pending_previous_run": "Glasgow与Arm重新核验并合并；不是10月12日新发布。",
+    "four_axes": "Align申请、训练、就业、时间成本本轮均无新增已核验证据；保留旧记录待重审，不刷新字段日期。",
+    "deadline_note": "本轮未复核临近期限。",
+    "repository_write": "提交状态见聊天回执",
+    "public_site_verification": "待核验",
     "failures": [
-      "公开网页无法读取",
-      "2027课程/资格/完整成本与就业统计未证实"
+      "Align项目403，目录无法访问；实习核验未完成"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-12T18:29:34+08:00",
-    "increment_boundary": "2026-10-10T22:48:05+08:00",
+    "executed_at_beijing": "2026-10-13T10:21:50+08:00",
+    "increment_boundary": "2026-10-12T18:29:34+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
-      "open_urgent_reverified": 0,
-      "career_review_backfills": 1,
-      "job_comparison_backfills": 1
+      "open_urgent_reverified": 0
     },
-    "search": "Glasgow+ENG5220及Arm官方原文；部分扫描。",
+    "evidence_supplements": 1,
+    "search": "Align未完成核验；Arm官方岗位复核。不得称全量检索完成。",
     "actions": [
-      "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。"
+      "准备岗位对应的真实C/C++/系统作品；Arm指定考核不使用AI代做；先确认Graduate届别资格。"
     ],
-    "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "读取失败，未核验",
-    "pending_previous_run": "Glasgow与Arm重新核验并合并；不是10月12日新发布。",
+    "four_axes": "Align申请、训练、就业、时间成本本轮均无新增已核验证据；保留旧记录待重审，不刷新字段日期。",
+    "deadline_note": "本轮未复核临近期限。",
+    "repository_write": "提交状态见聊天回执",
+    "public_site_verification": "待核验",
     "failures": [
-      "公开网页无法读取",
-      "2027课程/资格/完整成本与就业统计未证实"
+      "Align项目403，目录无法访问；实习核验未完成"
     ]
   },
   "source_coverage": [
     {
-      "source_group": "实时系统／工程补修",
-      "status": "partially_verified",
-      "note": "Glasgow重审补同步，非今日新发布。"
+      "source_group": "CS转换",
+      "status": "inaccessible",
+      "note": "Align两官方入口读取失败，不据旧记录更新资格或实习日期。"
     },
     {
-      "source_group": "邻近软件岗位",
+      "source_group": "邻近系统软件",
       "status": "partially_verified",
-      "note": "Arm历史对照补同步；神经算法/通用AI未扫描。"
+      "note": "Arm既有岗位与考核使用AI规则复核；无新增投递建议。"
+    },
+    {
+      "source_group": "神经信号／BCI",
+      "status": "not_scanned",
+      "note": "本轮未扫描。"
     }
   ],
   "career_job_samples": [
@@ -7759,11 +7769,21 @@
       "level": "企业Graduate，邻近软件非神经岗位",
       "published_at": "2026-10-01",
       "first_seen_at": "2026-10-09",
-      "last_verified_at": "2026-10-12",
+      "last_verified_at": "2026-10-13",
       "status": "官方Apply可见，滚动审核，无列明截止",
       "requirements": "入职前学位及相关经验；C/C++、CPU架构与性能；Linux/驱动/RTOS/测试/CI为优势。",
       "eligibility": "官网提供签证赞助支持；2024毕业资格、入职时间、个案许可待确认。",
-      "recommendation": "历史能力对照补同步，不推荐立即申请；先核实Graduate毕业年份与技能缺口。"
+      "recommendation": "历史能力对照补同步，不推荐立即申请；先核实Graduate毕业年份与技能缺口。",
+      "assessment_rules": {
+        "verified_at": "2026-10-13",
+        "url": "https://careers.arm.com/en/job/budapest/graduate-software-engineer/33099/101386258448",
+        "facts": [
+          "官方允许AI辅助准备，但申请/面试应体现本人能力；不得用AI完成指定考核任务。"
+        ],
+        "unknown": [
+          "2024毕业的Graduate资格、具体入职月份及个案签证未证明。"
+        ]
+      }
     }
   ],
   "receipt_history": [
@@ -7829,6 +7849,29 @@
       "failures": [
         "公开站无法访问；未核验部署",
         "2027实际训练/生态学资格/就业及完整成本未知"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-12T18:29:34+08:00",
+      "increment_boundary": "2026-10-10T22:48:05+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 0,
+        "career_review_backfills": 1,
+        "job_comparison_backfills": 1
+      },
+      "search": "Glasgow+ENG5220及Arm官方原文；部分扫描。",
+      "actions": [
+        "提交成绩单数学课名称/学分/成绩确认生态学资格；询问2027 ENG5220是否开课、可选及指导项目名额。"
+      ],
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "读取失败，未核验",
+      "pending_previous_run": "Glasgow与Arm重新核验并合并；不是10月12日新发布。",
+      "failures": [
+        "公开网页无法读取",
+        "2027课程/资格/完整成本与就业统计未证实"
       ]
     }
   ]
