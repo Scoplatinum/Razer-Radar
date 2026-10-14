@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描；旧核验日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "仅Arm Budapest官方岗位原文，大学与其他地区未扫描。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "欧洲大陆",
-      "status": "partially_verified"
+      "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描；旧核验日期保留。",
+      "note": "仅PolyU BMI入口：早轮/目录/费用；生态学个案与实际训练仍未知，新加坡未扫描。",
       "region": "香港与新加坡",
-      "status": "not_scanned"
+      "status": "partially_verified"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描；旧核验日期保留。"
+      "note": "本轮未扫描，历史字段日期保留。"
     },
     {
-      "note": "Align项目403及目录不可访问，未核验；加拿大未扫描。",
+      "note": "仅Neuralink既有DSP岗位；仍不作低经验入口推荐，加拿大未扫描。",
       "region": "美国与加拿大",
-      "status": "inaccessible"
+      "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描；旧核验日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-13T10:21:50+08:00",
+  "generated_at": "2026-10-14T20:21:04+08:00",
   "items": [
     {
       "category": "升学",
@@ -6492,7 +6492,7 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-10"
+                "verified_at": "2026-10-14"
               }
             ]
           },
@@ -6507,7 +6507,7 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-10"
+                "verified_at": "2026-10-14"
               }
             ]
           },
@@ -6536,7 +6536,7 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-10"
+                "verified_at": "2026-10-14"
               }
             ]
           }
@@ -6547,7 +6547,7 @@
           "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
           "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
         },
-        "field_update_at": "2026-10-10",
+        "field_update_at": "2026-10-14",
         "contact": {
           "email": "best.info@polyu.edu.hk",
           "verified_at": "2026-10-10",
@@ -7653,63 +7653,61 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-13T10:21:50+08:00",
-    "increment_boundary": "2026-10-12T18:29:34+08:00",
+    "executed_at_beijing": "2026-10-14T20:21:04+08:00",
+    "increment_boundary": "2026-10-13T10:21:50+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
-      "open_urgent_reverified": 0
+      "open_urgent_reverified": 1
     },
-    "evidence_supplements": 1,
-    "search": "Align未完成核验；Arm官方岗位复核。不得称全量检索完成。",
+    "search": "限PolyU BMI官方入口与Neuralink既有DSP岗位；非全量。",
     "actions": [
-      "准备岗位对应的真实C/C++/系统作品；Arm指定考核不使用AI代做；先确认Graduate届别资格。"
+      "10月20日早轮前确认生态学资格、有效英语/推荐材料及当届编程考核/指导名额；主轮2月25日，不因早轮制造必投建议。"
     ],
-    "four_axes": "Align申请、训练、就业、时间成本本轮均无新增已核验证据；保留旧记录待重审，不刷新字段日期。",
-    "deadline_note": "本轮未复核临近期限。",
-    "repository_write": "提交状态见聊天回执",
-    "public_site_verification": "待核验",
+    "four_axes": "申请/训练/时间成本仅既有页面字段复核；就业未知，个案先修、实际项目及完整费用/签证仍待确认。",
+    "repository_write": "提交结果见聊天回执",
+    "public_site_verification": "网页读取失败，未核验",
     "failures": [
-      "Align项目403，目录无法访问；实习核验未完成"
+      "公开网页不可访问",
+      "无新增职业适配证据"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-13T10:21:50+08:00",
-    "increment_boundary": "2026-10-12T18:29:34+08:00",
+    "executed_at_beijing": "2026-10-14T20:21:04+08:00",
+    "increment_boundary": "2026-10-13T10:21:50+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
-      "open_urgent_reverified": 0
+      "open_urgent_reverified": 1
     },
-    "evidence_supplements": 1,
-    "search": "Align未完成核验；Arm官方岗位复核。不得称全量检索完成。",
+    "search": "限PolyU BMI官方入口与Neuralink既有DSP岗位；非全量。",
     "actions": [
-      "准备岗位对应的真实C/C++/系统作品；Arm指定考核不使用AI代做；先确认Graduate届别资格。"
+      "10月20日早轮前确认生态学资格、有效英语/推荐材料及当届编程考核/指导名额；主轮2月25日，不因早轮制造必投建议。"
     ],
-    "four_axes": "Align申请、训练、就业、时间成本本轮均无新增已核验证据；保留旧记录待重审，不刷新字段日期。",
-    "deadline_note": "本轮未复核临近期限。",
-    "repository_write": "提交状态见聊天回执",
-    "public_site_verification": "待核验",
+    "four_axes": "申请/训练/时间成本仅既有页面字段复核；就业未知，个案先修、实际项目及完整费用/签证仍待确认。",
+    "repository_write": "提交结果见聊天回执",
+    "public_site_verification": "网页读取失败，未核验",
     "failures": [
-      "Align项目403，目录无法访问；实习核验未完成"
+      "公开网页不可访问",
+      "无新增职业适配证据"
     ]
   },
   "source_coverage": [
     {
-      "source_group": "CS转换",
-      "status": "inaccessible",
-      "note": "Align两官方入口读取失败，不据旧记录更新资格或实习日期。"
-    },
-    {
-      "source_group": "邻近系统软件",
+      "source_group": "神经工程／脑机接口",
       "status": "partially_verified",
-      "note": "Arm既有岗位与考核使用AI规则复核；无新增投递建议。"
+      "note": "PolyU目录字段复核，无新证据证明2027项目名额或就业。"
     },
     {
-      "source_group": "神经信号／BCI",
+      "source_group": "神经DSP岗位",
+      "status": "partially_verified",
+      "note": "既有Neuralink岗位仍需多年经验，不扩大投递清单。"
+    },
+    {
+      "source_group": "CS／数据／AI及转换",
       "status": "not_scanned",
       "note": "本轮未扫描。"
     }
@@ -7739,7 +7737,7 @@
       "level": "企业社招，3年以上",
       "published_at": null,
       "first_seen_at": "2026-10-07",
-      "last_verified_at": "2026-10-07",
+      "last_verified_at": "2026-10-14",
       "status": "官方申请表可见；日期未公布",
       "requirements": "相关EE/CE/信号专业；DSP真实产品3年以上；spike检测、定点量化、Python/C与硬件约束。",
       "eligibility": "硬性多年经验；工作授权/赞助需个案核实。",
@@ -7872,6 +7870,28 @@
       "failures": [
         "公开网页无法读取",
         "2027课程/资格/完整成本与就业统计未证实"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-13T10:21:50+08:00",
+      "increment_boundary": "2026-10-12T18:29:34+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 0
+      },
+      "evidence_supplements": 1,
+      "search": "Align未完成核验；Arm官方岗位复核。不得称全量检索完成。",
+      "actions": [
+        "准备岗位对应的真实C/C++/系统作品；Arm指定考核不使用AI代做；先确认Graduate届别资格。"
+      ],
+      "four_axes": "Align申请、训练、就业、时间成本本轮均无新增已核验证据；保留旧记录待重审，不刷新字段日期。",
+      "deadline_note": "本轮未复核临近期限。",
+      "repository_write": "提交状态见聊天回执",
+      "public_site_verification": "待核验",
+      "failures": [
+        "Align项目403，目录无法访问；实习核验未完成"
       ]
     }
   ]
