@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描，历史字段日期保留。",
+      "note": "本轮未扫描，历史日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描，历史字段日期保留。",
+      "note": "本轮未扫描，历史日期保留。",
       "region": "欧洲大陆",
       "status": "not_scanned"
     },
     {
-      "note": "仅PolyU BMI入口：早轮/目录/费用；生态学个案与实际训练仍未知，新加坡未扫描。",
+      "note": "本轮未扫描，历史日期保留。",
       "region": "香港与新加坡",
-      "status": "partially_verified"
+      "status": "not_scanned"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描，历史字段日期保留。"
+      "note": "本轮未扫描，历史日期保留。"
     },
     {
-      "note": "仅Neuralink既有DSP岗位；仍不作低经验入口推荐，加拿大未扫描。",
+      "note": "仅既有Neuralink嵌入式岗位，非全量；加拿大未扫描。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描，历史字段日期保留。",
+      "note": "仅Melbourne BME入口与结构页；国际视图/手册条件未完整核实，新西兰未扫描。",
       "region": "澳大利亚与新西兰",
-      "status": "not_scanned"
+      "status": "partially_verified"
     }
   ],
-  "generated_at": "2026-10-14T20:21:04+08:00",
+  "generated_at": "2026-10-15T08:03:21+08:00",
   "items": [
     {
       "category": "升学",
@@ -6861,28 +6861,95 @@
       "last_verified_at": "2026-09-10",
       "location": "澳大利亚・墨尔本",
       "organization": "The University of Melbourne",
-      "priority": 87,
+      "priority": 60,
       "published_at": "",
-      "relevance": "为非工程背景提供最长三年路径，是正式转换通道；你的生命科学背景合适，但必须逐门核对 Calculus 2、Linear Algebra 以及两门生物／化学等先修，时间和总成本明显较高。",
+      "relevance": "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。",
       "section": "Conversion／补修项目",
       "source_url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-engineering/entry-requirements/",
-      "summary": "非工程背景通常走 3 年路径，已有相关工程背景者可缩短至 2–2.5 年。入学要求通常为至少 65% 加权均分，并具备 Calculus 2、Linear Algebra，以及两门生物／化学课程或等效工程数学背景。2027 年 2 月入学截止 2026 年 11 月 30 日，7 月入学截止 2027 年 5 月 31 日；英语要求 IELTS 6.5（单项 6.0）或 TOEFL 81。",
-      "summary_en": "A formal three-year pathway for non-engineering graduates, with advanced standing for relevant engineering study. Applicants need calculus, linear algebra and specified biology or chemistry prerequisites, plus a 65% equivalent average. The long duration and prerequisite audit make it a conditional rather than top-priority choice.",
+      "summary": "条件保留：非工程基础年入口已见，通常需2–3年；2027国际生先修须确认。CAP单科补课不适用于学生签证申请人；实习列在课程页不保证安排。",
+      "summary_en": "",
       "tags": [
-        "历史补录",
-        "2027开放",
-        "11月30日截止",
-        "非工程背景三年路径",
-        "微积分先修",
-        "线性代数先修",
-        "需核对成绩单",
-        "IELTS 6.5",
-        "TOEFL 81"
+        "条件保留",
+        "国际生先修待确认",
+        "2–3年时间成本",
+        "实习不保证"
       ],
       "title": "墨尔本大学 生物医学工程硕士（非工程背景路径）",
       "title_en": "Master of Biomedical Engineering — Non-engineering Pathway",
-      "updated_at": "2026-09-10",
-      "verification_status": "verified_official_2027_deadlines_degree_pathways_prerequisites_and_english_requirements"
+      "updated_at": "2026-10-15",
+      "verification_status": "verified_official_2027_deadlines_degree_pathways_prerequisites_and_english_requirements",
+      "career_review": {
+        "verified_at": "2026-10-15",
+        "decision": "条件保留",
+        "axes": {
+          "application": {
+            "status": "部分证实",
+            "facts": [
+              "官网明确非工程背景基础年路径；外校学分减免需详细课程大纲，逐案评估。",
+              "CAP单科补先修路线明确不适用于学生签证持有人或申请人。"
+            ],
+            "unknown": [
+              "页面默认domestic视图、学位具体录取条件未完整呈现；2027国际生生态学/数学/物理资格必须确认。"
+            ],
+            "sources": [
+              {
+                "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-engineering/entry-requirements/",
+                "verified_at": "2026-10-15"
+              }
+            ]
+          },
+          "training": {
+            "status": "部分证实",
+            "facts": [
+              "通常2–3年，非工程背景先基础工程，再专业课；有行业/设计/研究项目路径。"
+            ],
+            "unknown": [
+              "2027具体信号数据、编程/电路/实时训练、实际可选与指导名额未知；不能只据学位名推断BCI训练。"
+            ],
+            "sources": [
+              {
+                "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-engineering/structure/",
+                "verified_at": "2026-10-15"
+              }
+            ]
+          },
+          "employment": {
+            "status": "部分证实",
+            "facts": [
+              "页面列10–15周学分实习可能在医院/研究机构；不等于企业实习或保证安排。"
+            ],
+            "unknown": [
+              "安排机制、竞争名额、国际生条件与毕业就业统计未核实。"
+            ],
+            "sources": [
+              {
+                "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-engineering/structure/",
+                "verified_at": "2026-10-15"
+              }
+            ]
+          },
+          "time_cost": {
+            "status": "部分证实",
+            "facts": [
+              "非工程路径可能3年；学分减免逐案，不能预设2年。"
+            ],
+            "unknown": [
+              "2027国际总费用、生活费、毕业排期/课业工时与工作许可本轮未知。"
+            ],
+            "sources": [
+              {
+                "url": "https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-engineering/structure/",
+                "verified_at": "2026-10-15"
+              }
+            ]
+          }
+        },
+        "next_action": "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。",
+        "job_mapping": {
+          "can_help": "基础年提供工程转向入口，但实际工程训练覆盖需逐课验证。",
+          "remaining_gaps": "对照Neuralink嵌入式岗位，C/Rust裸机、EE/信号基础及1年嵌入式经验仍未证实由项目满足。"
+        }
+      }
     },
     {
       "category": "升学",
@@ -7653,63 +7720,60 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-14T20:21:04+08:00",
-    "increment_boundary": "2026-10-13T10:21:50+08:00",
+    "executed_at_beijing": "2026-10-15T08:03:21+08:00",
+    "increment_boundary": "2026-10-14T20:21:04+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
-      "open_urgent_reverified": 1
+      "open_urgent_reverified": 0
     },
-    "search": "限PolyU BMI官方入口与Neuralink既有DSP岗位；非全量。",
+    "career_assessment_revisions": 1,
+    "search": "Melbourne资格/结构与Neuralink嵌入式岗位；仅部分完成。",
     "actions": [
-      "10月20日早轮前确认生态学资格、有效英语/推荐材料及当届编程考核/指导名额；主轮2月25日，不因早轮制造必投建议。"
+      "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。"
     ],
-    "four_axes": "申请/训练/时间成本仅既有页面字段复核；就业未知，个案先修、实际项目及完整费用/签证仍待确认。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "网页读取失败，未核验",
+    "public_site_verification": "待核验",
     "failures": [
-      "公开网页不可访问",
-      "无新增职业适配证据"
+      "官方链接指向2026手册且读取失败，未冒充2027已核验",
+      "默认domestic视图不用于国际费用或完整资格",
+      "国际费用/签证与实际训练未知"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-14T20:21:04+08:00",
-    "increment_boundary": "2026-10-13T10:21:50+08:00",
+    "executed_at_beijing": "2026-10-15T08:03:21+08:00",
+    "increment_boundary": "2026-10-14T20:21:04+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
-      "open_urgent_reverified": 1
+      "open_urgent_reverified": 0
     },
-    "search": "限PolyU BMI官方入口与Neuralink既有DSP岗位；非全量。",
+    "career_assessment_revisions": 1,
+    "search": "Melbourne资格/结构与Neuralink嵌入式岗位；仅部分完成。",
     "actions": [
-      "10月20日早轮前确认生态学资格、有效英语/推荐材料及当届编程考核/指导名额；主轮2月25日，不因早轮制造必投建议。"
+      "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。"
     ],
-    "four_axes": "申请/训练/时间成本仅既有页面字段复核；就业未知，个案先修、实际项目及完整费用/签证仍待确认。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "网页读取失败，未核验",
+    "public_site_verification": "待核验",
     "failures": [
-      "公开网页不可访问",
-      "无新增职业适配证据"
+      "官方链接指向2026手册且读取失败，未冒充2027已核验",
+      "默认domestic视图不用于国际费用或完整资格",
+      "国际费用/签证与实际训练未知"
     ]
   },
   "source_coverage": [
     {
-      "source_group": "神经工程／脑机接口",
+      "source_group": "工程补修／转换",
       "status": "partially_verified",
-      "note": "PolyU目录字段复核，无新证据证明2027项目名额或就业。"
+      "note": "仅Melbourne基础年与补先修限制；非2027完整录取核验。"
     },
     {
-      "source_group": "神经DSP岗位",
+      "source_group": "嵌入式岗位",
       "status": "partially_verified",
-      "note": "既有Neuralink岗位仍需多年经验，不扩大投递清单。"
-    },
-    {
-      "source_group": "CS／数据／AI及转换",
-      "status": "not_scanned",
-      "note": "本轮未扫描。"
+      "note": "既有岗位1年经验门槛，未新增投递建议。"
     }
   ],
   "career_job_samples": [
@@ -7752,7 +7816,7 @@
       "level": "企业社招，junior/senior均招，非零经验",
       "published_at": null,
       "first_seen_at": "2026-10-08",
-      "last_verified_at": "2026-10-08",
+      "last_verified_at": "2026-10-15",
       "status": "官方申请表可见；发布日期未知",
       "requirements": "相关CS/EE本科或同等经验；嵌入式经验1年以上（含实习），C或Rust、裸机、EE与信号基础；安全关键固件与测试。",
       "eligibility": "未证实当前能力/经验达到门槛；赞助询问不等于提供赞助。",
@@ -7892,6 +7956,27 @@
       "public_site_verification": "待核验",
       "failures": [
         "Align项目403，目录无法访问；实习核验未完成"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-14T20:21:04+08:00",
+      "increment_boundary": "2026-10-13T10:21:50+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 1
+      },
+      "search": "限PolyU BMI官方入口与Neuralink既有DSP岗位；非全量。",
+      "actions": [
+        "10月20日早轮前确认生态学资格、有效英语/推荐材料及当届编程考核/指导名额；主轮2月25日，不因早轮制造必投建议。"
+      ],
+      "four_axes": "申请/训练/时间成本仅既有页面字段复核；就业未知，个案先修、实际项目及完整费用/签证仍待确认。",
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "网页读取失败，未核验",
+      "failures": [
+        "公开网页不可访问",
+        "无新增职业适配证据"
       ]
     }
   ]
