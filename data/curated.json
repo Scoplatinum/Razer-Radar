@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描，历史日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描，历史日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "欧洲大陆",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描，历史日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "香港与新加坡",
       "status": "not_scanned"
     },
     {
       "region": "日本与韩国",
-      "status": "not_scanned",
-      "note": "本轮未扫描，历史日期保留。"
+      "status": "partially_verified",
+      "note": "东京CS AY2027指南复核并补同步；韩国未扫描。"
     },
     {
-      "note": "仅既有Neuralink嵌入式岗位，非全量；加拿大未扫描。",
+      "note": "仅既有Neuralink软件实习；加拿大未扫描。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "仅Melbourne BME入口与结构页；国际视图/手册条件未完整核实，新西兰未扫描。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "澳大利亚与新西兰",
-      "status": "partially_verified"
+      "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-15T08:03:21+08:00",
+  "generated_at": "2026-10-17T16:31:35+08:00",
   "items": [
     {
       "category": "升学",
@@ -4384,29 +4384,102 @@
     },
     {
       "category": "升学",
-      "current_status": "legacy_record_status_not_reverified_this_run",
+      "current_status": "ay2027_cs_masters_summer_exam_passed_no_winter_round",
       "deadline": "",
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-07-19",
       "id": "utokyo-cs-2027",
       "location": "日本・东京",
       "organization": "The University of Tokyo",
-      "priority": 82,
+      "priority": 20,
       "published_at": "2026-07-19",
-      "relevance": "亚洲地区当前可核验的 2027 招生节点；需细查数学考试与研究室要求。",
+      "relevance": "从当前可投名单降级；如考虑后续学年，先用历年题检查CS数学基础，再查新招生公告。",
       "section": "数据／计算／AI项目",
       "source_url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/admission_e.shtml",
-      "summary": "信息理工研究科已发布 2027 学年计算机科学硕博招生指南入口；TOEFL 替代英语考试，多数研究科课程自 2026 年 4 月起以英语授课。",
-      "summary_en": "The graduate school has published its AY 2027 admissions route; TOEFL replaces the English exam and most graduate lectures moved to English from April 2026.",
+      "summary": "AY2027 CS硕士夏季考试已过且无冬季硕士轮；仅降级保留历史，不作为当前可投转换型机会。",
+      "summary_en": "",
       "tags": [
-        "日本",
-        "2027招生",
-        "需查考试要求"
+        "降级观察",
+        "历史纠正补同步",
+        "无冬季硕士轮"
       ],
       "title": "计算机科学硕士／博士 2027 招生",
       "title_en": "Computer Science Master's and Doctoral Admissions — AY 2027",
-      "updated_at": "2026-07-19",
-      "verification_status": "verified"
+      "updated_at": "2026-10-17",
+      "verification_status": "verified",
+      "career_review": {
+        "verified_at": "2026-10-17",
+        "decision": "降级观察",
+        "axes": {
+          "application": {
+            "status": "明确不符",
+            "facts": [
+              "AY2027 CS硕士仅夏季考试，无冬季硕士轮；2026年8月考试已过。",
+              "一般需事先联系意向导师、选实验室并提交研究计划。"
+            ],
+            "unknown": [
+              "仅针对所读CS常规路线；后续学年或其他特殊路线未核验。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/cs_admission_guide2027_en.pdf",
+                "verified_at": "2026-10-17"
+              }
+            ]
+          },
+          "training": {
+            "status": "部分证实",
+            "facts": [
+              "考试覆盖数学、算法、OS、架构、数字电路等已有基础。"
+            ],
+            "unknown": [
+              "考试内容非培养成效；实际课程、工程课题与补修未知。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/cs_admission_guide2027_en.pdf",
+                "verified_at": "2026-10-17"
+              }
+            ]
+          },
+          "employment": {
+            "status": "未知",
+            "facts": [],
+            "unknown": [
+              "企业实习与毕业去向未核验。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/cs_admission_guide2027_en.pdf",
+                "verified_at": "2026-10-17"
+              }
+            ]
+          },
+          "time_cost": {
+            "status": "未知",
+            "facts": [],
+            "unknown": [
+              "完整费用、训练工时、签证与毕业排期未核验。"
+            ],
+            "sources": [
+              {
+                "url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/cs_admission_guide2027_en.pdf",
+                "verified_at": "2026-10-17"
+              }
+            ]
+          }
+        },
+        "next_action": "从当前可投名单降级；如考虑后续学年，先用历年题检查CS数学基础，再查新招生公告。",
+        "job_mapping": {
+          "can_help": "无新增课程训练证据，不能当作零基础conversion。",
+          "remaining_gaps": "生产级Python/C/Rust、Linux及可交付项目仍须证实；Neuralink实习不因学位名保证资格。"
+        },
+        "contact": {
+          "email": "admissions@is.s.u-tokyo.ac.jp",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/cs_admission_guide2027_en.pdf",
+          "verified_at": "2026-10-17"
+        }
+      }
     },
     {
       "category": "研究",
@@ -7720,60 +7793,58 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-15T08:03:21+08:00",
-    "increment_boundary": "2026-10-14T20:21:04+08:00",
+    "executed_at_beijing": "2026-10-17T16:31:35+08:00",
+    "increment_boundary": "2026-10-15T08:03:21+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 0,
+      "status_changes": 1,
       "open_urgent_reverified": 0
     },
-    "career_assessment_revisions": 1,
-    "search": "Melbourne资格/结构与Neuralink嵌入式岗位；仅部分完成。",
+    "status_change_note": "昨日未写入的东京CS硕士过期/无冬季轮纠正，今日补同步；不是今日关闭。",
     "actions": [
-      "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。"
+      "从当前可投名单降级；如考虑后续学年，先用历年题检查CS数学基础，再查新招生公告。"
     ],
+    "search": "东京CS原文与既有Neuralink实习；部分扫描。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "待核验",
+    "public_site_verification": "公开数据地址读取失败，未确认刷新",
     "failures": [
-      "官方链接指向2026手册且读取失败，未冒充2027已核验",
-      "默认domestic视图不用于国际费用或完整资格",
-      "国际费用/签证与实际训练未知"
+      "公开网页读取失败",
+      "训练/就业/完整成本缺证据"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-15T08:03:21+08:00",
-    "increment_boundary": "2026-10-14T20:21:04+08:00",
+    "executed_at_beijing": "2026-10-17T16:31:35+08:00",
+    "increment_boundary": "2026-10-15T08:03:21+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 0,
+      "status_changes": 1,
       "open_urgent_reverified": 0
     },
-    "career_assessment_revisions": 1,
-    "search": "Melbourne资格/结构与Neuralink嵌入式岗位；仅部分完成。",
+    "status_change_note": "昨日未写入的东京CS硕士过期/无冬季轮纠正，今日补同步；不是今日关闭。",
     "actions": [
-      "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。"
+      "从当前可投名单降级；如考虑后续学年，先用历年题检查CS数学基础，再查新招生公告。"
     ],
+    "search": "东京CS原文与既有Neuralink实习；部分扫描。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "待核验",
+    "public_site_verification": "公开数据地址读取失败，未确认刷新",
     "failures": [
-      "官方链接指向2026手册且读取失败，未冒充2027已核验",
-      "默认domestic视图不用于国际费用或完整资格",
-      "国际费用/签证与实际训练未知"
+      "公开网页读取失败",
+      "训练/就业/完整成本缺证据"
     ]
   },
   "source_coverage": [
     {
-      "source_group": "工程补修／转换",
+      "source_group": "CS转换",
       "status": "partially_verified",
-      "note": "仅Melbourne基础年与补先修限制；非2027完整录取核验。"
+      "note": "东京CS历史纠正补同步，非今日关闭。"
     },
     {
-      "source_group": "嵌入式岗位",
+      "source_group": "软件岗位",
       "status": "partially_verified",
-      "note": "既有岗位1年经验门槛，未新增投递建议。"
+      "note": "既有Neuralink实习复核，无新增资格证据。"
     }
   ],
   "career_job_samples": [
@@ -7786,7 +7857,7 @@
       "level": "企业实习",
       "published_at": null,
       "first_seen_at": "2026-10-07",
-      "last_verified_at": "2026-10-10",
+      "last_verified_at": "2026-10-17",
       "status": "官方申请表可见；日期未公布",
       "requirements": "Python与C或Rust、Linux、工程能力证据、生产系统；SDK/录制/监控/验证软件。",
       "eligibility": "表单询问毕业年份及美国授权/赞助；未证实当前毕业生可申请或保证赞助。",
@@ -7977,6 +8048,28 @@
       "failures": [
         "公开网页不可访问",
         "无新增职业适配证据"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-15T08:03:21+08:00",
+      "increment_boundary": "2026-10-14T20:21:04+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 0
+      },
+      "career_assessment_revisions": 1,
+      "search": "Melbourne资格/结构与Neuralink嵌入式岗位；仅部分完成。",
+      "actions": [
+        "先用官网咨询表提交数学/物理课程大纲，确认2027国际生资格和补课路线；不要假设可通过CAP满足先修或自动缩短至2年。"
+      ],
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "待核验",
+      "failures": [
+        "官方链接指向2026手册且读取失败，未冒充2027已核验",
+        "默认domestic视图不用于国际费用或完整资格",
+        "国际费用/签证与实际训练未知"
       ]
     }
   ]
