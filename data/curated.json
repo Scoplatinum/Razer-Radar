@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描；历史字段日期保留。",
+      "note": "本轮未扫描；历史核验日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描；历史字段日期保留。",
+      "note": "本轮未扫描；历史核验日期保留。",
       "region": "欧洲大陆",
       "status": "not_scanned"
     },
     {
-      "note": "PolyU BMI及通用语言原文；新加坡未扫描。",
+      "note": "仅PolyU BMI截止日/材料入口；具体门户截点未核验，新加坡未读。",
       "region": "香港与新加坡",
       "status": "partially_verified"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描；历史字段日期保留。"
+      "note": "本轮未扫描；历史核验日期保留。"
     },
     {
-      "note": "仅Neuralink既有软件实习；加拿大未扫描。",
+      "note": "仅既有Neuralink软件实习，无新增资格证据，加拿大未读。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描；历史字段日期保留。",
+      "note": "本轮未扫描；历史核验日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-19T11:57:17+08:00",
+  "generated_at": "2026-10-20T09:54:02+08:00",
   "items": [
     {
       "category": "升学",
@@ -6534,7 +6534,7 @@
       "organization": "The Hong Kong Polytechnic University",
       "priority": 90,
       "published_at": "",
-      "relevance": "若考虑10月20日早轮，先确认有效且接受形式的语言成绩及能否补交；旧过期成绩不作有效证明。未齐时向best.info@polyu.edu.hk确认主轮/材料安排，不自动提交。",
+      "relevance": "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
       "summary": "2027 BMI：31学分；全日制通常1.5年。基础科学可申请但不等于生态学已被认可；神经信号课程存在，实际编程考核与设备/项目名额待确认。",
@@ -6566,7 +6566,7 @@
             "sources": [
               {
                 "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
-                "verified_at": "2026-10-18"
+                "verified_at": "2026-10-20"
               },
               {
                 "url": "https://www.polyu.edu.hk/study/pg/taught-postgraduate/admission-requirements-tpg",
@@ -6625,19 +6625,27 @@
             ]
           }
         },
-        "next_action": "若考虑10月20日早轮，先确认有效且接受形式的语言成绩及能否补交；旧过期成绩不作有效证明。未齐时向best.info@polyu.edu.hk确认主轮/材料安排，不自动提交。",
+        "next_action": "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。",
         "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
         "job_mapping": {
           "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
           "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
         },
-        "field_update_at": "2026-10-19",
+        "field_update_at": "2026-10-20",
         "contact": {
           "email": "best.info@polyu.edu.hk",
           "verified_at": "2026-10-10",
           "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
           "note": "当前官方页为BEST General Office；旧回执bme.info不再作为当前咨询入口。"
         }
+      },
+      "round_check": {
+        "verified_at": "2026-10-20",
+        "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
+        "early_deadline": "2026-10-20",
+        "main_deadline": "2027-02-25",
+        "exact_cutoff_time": "未在所读项目页列明，不推定23:59",
+        "portal_submission_state": "未登录/未核验，未替用户申请"
       }
     },
     {
@@ -7804,58 +7812,60 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-19T11:57:17+08:00",
-    "increment_boundary": "2026-10-18T18:58:05+08:00",
+    "executed_at_beijing": "2026-10-20T09:54:02+08:00",
+    "increment_boundary": "2026-10-19T11:57:17+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
       "open_urgent_reverified": 1
     },
-    "evidence_supplements": 1,
     "actions": [
-      "若考虑10月20日早轮，先确认有效且接受形式的语言成绩及能否补交；旧过期成绩不作有效证明。未齐时向best.info@polyu.edu.hk确认主轮/材料安排，不自动提交。"
+      "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。"
     ],
-    "search": "PolyU BMI+语言规则、既有企业实习；部分覆盖。",
-    "four_axes": "申请英语新增证据；训练/就业/时间成本无新证据，原核验日期保留。",
+    "search": "PolyU BMI及既有软件实习，部分覆盖。",
+    "four_axes": "仅申请截止/材料入口复核；训练/就业/完整时间成本无新证据，日期不整体刷新。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "待核验",
+    "public_site_verification": "官网读取器无法访问，未核验",
     "failures": [
-      "补交语言/生态学认可、当届工程训练与就业仍未知"
+      "未核验门户准确截点或个案资格",
+      "公开网页读取失败",
+      "补交材料/当届工程项目/就业等仍未知"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-19T11:57:17+08:00",
-    "increment_boundary": "2026-10-18T18:58:05+08:00",
+    "executed_at_beijing": "2026-10-20T09:54:02+08:00",
+    "increment_boundary": "2026-10-19T11:57:17+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
       "status_changes": 0,
       "open_urgent_reverified": 1
     },
-    "evidence_supplements": 1,
     "actions": [
-      "若考虑10月20日早轮，先确认有效且接受形式的语言成绩及能否补交；旧过期成绩不作有效证明。未齐时向best.info@polyu.edu.hk确认主轮/材料安排，不自动提交。"
+      "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。"
     ],
-    "search": "PolyU BMI+语言规则、既有企业实习；部分覆盖。",
-    "four_axes": "申请英语新增证据；训练/就业/时间成本无新证据，原核验日期保留。",
+    "search": "PolyU BMI及既有软件实习，部分覆盖。",
+    "four_axes": "仅申请截止/材料入口复核；训练/就业/完整时间成本无新证据，日期不整体刷新。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "待核验",
+    "public_site_verification": "官网读取器无法访问，未核验",
     "failures": [
-      "补交语言/生态学认可、当届工程训练与就业仍未知"
+      "未核验门户准确截点或个案资格",
+      "公开网页读取失败",
+      "补交材料/当届工程项目/就业等仍未知"
     ]
   },
   "source_coverage": [
     {
       "source_group": "BMI申请",
       "status": "partially_verified",
-      "note": "早轮与英语形式/有效期核验；真实训练和就业无新证据。"
+      "note": "早轮截止日当天，未推定具体小时或项目整体关闭。"
     },
     {
       "source_group": "软件岗位",
       "status": "partially_verified",
-      "note": "既有实习复核，无新投递建议。"
+      "note": "既有实习复核；能力与授权缺口仍在。"
     }
   ],
   "career_job_samples": [
@@ -7868,7 +7878,7 @@
       "level": "企业实习",
       "published_at": null,
       "first_seen_at": "2026-10-07",
-      "last_verified_at": "2026-10-19",
+      "last_verified_at": "2026-10-20",
       "status": "官方申请表可见；日期未公布",
       "requirements": "Python与C或Rust、Linux、工程能力证据、生产系统；SDK/录制/监控/验证软件。",
       "eligibility": "表单询问毕业年份及美国授权/赞助；未证实当前毕业生可申请或保证赞助。",
@@ -8123,6 +8133,27 @@
       "failures": [
         "公开网页不可读",
         "当届编程考核与指导名额、就业及签证费用缺证据"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-19T11:57:17+08:00",
+      "increment_boundary": "2026-10-18T18:58:05+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 1
+      },
+      "evidence_supplements": 1,
+      "actions": [
+        "若考虑10月20日早轮，先确认有效且接受形式的语言成绩及能否补交；旧过期成绩不作有效证明。未齐时向best.info@polyu.edu.hk确认主轮/材料安排，不自动提交。"
+      ],
+      "search": "PolyU BMI+语言规则、既有企业实习；部分覆盖。",
+      "four_axes": "申请英语新增证据；训练/就业/时间成本无新证据，原核验日期保留。",
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "待核验",
+      "failures": [
+        "补交语言/生态学认可、当届工程训练与就业仍未知"
       ]
     }
   ]
