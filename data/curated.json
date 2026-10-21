@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描；历史核验日期保留。",
+      "note": "本轮未扫描，历史证据日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描；历史核验日期保留。",
+      "note": "本轮未扫描，历史证据日期保留。",
       "region": "欧洲大陆",
       "status": "not_scanned"
     },
     {
-      "note": "仅PolyU BMI截止日/材料入口；具体门户截点未核验，新加坡未读。",
+      "note": "仅PolyU BMI早轮日期已过及主轮列示；门户/新加坡未核验。",
       "region": "香港与新加坡",
       "status": "partially_verified"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描；历史核验日期保留。"
+      "note": "本轮未扫描，历史证据日期保留。"
     },
     {
-      "note": "仅既有Neuralink软件实习，无新增资格证据，加拿大未读。",
+      "note": "仅既有Neuralink嵌入式岗位；加拿大未扫描。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描；历史核验日期保留。",
+      "note": "本轮未扫描，历史证据日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-20T09:54:02+08:00",
+  "generated_at": "2026-10-21T19:33:34+08:00",
   "items": [
     {
       "category": "升学",
@@ -6524,8 +6524,8 @@
     },
     {
       "category": "升学",
-      "current_status": "open_early_deadline_2026-10-20",
-      "deadline": "首轮 2026-10-20；主轮 2027-02-25",
+      "current_status": "early_round_date_passed_main_deadline_listed_2027-02-25_portal_not_verified",
+      "deadline": "早轮2026-10-20日期已过；主轮2027-02-25（门户接收状态未核验）",
       "discovery_status": "historical_backfill",
       "first_seen_at": "2026-09-10",
       "id": "polyu-msc-brain-machine-interface-2027",
@@ -6534,7 +6534,7 @@
       "organization": "The Hong Kong Polytechnic University",
       "priority": 90,
       "published_at": "",
-      "relevance": "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。",
+      "relevance": "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
       "summary": "2027 BMI：31学分；全日制通常1.5年。基础科学可申请但不等于生态学已被认可；神经信号课程存在，实际编程考核与设备/项目名额待确认。",
@@ -6546,7 +6546,7 @@
       ],
       "title": "香港理工大学 脑机接口理学硕士",
       "title_en": "MSc in Brain-Machine Interface",
-      "updated_at": "2026-10-10",
+      "updated_at": "2026-10-21",
       "verification_status": "partial_career_evidence_review",
       "career_review": {
         "verified_at": "2026-10-07",
@@ -6625,13 +6625,13 @@
             ]
           }
         },
-        "next_action": "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。",
+        "next_action": "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。",
         "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
         "job_mapping": {
           "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
           "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
         },
-        "field_update_at": "2026-10-20",
+        "field_update_at": "2026-10-21",
         "contact": {
           "email": "best.info@polyu.edu.hk",
           "verified_at": "2026-10-10",
@@ -6640,12 +6640,12 @@
         }
       },
       "round_check": {
-        "verified_at": "2026-10-20",
+        "verified_at": "2026-10-21",
         "url": "https://www.polyu.edu.hk/study/pg/tpg/2027/47007-bmf-bmp",
         "early_deadline": "2026-10-20",
+        "early_state": "公布日期已过，不等于项目整体关闭",
         "main_deadline": "2027-02-25",
-        "exact_cutoff_time": "未在所读项目页列明，不推定23:59",
-        "portal_submission_state": "未登录/未核验，未替用户申请"
+        "portal_submission_state": "未核验"
       }
     },
     {
@@ -7812,60 +7812,62 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-20T09:54:02+08:00",
-    "increment_boundary": "2026-10-19T11:57:17+08:00",
+    "executed_at_beijing": "2026-10-21T19:33:34+08:00",
+    "increment_boundary": "2026-10-20T09:54:02+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 0,
-      "open_urgent_reverified": 1
+      "status_changes": 1,
+      "open_urgent_reverified": 0
     },
+    "status_change_note": "PolyU早轮公布日期已过，主轮仍列；门户未核验，不声称整体关闭。",
     "actions": [
-      "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。"
+      "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。"
     ],
-    "search": "PolyU BMI及既有软件实习，部分覆盖。",
-    "four_axes": "仅申请截止/材料入口复核；训练/就业/完整时间成本无新证据，日期不整体刷新。",
+    "search": "PolyU BMI与既有嵌入式岗位，部分扫描。",
+    "four_axes": "仅申请轮次状态更新；训练/就业/完整时间成本无新证据。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "官网读取器无法访问，未核验",
+    "public_site_verification": "公开站读取失败，未核验",
     "failures": [
-      "未核验门户准确截点或个案资格",
-      "公开网页读取失败",
-      "补交材料/当届工程项目/就业等仍未知"
+      "门户接收状态未知",
+      "当届工程训练/生态学认可/就业数据未解决",
+      "公开站不可读"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-20T09:54:02+08:00",
-    "increment_boundary": "2026-10-19T11:57:17+08:00",
+    "executed_at_beijing": "2026-10-21T19:33:34+08:00",
+    "increment_boundary": "2026-10-20T09:54:02+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 0,
-      "open_urgent_reverified": 1
+      "status_changes": 1,
+      "open_urgent_reverified": 0
     },
+    "status_change_note": "PolyU早轮公布日期已过，主轮仍列；门户未核验，不声称整体关闭。",
     "actions": [
-      "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。"
+      "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。"
     ],
-    "search": "PolyU BMI及既有软件实习，部分覆盖。",
-    "four_axes": "仅申请截止/材料入口复核；训练/就业/完整时间成本无新证据，日期不整体刷新。",
+    "search": "PolyU BMI与既有嵌入式岗位，部分扫描。",
+    "four_axes": "仅申请轮次状态更新；训练/就业/完整时间成本无新证据。",
     "repository_write": "提交结果见聊天回执",
-    "public_site_verification": "官网读取器无法访问，未核验",
+    "public_site_verification": "公开站读取失败，未核验",
     "failures": [
-      "未核验门户准确截点或个案资格",
-      "公开网页读取失败",
-      "补交材料/当届工程项目/就业等仍未知"
+      "门户接收状态未知",
+      "当届工程训练/生态学认可/就业数据未解决",
+      "公开站不可读"
     ]
   },
   "source_coverage": [
     {
       "source_group": "BMI申请",
       "status": "partially_verified",
-      "note": "早轮截止日当天，未推定具体小时或项目整体关闭。"
+      "note": "早轮公布日期已过，主轮仍列2月25日；非整体关闭。"
     },
     {
-      "source_group": "软件岗位",
+      "source_group": "嵌入式岗位",
       "status": "partially_verified",
-      "note": "既有实习复核；能力与授权缺口仍在。"
+      "note": "仍需1年经验、C/Rust裸机；不推荐零经验立即申请。"
     }
   ],
   "career_job_samples": [
@@ -7908,7 +7910,7 @@
       "level": "企业社招，junior/senior均招，非零经验",
       "published_at": null,
       "first_seen_at": "2026-10-08",
-      "last_verified_at": "2026-10-18",
+      "last_verified_at": "2026-10-21",
       "status": "官方申请表可见；发布日期未知",
       "requirements": "相关CS/EE本科或同等经验；嵌入式经验1年以上（含实习），C或Rust、裸机、EE与信号基础；安全关键固件与测试。",
       "eligibility": "未证实当前能力/经验达到门槛；赞助询问不等于提供赞助。",
@@ -8154,6 +8156,28 @@
       "public_site_verification": "待核验",
       "failures": [
         "补交语言/生态学认可、当届工程训练与就业仍未知"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-20T09:54:02+08:00",
+      "increment_boundary": "2026-10-19T11:57:17+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 0,
+        "open_urgent_reverified": 1
+      },
+      "actions": [
+        "今天为官网早轮截止日期；若准备提交，先在官方门户核对具体截点、材料状态与语言补交规则。资格或材料未齐时不要默认可后补；主轮页面仍列2027-02-25，向best.info@polyu.edu.hk确认。"
+      ],
+      "search": "PolyU BMI及既有软件实习，部分覆盖。",
+      "four_axes": "仅申请截止/材料入口复核；训练/就业/完整时间成本无新证据，日期不整体刷新。",
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "官网读取器无法访问，未核验",
+      "failures": [
+        "未核验门户准确截点或个案资格",
+        "公开网页读取失败",
+        "补交材料/当届工程项目/就业等仍未知"
       ]
     }
   ]
