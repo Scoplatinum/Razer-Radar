@@ -8,37 +8,37 @@
   },
   "coverage": [
     {
-      "note": "本轮未扫描，历史证据日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "英国与爱尔兰",
       "status": "not_scanned"
     },
     {
-      "note": "本轮未扫描，历史证据日期保留。",
+      "note": "仅Arm Budapest既有岗位，其他地区/大学未扫描。",
       "region": "欧洲大陆",
-      "status": "not_scanned"
+      "status": "partially_verified"
     },
     {
-      "note": "仅PolyU BMI早轮日期已过及主轮列示；门户/新加坡未核验。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "香港与新加坡",
-      "status": "partially_verified"
+      "status": "not_scanned"
     },
     {
       "region": "日本与韩国",
       "status": "not_scanned",
-      "note": "本轮未扫描，历史证据日期保留。"
+      "note": "本轮未扫描，历史字段日期保留。"
     },
     {
-      "note": "仅既有Neuralink嵌入式岗位；加拿大未扫描。",
+      "note": "仅Pitt官网入口/2025 beta手册NE章节；2027政策及加拿大未核验。",
       "region": "美国与加拿大",
       "status": "partially_verified"
     },
     {
-      "note": "本轮未扫描，历史证据日期保留。",
+      "note": "本轮未扫描，历史字段日期保留。",
       "region": "澳大利亚与新西兰",
       "status": "not_scanned"
     }
   ],
-  "generated_at": "2026-10-21T19:33:34+08:00",
+  "generated_at": "2026-10-22T21:42:20+08:00",
   "items": [
     {
       "category": "升学",
@@ -7089,7 +7089,7 @@
       "organization": "University of Pittsburgh · Swanson School of Engineering",
       "priority": 80,
       "published_at": "",
-      "relevance": "向msne@pitt.edu确认2027可选课程清单、生态学所需补修，以及有指导的神经信号工程项目与实习支持。",
+      "relevance": "向msne@pitt.edu索取2027职业型NE培养与实习规则，确认哪些课程能选、指导工程项目与补修量；不要把2025 beta手册当作2027承诺或把MPE实习套用NE。",
       "section": "神经工程／脑机接口",
       "source_url": "https://www.engineering.pitt.edu/departments/bioengineering/programs/graduate/graduate-overview/",
       "summary": "职业型MS Neural Engineering：30学分、两项集中领域；2025手册将实习列为强烈建议而非必修。纠正旧记录，不把其他MPE方向的强制实习套用到NE。",
@@ -7133,7 +7133,7 @@
             "sources": [
               {
                 "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-22"
               }
             ]
           },
@@ -7148,7 +7148,7 @@
             "sources": [
               {
                 "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
-                "verified_at": "2026-10-07"
+                "verified_at": "2026-10-22"
               }
             ]
           },
@@ -7168,11 +7168,17 @@
             ]
           }
         },
-        "next_action": "向msne@pitt.edu确认2027可选课程清单、生态学所需补修，以及有指导的神经信号工程项目与实习支持。",
+        "next_action": "向msne@pitt.edu索取2027职业型NE培养与实习规则，确认哪些课程能选、指导工程项目与补修量；不要把2025 beta手册当作2027承诺或把MPE实习套用NE。",
         "fact_inference_note": "仅课程目录与规则原文已核对；职业能力可补为推断，实际选课/项目/就业不保证。",
         "job_mapping": {
           "can_help": "目录提示神经/BCI概念与部分信号、统计训练机会，实际训练强度待证实。",
           "remaining_gaps": "生产级Python、C/Rust、Linux、自动测试/构建、实时约束与可交付工程作品尚未证实由该项目补齐。"
+        },
+        "field_update_at": "2026-10-22",
+        "evidence_caveat": {
+          "verified_at": "2026-10-22",
+          "url": "https://engineering.pitt.edu/contentassets/a6140b28e10b440f8e4b51670d184dab/rba12-pitt_bioeng_gr_handbook_v09172025.pdf",
+          "note": "手册版本9.17.25自称beta，可能不完整/过时；项目主任及官网优先。今天读取不证明2027当届政策确认。"
         }
       }
     },
@@ -7812,62 +7818,58 @@
     }
   ],
   "last_run_receipt": {
-    "executed_at_beijing": "2026-10-21T19:33:34+08:00",
-    "increment_boundary": "2026-10-20T09:54:02+08:00",
+    "executed_at_beijing": "2026-10-22T21:42:20+08:00",
+    "increment_boundary": "2026-10-21T19:33:34+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 1,
+      "status_changes": 0,
       "open_urgent_reverified": 0
     },
-    "status_change_note": "PolyU早轮公布日期已过，主轮仍列；门户未核验，不声称整体关闭。",
+    "search": "Pitt官方入口/旧版手册与Arm既有岗位；部分完成。",
     "actions": [
-      "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。"
+      "向msne@pitt.edu索取2027职业型NE培养与实习规则，确认哪些课程能选、指导工程项目与补修量；不要把2025 beta手册当作2027承诺或把MPE实习套用NE。"
     ],
-    "search": "PolyU BMI与既有嵌入式岗位，部分扫描。",
-    "four_axes": "仅申请轮次状态更新；训练/就业/完整时间成本无新证据。",
+    "four_axes": "申请与完整时间成本无新证据；训练与就业仅旧手册规则复核，2027课程/实习与资格未知。",
     "repository_write": "提交结果见聊天回执",
     "public_site_verification": "公开站读取失败，未核验",
     "failures": [
-      "门户接收状态未知",
-      "当届工程训练/生态学认可/就业数据未解决",
-      "公开站不可读"
+      "公开站无法访问",
+      "旧beta手册不能证明2027政策；无当届项目名额/就业数据"
     ]
   },
   "notice": "职业转向证据监测；priority仅表示操作顺序/期限紧急性，不代表职业质量、录取概率。旧规则记录保留但未自动认可；运行时间不等于每条已重核。",
   "run_summary": {
-    "executed_at_beijing": "2026-10-21T19:33:34+08:00",
-    "increment_boundary": "2026-10-20T09:54:02+08:00",
+    "executed_at_beijing": "2026-10-22T21:42:20+08:00",
+    "increment_boundary": "2026-10-21T19:33:34+08:00",
     "counts": {
       "newly_published": 0,
       "historical_backfills": 0,
-      "status_changes": 1,
+      "status_changes": 0,
       "open_urgent_reverified": 0
     },
-    "status_change_note": "PolyU早轮公布日期已过，主轮仍列；门户未核验，不声称整体关闭。",
+    "search": "Pitt官方入口/旧版手册与Arm既有岗位；部分完成。",
     "actions": [
-      "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。"
+      "向msne@pitt.edu索取2027职业型NE培养与实习规则，确认哪些课程能选、指导工程项目与补修量；不要把2025 beta手册当作2027承诺或把MPE实习套用NE。"
     ],
-    "search": "PolyU BMI与既有嵌入式岗位，部分扫描。",
-    "four_axes": "仅申请轮次状态更新；训练/就业/完整时间成本无新证据。",
+    "four_axes": "申请与完整时间成本无新证据；训练与就业仅旧手册规则复核，2027课程/实习与资格未知。",
     "repository_write": "提交结果见聊天回执",
     "public_site_verification": "公开站读取失败，未核验",
     "failures": [
-      "门户接收状态未知",
-      "当届工程训练/生态学认可/就业数据未解决",
-      "公开站不可读"
+      "公开站无法访问",
+      "旧beta手册不能证明2027政策；无当届项目名额/就业数据"
     ]
   },
   "source_coverage": [
     {
-      "source_group": "BMI申请",
+      "source_group": "神经工程培养",
       "status": "partially_verified",
-      "note": "早轮公布日期已过，主轮仍列2月25日；非整体关闭。"
+      "note": "Pitt NE实习仍为旧手册strongly recommended；2027待书面确认。"
     },
     {
-      "source_group": "嵌入式岗位",
+      "source_group": "系统软件岗位",
       "status": "partially_verified",
-      "note": "仍需1年经验、C/Rust裸机；不推荐零经验立即申请。"
+      "note": "Arm既有岗位；未增加立即投递建议。"
     }
   ],
   "career_job_samples": [
@@ -7925,7 +7927,7 @@
       "level": "企业Graduate，邻近软件非神经岗位",
       "published_at": "2026-10-01",
       "first_seen_at": "2026-10-09",
-      "last_verified_at": "2026-10-13",
+      "last_verified_at": "2026-10-22",
       "status": "官方Apply可见，滚动审核，无列明截止",
       "requirements": "入职前学位及相关经验；C/C++、CPU架构与性能；Linux/驱动/RTOS/测试/CI为优势。",
       "eligibility": "官网提供签证赞助支持；2024毕业资格、入职时间、个案许可待确认。",
@@ -8178,6 +8180,29 @@
         "未核验门户准确截点或个案资格",
         "公开网页读取失败",
         "补交材料/当届工程项目/就业等仍未知"
+      ]
+    },
+    {
+      "executed_at_beijing": "2026-10-21T19:33:34+08:00",
+      "increment_boundary": "2026-10-20T09:54:02+08:00",
+      "counts": {
+        "newly_published": 0,
+        "historical_backfills": 0,
+        "status_changes": 1,
+        "open_urgent_reverified": 0
+      },
+      "status_change_note": "PolyU早轮公布日期已过，主轮仍列；门户未核验，不声称整体关闭。",
+      "actions": [
+        "改按主轮准备：向best.info@polyu.edu.hk确认生态学资格、有效语言与推荐要求、当届编程考核和指导名额；门户是否接收需另核验。"
+      ],
+      "search": "PolyU BMI与既有嵌入式岗位，部分扫描。",
+      "four_axes": "仅申请轮次状态更新；训练/就业/完整时间成本无新证据。",
+      "repository_write": "提交结果见聊天回执",
+      "public_site_verification": "公开站读取失败，未核验",
+      "failures": [
+        "门户接收状态未知",
+        "当届工程训练/生态学认可/就业数据未解决",
+        "公开站不可读"
       ]
     }
   ]
